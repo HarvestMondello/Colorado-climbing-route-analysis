@@ -1,0 +1,14 @@
+# Exclude Python scripts
+# *.py linguist-documentation
+
+# Exclude Jupyter Notebooks
+*.ipynb linguist-documentation
+
+# Exclude generated data
+*.csv linguist-generated
+*.json linguist-generated
+*.xlsx linguist-generated
+*.parquet linguist-generated
+
+# Promote SQL files
+*.sql linguist-language=SQL
