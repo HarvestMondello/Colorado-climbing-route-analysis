@@ -42,16 +42,17 @@ In order to make informed climbing decisions, I show how climbing data can be tr
 This project was inspired by my passion for the local climbing community in Colorado and specifically in the Boulder area where I live. 
 
 # Tools I used
-- **SQL**: For querying the data. 
-- **Python**: For data pipeline, data cleaning and visualization. 
-- **Visual Studio Code (VS Code)**: Editing GitHub-facing files such as `README.md`, `.bas` (VBA modules), and license documentation.  
-- **GitHub and Git**: Version control and sharing of analysis, visualizations, and code.  
+- **SQL**: For querying the data for the final data analysis. 
+- **Python**: For data pipeline, data cleaning, EDA and visualization. 
+- **Visual Studio Code (VS Code)**: Editing GitHub-facing files such as `README.md` and license documentation.  
+- **GitHub and Git**: Version control and sharing of analysis, visualizations, and code.
+- **Markup**: For the `README.md` file and for the live Leaderboards website.
 - **ChatGPT**: Assisted with routine tasks and project efficiency.
 
 # How I Built It
-I began by aquiring via webscraper Python script and then cleaning the datasource.
-I ran queries during the analysis in PostgreSQL. 
-Finally, I built interactive **Route Metrics** and real time **Leaderboards** on top of this clean dataset to uncover trends in the climibing community.
+I began by aquiring via webscraper Python script and then cleaning the datasource. Then in did an Exploratory Data Analysis (EDA) in Python.
+I ran queries during final data analysis in PostgreSQL and visualized in Python.
+Finally, I built interactive **Route Metrics** and real time **Leaderboards** on top of this clean dataset to uncover trends in the climibing community. The leaderboards feed updates periodically.
 
 # The Analysis
 <<<>>>
