@@ -1,9 +1,9 @@
-# Route Leaderboards
-_Generated 2025-09-08 13:13:53 MDT_
+# Colorado Climbing Route Leaderboards
+_Generated 2025-09-08 14:42:24 MDT_
 
 **Selected routes:** 10
 
-**Routes (by Classic Rank):** 1) The Naked Edge, 2) The Scenic Cruise, 3) Outer Space (Eldorado Canyon), 4) Center Route (Cathedral Spire), 5) Country Club Crack, 6) Casual Route (Long's Peak), 7) Rosy Crucifixion, 8) East Face (Standard) (Third Flatiron), 9) Rewritten, 10) The Yellow Spur
+**Routes (by Classic Rank):** 1) The Naked Edge (Eldorado Canyon), 2) The Scenic Cruise (Black Canyon), 3) Outer Space (Eldorado Canyon), 4) Center Route (Cathedral Spire), 5) Country Club Crack (Boulder Canyon), 6) Casual Route (Long's Peak), 7) Rosy Crucifixion (Eldorado Canyon), 8) East Face (Standard) (Third Flatiron), 9) Rewritten (Eldorado Canyon), 10) The Yellow Spur (Eldorado Canyon)
 
 _Per-route sections follow in this Classic Rank order._
 
