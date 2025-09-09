@@ -13,7 +13,6 @@ _Per-route sections follow in this Classic Rank order._
 
 ## The Naked Edge
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower Two
-**Route ID:** `105748786`
 
 [Open on Mountain Project](https://www.mountainproject.com/route/105748786/the-naked-edge)
 
@@ -44,7 +43,6 @@ _Per-route sections follow in this Classic Rank order._
 
 ## The Scenic Cruise
 **Area:** All Locations > Colorado > Gunnison > Black Canyon of… > N Rim Routes > N Chasm View Wall
-**Route ID:** `105756778`
 
 [Open on Mountain Project](https://www.mountainproject.com/route/105756778/the-scenic-cruise)
 
@@ -75,7 +73,6 @@ _Per-route sections follow in this Classic Rank order._
 
 ## Outer Space
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Bastille > Bastille - N Face
-**Route ID:** `105748612`
 
 [Open on Mountain Project](https://www.mountainproject.com/route/105748612/outer-space)
 
@@ -106,7 +103,6 @@ _Per-route sections follow in this Classic Rank order._
 
 ## Center Route
 **Area:** All Locations > Colorado > S Platte > Cathedral Spire… > Cynical Pinnacle
-**Route ID:** `105748816`
 
 [Open on Mountain Project](https://www.mountainproject.com/route/105748816/center-route)
 
@@ -137,7 +133,6 @@ _Per-route sections follow in this Classic Rank order._
 
 ## Country Club Crack
 **Area:** All Locations > Colorado > Boulder > Boulder Canyon > Castle Rock
-**Route ID:** `105748711`
 
 [Open on Mountain Project](https://www.mountainproject.com/route/105748711/country-club-crack)
 
@@ -168,7 +163,6 @@ _Per-route sections follow in this Classic Rank order._
 
 ## Casual Route
 **Area:** All Locations > Colorado > Alpine Rock > RMNP - Rock > Long's Peak > Diamond
-**Route ID:** `105748496`
 
 [Open on Mountain Project](https://www.mountainproject.com/route/105748496/casual-route)
 
@@ -199,7 +193,6 @@ _Per-route sections follow in this Classic Rank order._
 
 ## Rosy Crucifixion
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower Two
-**Route ID:** `105748777`
 
 [Open on Mountain Project](https://www.mountainproject.com/route/105748777/rosy-crucifixion)
 
@@ -230,7 +223,6 @@ _Per-route sections follow in this Classic Rank order._
 
 ## East Face (Standard)
 **Area:** All Locations > Colorado > Boulder > Flatirons > North > Third Flatiron
-**Route ID:** `105748047`
 
 [Open on Mountain Project](https://www.mountainproject.com/route/105748047/east-face-standard)
 
@@ -261,7 +253,6 @@ _Per-route sections follow in this Classic Rank order._
 
 ## Rewritten
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Lumpe to…
-**Route ID:** `105750106`
 
 [Open on Mountain Project](https://www.mountainproject.com/route/105750106/rewritten)
 
@@ -292,7 +283,6 @@ _Per-route sections follow in this Classic Rank order._
 
 ## The Yellow Spur
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower One
-**Route ID:** `105748657`
 
 [Open on Mountain Project](https://www.mountainproject.com/route/105748657/the-yellow-spur)
 
@@ -459,3 +449,4 @@ _Per-route sections follow in this Classic Rank order._
 |     64 | Andrew Reed                  |    0 |             1 |
 
 </details>
+
