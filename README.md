@@ -2,6 +2,9 @@
 
 Colorado climbing data collected via a Python pipeline, analyzed in PostgreSQL, and visualized in Python.
 
+<img src="assets/naked-edge.jpg" alt="The Naked Edge on the Redgarde Wall: Tower Two in Eldorado Canyon" width="800"/>
+
+
 ## Synopsis
 
 **Problem**: Route quality, usage, and seasonality in Colorado are discussed anecdotally; there’s no unified dataset to compare cultural impact, historical significance, and modern traffic across regions.  
