@@ -1,5 +1,5 @@
-# Colorado Climbing Route Leaderboards - Top 50 Routes
-_Generated 2025-09-10 12:59:02 MDT_
+# Colorado Climbing Route Leaderboards - Top 10 Routes
+_Generated 2025-09-10 13:21:57 MDT_
 
 **[Top 100 Users by Score](#top-100-users-by-score)**
 
