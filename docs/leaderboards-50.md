@@ -1,12 +1,61 @@
 # Colorado Climbing Route Leaderboards - Top 50 Routes
-_Generated 2025-09-09 16:17:46 MDT_
+_Generated 2025-09-10 12:27:04 MDT_
 
 **[Top 100 Users by Score](#top-100-users-by-score)**
 
 **Selected routes:** 50
 
-**Routes (by Classic Rank):** 1) [The Naked Edge](#the-naked-edge-eldorado-canyon) (Eldorado Canyon), 2) [Outer Space](#outer-space-eldorado-canyon) (Eldorado Canyon), 3) [The Scenic Cruise](#the-scenic-cruise-black-canyon) (Black Canyon), 4) [Wunsch's Dihedral](#wunschs-dihedral-cathedral-spire) (Cathedral Spire), 5) [Center Route](#center-route-cathedral-spire) (Cathedral Spire), 6) [Country Club Crack](#country-club-crack-boulder-canyon) (Boulder Canyon), 7) [Casual Route](#casual-route-longs-peak) (Long's Peak), 8) [East Face (Standard)](#east-face-standard-third-flatiron) (Third Flatiron), 9) [Rosy Crucifixion](#rosy-crucifixion-eldorado-canyon) (Eldorado Canyon), 10) [Rewritten](#rewritten-eldorado-canyon) (Eldorado Canyon), 11) [Center Route](#center-route-eldorado-canyon) (Eldorado Canyon), 12) [The Yellow Spur](#the-yellow-spur-eldorado-canyon) (Eldorado Canyon), 13) [Vertigo](#vertigo-eldorado-canyon) (Eldorado Canyon), 14) [D7](#d7-longs-peak) (Long's Peak), 15) [Direct Route](#direct-route-first-flatiron) (First Flatiron), 16) [Cheap Date](#cheap-date-lumpy-ridge) (Lumpy Ridge), 17) [Pervertical Sanctuary](#pervertical-sanctuary-longs-peak) (Long's Peak), 18) [Super Slab](#super-slab-eldorado-canyon) (Eldorado Canyon), 19) [Over the Hill](#over-the-hill-eldorado-canyon) (Eldorado Canyon), 20) [South Face](#south-face-petit-grepon) (Petit Grepon), 21) [Darkness 'til Dawn](#darkness-til-dawn-eldorado-canyon) (Eldorado Canyon), 22) [Vanishing Point](#vanishing-point-turkey-rocks) (Turkey Rocks), 23) [Gobbler's Grunt](#gobblers-grunt-turkey-rocks) (Turkey Rocks), 24) [Blind Faith](#blind-faith-eldorado-canyon) (Eldorado Canyon), 25) [The Barb](#the-barb-spearhead) (Spearhead), 26) [Handcracker Direct](#handcracker-direct-eldorado-canyon) (Eldorado Canyon), 27) [Ruper](#ruper-eldorado-canyon) (Eldorado Canyon), 28) [Gambit](#gambit-eldorado-canyon) (Eldorado Canyon), 29) [The Flying Buttress](#the-flying-buttress-mt-meeker) (Mt Meeker), 30) [Angel's Way](#angels-way-skunk-canyon) (Skunk Canyon), 31) [Hair City](#hair-city-eldorado-canyon) (Eldorado Canyon), 32) [Southwest Corner](#southwest-corner-saber) (Saber), 33) [Journey Home](#journey-home-black-canyon) (Black Canyon), 34) [Pear Buttress](#pear-buttress-lumpy-ridge) (Lumpy Ridge), 35) [The Bastille Crack](#the-bastille-crack-eldorado-canyon) (Eldorado Canyon), 36) [Grandmother's Challenge](#grandmothers-challenge-eldorado-canyon) (Eldorado Canyon), 37) [Culp-Bossier](#culp-bossier-hallett-peak) (Hallett Peak), 38) [Cosmosis](#cosmosis-boulder-canyon) (Boulder Canyon), 39) [Loose Ends](#loose-ends-lumpy-ridge) (Lumpy Ridge), 40) [Mainliner](#mainliner-lumpy-ridge) (Lumpy Ridge), 41) [Kor's Flake](#kors-flake-lumpy-ridge) (Lumpy Ridge), 42) [J-Crack](#j-crack-lumpy-ridge) (Lumpy Ridge), 43) [Perversion](#perversion-eldorado-mountain) (Eldorado Mountain), 44) [Freeway](#freeway-second-flatiron) (Second Flatiron), 45) [Pony Express](#pony-express-eldorado-canyon) (Eldorado Canyon), 46) [The Green Spur](#the-green-spur-eldorado-canyon) (Eldorado Canyon), 47) [Escape Artist](#escape-artist-black-canyon) (Black Canyon), 48) [Long John Wall](#long-john-wall-eldorado-canyon) (Eldorado Canyon), 49) [Swanson Arete](#swanson-arete-eldorado-canyon) (Eldorado Canyon), 50) [Stairway to Heaven](#stairway-to-heaven-skunk-canyon) (Skunk Canyon)
-
+**Routes (by Classic Rank):**
+- 1) [The Naked Edge](#the-naked-edge-eldorado-canyon) (Eldorado Canyon)
+- 2) [Outer Space](#outer-space-eldorado-canyon) (Eldorado Canyon)
+- 3) [The Scenic Cruise](#the-scenic-cruise-black-canyon) (Black Canyon)
+- 4) [Wunsch's Dihedral](#wunschs-dihedral-cathedral-spire) (Cathedral Spire)
+- 5) [Center Route](#center-route-cathedral-spire) (Cathedral Spire)
+- 6) [Country Club Crack](#country-club-crack-boulder-canyon) (Boulder Canyon)
+- 7) [Casual Route](#casual-route-longs-peak) (Long's Peak)
+- 8) [East Face (Standard)](#east-face-standard-third-flatiron) (Third Flatiron)
+- 9) [Rosy Crucifixion](#rosy-crucifixion-eldorado-canyon) (Eldorado Canyon)
+- 10) [Rewritten](#rewritten-eldorado-canyon) (Eldorado Canyon)
+- 11) [Center Route](#center-route-eldorado-canyon) (Eldorado Canyon)
+- 12) [The Yellow Spur](#the-yellow-spur-eldorado-canyon) (Eldorado Canyon)
+- 13) [Vertigo](#vertigo-eldorado-canyon) (Eldorado Canyon)
+- 14) [D7](#d7-longs-peak) (Long's Peak)
+- 15) [Direct Route](#direct-route-first-flatiron) (First Flatiron)
+- 16) [Cheap Date](#cheap-date-lumpy-ridge) (Lumpy Ridge)
+- 17) [Pervertical Sanctuary](#pervertical-sanctuary-longs-peak) (Long's Peak)
+- 18) [Super Slab](#super-slab-eldorado-canyon) (Eldorado Canyon)
+- 19) [Over the Hill](#over-the-hill-eldorado-canyon) (Eldorado Canyon)
+- 20) [South Face](#south-face-petit-grepon) (Petit Grepon)
+- 21) [Darkness 'til Dawn](#darkness-til-dawn-eldorado-canyon) (Eldorado Canyon)
+- 22) [Vanishing Point](#vanishing-point-turkey-rocks) (Turkey Rocks)
+- 23) [Gobbler's Grunt](#gobblers-grunt-turkey-rocks) (Turkey Rocks)
+- 24) [Blind Faith](#blind-faith-eldorado-canyon) (Eldorado Canyon)
+- 25) [The Barb](#the-barb-spearhead) (Spearhead)
+- 26) [Handcracker Direct](#handcracker-direct-eldorado-canyon) (Eldorado Canyon)
+- 27) [Ruper](#ruper-eldorado-canyon) (Eldorado Canyon)
+- 28) [Gambit](#gambit-eldorado-canyon) (Eldorado Canyon)
+- 29) [The Flying Buttress](#the-flying-buttress-mt-meeker) (Mt Meeker)
+- 30) [Angel's Way](#angels-way-skunk-canyon) (Skunk Canyon)
+- 31) [Hair City](#hair-city-eldorado-canyon) (Eldorado Canyon)
+- 32) [Southwest Corner](#southwest-corner-saber) (Saber)
+- 33) [Journey Home](#journey-home-black-canyon) (Black Canyon)
+- 34) [Pear Buttress](#pear-buttress-lumpy-ridge) (Lumpy Ridge)
+- 35) [The Bastille Crack](#the-bastille-crack-eldorado-canyon) (Eldorado Canyon)
+- 36) [Grandmother's Challenge](#grandmothers-challenge-eldorado-canyon) (Eldorado Canyon)
+- 37) [Culp-Bossier](#culp-bossier-hallett-peak) (Hallett Peak)
+- 38) [Cosmosis](#cosmosis-boulder-canyon) (Boulder Canyon)
+- 39) [Loose Ends](#loose-ends-lumpy-ridge) (Lumpy Ridge)
+- 40) [Mainliner](#mainliner-lumpy-ridge) (Lumpy Ridge)
+- 41) [Kor's Flake](#kors-flake-lumpy-ridge) (Lumpy Ridge)
+- 42) [J-Crack](#j-crack-lumpy-ridge) (Lumpy Ridge)
+- 43) [Perversion](#perversion-eldorado-mountain) (Eldorado Mountain)
+- 44) [Freeway](#freeway-second-flatiron) (Second Flatiron)
+- 45) [Pony Express](#pony-express-eldorado-canyon) (Eldorado Canyon)
+- 46) [The Green Spur](#the-green-spur-eldorado-canyon) (Eldorado Canyon)
+- 47) [Escape Artist](#escape-artist-black-canyon) (Black Canyon)
+- 48) [Long John Wall](#long-john-wall-eldorado-canyon) (Eldorado Canyon)
+- 49) [Swanson Arete](#swanson-arete-eldorado-canyon) (Eldorado Canyon)
+- 50) [Stairway to Heaven](#stairway-to-heaven-skunk-canyon) (Skunk Canyon)
 _Per-route sections follow in this Classic Rank order._
 
 **Grades Summary:**
