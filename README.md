@@ -27,7 +27,6 @@ This project turns fragmented Colorado climbing data into actionable insight. I 
 See SQL and scripts here:  
 - **SQL**: [`/sql`](sql/)  
 - **Scripts (ETL, scraping, EDA)**: [`/scripts`](scripts/)  
-- **Notebooks**: [`/notebooks`](notebooks/)
 
 ## Table of Contents
 
