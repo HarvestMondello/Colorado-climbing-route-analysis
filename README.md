@@ -115,15 +115,13 @@ Colorado hosts some of North America’s most storied stone—from Eldorado Cany
 
 Colorado-climbing-route-analysis/
 ├─ assets/ # Static images, figures, or screenshots for README/docs
-├─ data/         # Raw & processed CSVs
-├─ sql/          # PostgreSQL schema + queries used in analysis
-├─ scripts/      # Scraping, ETL, EDA, modeling
-├─ python_visuals/ # Python notebooks or scripts for data visualization
-├─ outputs/      # Final datasets & visualizations
-├─ docs/         # Leaderboards (published)
-├─  README.md    # Project Summary
-└─LICENSE.md     # Licensing information
-
+├─ data/ # Raw & processed CSVs
+├─ docs/ # Leaderboards (published)
+├─ scripts/ # Scraping, ETL, EDA, modeling
+├─ sql/ # PostgreSQL schema + queries used in analysis
+├─ outputs/ # Final datasets & visualizations
+├─ README.md # Project summary
+└─ LICENSE.md # Licensing information
 
 ## Conclusion
 
