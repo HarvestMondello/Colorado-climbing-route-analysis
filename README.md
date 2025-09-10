@@ -101,12 +101,10 @@ Colorado hosts some of North America’s most storied stone—from Eldorado Cany
 - **Top 10 (refreshed weekly)**: [`/docs/leaderboards.md`](docs/leaderboards.md)  
 - **Top 50 (refreshed monthly)**: [`/docs/leaderboards-50.md`](docs/leaderboards-50.md)  
 
-> *Note*: Leaderboards list routes by **Classic Rank** and include area hints for similarly named routes.  
-
 ## Automation
 
 - **Weekly refresh**: Top 10 leaderboards rebuild Monday morning.  
-- **Monthly refresh**: Top 50 leaderboards rebuild on the 1st.  
+- **Monthly refresh**: Top 50 leaderboards rebuild on the 1st of each month.  
 - **Resilience**: Failed routes are logged and retried automatically in the next cycle.  
 - **Artifacts**: Refreshed CSVs in `/data` and `/outputs`, with updated docs in `/docs`.  
 
@@ -124,7 +122,7 @@ Colorado-climbing-route-analysis/
 
 ## Conclusion
 
-**The problem**: Climbing decisions—and planning by climbers and land managers—benefit from objective measures of quality, seasonality, engagement, and trend.  
+**The problem**: Climbing decisions—and planning by climbers and land managers—benefit from objective measures of quality, seasonality, engagement and trend.  
 
 **How it was solved**: A reproducible pipeline + SQL/Python analysis to rank cultural impact, profile seasonality, surface hidden gems, and forecast demand.  
 
