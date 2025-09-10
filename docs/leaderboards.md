@@ -1,5 +1,5 @@
 # Colorado Climbing Route Leaderboards - Top 50 Routes
-_Generated 2025-09-10 12:55:56 MDT_
+_Generated 2025-09-10 12:59:02 MDT_
 
 **[Top 100 Users by Score](#top-100-users-by-score)**
 
@@ -8,16 +8,16 @@ _Generated 2025-09-10 12:55:56 MDT_
 **Routes (by Classic Rank):**
 |   Classic Rank | Route                                                                       |
 |---------------:|:----------------------------------------------------------------------------|
-|              1 | [The Naked Edge](#the-naked-edge-rank-1)                                    |
+|              1 | [The Naked Edge (Eldorado Canyon)](#the-naked-edge-eldorado-canyon)         |
 |              2 | [Outer Space (Eldorado Canyon)](#outer-space-eldorado-canyon)               |
-|              3 | [The Scenic Cruise](#the-scenic-cruise-rank-3)                              |
+|              3 | [The Scenic Cruise (Black Canyon)](#the-scenic-cruise-black-canyon)         |
 |              4 | [Center Route (Cathedral Spire)](#center-route-cathedral-spire)             |
-|              5 | [Country Club Crack](#country-club-crack-rank-5)                            |
+|              5 | [Country Club Crack (Boulder Canyon)](#country-club-crack-boulder-canyon)   |
 |              6 | [Casual Route (Long's Peak)](#casual-route-longs-peak)                      |
 |              7 | [East Face (Standard) (Third Flatiron)](#east-face-standard-third-flatiron) |
-|              8 | [Rosy Crucifixion](#rosy-crucifixion-rank-8)                                |
-|              9 | [Rewritten](#rewritten-rank-9)                                              |
-|             10 | [The Yellow Spur](#the-yellow-spur-rank-10)                                 |
+|              8 | [Rosy Crucifixion (Eldorado Canyon)](#rosy-crucifixion-eldorado-canyon)     |
+|              9 | [Rewritten (Eldorado Canyon)](#rewritten-eldorado-canyon)                   |
+|             10 | [The Yellow Spur (Eldorado Canyon)](#the-yellow-spur-eldorado-canyon)       |
 
 
 **Grades Summary:**
@@ -38,11 +38,11 @@ _Generated 2025-09-10 12:55:56 MDT_
 | 5.0*     |        0 |
 | 4th*     |        0 |
 
-**Top Areas:** 1 routes Eldorado Canyon, 1 routes Cathedral Spire, 1 routes Long's Peak, 1 routes Third Flatiron
+**Top Areas:** 5 routes Eldorado Canyon, 1 routes Black Canyon, 1 routes Cathedral Spire, 1 routes Boulder Canyon, 1 routes Long's Peak
 
 > Source: seasonality_analysis.csv with embedded leaderboard columns.
 
-## The Naked Edge
+## The Naked Edge (Eldorado Canyon)
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower Two
 [Open on Mountain Project](https://www.mountainproject.com/route/105748786/the-naked-edge)
 
@@ -100,7 +100,7 @@ _Generated 2025-09-10 12:55:56 MDT_
 
 ---
 
-## The Scenic Cruise
+## The Scenic Cruise (Black Canyon)
 **Area:** All Locations > Colorado > Gunnison > Black Canyon of… > N Rim Routes > N Chasm View Wall
 [Open on Mountain Project](https://www.mountainproject.com/route/105756778/the-scenic-cruise)
 
@@ -158,7 +158,7 @@ _Generated 2025-09-10 12:55:56 MDT_
 
 ---
 
-## Country Club Crack
+## Country Club Crack (Boulder Canyon)
 **Area:** All Locations > Colorado > Boulder > Boulder Canyon > Castle Rock
 [Open on Mountain Project](https://www.mountainproject.com/route/105748711/country-club-crack)
 
@@ -245,7 +245,7 @@ _Generated 2025-09-10 12:55:56 MDT_
 
 ---
 
-## Rosy Crucifixion
+## Rosy Crucifixion (Eldorado Canyon)
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower Two
 [Open on Mountain Project](https://www.mountainproject.com/route/105748777/rosy-crucifixion)
 
@@ -274,7 +274,7 @@ _Generated 2025-09-10 12:55:56 MDT_
 
 ---
 
-## Rewritten
+## Rewritten (Eldorado Canyon)
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Lumpe to…
 [Open on Mountain Project](https://www.mountainproject.com/route/105750106/rewritten)
 
@@ -303,7 +303,7 @@ _Generated 2025-09-10 12:55:56 MDT_
 
 ---
 
-## The Yellow Spur
+## The Yellow Spur (Eldorado Canyon)
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower One
 [Open on Mountain Project](https://www.mountainproject.com/route/105748657/the-yellow-spur)
 
