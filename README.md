@@ -2,7 +2,7 @@
 
 Colorado climbing data collected via a Python pipeline, analyzed in PostgreSQL, and visualized in Python.
 
-<img src="assets/naked-edge.jpg" alt="The Naked Edge on the Redgarde Wall: Tower Two in Eldorado Canyon" width="800"/>
+<img src="assets/naked-edge.png" alt="The Naked Edge on the Redgarde Wall: Tower Two in Eldorado Canyon" width="800"/>
 
 
 ## Synopsis
