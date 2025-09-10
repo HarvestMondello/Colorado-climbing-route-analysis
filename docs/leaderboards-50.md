@@ -1,5 +1,5 @@
 # Colorado Climbing Route Leaderboards - Top 50 Routes
-_Generated 2025-09-10 12:46:54 MDT_
+_Generated 2025-09-10 12:53:04 MDT_
 
 **[Top 100 Users by Score](#top-100-users-by-score)**
 
@@ -58,7 +58,7 @@ _Generated 2025-09-10 12:46:54 MDT_
 |             48 | [Long John Wall (Eldorado Canyon)](#long-john-wall-eldorado-canyon)                  |
 |             49 | [Swanson Arete (Eldorado Canyon)](#swanson-arete-eldorado-canyon)                    |
 |             50 | [Stairway to Heaven (Skunk Canyon)](#stairway-to-heaven-skunk-canyon)                |
-_Per-route sections follow in this Classic Rank order._
+
 
 **Grades Summary:**
 | Bucket   |   Routes |
