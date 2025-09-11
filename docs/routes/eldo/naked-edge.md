@@ -1,6 +1,6 @@
 # Route Profile: *The Naked Edge*  
 
-<img src="assets/naked-edge.png" alt="The Naked Edge on the Redgarden Wall: Tower Two in Eldorado Canyon" width="1200"/>
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/naked-edge.png" alt="The Naked Edge on the Redgarde Wall: Tower Two in Eldorado Canyon" width="1200"/>
 
 **Area:** Eldorado Canyon, Colorado  
 **Formation:** Redgarden: Tower Two  
@@ -55,3 +55,4 @@ Highest-use months: **October, September, June**
 - [Leaderboards.md with up-to-date stats](../leaderboards.md#the-naked-edge)  
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748786/the-naked-edge)  
+
