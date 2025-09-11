@@ -2,7 +2,7 @@
 
 Colorado climbing data collected via a Python pipeline, analyzed in PostgreSQL, and visualized in Python.
 
-<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/naked-edge.png" alt="The Naked Edge on the Redgarde Wall: Tower Two in Eldorado Canyon" width="1200"/>
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/eldorado-canyon.png" alt="Eldorado Canyon State Park" width="1200"/>
 
 
 ## Synopsis
