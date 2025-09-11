@@ -1,23 +1,23 @@
 # Colorado Climbing Route Leaderboards - Top 10 Routes
-_Generated 2025-09-11 15:49:38 MDT_
+_Generated 2025-09-11 16:46:35 MDT_
 
 **[Top 100 Users by Score](#top-100-users-by-score)**
 
 **Selected routes:** 10
 
 **Routes (by Classic Rank):**
-|   Classic Rank | Route                                                                   |
-|---------------:|:------------------------------------------------------------------------|
-|              1 | [The Naked Edge (Eldorado Canyon)](./routes/eldo/naked-edge.md)         |
-|              2 | [Outer Space (Eldorado Canyon)](./routes/eldo/outer-space.md)           |
-|              3 | [The Scenic Cruise (Black Canyon)](./routes/scenic-cruise.md)           |
-|              4 | [Center Route (Cathedral Spire)](./routes/center-route-cs.md)           |
-|              5 | [Country Club Crack (Boulder Canyon)](./routes/country-club-crack.md)   |
-|              6 | [Casual Route (Long's Peak)](./routes/casual-route.md)                  |
-|              7 | [East Face (Standard) (Third Flatiron)](./routes/East-face-3fi.md)      |
-|              8 | [Rosy Crucifixion (Eldorado Canyon)](./routes/eldo/rosy-crucifixion.md) |
-|              9 | [Rewritten (Eldorado Canyon)](./routes/eldo/rewritten.md)               |
-|             10 | [The Yellow Spur (Eldorado Canyon)](./routes/eldo/yellow-spur.md)       |
+|   Classic Rank | Route                                                                       |
+|---------------:|:----------------------------------------------------------------------------|
+|              1 | [The Naked Edge (Eldorado Canyon)](#the-naked-edge-eldorado-canyon)         |
+|              2 | [Outer Space (Eldorado Canyon)](#outer-space-eldorado-canyon)               |
+|              3 | [The Scenic Cruise (Black Canyon)](#the-scenic-cruise-black-canyon)         |
+|              4 | [Center Route (Cathedral Spire)](#center-route-cathedral-spire)             |
+|              5 | [Country Club Crack (Boulder Canyon)](#country-club-crack-boulder-canyon)   |
+|              6 | [Casual Route (Long's Peak)](#casual-route-longs-peak)                      |
+|              7 | [East Face (Standard) (Third Flatiron)](#east-face-standard-third-flatiron) |
+|              8 | [Rosy Crucifixion (Eldorado Canyon)](#rosy-crucifixion-eldorado-canyon)     |
+|              9 | [Rewritten (Eldorado Canyon)](#rewritten-eldorado-canyon)                   |
+|             10 | [The Yellow Spur (Eldorado Canyon)](#the-yellow-spur-eldorado-canyon)       |
 
 
 **Grades Summary:**
