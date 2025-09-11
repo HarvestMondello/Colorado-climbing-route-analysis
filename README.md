@@ -113,6 +113,7 @@ Colorado hosts some of North America’s most storied stone—from Eldorado Cany
 
 ## Repository Structure
 
+```
 Colorado-climbing-route-analysis/
 ├─ assets/ # Static images, figures, or screenshots for README/docs
 ├─ data/ # Raw & processed CSVs
@@ -122,6 +123,7 @@ Colorado-climbing-route-analysis/
 ├─ outputs/ # Final datasets & visualizations
 ├─ README.md # Project summary
 └─ LICENSE.md # Licensing information
+```
 
 ## Conclusion
 
