@@ -46,7 +46,7 @@ See SQL and scripts here:
 
 ## Background
 
-Colorado hosts some of North America’s most storied stone—from Eldorado Canyon’s sandstone to the Black Canyon’s granite and RMNP’s alpine big walls. I set out to quantify:
+Colorado hosts some of North America’s most storied stone, from Eldorado Canyon’s sandstone to the Black Canyon’s granite and RMNP’s alpine big walls. I set out to quantify:
 
 1. Which routes carry the greatest cultural impact and legacy?  
 2. How do usage patterns shift by season and decade?  
@@ -54,7 +54,7 @@ Colorado hosts some of North America’s most storied stone—from Eldorado Cany
 4. What do FA/FFA timelines reveal about boldness and progression?  
 5. Where is demand likely to grow through 2029?  
 
-**Data source**: a *publicly available climbing database (Mountain Project)* scraped for route metadata and tick histories.
+**Data source**: a publicly available climbing database scraped for route metadata and tick histories.
 
 ## Tools I Used
 
@@ -101,12 +101,12 @@ Colorado hosts some of North America’s most storied stone—from Eldorado Cany
 
 ### Live Leaderboards (Docs)
 
-- **Top 10 (refreshed weekly)**: [`/docs/leaderboards.md`](docs/leaderboards.md)  
-- **Top 50 (refreshed monthly)**: [`/docs/leaderboards-50.md`](docs/leaderboards-50.md)  
+- **Top 10 (refreshed monthly)**: [`/docs/leaderboards.md`](docs/leaderboards.md)  
+- **Top 50 (refreshed quarterly)**: [`/docs/leaderboards-50.md`](docs/leaderboards-50.md)  
 
 ## Automation
 
-- **Monthly refresh**: Top 10 leaderboards rebuild the first morning of each month.  
+- **Monthly refresh**: Top 10 leaderboards rebuild the first day of each month.  
 - **Quarterly refresh**: Top 50 leaderboards rebuild on the 1st day of each quarter.  
 - **Resilience**: Failed routes are logged and retried automatically in the next cycle.  
 - **Artifacts**: Refreshed CSVs in `/data` and `/outputs`, with updated docs in `/docs`.  
