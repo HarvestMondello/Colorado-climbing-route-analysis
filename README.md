@@ -106,8 +106,8 @@ Colorado hosts some of North America’s most storied stone—from Eldorado Cany
 
 ## Automation
 
-- **Weekly refresh**: Top 10 leaderboards rebuild Monday morning.  
-- **Monthly refresh**: Top 50 leaderboards rebuild on the 1st of each month.  
+- **Monthly refresh**: Top 10 leaderboards rebuild the first morning of each month.  
+- **Quarterly refresh**: Top 50 leaderboards rebuild on the 1st day of each quarter.  
 - **Resilience**: Failed routes are logged and retried automatically in the next cycle.  
 - **Artifacts**: Refreshed CSVs in `/data` and `/outputs`, with updated docs in `/docs`.  
 
