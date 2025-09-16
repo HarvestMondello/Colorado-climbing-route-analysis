@@ -2,13 +2,13 @@
 
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/yellow-spur.png" alt="The Yellow Spur on the Redgarde Wall: Tower One in Eldorado Canyon" width="1200"/>
 
-**Area:** Eldorado Canyon, Colorado  
-**Formation:** Redgarden: Tower One 
-**Grade:** 5.9+ to 5.10B (6 pitches)  
-**Length:** 580' 
-**Style:** Trad, multipitch  
-**First Ascent:** Layton Kor, Dave Dornan, 1959
-**First Free Ascent:** Royal Robbins, Pat Ament, 1964
+- **Area:** Eldorado Canyon, Colorado  
+- **Formation:** Redgarden: Tower One 
+- **Grade:** 5.9+ to 5.10B (6 pitches)  
+- **Length:** 580' 
+- **Style:** Trad, multipitch  
+- **First Ascent:** Layton Kor, Dave Dornan, 1959 aid via original Direct Start and Direct Finish (both are now 5.10B free)
+- **First Free Ascent:** Royal Robbins, Pat Ament, 1964 via 5.9+ free variation
 
 ---
 
