@@ -34,7 +34,7 @@
 ### Fastest Known Time (FKT) 
 - These FKT's are up to date as of as of **9/15/2025**
 - The rules: Bridge-to-Bridge (the center of the South Boulder Peak footbridge) , any style of roped climbing. All konwn FKT's on this route involve soloing the approach (YDS 5.8), simul climb the route using Micro Traxion or comparable devices to protect the second and take the East Slab (4th class) descent. 
-- **Stefan Griebel** & **Joe Kennedy** have the current FKT at "22:44 B2B" set October 26th, 2022.
+- **Stefan Griebel** & **Joe Kennedy** have the current FKT at "22 minutes 44 seconds B2B" set October 26th, 2022.
 - [Video of Naked Edge - FKT 22:44 B2B](https://vimeo.com/764407847)  
 - [GPS Verification of Naked Edge FKT - 22:44 B2B ](https://www.strava.com/activities/8004442835#3019063963637264876)  
 - **History of FKT's on the Naked Edge:** All Bridge-to-Bridge (B2B) unless otherwise noted as Car to Car (C2C):
@@ -62,17 +62,21 @@
 ---
 
 ## Analysis Highlights (from dataset)  
-- **Lifetime ticks:** ~2,800+ as of 9/9/2025  
-- **Unique climbers:** ~720+ as of 9/9/2025  
-- **Engagement:** Top **5%** of all Colorado trad routes for popularity and quality; ranked #1 in Colorado trad for “classic score.”  
-- **Trend:** Still growing, with a **majority of public ticks logged in the last five years**.  The **9th** most climbed route in the Canyon and the only 5.11 in the top 10 most climbed routes. 
-- **Consensus:** Stable at 5.11b, with strong agreement among climbers.  
+- **Lifetime ticks:** 2,800+ as of 9/9/2025  
+- **Unique climbers:** 720+ as of 9/9/2025  
+- **Repeat Usage:** Climbers climb the route an average of 3.89 times showing **high** repeat traffic. 
+- **Engagement:** Top **5%** of all Colorado trad routes for **popularity** and **quality**; ranked **#1** in Colorado trad for **classic score**.  
+- **Trend:** Still growing, with a **58% of public ticks logged in the last five years**. The **9th** most climbed route in the Canyon and the only 5.11 in the top 10 most climbed routes. 
+- **Consensus:** Stable at 5.11b, with strong agreement among climbers and considered sandbagged aka hard for the grade.  
 - **Classic Rank:** Rated the #1 route by **classic score** in Colorado.  
-- **Leaderboards:** Most public ticks logged by **Stefan Griebel** with over **385** ticks as of 9/9/2025.  
+- **Leaderboards:** As of **9/9/2025**, **Stefan Griebel** leads with over **385** public ticks logged. *Some of his main climbing partners, such as Kishen Mangat (120+ climbs), do not record their ticks in the public database.*
+
 
 ### Seasonality 
 - Breakdown of all ticks by season, showing traffic patterns.
-- Highest-use months in order: **October, September, June**  
+- Seasonality profile: Year round route with peak fall season and low traffic in the off winter season. 
+- Highest-use months in order: **October 14.3%, September 14.2%, June 11.7%, May 11.2%**  
+- Exposure: South facing makes for sun in the fall. Also sunny for morning climbs in spring and summer. Winter is cold but early afternoon sun can have reasonable temps.
 
 - ❄️ **Winter (Dec–Feb):** 9%  
 - 🌸 **Spring (Mar–May):** 26%  
