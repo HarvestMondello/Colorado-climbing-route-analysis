@@ -4,7 +4,8 @@
 
 **Area:** Eldorado Canyon, Colorado  
 **Formation:** Redgarden: Tower Two  
-**Grade:** 5.11b (6 pitches)  
+**Grade:** 5.11b (6 pitches) 
+**Length:** 460' 
 **Style:** Trad, multipitch  
 **First Ascent:** Layton Kor & Rick Horn, 1964 (lower 3 pitches: Kor & Bob Culp, 1962)  
 **First Free Ascent:** Jim Erickson & Duncan Ferguson, 1971  
@@ -22,7 +23,7 @@
 - Known for **serious exposure**: the upper pitches perch dramatically above the canyon.  
 - Protection is generally good, with some runouts to PG-13, but the commitment and pump factor add to its bold reputation.  
 - **beta spoiler alert** First person view of the route (beta spoiler for gear and movement)
-- [First person view climb of The Naked Edge with pro (beta spoiler alert!)](https://www.youtube.com/watch?v=c8RxXWB1TZw&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX&index=39). Video by Max Manson. Max has climbed the route over 50 times and the style shown in simul-climbing in a pitch (IAP).
+- [First person view climb of The Naked Edge with pro (beta spoiler alert!)](https://www.youtube.com/watch?v=c8RxXWB1TZw&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX). Video by Max Manson. Max has climbed the route over 50 times and the style shown in simul-climbing in a pitch (IAP).
 ---
 
 ## Historical Context  
@@ -32,7 +33,7 @@
 
 ### Fastest Known Time (FKT) 
 - These FKT's are up to date as of as of **9/15/2025**
-- The rules: Bridge-to-Bridge (the center of the South Boulder Peak footbirdge) , any style of roped climbing. All konwn FKT's on this route involve soloing the approach (YDS 5.8), simul climb the route using Micro Traxion or comparable devices to protect the second and take the East Slab (4th class) descent. 
+- The rules: Bridge-to-Bridge (the center of the South Boulder Peak footbridge) , any style of roped climbing. All konwn FKT's on this route involve soloing the approach (YDS 5.8), simul climb the route using Micro Traxion or comparable devices to protect the second and take the East Slab (4th class) descent. 
 - **Stefan Griebel** & **Joe Kennedy** have the current FKT at "22:44 B2B" set October 26th, 2022.
 - [Video of Naked Edge - FKT 22:44 B2B](https://vimeo.com/764407847)  
 - [GPS Verification of Naked Edge FKT - 22:44 B2B ](https://www.strava.com/activities/8004442835#3019063963637264876)  
@@ -63,8 +64,8 @@
 ## Analysis Highlights (from dataset)  
 - **Lifetime ticks:** ~2,800+ as of 9/9/2025  
 - **Unique climbers:** ~720+ as of 9/9/2025  
-- **Engagement:** Top 5% of all Colorado trad routes for popularity and quality; ranked #1 in Colorado trad for “classic score.”  
-- **Trend:** Still growing, with a **majority of public ticks logged in the last five years**.  
+- **Engagement:** Top **5%** of all Colorado trad routes for popularity and quality; ranked #1 in Colorado trad for “classic score.”  
+- **Trend:** Still growing, with a **majority of public ticks logged in the last five years**.  The **9th** most climbed route in the Canyon and the only 5.11 in the top 10 most climbed routes. 
 - **Consensus:** Stable at 5.11b, with strong agreement among climbers.  
 - **Classic Rank:** Rated the #1 route by **classic score** in Colorado.  
 - **Leaderboards:** Most public ticks logged by **Stefan Griebel** with over **385** ticks as of 9/9/2025.  
@@ -76,12 +77,12 @@
 - ❄️ **Winter (Dec–Feb):** 9%  
 - 🌸 **Spring (Mar–May):** 26%  
 - ☀️ **Summer (Jun–Aug):** 29%  
-- 🍂 **Fall (Sep–Nov):** 36% (peak season)  
+- 🍂 **Fall (Sep–Nov):** 36% **peak season**
 
 ---
 
 ## References  
-- [Leaderboards.md with up-to-date stats](../leaderboards.md#the-naked-edge)  
+- [Leaderboards.md with up-to-date stats](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)  
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
 - [Women's FKT](https://ca.coros.com/stories/d/naked-edge-womens-speed-record-kate-kelleghan-laura-pineau) 
 - [All Women FKT](https://www.climbing.com/news/fast-and-furious/) 
