@@ -13,7 +13,7 @@
 ---
 
 ## Summary  
-*The Yellow Spur* is considered tone of the most iconic multipitch climbs in Eldorado Canyon. This striking moderate testpiece has striking exposure, continuous difficulties and historic significance. In this analysis, the route stands out as both a **cultural landmark** and a **high-traffic classic**. Featuring a brilliant mix of technical roof and corner climbing, delicate face sequences and airy exposure, it epitomizes the adventurous spirit of climbing in the canyon. Today it remains both a rite of passage for aspiring Eldo leaders and a beloved repeat classic for locals.  
+*The Yellow Spur* is considered one of the most iconic multipitch climbs in Eldorado Canyon. This striking moderate testpiece has striking exposure, continuous difficulties and historic significance. In this analysis, the route stands out as both a **cultural landmark** and a **high-traffic classic**. Featuring a brilliant mix of technical roof and corner climbing, delicate face sequences and airy exposure, it epitomizes the adventurous spirit of climbing in the canyon. Today it remains both a rite of passage for aspiring Eldo leaders and a beloved repeat classic for locals.  
 
 ---
 
@@ -90,4 +90,5 @@ The record keeping comes courtesy of Danny Gilbert.
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024 
 - Danny Gilbert was consulted for the history of FKT's on the Yellow Spur. 
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748657/the-yellow-spur)  
+
 
