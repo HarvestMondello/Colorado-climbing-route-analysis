@@ -22,7 +22,7 @@
 - Known for **serious exposure**: the upper pitches perch dramatically above the canyon.  
 - Protection is generally good, with some runouts to PG-13, but the commitment and pump factor add to its bold reputation.  
 - **beta spoiler alert** First person view of the route (beta spoiler for gear and movement)
-- [First person view climb of The Naked Edge with pro (beta spoiler alert!)](https://www.youtube.com/watch?v=c8RxXWB1TZw&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX&index=39). Video by Max Manson.
+- [First person view climb of The Naked Edge with pro (beta spoiler alert!)](https://www.youtube.com/watch?v=c8RxXWB1TZw&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX&index=39). Video by Max Manson. Max has climbed the route over 50 times and the style shown in simul-climbing in a pitch (IAP).
 ---
 
 ## Historical Context  
@@ -35,7 +35,7 @@
 - The rules: Bridge-to-Bridge (the center of the South Boulder Peak footbirdge) , any style of roped climbing. All konwn FKT's on this route involve soloing the approach (YDS 5.8), simul climb the route using Micro Traxion or comparable devices to protect the second and take the East Slab (4th class) descent. 
 - **Stefan Griebel** & **Joe Kennedy** have the current FKT at "22:44 B2B" set October 26th, 2022.
 - [Video of Naked Edge - FKT 22:44 B2B](https://vimeo.com/764407847)  
-- [Verification of Naked Edge FKT - 22:44 B2B ](https://www.strava.com/activities/8004442835#3019063963637264876)  
+- [GPS Verification of Naked Edge FKT - 22:44 B2B ](https://www.strava.com/activities/8004442835#3019063963637264876)  
 - **History of FKT's on the Naked Edge:** All Bridge-to-Bridge (B2B) unless otherwise noted as Car to Car (C2C):
 
 ```
@@ -67,7 +67,7 @@
 - **Trend:** Still growing, with a **majority of public ticks logged in the last five years**.  
 - **Consensus:** Stable at 5.11b, with strong agreement among climbers.  
 - **Classic Rank:** Rated the #1 route by **classic score** in Colorado.  
-- **Leaderboards:** Most public ticks logged by **Stefan Griebel** with over 385 ticks as of 9/9/2025.  
+- **Leaderboards:** Most public ticks logged by **Stefan Griebel** with over **385** ticks as of 9/9/2025.  
 
 ### Seasonality 
 - Breakdown of all ticks by season, showing traffic patterns.
