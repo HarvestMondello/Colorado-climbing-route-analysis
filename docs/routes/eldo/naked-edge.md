@@ -2,13 +2,13 @@
 
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/naked-edge.png" alt="The Naked Edge on the Redgarde Wall: Tower Two in Eldorado Canyon" width="1200"/>
 
-**Area:** Eldorado Canyon, Colorado  
-**Formation:** Redgarden: Tower Two  
-**Grade:** 5.11b (6 pitches) 
-**Length:** 460' 
-**Style:** Trad, multipitch  
-**First Ascent:** Layton Kor & Rick Horn, 1964 (lower 3 pitches: Kor & Bob Culp, 1962)  
-**First Free Ascent:** Jim Erickson & Duncan Ferguson, 1971  
+- **Area:** Eldorado Canyon, Colorado  
+- **Formation:** Redgarden: Tower Two  
+- **Grade:** 5.11b (6 pitches) 
+- **Length:** 460' 
+- **Style:** Trad, multipitch  
+- **First Ascent:** Layton Kor & Rick Horn, 1964 (lower 3 pitches: Kor & Bob Culp, 1962)  
+- **First Free Ascent:** Jim Erickson & Duncan Ferguson, 1971  
 
 ---
 
