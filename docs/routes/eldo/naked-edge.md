@@ -56,7 +56,9 @@
 1:30:XX C2C | 1991-XX-XX | Michael Gilbert, Rob Slater
 ```
 
-- **Women's FKT**: 37:08 B2B | 3/x/2025 | Kate Kelleghan and Laura Pineau (France) 
+- **Women's FKT**: 37:08 B2B | 3/28/2025 | Kate Kelleghan and Laura Pineau (France)
+- **Women's FKT Verification** 37:11
+- - [GPS Verification of Naked Edge FKT - 37:11 B2B](https://strava.app.link/QmSTqth4IWb)
 - **All Women first FKT**: 37:21 B2B | 9/x/2021 | Kate Kelleghan & Becca Droz 
 
 ---
@@ -92,4 +94,5 @@
 - [All Women FKT](https://www.climbing.com/news/fast-and-furious/) 
 - [FKT History](https://gripped.com/routes/less-than-23-minutes-needed-for-this-famous-six-pitch-5-11/) 
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748786/the-naked-edge)  
+
 
