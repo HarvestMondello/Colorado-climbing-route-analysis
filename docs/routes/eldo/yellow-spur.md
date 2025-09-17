@@ -26,7 +26,7 @@
 - Optional direct starts and direct finishes adds difficulty and spice to 5.10B.
 - **beta spoiler alert** [Video of Speed on the Spur: Racing for the FTK: (beta spoiler alert!)](https://www.youtube.com/watch?v=WDn1XcV5hJI&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX). Video featuring Bill Wright and Danny Gilbert and filmed by Max Manson.
 - [First person view climb of The Yellow Spur with pro (beta spoiler alert!)](https://www.youtube.com/watch?v=kk001Z8Sg9o&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX). Video by Bill Wright whom has climbed the route over 100 times, maybe over 200* times.
--- [Additional First person view climb of The Yellow Spur with pro (beta spoiler alert!)](ttps://www.youtube.com/watch?v=sjsig6fEoqQ&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX). Video by Danny Gilbert whom has climbed the route over 250 times!
+- [Additional First person view climb of The Yellow Spur with pro (beta spoiler alert!)](ttps://www.youtube.com/watch?v=sjsig6fEoqQ&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX). Video by Danny Gilbert whom has climbed the route over 250 times!
 
 ---
 
@@ -83,6 +83,7 @@
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024 
 - Danny Gilbert was consulted for the history of FKT's on the Yellow Spur. 
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748657/the-yellow-spur)  
+
 
 
 
