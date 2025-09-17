@@ -71,7 +71,7 @@
 - Highest-use months in order: **June 13.0%, August 11.8%, September 11.3%, July 11.2%**  
 - Exposure: West facing makes for shade in the summer. Also spring morning shade and fall afternoon sun. Winter is cold but early afternoon sun can have reasonable temps.
 
-- ❄️ **Winter (Dec–Feb):** 9%  
+- ❄️ **Winter (Dec–Feb):** 9% **low season**
 - 🌸 **Spring (Mar–May):** 26%  
 - ☀️ **Summer (Jun–Aug):** 36%  **peak season**
 - 🍂 **Fall (Sep–Nov):** 29% 
@@ -83,6 +83,7 @@
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024 
 - Danny Gilbert was consulted for the history of FKT's on the Yellow Spur. 
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748657/the-yellow-spur)  
+
 
 
 
