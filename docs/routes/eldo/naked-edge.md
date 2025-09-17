@@ -80,7 +80,7 @@
 - Highest-use months in order: **October 14.3%, September 14.2%, June 11.7%, May 11.2%**  
 - Exposure: South facing makes for sun in the fall. Also sunny for morning climbs in spring and summer. Winter is cold but early afternoon sun can have reasonable temps.
 
-- ❄️ **Winter (Dec–Feb):** 9%  
+- ❄️ **Winter (Dec–Feb):** 9% **low season**
 - 🌸 **Spring (Mar–May):** 26%  
 - ☀️ **Summer (Jun–Aug):** 29%  
 - 🍂 **Fall (Sep–Nov):** 36% **peak season**
@@ -94,5 +94,6 @@
 - [All Women FKT](https://www.climbing.com/news/fast-and-furious/) 
 - [FKT History](https://gripped.com/routes/less-than-23-minutes-needed-for-this-famous-six-pitch-5-11/) 
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748786/the-naked-edge)  
+
 
 
