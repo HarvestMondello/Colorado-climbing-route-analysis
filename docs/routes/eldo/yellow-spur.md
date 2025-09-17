@@ -20,13 +20,12 @@
 ## Route Characteristics  
 - Striking upper yellow face and dihedral route is visible across Eldorado Canyon from the main road and from The West Ridge formation.  
 - Starts in a series of corner systems, then delicate face climbing before breaking into a **iconic yellow lichen covered arete** that defines the route.  
-- Technical cruxes include pumpy roofs, technical corners, thin face moves and airy traverses and finishes on a jub haul arete.  
+- Technical cruxes include pumpy roofs, technical corners, thin face moves and airy traverses and finishes on an exposed arete.  
 - Upper pitches provide **wild exposure** with jaw-dropping positions above the canyon.  
 - Good protection at cruxes (PG), but easier sections are runout (PG-13).  
 - Optional direct starts and direct finishes adds difficulty and spice to 5.10B.
 - **beta spoiler alert** [Video of Speed on the Spur: Racing for the FTK: (beta spoiler alert!)](https://www.youtube.com/watch?v=WDn1XcV5hJI&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX). Video featuring Bill Wright and Danny Gilbert and filmed by Max Manson.
-- **beta spoiler alert** First person view of the route (beta spoiler for gear and movement)
-- [First person view climb of The Yellow Spur with pro (beta spoiler alert!)](https://www.youtube.com/watch?v=kk001Z8Sg9o&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX). Video by Bill Wright whom has climbed the route over 100 times.
+- [First person view climb of The Yellow Spur with pro (beta spoiler alert!)](https://www.youtube.com/watch?v=kk001Z8Sg9o&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX). Video by Bill Wright whom has climbed the route over 100 times, maybe over 200* times.
 -- [Additional First person view climb of The Yellow Spur with pro (beta spoiler alert!)](ttps://www.youtube.com/watch?v=sjsig6fEoqQ&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX). Video by Danny Gilbert whom has climbed the route over 250 times!
 
 ---
@@ -38,38 +37,32 @@
 
 ### Fastest Known Time (FKT) 
 - These FKT's are up to date as of as of **9/15/2025**
-- The rules: Bridge-to-Bridge (the center of the South Boulder Peak footbridge) , any style of roped climbing. All konwn FKT's on this route involve soloing the approach (YDS 5.8), simul climb the route using Micro Traxion or comparable devices to protect the second and take the East Slab (4th class) descent. 
+- The rules: Bridge-to-Bridge (the center of the South Boulder Peak footbridge), any style of roped climbing. All known FKT's on this route involve a steep uphill run,  simul climb the route using Micro Traxion or comparable devices to protect the second and the East Slab (4th class) descent. 
 - **Jack Neus** & **Joe Kennedy** have the current FKT on the Yellow Spur at "29 minutes 35 seconds B2B" set March 3rd, 2021.
 - [GPS Verification of Yellow Spur FKT - 22:44 B2B ](https://www.strava.com/activities/6769287759)   
-- **History of FKT's on the Yellow Spur:** All Bridge-to-Bridge (B2B) unless otherwise noted as Car to Car (C2C):
+- **History of FKT's on the Yellow Spur:** All Bridge-to-Bridge (B2B). Climbers are listed reverse alphabetical by last name.  
 
 ```
 29:35 B2B | 2021-03-03 | Jack Neus, Joe Kennedy | Current FKT
 33:35 B2B | 2020-11-21 | Jack Neus, Joe Kennedy 
-36:05 B2B | 2020-08-08 ||Bill Wright & Danny Gilbert
-41:02 B2B | 2020-08-05 ||Bill Wright & Danny Gilbert
-42:48 B2B | 2018-08-01 ||Bill Wright & Danny Gilbert
+36:05 B2B | 2020-08-08 | Bill Wright & Danny Gilbert
+41:02 B2B | 2020-08-05 | Bill Wright & Danny Gilbert
+42:48 B2B | 2018-08-01 | Bill Wright & Danny Gilbert
 46:55 B2B | 2018-07-13 | Jon Oulton & Nodin DeSaillan
-47:47 B2B | 2018-07-12 ||Bill Wright & Danny Gilbert
+47:47 B2B | 2018-07-12 | Bill Wright & Danny Gilbert
 57:02 B2B | 2018-07-11 | Jon Oulton & Nodin DeSaillan
 58:10 B2B | Early 2000's | Josh Wharton and Kevin Chochran 
-The record keeping comes courtesy of Danny Gilbert.
 ```
-
-- **Women's FKT**: 37:08 B2B | 3/x/2025 | Kate Kelleghan and Laura Pineau (France) 
-- **All Women first FKT**: 37:21 B2B | 9/x/2021 | Kate Kelleghan & Becca Droz 
-
----
 
 ## Analysis Highlights (from dataset)  
 - **Lifetime ticks:** 4,300+ as of 9/9/2025  
 - **Unique climbers:** 2,400+ as of 9/9/2025 
 - **Repeat Usage:** Climbers climb the route an average of 1.79 times showing **moderate** repeat traffic.  
-- **Engagement:** Top **5%** of all Colorado trad routes for popularity and quality; ranked #10 in Colorado trad for **classic score**  
-- **Trend:** Still growing, with a **47% of public ticks logged in the last five years**. The **5th** most climbed route in the Canyon.
+- **Engagement:** Top **5%** of all Colorado trad routes for popularity and quality; ranked #10 in Colorado trad for **classic score** and the **5th** most climbed route in the Canyon.
+- **Trend:** Still growing, with a **47% of public ticks logged in the last five years**.
 - **Consensus:** 5.9+, widely regarded as "sandbagged" aka hard for the grade.  
 - **Classic Rank:** Rated the #10 route by **classic score** in Colorado.  
-- **Leaderboards:** As of **9/9/2025**, **Danny Gilbert** leads with over **250** public ticks logged. *Two of his main partners—Bill Wright and Anton Krupicka—have each climbed the route 100+ times. Bill may even have surpassed 200, though Danny says not even Bill knows for sure; Bill himself has said he’s climbed it fewer times than Danny. The database only shows a partial record of Bill’s climbs (92, none logged after 2019) and none of Anton’s. Bill is also known for climbing the route **8 times in a single day on his birthday.***
+- **Leaderboards:** As of **9/9/2025**, **Danny Gilbert** leads with over **252** public ticks logged. *Two of his main partners—Bill Wright and Anton Krupicka—have each climbed the route 100+ times. Bill may even have surpassed 200, though Danny says not even Bill knows for sure; Bill himself has said he’s climbed it fewer times than Danny. The database only shows a partial record of Bill’s climbs (92, none logged after 2019) and none of Anton’s are in the dataset. Bill is also known for having climbed the route **8 times in a single day on his birthday.***
 
 
 ### Seasonality 
@@ -90,5 +83,6 @@ The record keeping comes courtesy of Danny Gilbert.
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024 
 - Danny Gilbert was consulted for the history of FKT's on the Yellow Spur. 
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748657/the-yellow-spur)  
+
 
 
