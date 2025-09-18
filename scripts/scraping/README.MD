@@ -9,6 +9,7 @@ Scripts:
 - `4-route-scrape.py` — — Scrapes detailed tick logs.
 - `5-tick-aggregations-by-route.py` — aggregate tick logs per route by username.
 - `6-join-routes-ticks.py` — Cleans and merges scraping outputs into a combined dataset.
+- `scrape-all.py` — Runs the scrape scripts.
 
 **Inputs:**  
 - Region URLs from public database
@@ -18,6 +19,7 @@ Scripts:
 - Tick detail CSVs in `outputs/ticks/`.  
 - Combined route-level dataset in `outputs/`.  
 
-> These scripts are usually run in sequence to build the raw dataset.
+> These scripts are usually run in sequence to build the raw dataset. The scrape-all.py will run them all consecutively. 
+
 
 
