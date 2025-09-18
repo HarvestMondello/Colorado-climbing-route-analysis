@@ -102,12 +102,12 @@ Colorado hosts some of North America’s most storied stone, from Eldorado Canyo
 ### Live Leaderboards (Docs)
 
 - **Top 10 (refreshed monthly)**: [`/docs/leaderboards.md`](docs/leaderboards.md)  
-- **Top 50 (refreshed quarterly)**: [`/docs/leaderboards-50.md`](docs/leaderboards-50.md)  
+- **Top 100 (refreshed quarterly)**: [`/docs/leaderboards-100.md`](docs/leaderboards-100.md)  
 
 ## Automation
 
 - **Monthly refresh**: Top 10 leaderboards rebuild the first day of each month.  
-- **Quarterly refresh**: Top 50 leaderboards rebuild on the 1st day of each quarter.  
+- **Quarterly refresh**: Top 100 leaderboards rebuild on the 1st day of each quarter.  
 - **Resilience**: Failed routes are logged and retried automatically in the next cycle.  
 - **Artifacts**: Refreshed CSVs in `/data` and `/outputs`, with updated docs in `/docs`.  
 
@@ -119,6 +119,10 @@ Colorado-climbing-route-analysis/
 ├─ data/ # Raw & processed CSVs
 ├─ docs/ # Leaderboards (published)
 ├─ scripts/ # Scraping, ETL, EDA, modeling
+│  │  ├─ scraping/          # Selenium/requests scrapers + helpers
+│  │  ├─ leaderboards/      # build docs, link fixers, md composers
+│  │  ├─ analysis/          # EDA, modeling, clustering, forecasts
+│  │  └─ automation/        # runner scripts to automate the full workflow 
 ├─ sql/ # PostgreSQL schema + queries used in analysis
 ├─ outputs/ # Final datasets & visualizations
 ├─ README.md # Project summary
