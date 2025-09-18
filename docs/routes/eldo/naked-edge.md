@@ -66,7 +66,7 @@
 ## Analysis Highlights (from dataset)  
 - **Lifetime ticks:** 2,800+ as of 9/9/2025  
 - **Unique climbers:** 720+ as of 9/9/2025  
-- **Repeat Usage:** Climbers climb the route an average of 3.89 times showing **high** repeat traffic. 
+- **Repeat Usage:** Climbers climb the route an average of **3.89** times showing **high** repeat traffic. 
 - **Engagement:** Top **5%** of all Colorado trad routes for **popularity** and **quality**; ranked **#1** in Colorado trad for **classic score**.  
 - **Trend:** Still growing, with a **58% of public ticks logged in the last five years**. The **9th** most climbed route in the Canyon and the only 5.11 in the top 10 most climbed routes. 
 - **Consensus:** Stable at 5.11b, with strong agreement among climbers and considered sandbagged aka hard for the grade.  
@@ -94,6 +94,7 @@
 - [All Women FKT](https://www.climbing.com/news/fast-and-furious/) 
 - [FKT History](https://gripped.com/routes/less-than-23-minutes-needed-for-this-famous-six-pitch-5-11/) 
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748786/the-naked-edge)  
+
 
 
 
