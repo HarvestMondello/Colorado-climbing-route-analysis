@@ -3,7 +3,7 @@
 This folder contains all **web scraping scripts** for pulling data from the public database.
 
 Scripts:
-- `1_region_scrape.py` — Collects all routes in a given region(s) and basic metadata: name, grade, FA info, stars/votes, etc.
+- 1_region_scrape.py — Collects all routes in a given region(s) and basic metadata: name, grade, FA info, stars/votes, etc.
 - `2_combine_all_csv.py` — Combine all scraped regions into one CSV.
 - `3_filter_routes.py` — Filter and rank routes based on classic criteria.
 - `4_route_scrape.py` — — Scrapes detailed tick logs.
@@ -20,6 +20,7 @@ Scripts:
 - Combined route-level dataset in `outputs/`.  
 
 > These scripts are usually run in sequence to build the raw dataset. The scrape-all.py will run them all consecutively. 
+
 
 
 
