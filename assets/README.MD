@@ -16,4 +16,5 @@ Created by Harvest Mondello. You’re welcome to use this project for **personal
 Feel free to explore, adapt, and learn from the code and visuals.  
 
 ⚠️ **Commercial use isn’t permitted without permission.**  
-See [LICENSE.md](../LICENSE.md) for full details and contact info.
+See [LICENSE.md](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/LICENSE.MD) for full details and contact info.
+
