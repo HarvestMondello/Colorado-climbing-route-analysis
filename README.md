@@ -9,12 +9,12 @@ Colorado climbing data collected via a Python pipeline, analyzed in PostgreSQL, 
 
 **Problem**: Route quality, usage, and seasonality in Colorado are discussed anecdotally; there’s no unified dataset to compare cultural impact, historical significance, and modern traffic across regions.  
 
-**Solution**: Build an end-to-end pipeline to scrape a public climbing database, normalize and store data in PostgreSQL, and analyze it with SQL + Python. Surface insights on cultural impact, seasonality, engagement, historical milestones, and demand forecasts for Colorado climbing areas including Eldorado Canyon, Black Canyon of the Gunnison and The Diamond (RMNP).  
+**Solution**: Build an end-to-end pipeline to scrape a public climbing database, normalize and store data in PostgreSQL, and analyze it with SQL + Python. Surface insights on cultural impact, seasonality, engagement, historical milestones, and demand forecasts for Colorado traditional climbing areas including Eldorado Canyon, Black Canyon of the Gunnison and The Diamond on Long's Peak. This analysis focuses exclusively on traditional (Trad) climbing routes and excludes Sport, Bouldering and Ice disciplines to sharpen insights on Colorado’s historical and cultural traditional legacy.
 
 **Insights**  
-- A small cluster of routes consistently anchor Colorado’s climbing identity (high classic + cultural scores).  
-- Seasonality clusters reveal true all-season lines vs. narrow weather windows.  
-- “Hidden gems” emerge: high star ratings with relatively low visibility but strong engagement growth.  
+- A small cluster of routes consistently anchor Colorado’s climbing identity with high **classic** scores.  
+- Seasonality clusters reveal true all-season lines vs. narrow weather windows and seasonal closures.  
+- “Hidden gems” emerge: high star ratings with relatively low visibility but strong **engagement** growth.  
 - FA/FFA timelines map boldness across decades and correlate with later traffic waves.  
 - Forecasts (2025–2029) flag sub-regions likely to see increased pressure.  
 
@@ -54,7 +54,7 @@ Colorado hosts some of North America’s most storied stone, from Eldorado Canyo
 4. What do FA/FFA timelines reveal about boldness and progression?  
 5. Where is demand likely to grow through 2029?  
 
-**Data source**: a publicly available climbing database scraped for route metadata and tick histories.
+**Data source**: a publicly available climbing database scraped for route metadata and tick histories. From the scraped database, only routes labeled as Trad were included. Sport, Bouldering and Ice routes were excluded to maintain focus on Colorado’s most historically significant climbing styles (Eldorado Canyon, Black Canyon and The Diamond).
 
 ## Tools I Used
 
@@ -66,7 +66,7 @@ Colorado hosts some of North America’s most storied stone, from Eldorado Canyo
 
 ## How I Built It
 
-1. **Collection**: Python scraper pulls route metadata (name, grade, type, pitches, stars, votes, area hierarchy), tick logs (dates, notes, climbers), and FA/FFA info.  
+1. **Collection**: Python scraper pulls route metadata (name, grade, type, pitches, stars, votes, area hierarchy), tick logs (dates, notes, climbers), and FA/FFA info. During scraping, route metadata was filtered by type=Trad. Sport, Bouldering and Ice entries were dropped at this stage, ensuring the PostgreSQL schema and subsequent analysis centered solely on traditional climbing.
 2. **Processing**: Normalize grades, parse decades, standardize areas, and join route ↔ tick datasets.  
 3. **Storage**: Persist as CSV and load into PostgreSQL for querying and reproducible analysis.  
 4. **Analysis & Modeling**:  
