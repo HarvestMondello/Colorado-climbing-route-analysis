@@ -57,11 +57,11 @@
 ## Analysis Highlights (from dataset)  
 - **Lifetime ticks:** 4,300+ as of 9/9/2025  
 - **Unique climbers:** 2,400+ as of 9/9/2025 
-- **Repeat Usage:** Climbers climb the route an average of 1.79 times showing **moderate** repeat traffic.  
-- **Engagement:** Top **5%** of all Colorado trad routes for popularity and quality; ranked #10 in Colorado trad for **classic score** and the **5th** most climbed route in the Canyon.
+- **Repeat Usage:** Climbers climb the route an average of **1.79** times showing **moderate** repeat traffic.  
+- **Engagement:** Top **5%** of all Colorado trad routes for popularity and quality; ranked #5 in Colorado trad for **classic score** and the **5th** most climbed route in the Canyon.
 - **Trend:** Still growing, with a **47% of public ticks logged in the last five years**.
 - **Consensus:** 5.9+, widely regarded as "sandbagged" aka hard for the grade.  
-- **Classic Rank:** Rated the #10 route by **classic score** in Colorado.  
+- **Classic Rank:** Rated the #5 route by **classic score** in Colorado.  
 - **Leaderboards:** As of **9/9/2025**, **Danny Gilbert** leads with over **252** public ticks logged. *Two of his main partners—Bill Wright and Anton Krupicka—have each climbed the route 100+ times. Bill may even have surpassed 200, though Danny says not even Bill knows for sure; Bill himself has said he’s climbed it fewer times than Danny. The database only shows a partial record of Bill’s climbs (92, none logged after 2019) and none of Anton’s are in the dataset. Bill is also known for having climbed the route **8 times in a single day on his birthday.***
 
 
@@ -83,6 +83,7 @@
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024 
 - Danny Gilbert was consulted for the history of FKT's on the Yellow Spur. 
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748657/the-yellow-spur)  
+
 
 
 
