@@ -14,12 +14,12 @@ from pathlib import Path
 BASE_DIR = Path(__file__).parent.resolve()
 
 scripts = [
-    BASE_DIR / "1-region-scrape.py", #Collects all routes in a given region(s) and basic metadata: name, grade, FA info, stars/votes, etc.
-    BASE_DIR / "2-combine-all-csv.py", #Combine all scraped regions into one CSV.
-    BASE_DIR / "3-filter-routes.py", #Filter and rank routes based on classic criteria.
-    BASE_DIR / "4-route-scrape.py", #Scrapes detailed tick logs.
-    BASE_DIR / "5-tick-aggregations-by-route.py", #Aggregate tick logs per route by username.
-    BASE_DIR / "6-join-routes-ticks.py", #Cleans and merges scraping outputs into a combined dataset.
+    BASE_DIR / "1_region_scrape.py", #Collects all routes in a given region(s) and basic metadata: name, grade, FA info, stars/votes, etc.
+    BASE_DIR / "2_combine_all_csv.py", #Combine all scraped regions into one CSV.
+    BASE_DIR / "3_filter_routes.py", #Filter and rank routes based on classic criteria.
+    BASE_DIR / "4_route_scrape.py", #Scrapes detailed tick logs.
+    BASE_DIR / "5_tick_aggregations_by_route.py", #Aggregate tick logs per route by username.
+    BASE_DIR / "6_join_routes_ticks.py", #Cleans and merges scraping outputs into a combined dataset.
 ]
 
 MAX_RETRIES = 1   # Number of times to retry a failed script
@@ -123,3 +123,4 @@ for name, secs in sorted(per_script_durations.items(), key=lambda kv: kv[1], rev
     log(f"  • {name}: {fmt_secs(secs)}")
 
 log(f"\n===== Run finished at {datetime.now()} =====\n")
+
