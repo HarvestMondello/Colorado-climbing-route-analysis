@@ -3,13 +3,13 @@
 This folder contains all **web scraping scripts** for pulling data from the public database.
 
 Scripts:
-- `1-region-scrape.py` — Collects all routes in a given region(s) and basic metadata: name, grade, FA info, stars/votes, etc.
-- `2-combine-all-csv.py` — Combine all scraped regions into one CSV.
-- `3-filter-routes.py` — Filter and rank routes based on classic criteria.
-- `4-route-scrape.py` — — Scrapes detailed tick logs.
-- `5-tick-aggregations-by-route.py` — aggregate tick logs per route by username.
-- `6-join-routes-ticks.py` — Cleans and merges scraping outputs into a combined dataset.
-- `scrape-all.py` — Runs the scrape scripts.
+- `1_region_scrape.py` — Collects all routes in a given region(s) and basic metadata: name, grade, FA info, stars/votes, etc.
+- `2_combine_all_csv.py` — Combine all scraped regions into one CSV.
+- `3_filter_routes.py` — Filter and rank routes based on classic criteria.
+- `4_route_scrape.py` — — Scrapes detailed tick logs.
+- `5_tick_aggregations_by_route.py` — aggregate tick logs per route by username.
+- `6_join_routes_ticks.py` — Cleans and merges scraping outputs into a combined dataset.
+- `scrape_all.py` — Runs the scrape scripts.
 
 **Inputs:**  
 - Region URLs from public database
