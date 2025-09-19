@@ -1,4 +1,23 @@
-# 1-route-scraper-multi-minimal.py
+"""
+Script: 1_region_scrape.py rename to 1_route_scraper_multi_region.py
+Purpose:
+    Scrape climbing route metadata from Mountain Project for multiple Colorado regions.
+
+Workflow:
+    1. Traverse region URLs recursively to collect all route links.
+    2. Scrape metadata for each route (name, grade, type, pitches, length, stars, votes, FA, ticks).
+    3. Save one CSV file per region into the output directory.
+
+Input:
+    - List of region URLs defined in URLS[].
+
+Output:
+    - CSV per region with filename cleaned (underscores, lowercase).
+
+Dependencies:
+    - Selenium, BeautifulSoup4, Pandas, webdriver_manager (optional fallback).
+"""
+
 import time
 import os
 import re
@@ -10,40 +29,60 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 from bs4 import BeautifulSoup
 
-# --- Configuration ---
+# ===========================
+# CONFIGURATION
+# ===========================
 URLS = [
-    "https://www.mountainproject.com/area/126410925/aspen",
-    "https://www.mountainproject.com/area/106247375/fairplay",
-    # add more region URLs here...
+    # top 15 classic climbing areas in Colorado
+    #'https://www.mountainproject.com/area/105744466/alpine-rock',
+    #'https://www.mountainproject.com/area/105744397/black-canyon-of-the-gunnison',
+    'https://www.mountainproject.com/area/105744222/boulder-canyon',
+    #'https://www.mountainproject.com/area/105744448/colorado-national-monument',
+    'https://www.mountainproject.com/area/105744246/eldorado-canyon-state-park',
+    #'https://www.mountainproject.com/area/105744255/eldorado-mountain',
+    #'https://www.mountainproject.com/area/105788880/escalante-canyon',
+    'https://www.mountainproject.com/area/105797700/flatirons',
+    #'https://www.mountainproject.com/area/105744301/garden-of-the-gods',
+    #'https://www.mountainproject.com/area/105744228/lumpy-ridge',
+    #'https://www.mountainproject.com/area/105744249/north-table-mountaingolden-cliffs',
+    #'https://www.mountainproject.com/area/105744385/old-stage-road',
+    #'https://www.mountainproject.com/area/105797719/south-platte',
+    #'https://www.mountainproject.com/area/105744400/unaweep-canyon',
+    #'https://www.mountainproject.com/area/105744234/upper-dream-canyon',
 ]
 
-# Optional: set CHROME_BINARY env var if your Chrome isn’t in the default location
-# os.environ["CHROME_BINARY"] = r"C:\Path\To\chrome.exe"
-
+# ===========================
+# SELENIUM OPTIONS
+# ===========================
 options = Options()
 options.add_argument("--headless=new")
-options.add_argument("--disable-gpu")                  # 1. disable GPU
-options.add_argument("--disable-webgpu")         # stops WebGPU init (D3D12)
-options.add_argument("--disable-3d-apis")        # belts & suspenders
-options.add_argument("--use-angle=swiftshader")  # software ANGLE path
-options.add_argument("--use-gl=swiftshader")     # software GL path
-options.add_argument("--disable-software-rasterizer")  # 1. disable software rasterizer
-options.add_argument("--log-level=3")                  # 2. suppress logging
-options.add_argument("--silent")                       # 2. extra suppression
+options.add_argument("--disable-gpu")
+options.add_argument("--disable-webgpu")
+options.add_argument("--disable-3d-apis")
+options.add_argument("--use-angle=swiftshader")
+options.add_argument("--use-gl=swiftshader")
+options.add_argument("--disable-software-rasterizer")
+options.add_argument("--log-level=3")
+options.add_argument("--silent")
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 options.page_load_strategy = "eager"
 
-# If user provided a non-standard Chrome binary, wire it in:
-if "CHROME_BINARY" in os.environ and os.environ["CHROME_BINARY"]:
-    options.binary_location = os.environ["CHROME_BINARY"]
-
-# --- Robust driver init: Selenium Manager -> webdriver_manager fallback ---
+# ===========================
+# DRIVER BUILDER
+# ===========================
 def build_driver():
+    """
+    Initialize a Chrome WebDriver with headless options.
+    Tries Selenium Manager first, falls back to webdriver_manager.
+
+    Returns:
+        webdriver.Chrome: Configured Chrome WebDriver instance.
+    """
     try:
         return webdriver.Chrome(options=options)
     except Exception as e1:
-        print(f"[info] Selenium Manager init failed, falling back to webdriver_manager… ({e1})", flush=True)
+        print(f"[info] Selenium Manager init failed, fallback… ({e1})", flush=True)
         try:
             from webdriver_manager.chrome import ChromeDriverManager
             service = Service(ChromeDriverManager().install())
@@ -56,17 +95,20 @@ def build_driver():
 
 driver = build_driver()
 
-# --- Preflight check ---
-try:
-    browser_version = driver.capabilities.get("browserVersion") or driver.capabilities.get("version")
-    driver_version = driver.capabilities.get("chrome", {}).get("chromedriverVersion", "").split(" ")[0]
-    print(f"🟢 Chrome browser version: {browser_version}", flush=True)
-    print(f"🟢 ChromeDriver version:   {driver_version}", flush=True)
-except Exception as e:
-    print(f"⚠️ Could not detect versions: {e}", flush=True)
-
-# --- Helpers (unchanged) ---
+# ===========================
+# HELPER FUNCTIONS
+# ===========================
 def get_soup(page_url, retries=1):
+    """
+    Load a page into BeautifulSoup with retries on timeout.
+
+    Args:
+        page_url (str): Target webpage URL.
+        retries (int): Number of retry attempts.
+
+    Returns:
+        BeautifulSoup | None: Parsed HTML soup object, or None on failure.
+    """
     for _ in range(retries + 1):
         try:
             driver.get(page_url)
@@ -78,6 +120,15 @@ def get_soup(page_url, retries=1):
     return None
 
 def get_route_links_from(page_url):
+    """
+    Extract all route links from a given area page.
+
+    Args:
+        page_url (str): Area page URL.
+
+    Returns:
+        list[str]: List of route URLs found on the page.
+    """
     driver.get(page_url)
     time.sleep(1)
     return [
@@ -86,6 +137,16 @@ def get_route_links_from(page_url):
     ]
 
 def collect_all_routes_recursive(area_url, visited=None):
+    """
+    Recursively collect all route links by visiting sub-areas.
+
+    Args:
+        area_url (str): The starting area URL.
+        visited (set[str]): Tracks already visited areas.
+
+    Returns:
+        list[str]: All unique route URLs found under this area and subareas.
+    """
     if visited is None:
         visited = set()
 
@@ -97,32 +158,36 @@ def collect_all_routes_recursive(area_url, visited=None):
     driver.get(area_url)
     time.sleep(1)
 
+    # Collect routes
     route_links = get_route_links_from(area_url)
 
-    # Note: same selector as your working version
+    # Collect subareas
     subarea_elements = driver.find_elements(By.CSS_SELECTOR, ".lef-nav-row a")
     subarea_links = [el.get_attribute("href") for el in subarea_elements]
 
+    # Recurse into subareas
     for sub_link in subarea_links:
         if sub_link and sub_link not in visited:
             route_links += collect_all_routes_recursive(sub_link, visited)
 
     return route_links
 
-# --- Output folder (unchanged) ---
+# ===========================
+# OUTPUT DIRECTORY
+# ===========================
 output_dir = r"C:\Users\harve\Documents\Projects\MP-routes-Python\outputs\regions"
 os.makedirs(output_dir, exist_ok=True)
 
 # ===========================
-# MULTI-REGION WRAPPER START
+# MAIN SCRAPER LOOP
 # ===========================
 for url in URLS:
-    # --- Step 1: Traverse and Collect Routes ---
+    # Step 1: Traverse region and collect route URLs
     print(f"\n➡️ Starting recursive scrape from: {url}", flush=True)
     route_urls = list(set(collect_all_routes_recursive(url)))
     print(f"✅ Total routes found: {len(route_urls)}", flush=True)
 
-    # --- Step 2: Scrape Route Metadata ---
+    # Step 2: Scrape metadata for each route
     all_routes = []
 
     for i, route_url in enumerate(route_urls, 1):
@@ -132,6 +197,7 @@ for url in URLS:
             print(f"⚠️ Failed to get soup for {route_url}", flush=True)
             continue
 
+        # Extract metadata
         route_id_m = re.search(r"/route/(\d+)", route_url)
         route_id = route_id_m.group(1) if route_id_m else ""
 
@@ -141,6 +207,7 @@ for url in URLS:
         grade_elem = soup.select_one("h2 span.rateYDS")
         grade = grade_elem.text.strip() if grade_elem else ""
 
+        # Type, pitches, length
         try:
             det_table = soup.find("table", class_="description-details")
             td = det_table.find("td", string="Type:").find_next_sibling("td") if det_table else None
@@ -160,8 +227,10 @@ for url in URLS:
             length_ft = None
             route_type = ""
 
+        # Area hierarchy
         area_hierarchy = " > ".join(a.text for a in soup.select("div.text-warm a"))
 
+        # Stars + votes
         stars, votes = (None, None)
         stars_elem = soup.select_one("span[id^=starsWithAvgText]")
         if stars_elem:
@@ -171,12 +240,14 @@ for url in URLS:
                 stars = float(m.group(1))
                 votes = int(m.group(2).replace(",", ""))
 
+        # First ascent info
         fa_info = ""
         fa_td = soup.find("td", string="FA:")
         if fa_td:
             nxt = fa_td.find_next_sibling("td")
             fa_info = nxt.get_text(" ", strip=True) if nxt else ""
 
+        # Tick count from stats page
         ticks = None
         if route_id:
             stats_url = route_url.replace("/route/", "/route/stats/")
@@ -192,6 +263,7 @@ for url in URLS:
                                 ticks = None
                         break
 
+        # Append data
         all_routes.append({
             "Route ID": route_id,
             "Route Name": route_name,
@@ -207,10 +279,10 @@ for url in URLS:
             "URL": route_url
         })
 
-    # --- Step 3: Save CSV for THIS region ---
+    # Step 3: Save CSV per region
     print(f"✅ Total routes scraped: {len(all_routes)}", flush=True)
 
-    area_slug = url.rstrip("/").split("/")[-1]
+    area_slug = url.rstrip("/").split("/")[-1].replace("-", "_").lower()
     file_path = os.path.join(output_dir, f"{area_slug}.csv")
 
     if all_routes:
@@ -222,5 +294,7 @@ for url in URLS:
     else:
         print("⚠️ No data scraped. Check network or structure.")
 
-# --- Cleanup ---
+# ===========================
+# CLEANUP
+# ===========================
 driver.quit()
