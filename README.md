@@ -150,4 +150,4 @@ See [LICENSE.md](https://github.com/HarvestMondello/Colorado-climbing-route-anal
 
 ## Code Style
 All Python code in this repository follows **Google-style Python docstrings**.  
-See [DOCS_CONVENTIONS.md]https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/(DOCS_CONVENTIONS.md) for details and examples.
+See [DOCS_CONVENTIONS.md](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/DOCS_CONVENTIONS.md) for details and examples.
