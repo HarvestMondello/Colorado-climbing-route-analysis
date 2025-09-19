@@ -147,3 +147,7 @@ Colorado-climbing-route-analysis/
 Created by Harvest Mondello. You’re welcome to use this project for **personal** or **educational** purposes!  
 Feel free to explore, adapt, and learn from the code and visuals. **Commercial use isn’t permitted** without permission.  
 See [LICENSE.md](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/LICENSE.MD) for full details and contact info.
+
+## Code Style
+All Python code in this repository follows **Google-style Python docstrings**.  
+See [DOCS_CONVENTIONS.md]https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/(DOCS_CONVENTIONS.md) for details and examples.
