@@ -1,23 +1,23 @@
 # Colorado Climbing Route Leaderboards - Top 10 Routes
-_Generated 2025-09-19 00:41:58 MDT_
+_Generated 2025-09-19 17:26:33 MDT_
 
 **[Top 100 Users by Score](#top-100-users-by-score)**
 
 **Selected routes:** 10
 
 **Routes (by Classic Rank):**
-|   Classic Rank | Route                                                                       |
-|---------------:|:----------------------------------------------------------------------------|
-|              1 | [The Naked Edge (Eldorado Canyon)](#the-naked-edge-eldorado-canyon)         |
-|              2 | [Outer Space (Eldorado Canyon)](#outer-space-eldorado-canyon)               |
-|              3 | [The Scenic Cruise (Black Canyon)](#the-scenic-cruise-black-canyon)         |
-|              4 | [Center Route (Cathedral Spire)](#center-route-cathedral-spire)             |
-|              5 | [Country Club Crack (Boulder Canyon)](#country-club-crack-boulder-canyon)   |
-|              6 | [Casual Route (Long's Peak)](#casual-route-longs-peak)                      |
-|              7 | [Rewritten (Eldorado Canyon)](#rewritten-eldorado-canyon)                   |
-|              8 | [East Face (Standard) (Third Flatiron)](#east-face-standard-third-flatiron) |
-|              9 | [The Yellow Spur (Eldorado Canyon)](#the-yellow-spur-eldorado-canyon)       |
-|             10 | [Direct Route (First Flatiron)](#direct-route-first-flatiron)               |
+|   Classic Rank | Route                                       |
+|---------------:|:--------------------------------------------|
+|              1 | [The Naked Edge](#the-naked-edge)           |
+|              2 | [Outer Space](#outer-space)                 |
+|              3 | [The Scenic Cruise](#the-scenic-cruise)     |s
+|              4 | [Center Route](#center-route)               |
+|              5 | [Country Club Crack](#country-club-crack)   |
+|              6 | [Casual Route](#casual-route)               |
+|              7 | [Rewritten](#rewritten)                     |
+|              8 | [East Face (Standard)](#east-face-standard) |
+|              9 | [The Yellow Spur](#the-yellow-spur)         |
+|             10 | [Direct Route](#direct-route)               |
 
 
 **Grades Summary:**
@@ -38,11 +38,11 @@ _Generated 2025-09-19 00:41:58 MDT_
 | 5.0*     |        0 |
 | 4th*     |        0 |
 
-**Top Areas:** 4 routes Eldorado Canyon, 1 routes Third Flatiron, 1 routes Cathedral Spire, 1 routes First Flatiron, 1 routes Black Canyon
+**Top Areas:** 1 routes All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower Two, 1 routes All Locations > Colorado > Boulder > Eldorado Canyon SP > Bastille > Bastille - N Face, 1 routes All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Lumpe to…, 1 routes All Locations > Colorado > Boulder > Flatirons > North > Third Flatiron, 1 routes All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower One
 
 > Source: seasonality_analysis.csv with embedded leaderboard columns.
 
-## The Naked Edge (Eldorado Canyon)
+## The Naked Edge
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower Two
 [Open route profile](./routes/eldo/naked-edge.md)
 
@@ -52,11 +52,37 @@ _Generated 2025-09-19 00:41:58 MDT_
 | Classic Rank        | 1         |
 | Grade               | 5.11b YDS |
 | Stars (avg)         | 3.9       |
-| Votes               | 505       |
-| Unique Climbers     | 709       |
-| Lifetime Ticks      | 2724      |
+| Votes               | 505.0     |
+| Unique Climbers     | 709.0     |
+| Lifetime Ticks      | 2724.0    |
 | Avg Ticks / Climber | 3.84      |
 
+### Seasonality
+
+- Seasonality Profile: (placeholder)
+- Highest-use months in order: **October 14.3%**, **September 14.2%**, **June 11.7%**, **May 11.2%**
+
+- ❄️ **Winter (Dec–Feb)**: 9.3% **low season**
+- 🌸 **Spring (Mar–May)**: 25.8%
+- ☀️ **Summer (Jun–Aug)**: 29.1%
+- 🍂 **Fall (Sep–Nov)**: 35.8% **peak season**
+
+```text
+Jan | █                            2.9%
+Feb | █                            2.8%
+Mar | ██                           5.8%
+Apr | ██                           8.8%
+May | ███                         11.2%
+Jun | ███                         11.7%
+Jul | ██                           8.1%
+Aug | ██                           9.2%
+Sep | ████                        14.2%
+Oct | ████                        14.3%
+Nov | ██                           7.2%
+Dec | █                            3.6%
+```
+
+### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber                      |   Ticks |
 |-------:|:-----------------------------|--------:|
@@ -73,7 +99,7 @@ _Generated 2025-09-19 00:41:58 MDT_
 
 ---
 
-## Outer Space (Eldorado Canyon)
+## Outer Space
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Bastille > Bastille - N Face
 [Open route profile](./routes/eldo/outer-space.md)
 
@@ -83,11 +109,37 @@ _Generated 2025-09-19 00:41:58 MDT_
 | Classic Rank        | 2           |
 | Grade               | 5.10b/c YDS |
 | Stars (avg)         | 3.9         |
-| Votes               | 744         |
-| Unique Climbers     | 1209        |
-| Lifetime Ticks      | 2011        |
+| Votes               | 744.0       |
+| Unique Climbers     | 1209.0      |
+| Lifetime Ticks      | 2011.0      |
 | Avg Ticks / Climber | 1.66        |
 
+### Seasonality
+
+- Seasonality Profile: (placeholder)
+- Highest-use months in order: **June 18.0%**, **July 15.8%**, **August 15.1%**, **September 14.3%**
+
+- ❄️ **Winter (Dec–Feb)**: 2.4% **off season**
+- 🌸 **Spring (Mar–May)**: 23.2%
+- ☀️ **Summer (Jun–Aug)**: 48.8% **peak season**
+- 🍂 **Fall (Sep–Nov)**: 25.5%
+
+```text
+Jan |                              0.5%
+Feb |                              0.5%
+Mar | █                            2.3%
+Apr | ██                           8.1%
+May | ███                         12.8%
+Jun | █████                       18.0%
+Jul | ████                        15.8%
+Aug | ████                        15.1%
+Sep | ████                        14.3%
+Oct | ██                           8.2%
+Nov | █                            3.0%
+Dec |                              1.4%
+```
+
+### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber        |   Ticks |
 |-------:|:---------------|--------:|
@@ -104,7 +156,7 @@ _Generated 2025-09-19 00:41:58 MDT_
 
 ---
 
-## The Scenic Cruise (Black Canyon)
+## The Scenic Cruise
 **Area:** All Locations > Colorado > Gunnison > Black Canyon of… > N Rim Routes > N Chasm View Wall
 [Open route profile](./routes/scenic-cruise.md)
 
@@ -114,11 +166,37 @@ _Generated 2025-09-19 00:41:58 MDT_
 | Classic Rank        | 3         |
 | Grade               | 5.10d YDS |
 | Stars (avg)         | 4.0       |
-| Votes               | 287       |
-| Unique Climbers     | 435       |
-| Lifetime Ticks      | 530       |
+| Votes               | 287.0     |
+| Unique Climbers     | 435.0     |
+| Lifetime Ticks      | 530.0     |
 | Avg Ticks / Climber | 1.22      |
 
+### Seasonality
+
+- Seasonality Profile: (placeholder)
+- Highest-use months in order: **May 27.1%**, **October 26.2%**, **September 17.5%**, **June 11.7%**
+
+- ❄️ **Winter (Dec–Feb)**: 2.5% **off season**
+- 🌸 **Spring (Mar–May)**: 37.0%
+- ☀️ **Summer (Jun–Aug)**: 13.1%
+- 🍂 **Fall (Sep–Nov)**: 47.4% **peak season**
+
+```text
+Jan |                              0.5%
+Feb |                              0.2%
+Mar |                              0.5%
+Apr | ██                           9.4%
+May | ███████                     27.1%
+Jun | ███                         11.7%
+Jul |                              0.5%
+Aug |                              0.9%
+Sep | █████                       17.5%
+Oct | ███████                     26.2%
+Nov | █                            3.7%
+Dec |                              1.8%
+```
+
+### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber           |   Ticks |
 |-------:|:------------------|--------:|
@@ -135,7 +213,7 @@ _Generated 2025-09-19 00:41:58 MDT_
 
 ---
 
-## Center Route (Cathedral Spire)
+## Center Route
 **Area:** All Locations > Colorado > S Platte > Cathedral Spire… > Cynical Pinnacle
 [Open route profile](./routes/center-route-cs.md)
 
@@ -145,11 +223,37 @@ _Generated 2025-09-19 00:41:58 MDT_
 | Classic Rank        | 4        |
 | Grade               | 5.9+ YDS |
 | Stars (avg)         | 3.9      |
-| Votes               | 501      |
-| Unique Climbers     | 827      |
-| Lifetime Ticks      | 1089     |
+| Votes               | 501.0    |
+| Unique Climbers     | 827.0    |
+| Lifetime Ticks      | 1089.0   |
 | Avg Ticks / Climber | 1.32     |
 
+### Seasonality
+
+- Seasonality Profile: (placeholder)
+- Highest-use months in order: **October 20.5%**, **September 18.4%**, **August 15.3%**, **November 14.8%**
+
+- ❄️ **Winter (Dec–Feb)**: 27.0%
+- 🌸 **Spring (Mar–May)**: 2.7% **off season**
+- ☀️ **Summer (Jun–Aug)**: 16.7%
+- 🍂 **Fall (Sep–Nov)**: 53.7% **peak season**
+
+```text
+Jan | ██                           6.9%
+Feb | ███                         11.7%
+Mar |                              0.5%
+Apr |                              1.1%
+May |                              1.1%
+Jun |                              0.4%
+Jul |                              1.0%
+Aug | ████                        15.3%
+Sep | █████                       18.4%
+Oct | █████                       20.5%
+Nov | ████                        14.8%
+Dec | ██                           8.3%
+```
+
+### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber           |   Ticks |
 |-------:|:------------------|--------:|
@@ -166,7 +270,7 @@ _Generated 2025-09-19 00:41:58 MDT_
 
 ---
 
-## Country Club Crack (Boulder Canyon)
+## Country Club Crack
 **Area:** All Locations > Colorado > Boulder > Boulder Canyon > Castle Rock
 [Open route profile](./routes/country-club-crack.md)
 
@@ -176,11 +280,37 @@ _Generated 2025-09-19 00:41:58 MDT_
 | Classic Rank        | 5         |
 | Grade               | 5.11c YDS |
 | Stars (avg)         | 3.9       |
-| Votes               | 324       |
-| Unique Climbers     | 496       |
-| Lifetime Ticks      | 855       |
+| Votes               | 324.0     |
+| Unique Climbers     | 496.0     |
+| Lifetime Ticks      | 855.0     |
 | Avg Ticks / Climber | 1.72      |
 
+### Seasonality
+
+- Seasonality Profile: (placeholder)
+- Highest-use months in order: **June 15.8%**, **July 15.2%**, **September 14.3%**, **August 12.5%**
+
+- ❄️ **Winter (Dec–Feb)**: 6.6% **low season**
+- 🌸 **Spring (Mar–May)**: 24.1%
+- ☀️ **Summer (Jun–Aug)**: 43.5% **peak season**
+- 🍂 **Fall (Sep–Nov)**: 25.9%
+
+```text
+Jan |                              1.8%
+Feb | █                            2.8%
+Mar | ██                           5.8%
+Apr | ██                           7.8%
+May | ███                         10.4%
+Jun | ████                        15.8%
+Jul | ████                        15.2%
+Aug | ███                         12.5%
+Sep | ████                        14.3%
+Oct | ██                           8.2%
+Nov | █                            3.3%
+Dec | █                            1.9%
+```
+
+### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber            |   Ticks |
 |-------:|:-------------------|--------:|
@@ -197,7 +327,7 @@ _Generated 2025-09-19 00:41:58 MDT_
 
 ---
 
-## Casual Route (Long's Peak)
+## Casual Route
 **Area:** All Locations > Colorado > Alpine Rock > RMNP - Rock > Long's Peak > Diamond
 [Open route profile](./routes/casual-route.md)
 
@@ -207,11 +337,37 @@ _Generated 2025-09-19 00:41:58 MDT_
 | Classic Rank        | 6         |
 | Grade               | 5.10a YDS |
 | Stars (avg)         | 3.8       |
-| Votes               | 668       |
-| Unique Climbers     | 1094      |
-| Lifetime Ticks      | 1419      |
+| Votes               | 668.0     |
+| Unique Climbers     | 1094.0    |
+| Lifetime Ticks      | 1419.0    |
 | Avg Ticks / Climber | 1.30      |
 
+### Seasonality
+
+- Seasonality Profile: (placeholder)
+- Highest-use months in order: **August 41.5%**, **July 27.0%**, **September 20.3%**, **June 6.0%**
+
+- ❄️ **Winter (Dec–Feb)**: 1.9% **off season**
+- 🌸 **Spring (Mar–May)**: 1.6% **off season**
+- ☀️ **Summer (Jun–Aug)**: 74.5% **peak season**
+- 🍂 **Fall (Sep–Nov)**: 22.0%
+
+```text
+Jan |                              0.4%
+Feb |                              0.3%
+Mar |                              0.3%
+Apr |                              0.4%
+May |                              0.9%
+Jun | ██                           6.0%
+Jul | ███████                     27.0%
+Aug | ███████████                 41.5%
+Sep | █████                       20.3%
+Oct |                              1.0%
+Nov |                              0.8%
+Dec |                              1.2%
+```
+
+### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber        |   Ticks |
 |-------:|:---------------|--------:|
@@ -228,7 +384,7 @@ _Generated 2025-09-19 00:41:58 MDT_
 
 ---
 
-## Rewritten (Eldorado Canyon)
+## Rewritten
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Lumpe to…
 [Open route profile](./routes/eldo/rewritten.md)
 
@@ -238,11 +394,37 @@ _Generated 2025-09-19 00:41:58 MDT_
 | Classic Rank        | 7       |
 | Grade               | 5.7 YDS |
 | Stars (avg)         | 3.7     |
-| Votes               | 1800    |
-| Unique Climbers     | 3883    |
-| Lifetime Ticks      | 6054    |
+| Votes               | 1800.0  |
+| Unique Climbers     | 3883.0  |
+| Lifetime Ticks      | 6054.0  |
 | Avg Ticks / Climber | 1.56    |
 
+### Seasonality
+
+- Seasonality Profile: (placeholder)
+- Highest-use months in order: **June 13.5%**, **August 12.4%**, **May 11.4%**, **September 10.9%**
+
+- ❄️ **Winter (Dec–Feb)**: 9.4% **low season**
+- 🌸 **Spring (Mar–May)**: 27.6%
+- ☀️ **Summer (Jun–Aug)**: 36.6% **peak season**
+- 🍂 **Fall (Sep–Nov)**: 26.4%
+
+```text
+Jan | █                            2.8%
+Feb | █                            3.0%
+Mar | ██                           6.9%
+Apr | ██                           9.2%
+May | ███                         11.4%
+Jun | ████                        13.5%
+Jul | ███                         10.8%
+Aug | ███                         12.4%
+Sep | ███                         10.9%
+Oct | ██                           9.6%
+Nov | ██                           5.9%
+Dec | █                            3.6%
+```
+
+### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber        |   Ticks |
 |-------:|:---------------|--------:|
@@ -259,7 +441,7 @@ _Generated 2025-09-19 00:41:58 MDT_
 
 ---
 
-## East Face (Standard) (Third Flatiron)
+## East Face (Standard)
 **Area:** All Locations > Colorado > Boulder > Flatirons > North > Third Flatiron
 [Open route profile](./routes/East-face-3fi.md)
 
@@ -269,11 +451,37 @@ _Generated 2025-09-19 00:41:58 MDT_
 | Classic Rank        | 8       |
 | Grade               | 5.4 YDS |
 | Stars (avg)         | 3.7     |
-| Votes               | 1214    |
-| Unique Climbers     | 2355    |
-| Lifetime Ticks      | 4637    |
+| Votes               | 1214.0  |
+| Unique Climbers     | 2355.0  |
+| Lifetime Ticks      | 4637.0  |
 | Avg Ticks / Climber | 1.97    |
 
+### Seasonality
+
+- Seasonality Profile: (placeholder)
+- Highest-use months in order: **August 28.2%**, **September 22.3%**, **October 19.3%**, **November 11.2%**
+
+- ❄️ **Winter (Dec–Feb)**: 11.5%
+- 🌸 **Spring (Mar–May)**: 2.0% **off season**
+- ☀️ **Summer (Jun–Aug)**: 33.8%
+- 🍂 **Fall (Sep–Nov)**: 52.8% **peak season**
+
+```text
+Jan | █                            5.3%
+Feb |                              0.3%
+Mar |                              0.5%
+Apr |                              0.9%
+May |                              0.6%
+Jun |                              0.9%
+Jul | █                            4.6%
+Aug | ███████                     28.2%
+Sep | ██████                      22.3%
+Oct | █████                       19.3%
+Nov | ███                         11.2%
+Dec | ██                           5.9%
+```
+
+### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber        |   Ticks |
 |-------:|:---------------|--------:|
@@ -290,7 +498,7 @@ _Generated 2025-09-19 00:41:58 MDT_
 
 ---
 
-## The Yellow Spur (Eldorado Canyon)
+## The Yellow Spur
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower One
 [Open route profile](./routes/eldo/yellow-spur.md)
 
@@ -300,11 +508,37 @@ _Generated 2025-09-19 00:41:58 MDT_
 | Classic Rank        | 9        |
 | Grade               | 5.9+ YDS |
 | Stars (avg)         | 3.7      |
-| Votes               | 1354     |
-| Unique Climbers     | 2415     |
-| Lifetime Ticks      | 4293     |
+| Votes               | 1354.0   |
+| Unique Climbers     | 2415.0   |
+| Lifetime Ticks      | 4293.0   |
 | Avg Ticks / Climber | 1.78     |
 
+### Seasonality
+
+- Seasonality Profile: (placeholder)
+- Highest-use months in order: **June 13.0%**, **August 11.8%**, **September 11.3%**, **July 11.2%**
+
+- ❄️ **Winter (Dec–Feb)**: 8.9% **low season**
+- 🌸 **Spring (Mar–May)**: 26.1%
+- ☀️ **Summer (Jun–Aug)**: 36.0% **peak season**
+- 🍂 **Fall (Sep–Nov)**: 28.9%
+
+```text
+Jan | █                            2.5%
+Feb | █                            2.8%
+Mar | ██                           5.9%
+Apr | ██                           9.4%
+May | ███                         10.8%
+Jun | ███                         13.0%
+Jul | ███                         11.2%
+Aug | ███                         11.8%
+Sep | ███                         11.3%
+Oct | ███                         11.2%
+Nov | ██                           6.4%
+Dec | █                            3.6%
+```
+
+### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber          |   Ticks |
 |-------:|:-----------------|--------:|
@@ -321,7 +555,7 @@ _Generated 2025-09-19 00:41:58 MDT_
 
 ---
 
-## Direct Route (First Flatiron)
+## Direct Route
 **Area:** All Locations > Colorado > Boulder > Flatirons > North > First Flatiron
 [Open route profile](./routes/East-face-1fi.md)
 
@@ -331,11 +565,37 @@ _Generated 2025-09-19 00:41:58 MDT_
 | Classic Rank        | 10      |
 | Grade               | 5.6 YDS |
 | Stars (avg)         | 3.6     |
-| Votes               | 1357    |
-| Unique Climbers     | 2746    |
-| Lifetime Ticks      | 6354    |
+| Votes               | 1357.0  |
+| Unique Climbers     | 2746.0  |
+| Lifetime Ticks      | 6354.0  |
 | Avg Ticks / Climber | 2.31    |
 
+### Seasonality
+
+- Seasonality Profile: (placeholder)
+- Highest-use months in order: **June 15.7%**, **July 12.5%**, **May 12.3%**, **August 11.2%**
+
+- ❄️ **Winter (Dec–Feb)**: 6.7% **low season**
+- 🌸 **Spring (Mar–May)**: 28.9%
+- ☀️ **Summer (Jun–Aug)**: 39.4% **peak season**
+- 🍂 **Fall (Sep–Nov)**: 25.0%
+
+```text
+Jan |                              1.7%
+Feb | █                            1.9%
+Mar | ██                           6.4%
+Apr | ███                         10.2%
+May | ███                         12.3%
+Jun | ████                        15.7%
+Jul | ███                         12.5%
+Aug | ███                         11.2%
+Sep | ███                         10.0%
+Oct | ███                          9.8%
+Nov | █                            5.1%
+Dec | █                            3.1%
+```
+
+### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber        |   Ticks |
 |-------:|:---------------|--------:|
