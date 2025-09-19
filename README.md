@@ -116,18 +116,17 @@ Colorado hosts some of North America’s most storied stone, from Eldorado Canyo
 
 ```
 Colorado-climbing-route-analysis/
-├─ assets/ # Static images, figures, or screenshots for README/docs
-├─ data/ # Raw & processed CSVs
-├─ docs/ # Leaderboards (published)
-├─ scripts/ # Scraping, ETL, EDA, modeling
-│  │  ├─ scraping/          # Selenium/requests scrapers + helpers
-│  │  ├─ leaderboards/      # build docs, link fixers, md composers
-│  │  ├─ analysis/          # EDA, modeling, clustering, forecasts
-│  │  └─ automation/        # runner scripts to automate the full workflow 
-├─ sql/ # PostgreSQL schema + queries used in analysis
-├─ outputs/ # Final datasets & visualizations
-├─ README.md # Project summary
-└─ LICENSE.md # Licensing information
+├─ assets/        # Images and figures for README/docs
+├─ data/          # Raw & processed CSVs
+├─ docs/          # Published leaderboards
+├─ scripts/       # Scraping, ETL, analysis, automation
+├─ sql/           # PostgreSQL schema & queries
+├─ outputs/       # Final datasets & visualizations
+├─ README.md      # Project summary
+├─ LICENSE.md     # Licensing
+├─ .gitattributes
+├─ DOCS_CONVENTIONS.md
+└─ NAMING_CONVENTIONS.md
 ```
 
 ## Conclusion
