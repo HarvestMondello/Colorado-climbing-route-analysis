@@ -1,5 +1,5 @@
 # Colorado Climbing Route Leaderboards - Top 10 Routes
-_Generated 2025-09-19 17:26:33 MDT_
+_Generated 2025-09-20 01:53:30 MDT_
 
 **[Top 100 Users by Score](#top-100-users-by-score)**
 
@@ -10,7 +10,7 @@ _Generated 2025-09-19 17:26:33 MDT_
 |---------------:|:--------------------------------------------|
 |              1 | [The Naked Edge](#the-naked-edge)           |
 |              2 | [Outer Space](#outer-space)                 |
-|              3 | [The Scenic Cruise](#the-scenic-cruise)     |s
+|              3 | [The Scenic Cruise](#the-scenic-cruise)     |
 |              4 | [Center Route](#center-route)               |
 |              5 | [Country Club Crack](#country-club-crack)   |
 |              6 | [Casual Route](#casual-route)               |
@@ -18,7 +18,6 @@ _Generated 2025-09-19 17:26:33 MDT_
 |              8 | [East Face (Standard)](#east-face-standard) |
 |              9 | [The Yellow Spur](#the-yellow-spur)         |
 |             10 | [Direct Route](#direct-route)               |
-
 
 **Grades Summary:**
 | Bucket   |   Routes |
@@ -44,7 +43,7 @@ _Generated 2025-09-19 17:26:33 MDT_
 
 ## The Naked Edge
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower Two
-[Open route profile](./routes/eldo/naked-edge.md)
+[Open route profile](./routes/eldo/naked_edge.md)
 
 ### Summary
 | Metric              | Value     |
@@ -67,7 +66,8 @@ _Generated 2025-09-19 17:26:33 MDT_
 - ☀️ **Summer (Jun–Aug)**: 29.1%
 - 🍂 **Fall (Sep–Nov)**: 35.8% **peak season**
 
-```text
+### Seasonality Usage by Month
+```
 Jan | █                            2.9%
 Feb | █                            2.8%
 Mar | ██                           5.8%
@@ -82,7 +82,6 @@ Nov | ██                           7.2%
 Dec | █                            3.6%
 ```
 
-### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber                      |   Ticks |
 |-------:|:-----------------------------|--------:|
@@ -101,7 +100,7 @@ Dec | █                            3.6%
 
 ## Outer Space
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Bastille > Bastille - N Face
-[Open route profile](./routes/eldo/outer-space.md)
+[Open route profile](./routes/eldo/outer_space.md)
 
 ### Summary
 | Metric              | Value       |
@@ -124,7 +123,8 @@ Dec | █                            3.6%
 - ☀️ **Summer (Jun–Aug)**: 48.8% **peak season**
 - 🍂 **Fall (Sep–Nov)**: 25.5%
 
-```text
+### Seasonality Usage by Month
+```
 Jan |                              0.5%
 Feb |                              0.5%
 Mar | █                            2.3%
@@ -139,7 +139,6 @@ Nov | █                            3.0%
 Dec |                              1.4%
 ```
 
-### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber        |   Ticks |
 |-------:|:---------------|--------:|
@@ -158,7 +157,7 @@ Dec |                              1.4%
 
 ## The Scenic Cruise
 **Area:** All Locations > Colorado > Gunnison > Black Canyon of… > N Rim Routes > N Chasm View Wall
-[Open route profile](./routes/scenic-cruise.md)
+[Open route profile](./routes/scenic_cruise.md)
 
 ### Summary
 | Metric              | Value     |
@@ -181,7 +180,8 @@ Dec |                              1.4%
 - ☀️ **Summer (Jun–Aug)**: 13.1%
 - 🍂 **Fall (Sep–Nov)**: 47.4% **peak season**
 
-```text
+### Seasonality Usage by Month
+```
 Jan |                              0.5%
 Feb |                              0.2%
 Mar |                              0.5%
@@ -196,7 +196,6 @@ Nov | █                            3.7%
 Dec |                              1.8%
 ```
 
-### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber           |   Ticks |
 |-------:|:------------------|--------:|
@@ -215,7 +214,7 @@ Dec |                              1.8%
 
 ## Center Route
 **Area:** All Locations > Colorado > S Platte > Cathedral Spire… > Cynical Pinnacle
-[Open route profile](./routes/center-route-cs.md)
+[Open route profile](./routes/center_route_cs.md)
 
 ### Summary
 | Metric              | Value    |
@@ -238,7 +237,8 @@ Dec |                              1.8%
 - ☀️ **Summer (Jun–Aug)**: 16.7%
 - 🍂 **Fall (Sep–Nov)**: 53.7% **peak season**
 
-```text
+### Seasonality Usage by Month
+```
 Jan | ██                           6.9%
 Feb | ███                         11.7%
 Mar |                              0.5%
@@ -253,7 +253,6 @@ Nov | ████                        14.8%
 Dec | ██                           8.3%
 ```
 
-### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber           |   Ticks |
 |-------:|:------------------|--------:|
@@ -272,7 +271,7 @@ Dec | ██                           8.3%
 
 ## Country Club Crack
 **Area:** All Locations > Colorado > Boulder > Boulder Canyon > Castle Rock
-[Open route profile](./routes/country-club-crack.md)
+[Open route profile](./routes/country_club_crack.md)
 
 ### Summary
 | Metric              | Value     |
@@ -295,7 +294,8 @@ Dec | ██                           8.3%
 - ☀️ **Summer (Jun–Aug)**: 43.5% **peak season**
 - 🍂 **Fall (Sep–Nov)**: 25.9%
 
-```text
+### Seasonality Usage by Month
+```
 Jan |                              1.8%
 Feb | █                            2.8%
 Mar | ██                           5.8%
@@ -310,7 +310,6 @@ Nov | █                            3.3%
 Dec | █                            1.9%
 ```
 
-### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber            |   Ticks |
 |-------:|:-------------------|--------:|
@@ -329,7 +328,7 @@ Dec | █                            1.9%
 
 ## Casual Route
 **Area:** All Locations > Colorado > Alpine Rock > RMNP - Rock > Long's Peak > Diamond
-[Open route profile](./routes/casual-route.md)
+[Open route profile](./routes/casual_route.md)
 
 ### Summary
 | Metric              | Value     |
@@ -352,7 +351,8 @@ Dec | █                            1.9%
 - ☀️ **Summer (Jun–Aug)**: 74.5% **peak season**
 - 🍂 **Fall (Sep–Nov)**: 22.0%
 
-```text
+### Seasonality Usage by Month
+```
 Jan |                              0.4%
 Feb |                              0.3%
 Mar |                              0.3%
@@ -367,7 +367,6 @@ Nov |                              0.8%
 Dec |                              1.2%
 ```
 
-### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber        |   Ticks |
 |-------:|:---------------|--------:|
@@ -409,7 +408,8 @@ Dec |                              1.2%
 - ☀️ **Summer (Jun–Aug)**: 36.6% **peak season**
 - 🍂 **Fall (Sep–Nov)**: 26.4%
 
-```text
+### Seasonality Usage by Month
+```
 Jan | █                            2.8%
 Feb | █                            3.0%
 Mar | ██                           6.9%
@@ -424,7 +424,6 @@ Nov | ██                           5.9%
 Dec | █                            3.6%
 ```
 
-### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber        |   Ticks |
 |-------:|:---------------|--------:|
@@ -443,7 +442,7 @@ Dec | █                            3.6%
 
 ## East Face (Standard)
 **Area:** All Locations > Colorado > Boulder > Flatirons > North > Third Flatiron
-[Open route profile](./routes/East-face-3fi.md)
+[Open route profile](./routes/east_face_3fi.md)
 
 ### Summary
 | Metric              | Value   |
@@ -466,7 +465,8 @@ Dec | █                            3.6%
 - ☀️ **Summer (Jun–Aug)**: 33.8%
 - 🍂 **Fall (Sep–Nov)**: 52.8% **peak season**
 
-```text
+### Seasonality Usage by Month
+```
 Jan | █                            5.3%
 Feb |                              0.3%
 Mar |                              0.5%
@@ -481,7 +481,6 @@ Nov | ███                         11.2%
 Dec | ██                           5.9%
 ```
 
-### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber        |   Ticks |
 |-------:|:---------------|--------:|
@@ -500,7 +499,7 @@ Dec | ██                           5.9%
 
 ## The Yellow Spur
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower One
-[Open route profile](./routes/eldo/yellow-spur.md)
+[Open route profile](./routes/eldo/yellow_spur.md)
 
 ### Summary
 | Metric              | Value    |
@@ -523,7 +522,8 @@ Dec | ██                           5.9%
 - ☀️ **Summer (Jun–Aug)**: 36.0% **peak season**
 - 🍂 **Fall (Sep–Nov)**: 28.9%
 
-```text
+### Seasonality Usage by Month
+```
 Jan | █                            2.5%
 Feb | █                            2.8%
 Mar | ██                           5.9%
@@ -538,7 +538,6 @@ Nov | ██                           6.4%
 Dec | █                            3.6%
 ```
 
-### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber          |   Ticks |
 |-------:|:-----------------|--------:|
@@ -557,7 +556,7 @@ Dec | █                            3.6%
 
 ## Direct Route
 **Area:** All Locations > Colorado > Boulder > Flatirons > North > First Flatiron
-[Open route profile](./routes/East-face-1fi.md)
+[Open route profile](./routes/east_face_1fi.md)
 
 ### Summary
 | Metric              | Value   |
@@ -580,7 +579,8 @@ Dec | █                            3.6%
 - ☀️ **Summer (Jun–Aug)**: 39.4% **peak season**
 - 🍂 **Fall (Sep–Nov)**: 25.0%
 
-```text
+### Seasonality Usage by Month
+```
 Jan |                              1.7%
 Feb | █                            1.9%
 Mar | ██                           6.4%
@@ -595,7 +595,6 @@ Nov | █                            5.1%
 Dec | █                            3.1%
 ```
 
-### Top 10 Climbers
 ### Top 10 Climbers
 |   Rank | Climber        |   Ticks |
 |-------:|:---------------|--------:|
