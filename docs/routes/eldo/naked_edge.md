@@ -10,12 +10,8 @@
 - **First Ascent:** Layton Kor & Rick Horn, 1964 (lower 3 pitches: Kor & Bob Culp, 1962)  
 - **First Free Ascent:** Jim Erickson & Duncan Ferguson, 1971  
 
----
-
 ## Summary  
 *The Naked Edge* is considered the crown jewel of Eldorado Canyon and one of the most iconic multipitch climbs in North America. With striking exposure, continuous difficulty, and historic significance, it remains a must-do for generations of climbers. In this analysis, the route stands out as both a **cultural landmark** and a **high-traffic classic**.  
-
----
 
 ## Route Characteristics  
 - Striking arete and dihedral route is visible across Eldorado Canyon from the main road and from The Bastille formation.  
@@ -24,7 +20,6 @@
 - Protection is generally good, with some runouts to PG-13, but the commitment and pump factor add to its bold reputation.  
 - **beta spoiler alert** First person view of the route (beta spoiler for gear and movement)
 - [First person view climb of The Naked Edge with pro (beta spoiler alert!)](https://www.youtube.com/watch?v=c8RxXWB1TZw&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX). Video by Max Manson. Max has climbed the route over 50 times and the style shown in simul-climbing in a pitch (IAP).
----
 
 ## Historical Context  
 - **1964:** First ascent by Layton Kor & Rick Horn (upper pitches); lower pitches by Kor & Bob Culp, 1962 (aid).  
@@ -61,8 +56,6 @@
 - - [GPS Verification of Naked Edge FKT - 37:11 B2B](https://strava.app.link/QmSTqth4IWb)
 - **All Women first FKT**: 37:21 B2B | 9/x/2021 | Kate Kelleghan & Becca Droz 
 
----
-
 ## Analysis Highlights (from dataset)  
 - **Lifetime ticks:** 2,800+ as of 9/9/2025  
 - **Unique climbers:** 720+ as of 9/9/2025  
@@ -72,7 +65,6 @@
 - **Consensus:** Stable at 5.11b, with strong agreement among climbers and considered sandbagged aka hard for the grade.  
 - **Classic Rank:** Rated the #1 route by **classic score** in Colorado.  
 - **Leaderboards:** As of **9/9/2025**, **Stefan Griebel** leads with over **385** public ticks logged. *Some of his main climbing partners, such as Kishen Mangat (120+ climbs), do not record their ticks in the public database.*
-
 
 ### Seasonality 
 - Breakdown of all ticks by season, showing traffic patterns.
@@ -85,8 +77,6 @@
 - ☀️ **Summer (Jun–Aug):** 29%  
 - 🍂 **Fall (Sep–Nov):** 36% **peak season**
 
----
-
 ## References  
 - [Leaderboards.md with up-to-date stats](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)  
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
@@ -94,13 +84,62 @@
 - [All Women FKT](https://www.climbing.com/news/fast-and-furious/) 
 - [FKT History](https://gripped.com/routes/less-than-23-minutes-needed-for-this-famous-six-pitch-5-11/) 
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748786/the-naked-edge)
----
+
 
 <!-- AUTO:METRICS:START -->
+### Metrics
+
+| Metric              | Value     |
+|:--------------------|:----------|
+| Classic Rank         |           |
+| Grade                | 5.11b YDS |
+| Location             | Redgarden - Tower Two |
+| Stars (avg)          | 3.9       |
+| Votes                | 505.0     |
+| Unique Climbers      | 709.0     |
+| Lifetime Ticks       | 2724.0    |
+| Avg Ticks / Climber  | 3.84      |
 <!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
+### Seasonality
+
+#### Meteorological Seasons
+- ❄️ **Winter (Dec–Feb)**: 9.3% **low season**
+- 🌸 **Spring (Mar–May)**: 25.8%
+- ☀️ **Summer (Jun–Aug)**: 29.1%
+- 🍂 **Fall (Sep–Nov)**: 35.8% **high season**
+
+### Seasonality Usage by Month
+```
+Jan | █                              2.9%
+Feb | █                              2.8%
+Mar | ██                             5.8%
+Apr | ███                            8.8%
+May | ███                           11.2%
+Jun | ███                           11.7%
+Jul | ██                             8.1%
+Aug | ███                            9.3%
+Sep | ████                          14.2%
+Oct | ████                          14.3%
+Nov | ██                             7.2%
+Dec | █                              3.6%
+```
 <!-- AUTO:SEASONALITY:END -->
 
 <!-- AUTO:TOP_CLIMBERS:START -->
+### Leaderboards
+
+| Rank | Climber | Ticks |
+|-----:|:--------|------:|
+| 1 | Stefan Griebel:379 | 379 |
+| 2 | Jack Neus:167 | 167 |
+| 3 | WadeM:128 | 128 |
+| 4 | Joe Kennedy:121 | 121 |
+| 5 | John Alcorn:119 | 119 |
+| 6 | ChossCrimper TopRopePrincess:108 | 108 |
+| 7 | Choss Pirate:89 | 89 |
+| 8 | Eddie Taylor:83 | 83 |
+| 9 | Kate pinktapegloves:70 | 70 |
+| 10 | Max Manson:51 | 51 |
 <!-- AUTO:TOP_CLIMBERS:END -->
