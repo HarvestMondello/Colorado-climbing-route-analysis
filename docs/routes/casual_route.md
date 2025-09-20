@@ -42,26 +42,6 @@ Any narrative insights you want to keep hand-written.
 - 🍂 **Fall (Sep–Nov)**: 22.0%
 
 ### Seasonality Usage by Month
-```mermaid
-pie showData
-  title Seasonality Usage by Month
-  "Jan" : 0.4
-  "Feb" : 0.3
-  "Mar" : 0.3
-  "Apr" : 0.4
-  "May" : 0.9
-  "Jun" : 6.0
-  "Jul" : 27.0
-  "Aug" : 41.5
-  "Sep" : 20.3
-  "Oct" : 1.0
-  "Nov" : 0.8
-  "Dec" : 1.2
-```
-
-<details>
-<summary>Text fallback (expand if the chart doesn't render)</summary>
-
 ```
 Jan | █                              0.4%
 Feb | █                              0.3%
@@ -76,7 +56,6 @@ Oct | █                              1.0%
 Nov | █                              0.8%
 Dec | █                              1.2%
 ```
-</details>
 <!-- AUTO:SEASONALITY:END -->
 
 <!-- AUTO:TOP_CLIMBERS:START -->
