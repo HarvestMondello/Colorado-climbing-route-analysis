@@ -18,14 +18,11 @@ Any narrative insights you want to keep hand-written.
 
 ---
 
-<!-- AUTO:SUMMARY:START -->
-<!-- AUTO:SUMMARY:END -->
+<!-- AUTO:METRICS:START -->
+<!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
 <!-- AUTO:SEASONALITY:END -->
-
-<!-- AUTO:METRICS:START -->
-<!-- AUTO:METRICS:END -->
 
 <!-- AUTO:TOP_CLIMBERS:START -->
 <!-- AUTO:TOP_CLIMBERS:END -->
