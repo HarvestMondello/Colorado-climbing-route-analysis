@@ -82,11 +82,14 @@
 - [Leaderboards.md with up-to-date stats](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)  
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024 
 - Danny Gilbert was consulted for the history of FKT's on the Yellow Spur. 
-- [Mountain Project Entry](https://www.mountainproject.com/route/105748657/the-yellow-spur)  
+- [Mountain Project Entry](https://www.mountainproject.com/route/105748657/the-yellow-spur)
+---
 
+<!-- AUTO:METRICS:START -->
+<!-- AUTO:METRICS:END -->
 
+<!-- AUTO:SEASONALITY:START -->
+<!-- AUTO:SEASONALITY:END -->
 
-
-
-
-
+<!-- AUTO:TOP_CLIMBERS:START -->
+<!-- AUTO:TOP_CLIMBERS:END -->

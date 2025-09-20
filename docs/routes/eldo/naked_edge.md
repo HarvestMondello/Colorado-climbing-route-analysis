@@ -93,8 +93,14 @@
 - [Women's FKT](https://ca.coros.com/stories/d/naked-edge-womens-speed-record-kate-kelleghan-laura-pineau) 
 - [All Women FKT](https://www.climbing.com/news/fast-and-furious/) 
 - [FKT History](https://gripped.com/routes/less-than-23-minutes-needed-for-this-famous-six-pitch-5-11/) 
-- [Mountain Project Entry](https://www.mountainproject.com/route/105748786/the-naked-edge)  
+- [Mountain Project Entry](https://www.mountainproject.com/route/105748786/the-naked-edge)
+---
 
+<!-- AUTO:METRICS:START -->
+<!-- AUTO:METRICS:END -->
 
+<!-- AUTO:SEASONALITY:START -->
+<!-- AUTO:SEASONALITY:END -->
 
-
+<!-- AUTO:TOP_CLIMBERS:START -->
+<!-- AUTO:TOP_CLIMBERS:END -->
