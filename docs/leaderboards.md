@@ -214,7 +214,7 @@ Dec |                              1.8%
 
 ## Center Route
 **Area:** All Locations > Colorado > S Platte > Cathedral Spire… > Cynical Pinnacle
-[Open route profile](./routes/center_route_cs.md)
+[Open route profile](./routes/center_route.md)
 
 ### Summary
 | Metric              | Value    |
@@ -442,7 +442,7 @@ Dec | █                            3.6%
 
 ## East Face (Standard)
 **Area:** All Locations > Colorado > Boulder > Flatirons > North > Third Flatiron
-[Open route profile](./routes/east_face_3fi.md)
+[Open route profile](./routes/east_face_standard.md)
 
 ### Summary
 | Metric              | Value   |
@@ -556,7 +556,7 @@ Dec | █                            3.6%
 
 ## Direct Route
 **Area:** All Locations > Colorado > Boulder > Flatirons > North > First Flatiron
-[Open route profile](./routes/east_face_1fi.md)
+[Open route profile](./routes/direct_route.md)
 
 ### Summary
 | Metric              | Value   |
@@ -762,3 +762,4 @@ Dec | █                            3.1%
 ### License
 
 Created by Harvest Mondello. You're welcome to use this project for **personal** or **educational** purposes! Feel free to explore, adapt, and learn from the code and visuals. Just note that **commercial use isn’t permitted** without permission. See [LICENSE.md](https://github.com/HarvestMondello/mount-rainier-climbing-weather-optimization/blob/main/LICENSE.MD) for full details and contact info.
+
