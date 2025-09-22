@@ -1,5 +1,5 @@
 # Colorado Climbing Route Leaderboards - Top 10 Routes
-_Generated 2025-09-20 01:53:30 MDT_
+_Generated 2025-09-22 15:14:48 MDT_
 
 **[Top 100 Users by Score](#top-100-users-by-score)**
 
@@ -43,7 +43,7 @@ _Generated 2025-09-20 01:53:30 MDT_
 
 ## The Naked Edge
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower Two
-[Open route profile](./routes/eldo/naked_edge.md)
+[Open route profile](./routes/eldo/naked-edge.md)
 
 ### Summary
 | Metric              | Value     |
@@ -100,7 +100,7 @@ Dec | █                            3.6%
 
 ## Outer Space
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Bastille > Bastille - N Face
-[Open route profile](./routes/eldo/outer_space.md)
+[Open route profile](./routes/eldo/outer-space.md)
 
 ### Summary
 | Metric              | Value       |
@@ -157,7 +157,7 @@ Dec |                              1.4%
 
 ## The Scenic Cruise
 **Area:** All Locations > Colorado > Gunnison > Black Canyon of… > N Rim Routes > N Chasm View Wall
-[Open route profile](./routes/scenic_cruise.md)
+[Open route profile](./routes/scenic-cruise.md)
 
 ### Summary
 | Metric              | Value     |
@@ -214,7 +214,7 @@ Dec |                              1.8%
 
 ## Center Route
 **Area:** All Locations > Colorado > S Platte > Cathedral Spire… > Cynical Pinnacle
-[Open route profile](./routes/center_route.md)
+[Open route profile](./routes/center-route.md)
 
 ### Summary
 | Metric              | Value    |
@@ -271,7 +271,7 @@ Dec | ██                           8.3%
 
 ## Country Club Crack
 **Area:** All Locations > Colorado > Boulder > Boulder Canyon > Castle Rock
-[Open route profile](./routes/country_club_crack.md)
+[Open route profile](./routes/country-club-crack.md)
 
 ### Summary
 | Metric              | Value     |
@@ -328,7 +328,7 @@ Dec | █                            1.9%
 
 ## Casual Route
 **Area:** All Locations > Colorado > Alpine Rock > RMNP - Rock > Long's Peak > Diamond
-[Open route profile](./routes/casual_route.md)
+[Open route profile](./routes/casual-route.md)
 
 ### Summary
 | Metric              | Value     |
@@ -442,7 +442,7 @@ Dec | █                            3.6%
 
 ## East Face (Standard)
 **Area:** All Locations > Colorado > Boulder > Flatirons > North > Third Flatiron
-[Open route profile](./routes/east_face_standard.md)
+[Open route profile](./routes/east-face-standard.md)
 
 ### Summary
 | Metric              | Value   |
@@ -499,7 +499,7 @@ Dec | ██                           5.9%
 
 ## The Yellow Spur
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower One
-[Open route profile](./routes/eldo/yellow_spur.md)
+[Open route profile](./routes/eldo/yellow-spur.md)
 
 ### Summary
 | Metric              | Value    |
@@ -556,7 +556,7 @@ Dec | █                            3.6%
 
 ## Direct Route
 **Area:** All Locations > Colorado > Boulder > Flatirons > North > First Flatiron
-[Open route profile](./routes/direct_route.md)
+[Open route profile](./routes/direct-route.md)
 
 ### Summary
 | Metric              | Value   |
@@ -762,4 +762,3 @@ Dec | █                            3.1%
 ### License
 
 Created by Harvest Mondello. You're welcome to use this project for **personal** or **educational** purposes! Feel free to explore, adapt, and learn from the code and visuals. Just note that **commercial use isn’t permitted** without permission. See [LICENSE.md](https://github.com/HarvestMondello/mount-rainier-climbing-weather-optimization/blob/main/LICENSE.MD) for full details and contact info.
-
