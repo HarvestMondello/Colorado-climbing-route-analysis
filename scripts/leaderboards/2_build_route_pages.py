@@ -9,24 +9,30 @@ Writes (in this exact order, once each):
 
 Key behavior:
 - Searches ALL subfolders for .md via rglob("*.md").
-- Robust matching between CSV route name and .md files by:
-  - Using H1 '# Route Profile: <name>' if present (warning on mismatch, still update).
-  - Falling back to filename.
-  - Ignoring leading articles ('the', 'a', 'an').
-  - Treating spaces, hyphens, and underscores as equivalent.
-  - Normalizing punctuation/case.
+- Robust matching between CSV route name and .md files:
+  - Uses H1 '# Route Profile: <name>' if present (warns on mismatch, still updates).
+  - Falls back to filename stem.
+  - Ignores leading articles ('the', 'a', 'an').
+  - Treats spaces, hyphens, and underscores as equivalent.
+  - Handles duplicate route names by keeping all candidates and
+    selecting the best via Area Hierarchy tokens, then filename stem, then path length.
+- Idempotent by default; add --force to rewrite even without diffs.
+
+Also reports BOTH sides:
+- CSV routes matched/updated/unchanged/missing
+- Folder .md files discovered/processed (matched)/not matched (orphans)
 
 Usage:
   python scripts/leaderboards/build_route_pages.py \
     --dataset <joined_route_tick_cleaned.csv> \
     --routes-dir <docs/routes> \
-    [--leaderboards docs/leaderboards.md] [--dry-run] [--no-backup]
+    [--leaderboards docs/leaderboards.md] [--dry-run] [--no-backup] [--force]
 """
 
 from __future__ import annotations
 import argparse, re, sys, unicodedata
 from pathlib import Path
-from typing import Dict, List, Optional, Iterable, Set
+from typing import Dict, List, Optional, Set
 import pandas as pd
 
 # ----------------------
@@ -70,11 +76,9 @@ ARTICLES = ("the ", "a ", "an ")
 # String normalization & key generation
 # ----------------------
 def _strip_accents(s: str) -> str:
-    # NFKD normalize and strip combining marks
     return "".join(ch for ch in unicodedata.normalize("NFKD", s) if not unicodedata.combining(ch))
 
 def _base_clean(s: str) -> str:
-    """Lowercase, strip spaces, remove most punctuation (keep - _ and spaces), collapse whitespace."""
     if not isinstance(s, str):
         return ""
     s = _strip_accents(s)
@@ -90,17 +94,14 @@ def _drop_leading_article(s: str) -> str:
     return s
 
 def kebab(s: str) -> str:
-    s = _base_clean(s)
-    s = s.replace("_", " ")
+    s = _base_clean(s).replace("_", " ")
     return re.sub(r"[\s_]+","-", s).strip("-")
 
 def snake(s: str) -> str:
-    s = _base_clean(s)
-    s = s.replace("-", " ")
+    s = _base_clean(s).replace("-", " ")
     return re.sub(r"[\s-]+","_", s).strip("_")
 
 def norm_loose(s: str) -> str:
-    """Very loose key: remove -, _, collapse spaces; drop leading article."""
     s = _base_clean(s)
     s = _drop_leading_article(s)
     s = s.replace("-", " ").replace("_", " ")
@@ -108,39 +109,16 @@ def norm_loose(s: str) -> str:
     return s
 
 def generate_keys(name: str) -> List[str]:
-    """
-    Generate a set of alias keys for matching:
-    - kebab / snake of original
-    - kebab / snake of article-dropped
-    - loose norm with:
-        * spaces
-        * spaces->'-'
-        * spaces->'_'
-    """
     base = _base_clean(name)
     no_article = _drop_leading_article(base)
-
     keys: Set[str] = set()
-
-    # original
-    keys.add(kebab(base))
-    keys.add(snake(base))
-
-    # article-dropped
-    keys.add(kebab(no_article))
-    keys.add(snake(no_article))
-
-    # very loose variants
-    loose = norm_loose(name)            # 'naked edge'
-    keys.add(loose)                     # 'naked edge'
-    keys.add(loose.replace(" ", "-"))   # 'naked-edge'
-    keys.add(loose.replace(" ", "_"))   # 'naked_edge'
-
-    # also add raw stems just in case
-    keys.add(base)
-    keys.add(no_article)
-
-    # ensure lowercase
+    keys.add(kebab(base));        keys.add(snake(base))
+    keys.add(kebab(no_article));  keys.add(snake(no_article))
+    loose = norm_loose(name)
+    keys.add(loose)
+    keys.add(loose.replace(" ", "-"))
+    keys.add(loose.replace(" ", "_"))
+    keys.add(base); keys.add(no_article)
     return [k.lower() for k in keys if k]
 
 # ----------------------
@@ -150,13 +128,10 @@ def read_csv(path: Path) -> pd.DataFrame:
     return pd.read_csv(path)
 
 def map_month_cols(df: pd.DataFrame) -> List[str]:
-    """Return month columns in canonical order, case-insensitive."""
     lm = {c.lower(): c for c in df.columns}
-    cols = [lm[m.lower()] for m in MONTHS if m.lower() in lm]
-    return cols
+    return [lm[m.lower()] for m in MONTHS if m.lower() in lm]
 
 def find_col(df: pd.DataFrame, candidates: List[str]) -> Optional[str]:
-    """Find a column by trying multiple candidate names (case-insensitive)."""
     for c in candidates:
         if c in df.columns:
             return c
@@ -170,15 +145,32 @@ def extract_h1_name(md: str) -> Optional[str]:
     m = H1_RE.search(md)
     return m.group(1).strip() if m else None
 
-def index_markdown(routes_dir: Path) -> Dict[str, Path]:
+# ---------- Area tokens ----------
+def area_tokens(area_hierarchy: Optional[str]) -> Set[str]:
     """
-    Index .md pages by multiple keys derived from:
-    - H1 ('# Route Profile: <name>') if present
-    - Filename stem
-    Includes snake/kebab/article-dropped/loose variants.
-    Searches subfolders with rglob.
+    Convert Area Hierarchy to a bag of tokens for path disambiguation.
     """
-    idx: Dict[str, Path] = {}
+    if not isinstance(area_hierarchy, str) or not area_hierarchy.strip():
+        return set()
+    s = _base_clean(area_hierarchy)
+    s = re.sub(r"(?i)^all locations\s*>\s*", "", s)
+    parts = [p.strip() for p in s.split(">") if p.strip()]
+    tokens: Set[str] = set()
+    for p in parts:
+        for t in re.split(r"[\s\-_/]+", p):
+            if t:
+                tokens.add(t)
+    return tokens
+
+# ----------------------
+# Index markdown: key -> list[Path]
+# ----------------------
+def index_markdown(routes_dir: Path) -> Dict[str, List[Path]]:
+    idx: Dict[str, List[Path]] = {}
+    def add(key: str, p: Path):
+        key = key.lower()
+        idx.setdefault(key, []).append(p)
+
     for p in routes_dir.rglob("*.md"):
         if p.name.endswith(".bak.md") or p.suffix.endswith(".bak"):
             continue
@@ -191,18 +183,55 @@ def index_markdown(routes_dir: Path) -> Dict[str, Path]:
         name = extract_h1_name(txt)
         if name:
             for k in generate_keys(name):
-                idx[k] = p
+                add(k, p)
 
         # From filename stem
         stem = p.stem
         for k in generate_keys(stem):
-            idx[k] = p
+            add(k, p)
     return idx
 
-def read_ranks(leaderboards_md: Optional[Path]) -> Dict[str,int]:
-    """Parse ranks from leaderboards table lines like:
-       |  1 | [The Naked Edge](#the-naked-edge)
+# ---------- Disambiguation among multiple file candidates ----------
+def pick_best_path(candidates: List[Path], area_hint: Optional[str], route_name: str) -> Optional[Path]:
     """
+    Disambiguate multiple .md paths:
+      1) Prefer paths whose folder path contains any token from Area Hierarchy.
+      2) Prefer exact filename stem matches to snake/kebab variants of route_name (with/without article).
+      3) Prefer shortest path (least nested) as a stable fallback.
+    """
+    if not candidates:
+        return None
+    if len(candidates) == 1:
+        return candidates[0]
+
+    path_strs = [c.as_posix().lower() for c in candidates]
+    tokens = area_tokens(area_hint)
+
+    if tokens:
+        scored = []
+        for p, s in zip(candidates, path_strs):
+            hits = sum(1 for t in tokens if t and t in s)
+            scored.append((hits, p))
+        scored.sort(key=lambda x: (-x[0], len(x[1].as_posix())))
+        if scored[0][0] > 0:
+            return scored[0][1]
+
+    # Try filename stem exacts
+    stems = {
+        snake(route_name),
+        kebab(route_name),
+        snake(_drop_leading_article(_base_clean(route_name))),
+        kebab(_drop_leading_article(_base_clean(route_name))),
+    }
+    stem_map = {c.stem.lower(): c for c in candidates}
+    for st in stems:
+        if st.lower() in stem_map:
+            return stem_map[st.lower()]
+
+    # Fallback: shortest path (least nested)
+    return sorted(candidates, key=lambda p: len(p.as_posix()))[0]
+
+def read_ranks(leaderboards_md: Optional[Path]) -> Dict[str,int]:
     if not leaderboards_md or not leaderboards_md.exists():
         return {}
     text = leaderboards_md.read_text(encoding="utf-8", errors="ignore")
@@ -268,7 +297,6 @@ def build_metrics(row: pd.Series, cols: Dict[str,str], rank_map: Dict[str,int]) 
     name = str(row[cols["name"]]).strip()
     key_variants = generate_keys(name)
 
-    # Prefer explicit classic_rank; fallback to parsed ranks
     classic_rank_val = row.get(cols["classic_rank"]) if cols["classic_rank"] else None
     if (classic_rank_val is None) or (isinstance(classic_rank_val, float) and pd.isna(classic_rank_val)):
         for k in key_variants:
@@ -282,7 +310,6 @@ def build_metrics(row: pd.Series, cols: Dict[str,str], rank_map: Dict[str,int]) 
     total_ticks_val  = row.get(cols["total_ticks"])
     uniq_climbers_val= row.get(cols["unique_climbers"])
     area_val         = clean_area(row.get(cols["area"])) if cols["area"] else ""
-
     location_val     = _extract_location(area_val)
 
     avg_ticks_per_climber = ""
@@ -371,7 +398,7 @@ def build_seasonality(row: pd.Series, month_cols: List[str]) -> str:
 
 def build_top_climbers(row: pd.Series) -> Optional[str]:
     rows = []
-    for i in range(1, 10+1):
+    for i in range(1, 11):
         name = str(row.get(f"Top Climber {i}", "") or "").strip()
         if not name:
             continue
@@ -428,8 +455,13 @@ def update_page(
     months: List[str],
     ranks: Dict[str,int],
     dry: bool,
-    backup: bool
+    backup: bool,
+    force: bool = False,
 ) -> str:
+    """
+    Returns:
+        "updated" or "unchanged"
+    """
     text = md_path.read_text(encoding="utf-8")
     h1 = extract_h1_name(text)
     name = str(row[cols["name"]]).strip()
@@ -447,25 +479,36 @@ def update_page(
     season  = build_seasonality(row, months)
     top     = build_top_climbers(row)
 
-    updated = base_text
-    updated = upsert(updated, AUTO["METRICS"][2],     *AUTO["METRICS"][:2],     metrics)
-    updated = upsert(updated, AUTO["SEASONALITY"][2], *AUTO["SEASONALITY"][:2], season)
+    updated_text = base_text
+    updated_text = upsert(updated_text, AUTO["METRICS"][2],     *AUTO["METRICS"][:2],     metrics)
+    updated_text = upsert(updated_text, AUTO["SEASONALITY"][2], *AUTO["SEASONALITY"][:2], season)
     if top:
-        updated = upsert(updated, AUTO["TOP_CLIMBERS"][2], *AUTO["TOP_CLIMBERS"][:2], top)
+        updated_text = upsert(updated_text, AUTO["TOP_CLIMBERS"][2], *AUTO["TOP_CLIMBERS"][:2], top)
 
-    updated = strip_none_lines(updated)
+    updated_text = strip_none_lines(updated_text)
 
-    if updated != text:
+    # Force-write regardless of diff
+    if force:
+        if dry:
+            print(f"[DRY][FORCE] Would update: {md_path.name}")
+        else:
+            if backup:
+                ensure_backup(md_path)
+            md_path.write_text(updated_text, encoding="utf-8")
+            print(f"✅ Updated (forced): {md_path.name}")
+        return "updated"
+
+    if updated_text != text:
         if dry:
             print(f"[DRY] Would update: {md_path.name}")
         else:
             if backup:
                 ensure_backup(md_path)
-            md_path.write_text(updated, encoding="utf-8")
+            md_path.write_text(updated_text, encoding="utf-8")
             print(f"✅ Updated: {md_path.name}")
         return "updated"
 
-    print(f"— No changes: {md_path.name}")
+    # No diff -> unchanged
     return "unchanged"
 
 # ----------------------
@@ -478,6 +521,7 @@ def main():
     ap.add_argument("--leaderboards", type=Path, default=DEFAULT_LEADERBOARDS)
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--no-backup", action="store_true")
+    ap.add_argument("--force", action="store_true", help="Rewrite sections even if no content changes")
     args = ap.parse_args()
 
     if not args.dataset.exists() or not args.routes_dir.exists():
@@ -503,29 +547,47 @@ def main():
 
     ranks = read_ranks(args.leaderboards) if args.leaderboards else {}
 
-    # Index all markdown (includes subfolders)
+    # Index all markdown (includes subfolders), allowing duplicate-name pages
     md_idx = index_markdown(args.routes_dir)
-    discovered_pages = len(set(md_idx.values()))
+
+    # Unique set of all .md files discovered in folder/subfolders
+    all_md_files: Set[Path] = {p for plist in md_idx.values() for p in plist}
+    discovered_pages = len(all_md_files)
 
     updated = 0
     unchanged = 0
     updated_files: List[str] = []
+    processed_files: Set[Path] = set()  # NEW: unique .md files that were actually processed
     missing: List[str] = []
 
     for _, row in df.iterrows():
         name = str(row[cols["name"]]).strip()
+        area_hint = row.get(cols["area"]) if cols["area"] else ""
         key_candidates = generate_keys(name)
 
-        md_path = None
+        # gather all candidate files across all keys
+        candidates: List[Path] = []
+        seen: Set[Path] = set()
         for k in key_candidates:
-            md_path = md_idx.get(k.lower())
-            if md_path:
-                break
+            for p in md_idx.get(k.lower(), []):
+                if p not in seen:
+                    seen.add(p); candidates.append(p)
+
+        if not candidates:
+            missing.append(name)
+            continue
+
+        md_path = pick_best_path(candidates, area_hint, name)
         if not md_path:
             missing.append(name)
             continue
 
-        status = update_page(md_path, row, cols, months, ranks, args.dry_run, not args.no_backup)
+        status = update_page(
+            md_path, row, cols, months, ranks,
+            args.dry_run, not args.no_backup,
+            force=args.force,
+        )
+        processed_files.add(md_path)
         if status == "updated":
             updated += 1
             updated_files.append(md_path.as_posix().replace('\\','/'))
@@ -533,26 +595,46 @@ def main():
             unchanged += 1
 
     processed = updated + unchanged
+    folder_processed_unique = len(processed_files)
+    orphan_files = sorted({p.as_posix().replace('\\','/') for p in all_md_files - processed_files})
+    orphan_count = len(orphan_files)
 
+    # =======================
+    # 🔹 Summary block starts here
+    # =======================
     print("\nSummary:")
-    print(f"  Markdown pages discovered (incl. subfolders): {discovered_pages}")
-    print(f"  CSV routes matched to files: {processed}")
-    print(f"  Updated pages: {updated}")
-    print(f"  Unchanged pages: {unchanged}")
+    # CSV-side view
+    print(f"  CSV routes matched to files: {processed}  (Updated: {updated}, Unchanged: {unchanged})")
     if missing:
-        print("  Missing .md files for:")
-        for n in missing[:50]:
-            # show likely filenames
-            print(f"   - {n} -> candidates: '{snake(n)}.md', '{kebab(n)}.md', '{norm_loose(n).replace(' ', '_')}.md'")
-        if len(missing) > 50:
-            print(f"   ...and {len(missing)-50} more")
+        print(f"  CSV routes with NO matching .md file: {len(missing)}")
+        for n in missing[:40]:
+            print(f"    • {n} -> candidates: '{snake(n)}.md', '{kebab(n)}.md', '{norm_loose(n).replace(' ', '_')}.md'")
+        if len(missing) > 40:
+            print(f"    ...and {len(missing)-40} more")
 
+    # Folder-side view
+    print(f"\n  Folder .md files discovered (incl. subfolders): {discovered_pages}")
+    print(f"  Folder .md files processed (had matching CSV row): {folder_processed_unique}")
+    print(f"  Folder .md files NOT matched to any CSV row (orphans): {orphan_count}")
+    if orphan_files:
+        for fp in orphan_files[:40]:
+            print(f"    • {fp}")
+        if orphan_count > 40:
+            print(f"    ...and {orphan_count-40} more")
+
+    # ✅ Final confirmation line (always last)
+    print(f"\n✅ Done: {processed} CSV matches "
+          f"({updated} updated, {unchanged} unchanged, {len(missing)} missing). "
+          f"Folder coverage: {folder_processed_unique}/{discovered_pages} files processed; {orphan_count} orphan(s).")
+
+    # Updated file list at the very end (no scrolling)
     if updated_files:
         print("\nUpdated file list:")
         for fn in updated_files:
             print(f"  • {fn}")
-
-    print(f"\n✅ Done: updated {updated} route page(s), {unchanged} unchanged, {len(missing)} missing.")
+    # =======================
+    # 🔹 Summary block ends here
+    # =======================
 
 if __name__ == "__main__":
     main()
