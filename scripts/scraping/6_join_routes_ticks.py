@@ -1,179 +1,223 @@
-# 7-clean-route-tick-data.py
-# Cleans route-tick summary data:
-# - Normalizes/renames common column variants
-# - Removes duplicate columns (keeps first; e.g., duplicate route_name)
-# - Removes duplicate routes by ID
-# - Drops irrelevant columns if present
-# - Removes tick-year columns outside 1950..current_year
-# - Drops rows with missing/blank Grade
-# - Filters to "classic" routes (Votes >= 50, Stars >= 3.0, total_ticks >= 100)
-# - Reorders key columns: Votes -> total_ticks -> unique_climbers
+# -*- coding: utf-8 -*-
+"""
+Script: 6_join_routes_ticks.py
 
+WORKFLOW NOTES
+-------------------------------------------------------------------------
 
-#full JOIN on route_id
-import pandas as pd
+PURPOSE:
+    Combine and clean route metadata + tick summary data into a unified
+    per-route dataset, applying filters to highlight “classic” routes.
+
+INPUTS (default paths):
+    - data/processed/routes_filtered.csv
+    - data/processed/tick_summary_by_route.csv
+
+OUTPUT (default path):
+    - data/processed/joined_route_tick_cleaned.csv
+
+STEPS:
+    1. LOAD DATA:
+        - Read both CSVs (routes + ticks).
+        - Ensure consistent `route_id` field.
+        - Perform full outer join on route_id.
+
+    2. NORMALIZE HEADERS:
+        - Strip whitespace, rename common variants, deduplicate columns.
+
+    3. REMOVE DUPLICATES:
+        - Drop duplicate route entries by ID (keep first).
+
+    4. DROP UNNEEDED COLUMNS:
+        - Remove columns like Length(ft), Ticks, route_id (optional),
+          and duplicate variants like unique_climbers_x.
+
+    5. YEAR CLEANUP:
+        - Drop tick-year columns outside 1950..current_year.
+
+    6. FILTER ROUTES:
+        - Remove rows with missing/blank Grade.
+        - Apply “classic” filters:
+            • Votes ≥ 50
+            • Stars ≥ 3.0
+            • total_ticks ≥ 100
+
+    7. CLEAN UNIQUE CLIMBERS:
+        - Normalize `unique_climbers_y` → `unique_climbers`.
+
+    8. REORDER COLUMNS:
+        - Place Votes → total_ticks → unique_climbers together.
+
+    9. SAVE:
+        - Output final cleaned CSV.
+        - Print summary (dropped years, final route count, columns).
+"""
+
+import argparse
 from datetime import datetime
-
-# --- Load both CSVs --- 
-# load: routes-filtered.csv from 3-filter-routes-by-classic.py
-# load: tick_csv from 5-tick-aggregations-by-route.py
-route_csv = r"C:\Users\harve\Documents\Projects\MP-routes-Python\outputs\routes-filtered.csv"
-tick_csv = r"C:\Users\harve\Documents\Projects\MP-routes-Python\outputs\tick-summary-by-route.csv"
-output_csv = r"C:\Users\harve\Documents\Projects\MP-routes-Python\outputs\joined-route-tick-summary.csv"
-
-# Load files
-df_routes = pd.read_csv(route_csv)
-df_ticks = pd.read_csv(tick_csv)
-
-# Extract route_id from URL in df_routes if needed
-if 'route_id' not in df_routes.columns:
-    df_routes['route_id'] = df_routes['URL'].str.extract(r'/route/(\d+)')
-
-# Ensure route_id is string in both for consistency
-df_routes['route_id'] = df_routes['route_id'].astype(str)
-df_ticks['route_id'] = df_ticks['route_id'].astype(str)
-
-# --- Full outer join on route_id ---
-df_joined = pd.merge(df_routes, df_ticks, on='route_id', how='outer')
-
-# --- Save result ---
-df_joined.to_csv(output_csv, index=False)
-print(f"✅ Full join complete. Output saved to: {output_csv}")
+from pathlib import Path
+import pandas as pd
 
 
+# ================================================================
+# DEFAULT PATHS
+# ================================================================
+BASE_DIR = Path(r"C:\Users\harve\Documents\Projects\MP-routes-Python\data\processed")
 
-# --- CONFIGURATION ---
-input_csv  = r"C:\Users\harve\Documents\Projects\MP-routes-Python\outputs\joined-route-tick-summary.csv"
-output_csv = r"C:\Users\harve\Documents\Projects\MP-routes-Python\outputs\joined-route-tick-cleaned.csv"
+DEFAULT_ROUTES = BASE_DIR / "routes_filtered.csv"
+DEFAULT_TICKS = BASE_DIR / "tick_summary_by_route.csv"
+DEFAULT_OUT = BASE_DIR / "joined_route_tick_cleaned.csv"
 
 
-
-
-
+# ================================================================
+# HELPER FUNCTIONS
+# ================================================================
 def deduplicate_columns(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Drop duplicated columns by name, keeping the first occurrence.
-    Preserves column order of the first appearance.
-    """
+    """Drop duplicated columns by name, keeping the first occurrence."""
     return df.loc[:, ~df.columns.duplicated()]
 
-# --- LOAD DATA ---
-df = pd.read_csv(input_csv)
 
-# --- STEP 0: NORMALIZE/RENAME COMMON VARIANTS ---
-# 0a) Trim whitespace from headers
-df.columns = [c.strip() for c in df.columns]
+def normalize_headers(df: pd.DataFrame) -> pd.DataFrame:
+    """Strip whitespace and rename common variants to canonical names."""
+    df = df.copy()
+    df.columns = [c.strip() for c in df.columns]
+    df = deduplicate_columns(df)
 
-# 0b) Drop duplicate columns (including duplicate 'route_name'), keep first
-df = deduplicate_columns(df)
+    rename_map = {
+        "Route ID": "route_id",
+        "RouteID": "route_id",
+        "ID": "route_id",
+        "Route Name": "route_name",
+        "Total Ticks": "total_ticks",
+        "Total_Ticks": "total_ticks",
+        "Ticks Total": "total_ticks",
+        "Stars ": "Stars",
+        "Votes ": "Votes",
+        "Length (feet)": "Length (ft)",
+    }
+    df = df.rename(columns={k: v for k, v in rename_map.items() if k in df.columns})
+    df = deduplicate_columns(df)
+    return df
 
-# 0c) Map common variants to canonical names
-rename_map = {
-    "Route ID": "route_id",
-    "RouteID": "route_id",
-    "ID": "route_id",
-    "Route Name": "route_name",
-    "Total Ticks": "total_ticks",
-    "Total_Ticks": "total_ticks",
-    "Ticks Total": "total_ticks",
-    "Stars ": "Stars",
-    "Votes ": "Votes",
-    "Length (feet)": "Length (ft)",
-}
-df = df.rename(columns={k: v for k, v in rename_map.items() if k in df.columns})
 
-# 0d) After renaming, deduplicate again in case renames created collisions
-df = deduplicate_columns(df)
+# ================================================================
+# MAIN PIPELINE
+# ================================================================
+def full_pipeline(routes_csv: str, ticks_csv: str) -> pd.DataFrame:
+    """Perform join + cleaning pipeline on route and tick CSVs."""
+    # 1) Load
+    df_routes = pd.read_csv(routes_csv)
+    df_ticks = pd.read_csv(ticks_csv)
 
-# --- Identify the best candidate for route ID ---
-id_candidates = [c for c in ["route_id", "Route ID", "RouteID", "ID"] if c in df.columns]
-route_id_col = id_candidates[0] if id_candidates else None
+    # Ensure/derive route_id
+    if "route_id" not in df_routes.columns:
+        if "URL" in df_routes.columns:
+            df_routes["route_id"] = df_routes["URL"].str.extract(r"/route/(\d+)")
+        else:
+            raise ValueError("No 'route_id' and no 'URL' column in routes CSV.")
+    df_routes["route_id"] = df_routes["route_id"].astype(str)
+    if "route_id" not in df_ticks.columns:
+        raise ValueError("No 'route_id' column in ticks CSV.")
+    df_ticks["route_id"] = df_ticks["route_id"].astype(str)
 
-# --- STEP 1: DROP DUPLICATE ROUTE ENTRIES ---
-if route_id_col:
-    df_cleaned = df.drop_duplicates(subset=route_id_col, keep="first").copy()
-else:
-    print("⚠️ No route ID column found; skipping de-duplication.")
-    df_cleaned = df.copy()
+    # Full outer join
+    df_joined = pd.merge(df_routes, df_ticks, on="route_id", how="outer")
 
-# --- STEP 2: DROP UNNEEDED COLUMNS (only if they exist) ---
-# Also drop unique_climbers_x if present
-cols_to_drop = [c for c in ["Length (ft)", "Ticks", "route_id", "unique_climbers_x"] if c in df_cleaned.columns]
-if cols_to_drop:
-    df_cleaned = df_cleaned.drop(columns=cols_to_drop)
+    # 2) Normalize headers
+    df = normalize_headers(df_joined)
 
-# --- STEP 3: DROP TICK YEAR COLUMNS OUTSIDE VALID RANGE ---
-current_year = datetime.now().year
-year_cols = [col for col in df_cleaned.columns if str(col).isdigit() and len(str(col)) == 4]
-invalid_year_cols = [col for col in year_cols if int(col) > current_year or int(col) < 1950]
-if invalid_year_cols:
-    df_cleaned = df_cleaned.drop(columns=invalid_year_cols)
+    # 3) Remove duplicate route entries
+    id_candidates = [c for c in ["route_id", "Route ID", "RouteID", "ID"] if c in df.columns]
+    route_id_col = id_candidates[0] if id_candidates else None
+    if route_id_col:
+        df_cleaned = df.drop_duplicates(subset=route_id_col, keep="first").copy()
+    else:
+        print("⚠️ No route ID column found; skipping de-duplication.")
+        df_cleaned = df.copy()
 
-# --- STEP 4: DROP ROUTES WITH MISSING/BLANK GRADE ---
-if "Grade" in df_cleaned.columns:
-    df_cleaned = df_cleaned[df_cleaned["Grade"].notna() & (df_cleaned["Grade"].astype(str).str.strip() != "")]
-else:
-    print("⚠️ No 'Grade' column found; skipping grade-based filtering.")
+    # 4) Drop unneeded columns
+    cols_to_drop = [c for c in ["Length (ft)", "Ticks", "route_id", "unique_climbers_x"] if c in df_cleaned.columns]
+    if cols_to_drop:
+        df_cleaned = df_cleaned.drop(columns=cols_to_drop)
 
-# --- Ensure numeric types for filtering ---
-for col in ["Votes", "Stars", "total_ticks"]:
-    if col in df_cleaned.columns:
-        df_cleaned[col] = pd.to_numeric(df_cleaned[col], errors="coerce")
+    # 5) Drop invalid year columns
+    current_year = datetime.now().year
+    year_cols = [col for col in df_cleaned.columns if str(col).isdigit() and len(str(col)) == 4]
+    invalid_year_cols = [col for col in year_cols if int(col) > current_year or int(col) < 1950]
+    if invalid_year_cols:
+        df_cleaned = df_cleaned.drop(columns=invalid_year_cols)
 
-# --- STEP 5: APPLY "CLASSIC" FILTERS (only if columns exist) ---
-filters = []
-if "Votes" in df_cleaned.columns:
-    filters.append(df_cleaned["Votes"] >= 50)
-else:
-    print("⚠️ 'Votes' not found; omitting Votes filter.")
-    filters.append(pd.Series([True]*len(df_cleaned), index=df_cleaned.index))
+    # 6) Filter routes with valid Grade
+    if "Grade" in df_cleaned.columns:
+        df_cleaned = df_cleaned[df_cleaned["Grade"].notna() & (df_cleaned["Grade"].astype(str).str.strip() != "")]
+    else:
+        print("⚠️ No 'Grade' column found; skipping grade-based filtering.")
 
-if "Stars" in df_cleaned.columns:
-    filters.append(df_cleaned["Stars"] >= 3.0)
-else:
-    print("⚠️ 'Stars' not found; omitting Stars filter.")
-    filters.append(pd.Series([True]*len(df_cleaned), index=df_cleaned.index))
+    # 7) Apply classic filters
+    for col in ["Votes", "Stars", "total_ticks"]:
+        if col in df_cleaned.columns:
+            df_cleaned[col] = pd.to_numeric(df_cleaned[col], errors="coerce")
 
-if "total_ticks" in df_cleaned.columns:
-    filters.append(df_cleaned["total_ticks"] >= 100)
-else:
-    print("⚠️ 'total_ticks' not found; omitting total_ticks filter.")
-    filters.append(pd.Series([True]*len(df_cleaned), index=df_cleaned.index))
+    filters = []
+    if "Votes" in df_cleaned.columns:
+        filters.append(df_cleaned["Votes"] >= 50)
+    else:
+        filters.append(pd.Series([True] * len(df_cleaned), index=df_cleaned.index))
 
-mask = filters[0]
-for f in filters[1:]:
-    mask &= f
+    if "Stars" in df_cleaned.columns:
+        filters.append(df_cleaned["Stars"] >= 3.0)
+    else:
+        filters.append(pd.Series([True] * len(df_cleaned), index=df_cleaned.index))
 
-df_filtered = df_cleaned.loc[mask].copy()
+    if "total_ticks" in df_cleaned.columns:
+        filters.append(df_cleaned["total_ticks"] >= 100)
+    else:
+        filters.append(pd.Series([True] * len(df_cleaned), index=df_cleaned.index))
 
-# --- STEP 6: HANDLE UNIQUE_CLIMBERS COLUMNS ---
-# Rename unique_climbers_y -> unique_climbers if present
-if "unique_climbers_y" in df_filtered.columns:
-    df_filtered = df_filtered.rename(columns={"unique_climbers_y": "unique_climbers"})
+    mask = filters[0]
+    for f in filters[1:]:
+        mask &= f
+    df_filtered = df_cleaned.loc[mask].copy()
 
-# --- STEP 7: REORDER KEY COLUMNS ---
-# Ensure 'Votes' -> 'total_ticks' -> 'unique_climbers' appear consecutively (when present)
-if "Votes" in df_filtered.columns:
-    # Build a fresh order that removes these three if present, then re-inserts in desired order
-    cols = [c for c in df_filtered.columns if c not in ("total_ticks", "unique_climbers")]
-    if "Votes" in cols:
-        v_idx = cols.index("Votes")
-        # Insert after Votes in correct sequence if columns exist
-        insert_after = v_idx + 1
-        if "total_ticks" in df_filtered.columns:
-            cols.insert(insert_after, "total_ticks")
-            insert_after += 1
-        if "unique_climbers" in df_filtered.columns:
-            cols.insert(insert_after, "unique_climbers")
-        df_filtered = df_filtered[cols]
+    # 8) Clean unique_climbers column
+    if "unique_climbers_y" in df_filtered.columns:
+        df_filtered = df_filtered.rename(columns={"unique_climbers_y": "unique_climbers"})
 
-# --- DEBUG: show resulting columns ---
-print("🧱 Columns after cleaning:", list(df_filtered.columns))
+    # 9) Reorder key columns
+    if "Votes" in df_filtered.columns:
+        cols = [c for c in df_filtered.columns if c not in ("total_ticks", "unique_climbers")]
+        if "Votes" in cols:
+            v_idx = cols.index("Votes")
+            insert_after = v_idx + 1
+            if "total_ticks" in df_filtered.columns:
+                cols.insert(insert_after, "total_ticks")
+                insert_after += 1
+            if "unique_climbers" in df_filtered.columns:
+                cols.insert(insert_after, "unique_climbers")
+            df_filtered = df_filtered[cols]
 
-# --- SAVE CLEANED DATA ---
-df_filtered.to_csv(output_csv, index=False)
+    # Summary prints
+    print("🧱 Columns after cleaning:", list(df_filtered.columns))
+    print(f"🗓️ Dropped year columns outside 1950–{current_year}: {invalid_year_cols}")
+    print(f"📉 Routes remaining after filters: {len(df_filtered)}")
 
-# --- CONFIRMATION MESSAGE ---
-print(f"✅ Filtered + cleaned data saved to: {output_csv}")
-print(f"🗓️ Dropped year columns outside 1950–{current_year}: {invalid_year_cols}")
-print(f"📉 Routes remaining after filters: {len(df_filtered)}")
+    return df_filtered
+
+
+# ================================================================
+# ENTRY POINT
+# ================================================================
+def main():
+    parser = argparse.ArgumentParser(description="Join + clean route/tick CSVs (one-pass).")
+    parser.add_argument("--routes", default=str(DEFAULT_ROUTES), help="Path to routes_filtered.csv")
+    parser.add_argument("--ticks",  default=str(DEFAULT_TICKS), help="Path to tick_summary_by_route.csv")
+    parser.add_argument("--out",    default=str(DEFAULT_OUT),   help="Full output path for final cleaned CSV")
+    args = parser.parse_args()
+
+    df_final = full_pipeline(args.routes, args.ticks)
+    df_final.to_csv(args.out, index=False)
+    print(f"✅ Filtered + cleaned data saved to: {args.out}")
+
+
+if __name__ == "__main__":
+    main()
