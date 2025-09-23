@@ -123,4 +123,3 @@ for name, secs in sorted(per_script_durations.items(), key=lambda kv: kv[1], rev
     log(f"  • {name}: {fmt_secs(secs)}")
 
 log(f"\n===== Run finished at {datetime.now()} =====\n")
-
