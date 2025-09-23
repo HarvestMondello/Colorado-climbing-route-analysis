@@ -22,7 +22,12 @@
 - Striking arete and dihedral route visible across Eldorado Canyon.  
 - Sustained climbing with multiple cruxes: fingerlocks, stemming, technical face sequences, and crack climbing.  
 - Known for **serious exposure**, especially on upper pitches.  
-- Protection is generally good, with some PG-13 runouts; bold reputation remains.  
+- Protection is generally good, with some PG-13 runouts; bold reputation remains.
+- The East Slab descent (4th class) is standard walk-off.  
+
+### Approach & Descent 
+- The approach is via one of several routes, the standard being the Cave Pitch which is 5.8 and 2-3 pitches.
+- The East Slab descent (4th class) is standard walk-off descent and is technical involving some routefinding.
 
 ### Seasonal Profile & Sun Aspect  
 - **Seasonality:** Climbed year-round; peak fall season; low winter traffic.  

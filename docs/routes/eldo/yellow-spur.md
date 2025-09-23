@@ -28,7 +28,14 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 - Good protection at cruxes (PG), but easier sections are runout (PG-13).  
 - Optional direct starts/finishes add difficulty and spice (5.10B).  
 
----
+### Approach & Descent 
+- The approach is steep uphill (2nd class) and considerd a long approach by Eldo standards taking 20 minutes for the average climber. 
+- The East Slab descent (4th class) is standard walk-off and is technical involving some routefinding. Two other descents are used.  
+
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Climbed year-round; peak fall season; low winter traffic.  
+- **Sun Exposure:** West-facing. Summer shade; spring morning shade + fall afternoon sun; cold winters but with usable afternoon sun.  
+
 
 ## Historical Context  
 - **1959:** First ascent by Layton Kor & Dave Dornan (Direct Start + Finish, 5.10B).  
