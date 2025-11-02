@@ -25,7 +25,7 @@ Colorado climbing data collected via a Python pipeline, analyzed in PostgreSQL, 
 
 ## Introduction
 
-This project turns fragmented Colorado climbing data into actionable insight. I built a Python scraper and cleaning pipeline, modeled and queried data in PostgreSQL, and visualized results in Python—answering questions about cultural impact, usage patterns, historical context, and where demand is trending next.
+This project turns fragmented Colorado climbing data into actionable insight. I built a Python scraper and cleaning pipeline, modeled and queried data in PostgreSQL, and visualized results in Python answering questions about cultural impact, usage patterns, historical context, and where demand is trending next.
 
 See SQL and scripts here:  
 - **SQL**: [`/sql`](sql/)  
@@ -102,13 +102,13 @@ Colorado hosts some of North America’s most storied stone, from Eldorado Canyo
 
 ### Live Leaderboards (Docs)
 
-- **Top 10 (refreshed monthly)**: [`/docs/leaderboards.md`](docs/leaderboards.md)  
-- **Top 100 (refreshed quarterly)**: [`/docs/leaderboards-100.md`](docs/leaderboards-100.md)  
+- **Top 10 (refreshed quarterly)**: [`/docs/leaderboards.md`](docs/leaderboards.md)  
+- **Top 100 (refreshed annually)**: [`/docs/leaderboards-100.md`](docs/leaderboards-100.md)  
 
 ## Automation
 
-- **Monthly refresh**: Top 10 leaderboards rebuild the first day of each month.  
-- **Quarterly refresh**: Top 100 leaderboards rebuild on the 1st day of each quarter.  
+- **Monthly refresh**: Top 10 leaderboards rebuild the first day of each quarter.  
+- **Annual refresh**: Top 100 leaderboards rebuild on the 1st day of each year.  
 - **Resilience**: Failed routes are logged and retried automatically in the next cycle.  
 - **Artifacts**: Refreshed CSVs in `/data` and `/outputs`, with updated docs in `/docs`.  
 
