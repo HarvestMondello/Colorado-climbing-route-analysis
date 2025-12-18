@@ -51,7 +51,7 @@ Colorado hosts some of North America’s most storied stone, from Eldorado Canyo
 
 1. Which routes carry the greatest cultural impact and legacy?  
 2. How do usage patterns shift by season and decade?  
-3. Which climbs are “hidden gems”—high quality but under-visited?  
+3. Which climbs are “hidden gems” high quality but under-visited?  
 4. What do FA/FFA timelines reveal about boldness and progression?  
 5. Where is demand likely to grow through 2029?  
 
@@ -131,7 +131,7 @@ Colorado-climbing-route-analysis/
 
 ## Conclusion
 
-**The problem**: Climbing decisions—and planning by climbers and land managers—benefit from objective measures of quality, seasonality, engagement and trend.  
+**The problem**: Climbing decisions and planning by climbers and land managers—benefit from objective measures of quality, seasonality, engagement and trend.  
 
 **How it was solved**: A reproducible pipeline + SQL/Python analysis to rank cultural impact, profile seasonality, surface hidden gems, and forecast demand.  
 
