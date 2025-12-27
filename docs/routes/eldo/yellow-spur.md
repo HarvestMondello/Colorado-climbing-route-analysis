@@ -92,8 +92,8 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 - **Consensus:** 5.9+, widely regarded as sandbagged (hard for grade).  
 - **Leaderboards:**  
   - **Danny Gilbert:** Over **250** public ticks (#1).  
-  - **Bill Wright:** Estimated 200+ ascents (partial record shows 92).  
-  - **Anton Krupicka:** Estimated 100 ascents, none logged.  
+  - **Bill Wright:** Estimated 100 to 200+ ascents (partial record shows 92). He is quoted as saying he has less ascents than Danny Gilbert.    
+  - **Anton Krupicka:** Estimated ~100 ascents, none logged publicly.  
   - Wright is also known for climbing it **8 times in a single day** on his birthday.  
 
 ---
@@ -168,4 +168,5 @@ Dec | █                              3.6%
 | 8 | Joe Kennedy:28 | 28 |
 | 9 | Ryan Montoya:25 | 25 |
 | 10 | Ryan Marsters:23 | 23 |
+
 <!-- AUTO:TOP_CLIMBERS:END -->
