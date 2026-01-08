@@ -11,14 +11,10 @@
 - **First Ascent:** Layton Kor, Dave Dornan, 1959 aid via original Direct Start and Direct Finish (both now 5.10B free)  
 - **First Free Ascent:** Royal Robbins, Pat Ament, 1964 via 5.9+ free variation  
 
----
-
 ## Summary  
 *The Yellow Spur* is considered one of the most iconic multipitch climbs in Eldorado Canyon. This striking moderate testpiece has exposure, continuous difficulties, and historic significance. It stands as both a **cultural landmark** and a **high-traffic classic**.  
 
 The climb features a mix of technical roof and corner climbing, delicate face sequences, and airy exposure. Today it remains both a rite of passage for aspiring Eldo leaders and a beloved repeat classic for locals.  
-
----
 
 ## Route Characteristics  
 - Striking upper yellow face and dihedral visible across the canyon.  
@@ -36,15 +32,12 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 - **Seasonality:** Climbed year-round; peak fall season; low winter traffic.  
 - **Sun Exposure:** West-facing. Summer shade; spring morning shade + fall afternoon sun; cold winters but with usable afternoon sun.  
 
-
 ## Historical Context  
 - **1959:** First ascent by Layton Kor & Dave Dornan (Direct Start + Finish, 5.10B).  
 - **1964:** First free ascent by Royal Robbins & Pat Ament via 5.9+ variation (Ament Start + Robbins Traverse Finish).  
 - Rapidly became one of the **most climbed Eldorado classics** and a generational milestone.  
 - Known as a proving ground for climbers seeking to establish themselves on Eldo moderates.  
 - Notable for repeat ascents by prolific locals, including Bill Wright (100–200+) and Danny Gilbert (250+).  
-
----
 
 ## Beta Media  
 - **Video:** [Speed on the Spur: Racing for the FTK (beta spoiler alert!)](https://www.youtube.com/watch?v=WDn1XcV5hJI&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX)  
@@ -53,8 +46,6 @@ The climb features a mix of technical roof and corner climbing, delicate face se
   - Wright has 100–200+ ascents.  
 - **Video:** [First person view climb (Danny Gilbert)](https://www.youtube.com/watch?v=sjsig6fEoqQ&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX)  
   - Gilbert has 250+ ascents.  
-
----
 
 ## Fastest Known Time (FKT)  
 - **Rules:** Bridge-to-Bridge (South Boulder Peak footbridge), roped style.  
@@ -81,9 +72,6 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 | 57:02  | 2018-07-11 | Jon Oulton, Nodin DeSaillan    |              |
 | 58:10  | Early 2000s| Josh Wharton, Kevin Chochran   | First logged |
 
-
----
-
 ## Analysis Highlights (Dataset)  
 - **#5 Classic Rank:** 5th highest *classic score* in Colorado.  
 - **Engagement:** Top **5%** of Colorado trad for popularity & quality.  
@@ -96,13 +84,9 @@ The climb features a mix of technical roof and corner climbing, delicate face se
   - **Anton Krupicka:** Estimated ~100 ascents, none logged publicly.  
   - Wright is also known for climbing it **8 times in a single day** on his birthday.  
 
----
-
 ## Seasonal Profile & Sun Aspect  
 - **Seasonality:** Year-round; peak summer; quiet winters.  
 - **Exposure:** West-facing. Summer shade; spring morning shade; fall afternoon sun. Winter is cold but afternoon sun can provide reasonable temps.  
-
----
 
 ## References  
 - [Leaderboards.md (live stats)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)  
@@ -110,7 +94,6 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 - FKT history confirmed via Danny Gilbert  
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748657/the-yellow-spur)  
 
----
 
 <!-- AUTO:METRICS:START -->
 ### Metrics
@@ -121,35 +104,35 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 | Grade                | 5.9+ YDS  |
 | Location             | Redgarden - Tower One |
 | Stars (avg)          | 3.7       |
-| Votes                | 1354.0    |
-| Unique Climbers      | 2415.0    |
-| Lifetime Ticks       | 4293.0    |
-| Avg Ticks / Climber  | 1.78      |
+| Votes                | 1402.0    |
+| Unique Climbers      | 2537.0    |
+| Lifetime Ticks       | 4600.0    |
+| Avg Ticks / Climber  | 1.81      |
 <!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
 ### Seasonality
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 8.9% **low season**
-- 🌸 **Spring (Mar–May)**: 26.1%
+- ❄️ **Winter (Dec–Feb)**: 9.1% **low season**
+- 🌸 **Spring (Mar–May)**: 24.4%
 - ☀️ **Summer (Jun–Aug)**: 36.0% **high season**
-- 🍂 **Fall (Sep–Nov)**: 28.9%
+- 🍂 **Fall (Sep–Nov)**: 30.5%
 
 ### Seasonality Usage by Month
 ```
-Jan | █                              2.5%
-Feb | █                              2.8%
-Mar | ██                             5.9%
-Apr | ███                            9.4%
-May | ███                           10.8%
-Jun | ████                          13.0%
-Jul | ███                           11.2%
-Aug | ███                           11.8%
-Sep | ███                           11.3%
-Oct | ███                           11.2%
-Nov | ██                             6.4%
-Dec | █                              3.6%
+Jan | █                              2.6%
+Feb | █                              2.6%
+Mar | ██                             5.5%
+Apr | ███                            8.8%
+May | ███                           10.1%
+Jun | ████                          12.3%
+Jul | ███                           11.7%
+Aug | ███                           12.0%
+Sep | ███                           11.8%
+Oct | ███                           11.4%
+Nov | ██                             7.2%
+Dec | █                              3.9%
 ```
 <!-- AUTO:SEASONALITY:END -->
 
@@ -158,15 +141,14 @@ Dec | █                              3.6%
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | Danny Gilbert:250 | 250 |
-| 2 | Bill Wright:92 | 92 |
-| 3 | Michael Butts:64 | 64 |
-| 4 | Harvest Mondello:57 | 57 |
-| 5 | Jack Neus:42 | 42 |
-| 6 | John Alcorn:37 | 37 |
-| 7 | Samuel Andree:33 | 33 |
-| 8 | Joe Kennedy:28 | 28 |
-| 9 | Ryan Montoya:25 | 25 |
-| 10 | Ryan Marsters:23 | 23 |
-
+| 1 | Danny Gilbert | 262 |
+| 2 | Bill Wright | 92 |
+| 3 | Harvest Mondello | 82 |
+| 4 | Michael Butts | 67 |
+| 5 | Jack Neus | 41 |
+| 6 | John Alcorn | 41 |
+| 7 | Samuel Andree | 33 |
+| 8 | Ryan Montoya | 32 |
+| 9 | Ryan Marsters | 24 |
+| 10 | Mike Robinson | 20 |
 <!-- AUTO:TOP_CLIMBERS:END -->

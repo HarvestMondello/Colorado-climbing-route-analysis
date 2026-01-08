@@ -26,10 +26,10 @@ Any narrative insights you want to keep hand-written.
 | Grade                | 5.7 YDS   |
 | Location             | Redgarden - Lumpe to… |
 | Stars (avg)          | 3.7       |
-| Votes                | 1800.0    |
-| Unique Climbers      | 3883.0    |
-| Lifetime Ticks       | 6054.0    |
-| Avg Ticks / Climber  | 1.56      |
+| Votes                | 1877.0    |
+| Unique Climbers      | 4102.0    |
+| Lifetime Ticks       | 6490.0    |
+| Avg Ticks / Climber  | 1.58      |
 <!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
@@ -37,24 +37,24 @@ Any narrative insights you want to keep hand-written.
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 9.4% **low season**
-- 🌸 **Spring (Mar–May)**: 27.6%
+- 🌸 **Spring (Mar–May)**: 25.8%
 - ☀️ **Summer (Jun–Aug)**: 36.6% **high season**
-- 🍂 **Fall (Sep–Nov)**: 26.4%
+- 🍂 **Fall (Sep–Nov)**: 28.3%
 
 ### Seasonality Usage by Month
 ```
-Jan | █                              2.8%
-Feb | █                              3.0%
-Mar | ██                             7.0%
-Apr | ███                            9.2%
-May | ███                           11.4%
-Jun | ████                          13.5%
-Jul | ███                           10.8%
+Jan | █                              2.7%
+Feb | █                              2.8%
+Mar | ██                             6.5%
+Apr | ██                             8.6%
+May | ███                           10.7%
+Jun | ████                          12.9%
+Jul | ███                           11.4%
 Aug | ████                          12.4%
-Sep | ███                           10.9%
-Oct | ███                            9.6%
-Nov | ██                             5.9%
-Dec | █                              3.6%
+Sep | ███                           11.7%
+Oct | ███                           10.0%
+Nov | ██                             6.6%
+Dec | █                              3.9%
 ```
 <!-- AUTO:SEASONALITY:END -->
 
@@ -63,14 +63,14 @@ Dec | █                              3.6%
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | Danny Gilbert:33 | 33 |
-| 2 | James Klaers:33 | 33 |
-| 3 | Yiran Li:16 | 16 |
-| 4 | John Alcorn:15 | 15 |
-| 5 | Samuel Puckett:15 | 15 |
-| 6 | Choss Pirate:14 | 14 |
-| 7 | Jack Neus:14 | 14 |
-| 8 | Michael Butts:14 | 14 |
-| 9 | Samuel Andree:14 | 14 |
-| 10 | Sarah Meiser:14 | 14 |
+| 1 | Danny Gilbert | 35 |
+| 2 | James Klaers | 33 |
+| 3 | Yiran Li | 17 |
+| 4 | G P | 15 |
+| 5 | Samuel Puckett | 15 |
+| 6 | Anonymous | 14 |
+| 7 | Choss Pirate | 14 |
+| 8 | Jack Neus | 14 |
+| 9 | John Alcorn | 14 |
+| 10 | Michael Butts | 14 |
 <!-- AUTO:TOP_CLIMBERS:END -->

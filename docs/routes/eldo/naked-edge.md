@@ -11,12 +11,8 @@
 - **First Ascent:** Layton Kor & Rick Horn, 1964 (lower 3 pitches: Kor & Bob Culp, 1962)  
 - **First Free Ascent:** Jim Erickson & Duncan Ferguson, 1971  
 
----
-
 ## Summary  
 *The Naked Edge* is considered the crown jewel of Eldorado Canyon and one of the most iconic multipitch climbs in North America. With striking exposure, continuous difficulty, and historic significance, it remains a must-do for generations of climbers. In this analysis, the route stands out as both a **cultural landmark** and a **high-traffic classic**.  
-
----
 
 ## Route Characteristics  
 - Striking arete and dihedral route visible across Eldorado Canyon.  
@@ -33,22 +29,16 @@
 - **Seasonality:** Climbed year-round; peak fall season; low winter traffic.  
 - **Sun Exposure:** West-facing. Summer shade; spring morning shade + fall afternoon sun; cold winters but with usable afternoon sun.  
 
----
-
 ## Historical Context  
 - **1962:** Lower pitches (aid) first climbed by Layton Kor & Bob Culp.  
 - **1964:** Full ascent by Layton Kor & Rick Horn.  
 - **1971:** First free ascent by Jim Erickson & Duncan Ferguson.  
 - Reputation: **Eldorado testpiece** and a benchmark for bold free climbing (1970s–80s).  
 
----
-
 ## Beta Media  
 - **Video:** [First person view climb of The Naked Edge with pro (beta spoiler alert!)](https://www.youtube.com/watch?v=c8RxXWB1TZw&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX)  
   - Video by Max Manson (50+ ascents).  
   - Shows simul-climbing style in one pitch (IAP).  
-
----
 
 ## Fastest Known Time (FKT)  
 - **Rules:** Bridge-to-Bridge (South Boulder Peak footbridge), roped semul-climb.  
@@ -61,7 +51,6 @@
 - **22:44 B2B** | 2022-10-26 | Stefan Griebel & Joe Kennedy  
 - [Video of FKT](https://vimeo.com/764407847)  
 - [GPS Verification](https://www.strava.com/activities/8004442835#3019063963637264876)  
-
 
 ### FKT History (B2B unless noted)
 
@@ -82,13 +71,10 @@
 | 1:22:XX | 2006-09-06 | Bob Rotert, Dave Vaughn           | C2C                |
 | 1:30:XX | 1991-XX-XX | Michael Gilbert, Rob Slater       | C2C                |
 
-
 ### Women’s FKT  
 - **37:08 B2B** | 2025-03-28 | Kate Kelleghan & Laura Pineau (France)  
 - Verification: **37:11** [GPS Proof](https://strava.app.link/QmSTqth4IWb)  
 - **First all-women FKT:** 37:21 B2B | 2021-09 | Kate Kelleghan & Becca Droz  
-
----
 
 ## Analysis Highlights (Dataset)  
 - **#1 Classic Rank:** Highest *classic score* in Colorado.  
@@ -100,8 +86,6 @@
   - **Stefan Griebel:** ~**400** public ticks (#1).  
   - Note: Some climbers such as Kishen Mangat (120+) don’t log ticks.  
 
----
-
 ## References  
 - [Leaderboards.md (live stats)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)  
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
@@ -110,7 +94,6 @@
 - [FKT History Summary](https://gripped.com/routes/less-than-23-minutes-needed-for-this-famous-six-pitch-5-11/)  
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748786/the-naked-edge)  
 
----
 
 <!-- AUTO:METRICS:START -->
 ### Metrics
@@ -121,35 +104,35 @@
 | Grade                | 5.11b YDS |
 | Location             | Redgarden - Tower Two |
 | Stars (avg)          | 3.9       |
-| Votes                | 505.0     |
-| Unique Climbers      | 709.0     |
-| Lifetime Ticks       | 2724.0    |
-| Avg Ticks / Climber  | 3.84      |
+| Votes                | 523.0     |
+| Unique Climbers      | 743.0     |
+| Lifetime Ticks       | 3024.0    |
+| Avg Ticks / Climber  | 4.07      |
 <!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
 ### Seasonality
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 9.3% **low season**
-- 🌸 **Spring (Mar–May)**: 25.8%
-- ☀️ **Summer (Jun–Aug)**: 29.1%
-- 🍂 **Fall (Sep–Nov)**: 35.8% **high season**
+- ❄️ **Winter (Dec–Feb)**: 9.2% **low season**
+- 🌸 **Spring (Mar–May)**: 23.5%
+- ☀️ **Summer (Jun–Aug)**: 29.6%
+- 🍂 **Fall (Sep–Nov)**: 37.8% **high season**
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              2.9%
-Feb | █                              2.8%
-Mar | ██                             5.8%
-Apr | ███                            8.8%
-May | ███                           11.2%
-Jun | ███                           11.7%
-Jul | ██                             8.1%
-Aug | ███                            9.3%
-Sep | ████                          14.2%
-Oct | ████                          14.3%
-Nov | ██                             7.2%
-Dec | █                              3.6%
+Feb | █                              2.5%
+Mar | █                              5.2%
+Apr | ██                             8.0%
+May | ███                           10.2%
+Jun | ███                           11.0%
+Jul | ██                             8.5%
+Aug | ███                           10.1%
+Sep | ████                          15.2%
+Oct | ████                          14.8%
+Nov | ██                             7.8%
+Dec | █                              3.8%
 ```
 <!-- AUTO:SEASONALITY:END -->
 
@@ -158,14 +141,14 @@ Dec | █                              3.6%
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | Stefan Griebel:379 | 379 |
-| 2 | Jack Neus:167 | 167 |
-| 3 | WadeM:128 | 128 |
-| 4 | Joe Kennedy:121 | 121 |
-| 5 | John Alcorn:119 | 119 |
-| 6 | ChossCrimper TopRopePrincess:108 | 108 |
-| 7 | Choss Pirate:89 | 89 |
-| 8 | Eddie Taylor:83 | 83 |
-| 9 | Kate pinktapegloves:70 | 70 |
-| 10 | Max Manson:51 | 51 |
+| 1 | Stefan Griebel | 392 |
+| 2 | Jack Neus | 192 |
+| 3 | John Alcorn | 127 |
+| 4 | WadeM | 127 |
+| 5 | ChossCrimper TopRopePrincess | 114 |
+| 6 | Choss Pirate | 99 |
+| 7 | Eddie Taylor | 97 |
+| 8 | Kate pinktapegloves | 77 |
+| 9 | Quinn Davie | 63 |
+| 10 | Max Manson | 51 |
 <!-- AUTO:TOP_CLIMBERS:END -->
