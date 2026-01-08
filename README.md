@@ -102,13 +102,13 @@ Colorado hosts some of North America’s most storied stone, from Eldorado Canyo
 
 ### Live Leaderboards (Docs)
 
-- **Top Routes (refreshed quarterly)**: [`/docs/leaderboards.md`](docs/leaderboards.md) - updated 1/1/2026
-- **Top 100 (refreshed annually)**: [`/docs/leaderboards-100.md`](docs/leaderboards-100.md) - updated 1/1/2026
+- **Top Routes (refreshed quarterly)**: [`/docs/leaderboards.md`](docs/leaderboards.md) - updated January, 2026
+- **Top 100 (refreshed annually)**: [`/docs/leaderboards-100.md`](docs/leaderboards-100.md) - updated January, 2026
 
 ## Automation
 
-- ***Quarterly refresh**: Top leaderboards rebuild the first day of each quarter.  
-- **Annual refresh**: Top 100 leaderboards rebuild on the 1st day of each year.  
+- ***Quarterly refresh**: Top leaderboards rebuild the at the end of each quarter.
+- **Annual refresh**: Top 100 leaderboards rebuild January of each year.  
 - **Resilience**: Failed routes are logged and retried automatically in the next cycle.  
 - **Artifacts**: Refreshed CSVs in `/data` and `/outputs`, with updated docs in `/docs`.  
 
