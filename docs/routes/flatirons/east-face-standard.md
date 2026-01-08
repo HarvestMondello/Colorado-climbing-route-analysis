@@ -26,34 +26,34 @@ Any narrative insights you want to keep hand-written.
 | Grade                | 5.4 YDS   |
 | Location             | Third Flatiron |
 | Stars (avg)          | 3.7       |
-| Votes                | 1214.0    |
-| Unique Climbers      | 2355.0    |
-| Lifetime Ticks       | 4637.0    |
-| Avg Ticks / Climber  | 1.97      |
+| Votes                | 1259.0    |
+| Unique Climbers      | 2524.0    |
+| Lifetime Ticks       | 5032.0    |
+| Avg Ticks / Climber  | 1.99      |
 <!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
 ### Seasonality
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 11.5%
-- 🌸 **Spring (Mar–May)**: 2.0% **off season**
-- ☀️ **Summer (Jun–Aug)**: 33.8%
-- 🍂 **Fall (Sep–Nov)**: 52.8% **high season**
+- ❄️ **Winter (Dec–Feb)**: 11.3%
+- 🌸 **Spring (Mar–May)**: 1.8% **off season**
+- ☀️ **Summer (Jun–Aug)**: 33.2%
+- 🍂 **Fall (Sep–Nov)**: 53.8% **high season**
 
 ### Seasonality Usage by Month
 ```
-Jan | ██                             5.3%
+Jan | █                              5.0%
 Feb | █                              0.3%
 Mar | █                              0.5%
-Apr | █                              0.9%
-May | █                              0.6%
+Apr | █                              0.8%
+May | █                              0.5%
 Jun | █                              0.9%
-Jul | █                              4.6%
-Aug | ████████                      28.2%
-Sep | ██████                        22.3%
-Oct | █████                         19.2%
-Nov | ███                           11.2%
+Jul | █                              4.3%
+Aug | ████████                      28.0%
+Sep | ██████                        22.4%
+Oct | ██████                        19.4%
+Nov | ███                           12.0%
 Dec | ██                             5.9%
 ```
 <!-- AUTO:SEASONALITY:END -->
@@ -63,14 +63,14 @@ Dec | ██                             5.9%
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | brenta:172 | 172 |
-| 2 | Stefan Griebel:146 | 146 |
-| 3 | Mark Roth:59 | 59 |
-| 4 | Brad Schildt:37 | 37 |
-| 5 | Nick Esker:36 | 36 |
-| 6 | Jason Antin:32 | 32 |
-| 7 | Samuel Andree:29 | 29 |
-| 8 | Eric Klammer:26 | 26 |
-| 9 | Dan Howell:25 | 25 |
-| 10 | G P:22 | 22 |
+| 1 | brenta | 172 |
+| 2 | Stefan Griebel | 146 |
+| 3 | Mark Roth | 63 |
+| 4 | Brad Schildt | 38 |
+| 5 | Nick Esker | 38 |
+| 6 | Jason Antin | 34 |
+| 7 | Samuel Andree | 32 |
+| 8 | Dan Howell | 27 |
+| 9 | Eric Klammer | 26 |
+| 10 | G P | 26 |
 <!-- AUTO:TOP_CLIMBERS:END -->

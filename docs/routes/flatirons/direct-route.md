@@ -26,35 +26,35 @@ Any narrative insights you want to keep hand-written.
 | Grade                | 5.6 YDS   |
 | Location             | First Flatiron |
 | Stars (avg)          | 3.6       |
-| Votes                | 1357.0    |
-| Unique Climbers      | 2746.0    |
-| Lifetime Ticks       | 6354.0    |
-| Avg Ticks / Climber  | 2.31      |
+| Votes                | 1394.0    |
+| Unique Climbers      | 2854.0    |
+| Lifetime Ticks       | 6769.0    |
+| Avg Ticks / Climber  | 2.37      |
 <!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
 ### Seasonality
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 6.7% **low season**
-- 🌸 **Spring (Mar–May)**: 28.9%
+- ❄️ **Winter (Dec–Feb)**: 6.8% **low season**
+- 🌸 **Spring (Mar–May)**: 27.3%
 - ☀️ **Summer (Jun–Aug)**: 39.4% **high season**
-- 🍂 **Fall (Sep–Nov)**: 25.0%
+- 🍂 **Fall (Sep–Nov)**: 26.5%
 
 ### Seasonality Usage by Month
 ```
-Jan | █                              1.7%
-Feb | █                              1.9%
-Mar | ██                             6.4%
-Apr | ███                           10.2%
-May | ████                          12.3%
-Jun | ████                          15.7%
-Jul | ████                          12.5%
-Aug | ███                           11.2%
-Sep | ███                           10.0%
-Oct | ███                            9.8%
-Nov | █                              5.1%
-Dec | █                              3.1%
+Jan | █                              1.6%
+Feb | █                              1.8%
+Mar | ██                             6.1%
+Apr | ███                            9.6%
+May | ███                           11.6%
+Jun | ████                          14.9%
+Jul | ████                          13.1%
+Aug | ███                           11.4%
+Sep | ███                           10.3%
+Oct | ███                           10.4%
+Nov | ██                             5.8%
+Dec | █                              3.4%
 ```
 <!-- AUTO:SEASONALITY:END -->
 
@@ -63,14 +63,14 @@ Dec | █                              3.1%
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | Stefan Griebel:541 | 541 |
-| 2 | Eric K:220 | 220 |
-| 3 | Samuel Andree:121 | 121 |
-| 4 | Ryan Marsters:94 | 94 |
-| 5 | P. W.:84 | 84 |
-| 6 | Abel Richards:69 | 69 |
-| 7 | Chris Gummer:65 | 65 |
-| 8 | Luke D:57 | 57 |
-| 9 | Jack Neus:56 | 56 |
-| 10 | John Alcorn:56 | 56 |
+| 1 | Stefan Griebel | 569 |
+| 2 | Eric K | 240 |
+| 3 | Samuel Andree | 139 |
+| 4 | Ryan Marsters | 100 |
+| 5 | Chris Gummer | 88 |
+| 6 | P. W. | 84 |
+| 7 | Abel Richards | 71 |
+| 8 | Jake Albright | 65 |
+| 9 | Jack Neus | 60 |
+| 10 | John Alcorn | 60 |
 <!-- AUTO:TOP_CLIMBERS:END -->
