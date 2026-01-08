@@ -15,7 +15,8 @@ BASE_DIR = Path(__file__).parent.resolve()
 
 scripts = [
     BASE_DIR / "1_build_leaderboards.py", #Collects all routes in a given region(s) and basic metadata: name, grade, FA info, stars/votes, etc.
-    BASE_DIR / "2_build_route_pages.py", #Combine all scraped regions into one CSV.
+    BASE_DIR / "2_top_100_routes.py",    
+    BASE_DIR / "3_build_route_pages.py", #Combine all scraped regions into one CSV.
 ]
 
 MAX_RETRIES = 1   # Number of times to retry a failed script

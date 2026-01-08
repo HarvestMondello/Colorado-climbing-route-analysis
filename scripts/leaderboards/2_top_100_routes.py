@@ -1,22 +1,21 @@
 # -*- coding: utf-8 -*-
 """
-scripts/leaderboards/build_leaderboards.py
+scripts/leaderboards/top_100_routes.py
 
-WORKFLOW NOTES
--------------------------------------------------------------------------
 PURPOSE
-    Build `docs/leaderboards.md` from a route-level CSV (snake_case) that already
-    includes seasonality and leaderboard columns. Produces a printable Markdown with:
-      - Routes index by classic_score
-      - Per-route “Summary”, “Seasonality” (plus ASCII monthly bars), and “Top N Climbers”
-      - A compact Top 100 Users leaderboard aggregated from per-route top_climber_* columns
+    Start from build_leaderboards.py, but generate a Markdown for the ENTIRE CSV
+    (not featured/selected routes). Output file is docs/top_100_routes.md.
 
-INPUTS (defaults, UTF-8)
-    - data/processed/joined_route_tick_cleaned.csv   (snake_case headers)
-    - data/processed/featured_routes.csv  (optional)
+    Produces:
+      - Routes index by classic_score (for entire CSV)
+      - Per-route: Summary, Seasonality (+ ASCII month bars), Top N Climbers
+      - Top 100 Users leaderboard aggregated from ALL routes (entire CSV)
+
+INPUT (default, UTF-8)
+    - data/processed/joined_route_tick_cleaned.csv
 
 OUTPUT
-    - docs/leaderboards.md (UTF-8)
+    - docs/top_100_routes.md (UTF-8)
 """
 
 from __future__ import annotations
@@ -35,44 +34,13 @@ import pandas as pd
 # =============================================================================
 # CONFIG DEFAULTS (PORTABLE)
 # =============================================================================
-# file lives at: scripts/leaderboards/build_leaderboards.py
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
 DEFAULT_DOCS_DIR = (PROJECT_ROOT / "docs").resolve()
-DEFAULT_FEATURED_CSV = (PROJECT_ROOT / "data" / "processed" / "featured_routes.csv").resolve()
-DEFAULT_OUT_MD = (DEFAULT_DOCS_DIR / "leaderboards.md").resolve()
+DEFAULT_OUT_MD = (DEFAULT_DOCS_DIR / "leaderboards-100.md").resolve()
 DEFAULT_SOURCE_CSV = (PROJECT_ROOT / "data" / "processed" / "joined_route_tick_cleaned.csv").resolve()
 
 TOP_N_CLIMBERS = 10
-
-# Optional “manual featured” for stable ordering; md only used for per-route “Open route profile” links
-# top 20 routes
-FEATURED_ROUTES = [
-    {"name": "The Naked Edge",       "area_hint": "Eldorado Canyon", "md": "routes/eldo/naked-edge.md"},
-    {"name": "Outer Space",          "area_hint": "Eldorado Canyon", "md": "routes/eldo/outer-space.md"},
-    {"name": "Rewritten",            "area_hint": "Eldorado Canyon", "md": "routes/eldo/rewritten.md"},
-    {"name": "East Face (Standard)", "area_hint": "Third Flatiron",  "md": "routes/east-face-standard.md"},
-    {"name": "The Yellow Spur",      "area_hint": "Eldorado Canyon", "md": "routes/eldo/yellow-spur.md"},
-    {"name": "Center Route",         "area_hint": "Cathedral Spire", "md": "routes/center-route.md"},
-    {"name": "Direct Route",         "area_hint": "First Flatiron",  "md": "routes/direct-route.md"},
-    {"name": "Casual Route",         "area_hint": "Long's Peak",     "md": "routes/casual-route.md"},
-    {"name": "Country Club Crack",   "area_hint": "Boulder Canyon",  "md": "routes/country-club-crack.md"},
-    {"name":  "Wunsch's Dihedral",   "area_hint": "Cathedral Spire", "md": "routes/wunschs-dihedral.md"},
-    {"name": "Rosy Crucifixion",     "area_hint": "Eldorado Canyon",    "md": "routes/rosy-crucifixion.md"},
-    {"name": "The Bastille Crack",   "area_hint": "Eldorado Canyon",    "md": "routes/bastille-crack.md"},
-    {"name": "Freeway",              "area_hint": "Second Flatiron",    "md": "routes/freeway.md"},
-    {"name": "South Face",           "area_hint": "RMNP",               "md": "routes/south-face.md"},
-    {"name": "The Scenic Cruise",    "area_hint": "Black Canyon",       "md": "routes/scenic-cruise.md"},
-    {"name": "Vertigo",   "area_hint": "Eldorado Canyon",    "md": "routes/vertigo.md"},
-    {"name": "Blind Faith",   "area_hint": "Eldorado Canyon",    "md": "routes/blind-faith.md"},
-# Rebuffat's Arete...this is really a variation on Rewritten
-    {"name": "Ruper",   "area_hint": "Eldorado Canyon",    "md": "routes/ruper.md"},
-    {"name": "Over the Hill",   "area_hint": "Eldorado Canyon",    "md": "routes/over-the-hill.md"},
-    {"name": "Handcracker Direct",   "area_hint": "Eldorado Canyon",    "md": "routes/handcracker-direct.md"},
-]
-
-
-
 
 # =============================================================================
 # Column constants (snake_case)
@@ -143,13 +111,6 @@ def clean_area_text(s: object) -> str:
     txt = re.sub(r"\s+", " ", txt).strip()
     txt = re.sub(r"\s*>\s*", " > ", txt)
     return re.sub(r"\s*>\s*$", "", txt)
-
-def canon(s: object) -> str:
-    if s is None or (isinstance(s, float) and pd.isna(s)): return ""
-    return re.sub(r"\s+", " ", str(s).strip())
-
-def canon_area(s: object) -> str:
-    return canon(clean_area_text(s))
 
 def to_int_str(x) -> str:
     try:
@@ -238,63 +199,6 @@ def md_table(df: pd.DataFrame) -> str:
         return "\n".join([header, sep, *rows])
 
 # =============================================================================
-# Featured route resolution
-# =============================================================================
-def load_featured_exact(csv_path: Path | None, source: pd.DataFrame) -> pd.DataFrame:
-    if not csv_path or not csv_path.exists():
-        return pd.DataFrame()
-    df = read_csv_snake(csv_path)
-
-    need = {"route_id", "route_name", "area_hierarchy"}
-    if not need.issubset(df.columns):
-        return pd.DataFrame()
-
-    left = source.copy()
-    right = df.copy()
-
-    for d in (left, right):
-        d["_rid"] = d[COL_ROUTE_ID].map(canon)
-        d["_rname"] = d[COL_ROUTE_NAME].map(canon)
-        d["_area"] = d[COL_AREA].map(canon_area)
-
-    if "md" not in right.columns:
-        right["md"] = ""
-
-    right = right.drop_duplicates(subset=["_rid", "_rname", "_area"], keep="first")
-    merged = pd.merge(left, right[["_rid", "_rname", "_area", "md"]], on=["_rid", "_rname", "_area"], how="inner")
-    return merged.rename(columns={"md": "_md"})
-
-def resolve_manual_featured(manual_list: list[dict], source: pd.DataFrame) -> pd.DataFrame:
-    if not manual_list:
-        return pd.DataFrame()
-    df = source.copy()
-    df["_rname"] = df[COL_ROUTE_NAME].map(canon)
-    df["_area"] = df[COL_AREA].map(canon_area)
-
-    rows = []
-    for idx, it in enumerate(manual_list):
-        name = canon(it.get("name", ""))
-        area = canon(it.get("area_hint", it.get("area", "")))
-        md = (it.get("md") or "").strip()
-        if not name:
-            continue
-        cand = df[df["_rname"] == name]
-        if area:
-            cand = cand[cand["_area"].str.contains(re.escape(area), case=False, na=False)]
-        if cand.empty:
-            continue
-        if COL_CLASSIC in cand.columns:
-            cand = cand.sort_values(by=COL_CLASSIC, ascending=False, kind="mergesort")
-        take = cand.iloc[0].copy()
-        take["_md"] = md
-        take["_feature_order"] = idx
-        rows.append(take)
-
-    if not rows:
-        return pd.DataFrame()
-    return pd.DataFrame(rows).drop_duplicates(subset=["_rname", "_area"], keep="first")
-
-# =============================================================================
 # Seasonality text + ASCII chart
 # =============================================================================
 def get_month_percentages(row: pd.Series) -> dict[str, float]:
@@ -371,7 +275,7 @@ def seasonality_block(row: pd.Series) -> str:
     return "### Seasonality\n\n" + "- Seasonality Profile: (placeholder)\n" + f"- Highest-use months in order: {top4}\n\n" + "\n".join(lines) + "\n"
 
 # =============================================================================
-# User leaderboard (compact)
+# User leaderboard (compact) - built from ALL routes (entire CSV)
 # =============================================================================
 def build_user_leaderboard(rows: list[pd.Series], top_n: int) -> pd.DataFrame:
     rank_counts = defaultdict(lambda: defaultdict(int))
@@ -432,10 +336,11 @@ def build_user_leaderboard(rows: list[pd.Series], top_n: int) -> pd.DataFrame:
 # Args
 # =============================================================================
 def parse_args():
-    ap = argparse.ArgumentParser(description="Build leaderboards markdown (snake_case, UTF-8).")
-    ap.add_argument("--out", type=str, help="Absolute output .md path.")
-    ap.add_argument("--csv", type=str, help="Path to source CSV (joined_route_tick_cleaned.csv).")
-    ap.add_argument("--featured-csv", type=str, help="CSV with featured routes (expects route_id, route_name, area_hierarchy[, md])")
+    ap = argparse.ArgumentParser(description="Build top_100_routes.md from the ENTIRE CSV (snake_case, UTF-8).")
+    ap.add_argument("--out", type=str, help="Absolute output .md path (default: docs/top_100_routes.md).")
+    ap.add_argument("--csv", type=str, help="Path to source CSV (default: data/processed/joined_route_tick_cleaned.csv).")
+    ap.add_argument("--top-n-climbers", type=int, default=TOP_N_CLIMBERS, help="Top climbers per route (default: 10).")
+    ap.add_argument("--top-users", type=int, default=100, help="How many users to show (default: 100).")
     return ap.parse_args()
 
 # =============================================================================
@@ -447,7 +352,6 @@ def main():
     out_md = Path(args.out).expanduser().resolve() if args.out else DEFAULT_OUT_MD
     docsdir = out_md.parent
     csvpath = Path(args.csv).expanduser().resolve() if args.csv else DEFAULT_SOURCE_CSV
-    featcsv = Path(args.featured_csv).expanduser().resolve() if getattr(args, "featured_csv", None) else DEFAULT_FEATURED_CSV
 
     docsdir.mkdir(parents=True, exist_ok=True)
 
@@ -460,45 +364,34 @@ def main():
     if miss:
         raise KeyError(f"Missing required CSV columns (snake_case): {miss}")
 
-    df_csv = load_featured_exact(featcsv if featcsv.exists() else None, df)
-    df_manual = resolve_manual_featured(FEATURED_ROUTES, df)
-    for col in ("_md", "_feature_order"):
-        if col not in df_csv.columns:
-            df_csv[col] = "" if col == "_md" else 10_000
-        if col not in df_manual.columns:
-            df_manual[col] = "" if col == "_md" else 0
-
-    to_render = pd.concat([df_manual, df_csv], ignore_index=True)
-    keys = ["_rname", "_area"] if all(k in to_render.columns for k in ["_rname", "_area"]) else [COL_ROUTE_ID, COL_ROUTE_NAME, COL_AREA]
-    to_render = to_render.drop_duplicates(subset=keys, keep="first")
-    sort_cols = ["_feature_order"] + ([COL_CLASSIC] if COL_CLASSIC in to_render.columns else [])
-    to_render = to_render.sort_values(by=sort_cols, ascending=[True, False], kind="mergesort").reset_index(drop=True)
-
-    if len(to_render) > 0:
-        scores = pd.to_numeric(to_render[COL_CLASSIC], errors="coerce")
-        to_render["_classic_rank"] = scores.rank(ascending=False, method="min").astype("Int64")
-        matched_sorted = to_render.sort_values(by=["_classic_rank", COL_CLASSIC, COL_ROUTE_NAME], ascending=[True, False, True])
-    else:
-        matched_sorted = to_render
-        to_render["_classic_rank"] = pd.NA
+    # ENTIRE CSV sorted by classic_score
+    df[COL_CLASSIC] = pd.to_numeric(df[COL_CLASSIC], errors="coerce")
+    df_sorted = (
+        df.dropna(subset=[COL_CLASSIC])
+          .sort_values(by=[COL_CLASSIC, COL_ROUTE_NAME], ascending=[False, True], kind="mergesort")
+          .reset_index(drop=True)
+    )
+    df_sorted["_classic_rank"] = range(1, len(df_sorted) + 1)
 
     now_str = datetime.now(tz=ZoneInfo("America/Denver")).strftime("%Y-%m-%d %H:%M:%S %Z")
 
+    # Routes index (ALL routes)
     route_rows = []
-    for _, rr in matched_sorted.iterrows():
+    for _, rr in df_sorted.iterrows():
         rnk, rnm = rr.get("_classic_rank"), rr.get(COL_ROUTE_NAME, "")
         if pd.isna(rnk) or not str(rnm).strip():
             continue
         route_rows.append({"Classic Rank": int(rnk), "Route": f"[{rnm}]({route_anchor(rnm)})"})
-    routes_block = "**Routes (by Classic Rank):**\n" + (md_table(pd.DataFrame(route_rows)) if route_rows else "_No routes selected_")
+    routes_block = "**Routes (by Classic Rank):**\n" + (md_table(pd.DataFrame(route_rows)) if route_rows else "_No routes available_")
 
     parts = [
-        "# Colorado Climbing Route Leaderboards - Top Routes",
+        "# Colorado Climbing Route Leaderboards - Full CSV (Ranked by Classic Score)",
         f"_Generated {now_str}_\n",
         "**[Top 100 Users by Score](#top-100-users-by-score)**\n",
-        f"**Selected routes:** {len(to_render)}\n",
+        f"**Routes included:** {len(df_sorted)}\n",
         routes_block,
         "",
+        "> Source: joined_route_tick_cleaned.csv with embedded leaderboard columns.\n",
     ]
 
     def grade_bucket(g):
@@ -510,15 +403,16 @@ def main():
         n = int(m.group(1))
         return f"5.{n}*" if n <= 12 else "5.12*"
 
-    if len(to_render) and COL_GRADE in to_render.columns:
-        buckets = to_render[COL_GRADE].map(grade_bucket).value_counts()
+    # Optional rollups for the full CSV
+    if len(df_sorted) and COL_GRADE in df_sorted.columns:
+        buckets = df_sorted[COL_GRADE].map(grade_bucket).value_counts()
         order = ["5.12*","5.11*","5.10*","5.9*","5.8*","5.7*","5.6*","5.5*","5.4*","5.3*","5.2*","5.1*","5.0*","4th*"]
         parts.append("**Grades Summary:**")
         parts.append(md_table(pd.DataFrame([{"Bucket": b, "Routes": int(buckets.get(b, 0))} for b in order])))
         parts.append("")
 
-    if len(to_render) and COL_AREA in to_render.columns:
-        ser = to_render[COL_AREA].astype(str).str.strip()
+    if len(df_sorted) and COL_AREA in df_sorted.columns:
+        ser = df_sorted[COL_AREA].astype(str).str.strip()
         ser = ser[ser.ne("") & ser.str.lower().ne("nan")]
         if not ser.empty:
             counts = ser.value_counts()
@@ -526,21 +420,17 @@ def main():
             if top_areas:
                 parts.append(f"**Top Areas:** {', '.join(top_areas)}\n")
 
-    parts.append("> Source: joined_route_tick_cleaned.csv with embedded leaderboard columns.\n")
-
+    # Per-route blocks for ALL routes
     rows_for_lb = []
-    for _, r in matched_sorted.iterrows():
+    top_n_climbers = int(args.top_n_climbers)
+
+    for _, r in df_sorted.iterrows():
         rname = r.get(COL_ROUTE_NAME, "(unnamed route)") or "(unnamed route)"
         area = r.get(COL_AREA, "")
-        mdrel = (r.get("_md") or "").strip()
 
         parts.append(f"## {rname}")
         if area:
             parts.append(f"**Area:** {area}")
-        if mdrel:
-            if not mdrel.startswith(("./", "../")):
-                mdrel = f"./{mdrel}"
-            parts.append(f"[Open route profile]({mdrel})\n")
 
         ticks_val = pd.to_numeric(r.get(COL_TICKS, 0), errors="coerce")
         climbers_val = pd.to_numeric(r.get("unique_climbers", 0), errors="coerce")
@@ -565,43 +455,37 @@ def main():
             parts.append(chart)
             parts.append("")
 
-        top_df = extract_top_climbers(r, TOP_N_CLIMBERS)
-        parts.append(f"### Top {TOP_N_CLIMBERS} Climbers")
+        top_df = extract_top_climbers(r, top_n_climbers)
+        parts.append(f"### Top {top_n_climbers} Climbers")
         parts.append(md_table(top_df))
         parts.append("\n---\n")
 
         rows_for_lb.append(r)
 
-    lb_df = build_user_leaderboard(rows_for_lb, TOP_N_CLIMBERS)
+    # Top 100 Users by Score (built from ALL routes)
+    lb_df = build_user_leaderboard(rows_for_lb, top_n_climbers)
     parts.append("## Top 100 Users by Score")
     if lb_df.empty:
         parts.append("_No data available_\n")
     else:
-        top100 = lb_df.head(100).copy().reset_index(drop=True)
-        top100.insert(0, "Rank", range(1, len(top100) + 1))
+        top_users = lb_df.head(int(args.top_users)).copy().reset_index(drop=True)
+        top_users.insert(0, "Rank", range(1, len(top_users) + 1))
         for c in ("Score", "GradePts"):
-            if c in top100.columns:
-                top100[c] = top100[c].map(lambda x: f"{float(x):.1f}")
-        if "RankScore" in top100.columns:
-            top100["RankScore"] = top100["RankScore"].map(lambda x: f"{int(x)}")
-        if "Total Ticks" in top100.columns:
-            top100["Total Ticks"] = top100["Total Ticks"].map(lambda x: f"{int(x)}")
+            if c in top_users.columns:
+                top_users[c] = top_users[c].map(lambda x: f"{float(x):.1f}")
+        if "RankScore" in top_users.columns:
+            top_users["RankScore"] = top_users["RankScore"].map(lambda x: f"{int(x)}")
+        if "Total Ticks" in top_users.columns:
+            top_users["Total Ticks"] = top_users["Total Ticks"].map(lambda x: f"{int(x)}")
 
-        compact = [c for c in ["Rank","Username","Score","RankScore","GradePts","Total Ticks"] if c in top100.columns]
-        parts.append(md_table(top100[compact]))
+        compact = [c for c in ["Rank","Username","Score","RankScore","GradePts","Total Ticks"] if c in top_users.columns]
+        parts.append(md_table(top_users[compact]))
         parts.append("")
-        if "#1" in top100.columns and "Total Ranks" in top100.columns:
-            parts.append("<details><summary>Show #1 finishes and Total Ranks (Top 100)</summary>\n")
-            parts.append(md_table(top100[["Rank","Username","#1","Total Ranks"]]))
-            parts.append("\n</details>\n")
 
-    parts += [
-        "\n---\n",
-        "### License\n",
-        ("Created by Harvest Mondello. You're welcome to use this project for **personal** or **educational** purposes! "
-         "Feel free to explore, adapt, and learn from the code and visuals. Just note that **commercial use isn’t permitted** "
-         "without permission. See LICENSE for full details and contact info.\n"),
-    ]
+        if "#1" in top_users.columns and "Total Ranks" in top_users.columns:
+            parts.append("<details><summary>Show #1 finishes and Total Ranks (Top 100)</summary>\n")
+            parts.append(md_table(top_users[["Rank","Username","#1","Total Ranks"]]))
+            parts.append("\n</details>\n")
 
     content = "\n".join(parts)
     tmp = out_md.with_suffix(".md.tmp")
