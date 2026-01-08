@@ -18,17 +18,20 @@ Output:
 Dependencies:
     - Selenium, BeautifulSoup4, Pandas, webdriver_manager (optional fallback).
 """
-#output line 21
 
 import time
 import os
 import re
+import http.client
+from pathlib import Path
+
+import urllib3
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import TimeoutException, WebDriverException
 from bs4 import BeautifulSoup
 
 # ===========================
@@ -42,14 +45,14 @@ URLS = [
     #'https://www.mountainproject.com/area/105744448/colorado-national-monument',
     #'https://www.mountainproject.com/area/105744246/eldorado-canyon-state-park',
     #'https://www.mountainproject.com/area/105744255/eldorado-mountain',
-    #'https://www.mountainproject.com/area/105788880/escalante-canyon',
+    # 'https://www.mountainproject.com/area/105788880/escalante-canyon',
     #'https://www.mountainproject.com/area/105797700/flatirons',
     #'https://www.mountainproject.com/area/105744301/garden-of-the-gods',
     #'https://www.mountainproject.com/area/105744228/lumpy-ridge',
     #'https://www.mountainproject.com/area/105744249/north-table-mountaingolden-cliffs',
     #'https://www.mountainproject.com/area/105744385/old-stage-road',
     #'https://www.mountainproject.com/area/105797719/south-platte',
-    #'https://www.mountainproject.com/area/105744400/unaweep-canyon',
+    # 'https://www.mountainproject.com/area/105744400/unaweep-canyon',
     #'https://www.mountainproject.com/area/105744234/upper-dream-canyon',
 ]
 
@@ -57,7 +60,7 @@ URLS = [
 # SELENIUM OPTIONS
 # ===========================
 options = Options()
-options.add_argument("--headless=new")
+options.add_argument("--headless=new")  # keep headless
 options.add_argument("--disable-gpu")
 options.add_argument("--disable-webgpu")
 options.add_argument("--disable-3d-apis")
@@ -82,20 +85,63 @@ def build_driver():
         webdriver.Chrome
     """
     try:
-        return webdriver.Chrome(options=options)
+        d = webdriver.Chrome(options=options, keep_alive=False)
     except Exception as e1:
         print(f"[info] Selenium Manager init failed, fallback… ({e1})", flush=True)
         try:
             from webdriver_manager.chrome import ChromeDriverManager
             service = Service(ChromeDriverManager().install())
-            return webdriver.Chrome(service=service, options=options)
+            d = webdriver.Chrome(service=service, options=options, keep_alive=False)
         except Exception as e2:
             raise RuntimeError(
                 f"Could not start Chrome WebDriver. "
                 f"Selenium Manager error: {e1}\nwebdriver_manager error: {e2}"
             )
 
+    # harden timeouts so one bad page doesn't hang forever
+    d.set_page_load_timeout(60)
+    d.set_script_timeout(60)
+    return d
+
 driver = build_driver()
+
+# ===========================
+# SELENIUM RECOVERY WRAPPER
+# ===========================
+def safe_get(page_url, max_tries=3):
+    """
+    Robust driver.get() that retries and restarts the WebDriver if it becomes unstable.
+    Catches lower-level urllib3/http.client failures too (common in long runs).
+    """
+    global driver
+
+    fatal = (
+        TimeoutException,
+        WebDriverException,
+        urllib3.exceptions.ProtocolError,
+        urllib3.exceptions.ReadTimeoutError,
+        http.client.RemoteDisconnected,
+        ConnectionResetError,
+        ConnectionAbortedError,
+        BrokenPipeError,
+        OSError,
+        Exception,  # some failures bypass Selenium exception types
+    )
+
+    for attempt in range(1, max_tries + 1):
+        try:
+            driver.get(page_url)
+            return True
+        except fatal as e:
+            print(f"⚠️ GET failed ({attempt}/{max_tries}) {page_url} :: {type(e).__name__}", flush=True)
+            try:
+                driver.quit()
+            except Exception:
+                pass
+            driver = build_driver()
+            time.sleep(2)
+
+    return False
 
 # ===========================
 # HELPER FUNCTIONS
@@ -112,29 +158,25 @@ def gentle_scroll(driver, steps=3, pause=0.25):
         pass
 
 def get_soup(page_url, retries=1):
-    """Load a page into BeautifulSoup with retries on timeout."""
+    """Load a page into BeautifulSoup with retries."""
     for _ in range(retries + 1):
-        try:
-            driver.get(page_url)
-            time.sleep(1.5)
-            return BeautifulSoup(driver.page_source, "html.parser")
-        except TimeoutException:
-            print(f"⏳ Timeout: {page_url}", flush=True)
-            time.sleep(2)
+        ok = safe_get(page_url, max_tries=2)
+        if not ok:
+            continue
+        time.sleep(1.5)
+        return BeautifulSoup(driver.page_source, "html.parser")
     return None
 
 def get_stats_soup(page_url, retries=1):
     """Load /route/stats/ with a gentle scroll so lazy sections hydrate."""
     for _ in range(retries + 1):
-        try:
-            driver.get(page_url)
-            time.sleep(1.2)
-            gentle_scroll(driver)
-            time.sleep(0.3)
-            return BeautifulSoup(driver.page_source, "html.parser")
-        except TimeoutException:
-            print(f"⏳ Timeout (stats): {page_url}", flush=True)
-            time.sleep(2)
+        ok = safe_get(page_url, max_tries=2)
+        if not ok:
+            continue
+        time.sleep(1.2)
+        gentle_scroll(driver)
+        time.sleep(0.3)
+        return BeautifulSoup(driver.page_source, "html.parser")
     return None
 
 def parse_ticks_from_stats_soup(stats_soup):
@@ -180,7 +222,9 @@ def parse_ticks_from_stats_soup(stats_soup):
 
 def get_route_links_from(page_url):
     """Extract all route links from a given area page."""
-    driver.get(page_url)
+    ok = safe_get(page_url, max_tries=2)
+    if not ok:
+        return []
     time.sleep(1)
     return [
         el.get_attribute("href")
@@ -197,7 +241,10 @@ def collect_all_routes_recursive(area_url, visited=None):
 
     visited.add(area_url)
     print(f"📂 Visiting: {area_url}", flush=True)
-    driver.get(area_url)
+
+    ok = safe_get(area_url, max_tries=2)
+    if not ok:
+        return []
     time.sleep(1)
 
     # Collect routes
@@ -215,12 +262,19 @@ def collect_all_routes_recursive(area_url, visited=None):
     return route_links
 
 # ===========================
-# OUTPUT DIRECTORIES
+# OUTPUT DIRECTORIES (FIXED)
 # ===========================
-output_dir = r"C:\Users\harve\Documents\Projects\MP-routes-Python\data\raw"
-debug_dir = os.path.join(output_dir, "debug")
-os.makedirs(output_dir, exist_ok=True)
-os.makedirs(debug_dir, exist_ok=True)
+# project root = .../MP-routes-Python (this file is .../scripts/scraping/)
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+
+output_dir = PROJECT_ROOT / "data" / "raw"
+debug_dir = output_dir / "debug"
+
+print("OUTPUT_DIR =", output_dir)
+print("DEBUG_DIR  =", debug_dir)
+
+output_dir.mkdir(parents=True, exist_ok=True)
+debug_dir.mkdir(parents=True, exist_ok=True)
 
 # ===========================
 # MAIN SCRAPER LOOP
@@ -354,8 +408,8 @@ for url in URLS:
     print(f"🧪 Routes missing Ticks: {len(missing_ticks)}", flush=True)
 
     area_slug = url.rstrip("/").split("/")[-1].replace("-", "_").lower()
-    file_path = os.path.join(output_dir, f"{area_slug}.csv")
-    debug_path = os.path.join(debug_dir, f"{area_slug}_missing_ticks.csv")
+    file_path = output_dir / f"{area_slug}.csv"
+    debug_path = debug_dir / f"{area_slug}_missing_ticks.csv"
 
     if all_routes:
         df = pd.DataFrame(all_routes)
@@ -377,4 +431,7 @@ for url in URLS:
 # ===========================
 # CLEANUP
 # ===========================
-driver.quit()
+try:
+    driver.quit()
+except Exception:
+    pass

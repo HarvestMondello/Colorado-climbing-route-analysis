@@ -62,17 +62,15 @@ Example:
         --top-n 100
 """
 
-
-
 # =========================
-# Defaults & Constants
+# Defaults & Constants (PORTABLE)
 # =========================
-DEFAULT_INPUT = Path(
-    r"C:\Users\harve\Documents\Projects\MP-routes-Python\data\processed\all_combined_routes.csv"
-)
-DEFAULT_OUTPUT = Path(
-    r"C:\Users\harve\Documents\Projects\MP-routes-Python\data\processed\routes_filtered.csv"
-)
+# file lives at: scripts/filters/3_filter_routes_by_classic.py
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+
+DEFAULT_INPUT = PROJECT_ROOT / "data" / "processed" / "all_combined_routes.csv"
+DEFAULT_OUTPUT = PROJECT_ROOT / "data" / "processed" / "routes_filtered.csv"
+
 DEFAULT_TOP_N = 100
 BAYES_K = 50  # Bayesian prior dampening constant
 
@@ -127,7 +125,6 @@ def is_trad_series(series: pd.Series) -> pd.Series:
     Returns:
         pd.Series: Boolean mask for rows considered Trad.
     """
-    # Handle None/NaN robustly; accept strings like "Trad", "Trad, Sport", etc.
     pattern = re.compile(r"\btrad\b", flags=re.IGNORECASE)
     return series.astype(str).str.contains(pattern, na=False)
 
@@ -170,10 +167,10 @@ def compute_climbing_metrics(df: pd.DataFrame, k: int = BAYES_K) -> pd.DataFrame
 
     # Composite score
     df["classic_score"] = (
-        0.55 * df["norm_quality"] #55%
-        + 0.20 * df["norm_popularity"] #20%
-        + 0.10 * df["norm_cult_following"] #10%
-        + 0.15 * df["norm_consensus"] #15%
+        0.55 * df["norm_quality"]          # 55%
+        + 0.20 * df["norm_popularity"]     # 20%
+        + 0.10 * df["norm_cult_following"] # 10%
+        + 0.15 * df["norm_consensus"]      # 15%
     )
 
     # Guardrail: if very low votes, deprioritize/remove score
@@ -211,12 +208,15 @@ def main() -> None:
     """
     args = parse_args()
 
+    # Optional: show resolved defaults when user doesn't pass args
+    # (keeps behavior identical; just informational)
+    # print("INPUT  =", args.input)
+    # print("OUTPUT =", args.output)
+
     # Load & normalize columns to snake_case for internal consistency
     df = pd.read_csv(args.input)
     df = normalize_columns(df)
 
-    # Column aliasing to support both TitleCase and snake_case inputs
-    # (normalize_columns already lowercased; this is for clarity)
     required = ["stars", "votes", "ticks", "type"]
     for col in required:
         if col not in df.columns:
@@ -238,7 +238,7 @@ def main() -> None:
     df_top = df_scored.head(int(args.top_n)).copy()
     df_top.insert(0, "rank", range(1, len(df_top) + 1))
 
-    # Save (snake_case path)
+    # Save
     args.output.parent.mkdir(parents=True, exist_ok=True)
     df_top.to_csv(args.output, index=False)
     print(f"✅ Saved ranked Trad classics (top {len(df_top)}): {args.output}")

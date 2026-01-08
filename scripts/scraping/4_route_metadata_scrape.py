@@ -38,6 +38,8 @@ WORKFLOW NOTES
 
 import time
 import re
+from pathlib import Path
+
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -45,12 +47,23 @@ from selenium.webdriver.common.by import By
 from tqdm import tqdm
 
 # =========================
-# CONFIG (paths/filenames)
+# CONFIG (paths/filenames) - PORTABLE
 # =========================
-area_csv   = r"C:\Users\harve\Documents\Projects\MP-routes-Python\data\processed\routes_filtered.csv"
-output_csv = r"C:\Users\harve\Documents\Projects\MP-routes-Python\data\processed\tick_details.csv"
-failed_csv = r"C:\Users\harve\Documents\Projects\MP-routes-Python\data\processed\failed_routes.csv"
-chrome_path = r"C:\Tools\chromedriver\chromedriver.exe"  # fallback path only
+# file lives at: scripts/scraping/4_tick_scraper_updated.py (example)
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
+PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
+
+area_csv = PROCESSED_DIR / "routes_filtered.csv"
+output_csv = PROCESSED_DIR / "tick_details.csv"
+failed_csv = PROCESSED_DIR / "failed_routes.csv"
+
+# fallback path only (optional). Keep as-is; it won't be used unless Selenium Manager fails.
+chrome_path = r"C:\Tools\chromedriver\chromedriver.exe"
+
+print("AREA_CSV   =", area_csv)
+print("OUTPUT_CSV =", output_csv)
+print("FAILED_CSV =", failed_csv)
 
 # =========================
 # Helpers
@@ -67,9 +80,11 @@ def snake_case_cols(df: pd.DataFrame) -> pd.DataFrame:
         s = s.replace("-", "_").replace(" ", "_")
         s = re.sub(r"__+", "_", s)
         return s
+
     df = df.copy()
     df.columns = [_snake(c) for c in df.columns]
     return df
+
 
 def init_driver():
     """
@@ -80,7 +95,6 @@ def init_driver():
     # Keep headed for reliability (same behavior as before)
     # opts.add_argument("--headless=new")
     opts.add_argument("--start-maximized")
-    # Reduce noisy logs on Windows
     opts.add_argument("--log-level=3")
     opts.add_experimental_option("excludeSwitches", ["enable-logging"])
 
@@ -93,6 +107,7 @@ def init_driver():
     driver.set_page_load_timeout(35)
     return driver
 
+
 # =========================
 # Start
 # =========================
@@ -103,13 +118,12 @@ df = pd.read_csv(area_csv)
 df = snake_case_cols(df)
 
 # Common alias shim (handles older CSV variants)
-# If your CSV already has these canonical names, nothing changes.
 aliases = {
     "route_name": ["route_name", "name", "route"],
     "url": ["url", "route_url", "link", "page"],
     "ticks": ["ticks", "total_ticks", "tick_count"],
     "area_hierarchy": ["area_hierarchy", "area", "area_path", "hierarchy"],
-    "grade": ["grade", "yds_grade", "route_grade"]
+    "grade": ["grade", "yds_grade", "route_grade"],
 }
 
 def pick_col(df: pd.DataFrame, preferred: str, options: list[str]) -> str | None:
@@ -135,7 +149,6 @@ maybe_cols = []
 for key in ["route_name", "url", "ticks", "area_hierarchy", "grade"]:
     chosen = pick_col(df, key, aliases[key])
     if chosen:
-        # standardize to canonical snake_case name
         if chosen != key:
             df = df.rename(columns={chosen: key})
         maybe_cols.append(key)
@@ -155,14 +168,12 @@ def parse_text_block(lines, route_id):
     i = 0
     while i < len(lines):
         line = lines[i]
-        # Date lines like "Jan 5, 2023"
         date_match = re.match(r"\w{3} \d{1,2}, \d{4}", line)
         if date_match:
             date = date_match.group(0)
             climber = lines[i - 1] if i > 0 else "Unknown"
             tick_info = line
             i += 1
-            # Accumulate until the next date header
             while i < len(lines) and not re.match(r"\w{3} \d{1,2}, \d{4}", lines[i]):
                 tick_info += " " + lines[i]
                 i += 1
@@ -202,7 +213,7 @@ def scrape_route(route_id, retry_num=0):
 
     try:
         driver.get(url)
-        time.sleep(3)  # fixed delay
+        time.sleep(3)
 
         # Click "Show More" until stable
         for _ in range(100):
@@ -214,7 +225,6 @@ def scrape_route(route_id, retry_num=0):
             driver.execute_script("arguments[0].click();", show_more)
             time.sleep(2.0)
 
-            # stability polling
             stable_count = 0
             for _ in range(40):
                 curr_count = len(driver.find_elements(By.CSS_SELECTOR, "div.MuiBox-root"))
@@ -262,7 +272,7 @@ def scrape_route(route_id, retry_num=0):
         tick_data.extend(parsed)
         actual = len(parsed)
 
-        # (Optional) sanity check vs expected
+        # sanity check vs expected (kept identical)
         if expected is not None and abs(actual - expected) > 500:
             print(f"⚠️ Route {route_name} (ID {route_id}): {actual} ticks < {expected} expected")
             return False, actual, expected
@@ -274,10 +284,10 @@ def scrape_route(route_id, retry_num=0):
         print(f"❌ Error scraping {route_name} (ID {route_id}): {e}")
         return False, 0, expected
 
+
 # --- Main scraping loop ---
 pbar = tqdm(route_ids, desc="Scraping routes", unit="route")
 for route_id in pbar:
-    # live label with current route name
     try:
         rn = get_route_name(route_id)
         pbar.set_description(f"Scraping: {str(rn)[:48]}")
@@ -324,7 +334,7 @@ if cols_to_pull:
         route_meta[cols_to_pull],
         left_on="route_id",
         right_index=True,
-        how="left"
+        how="left",
     )
 else:
     df_out["route_name"] = None

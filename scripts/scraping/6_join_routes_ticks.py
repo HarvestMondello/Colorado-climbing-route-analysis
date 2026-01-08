@@ -62,13 +62,16 @@ import pandas as pd
 
 
 # ================================================================
-# DEFAULT PATHS
+# DEFAULT PATHS (PORTABLE)
 # ================================================================
-BASE_DIR = Path(r"C:\Users\harve\Documents\Projects\MP-routes-Python\data\processed")
+# file lives at: scripts/processing/6_join_routes_ticks.py (example)
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
+BASE_DIR = PROJECT_ROOT / "data" / "processed"
+BASE_DIR.mkdir(parents=True, exist_ok=True)
 
 DEFAULT_ROUTES = BASE_DIR / "routes_filtered.csv"
-DEFAULT_TICKS  = BASE_DIR / "tick_summary_by_route.csv"
-DEFAULT_OUT    = BASE_DIR / "joined_route_tick_cleaned.csv"
+DEFAULT_TICKS = BASE_DIR / "tick_summary_by_route.csv"
+DEFAULT_OUT = BASE_DIR / "joined_route_tick_cleaned.csv"
 
 
 # ================================================================
@@ -77,7 +80,6 @@ DEFAULT_OUT    = BASE_DIR / "joined_route_tick_cleaned.csv"
 def snake_case(name: str) -> str:
     """Normalize a header to lowercase snake_case; collapse repeated underscores."""
     s = name.strip().lower()
-    # targeted replacements first
     replacements = {"stars ": "stars", "votes ": "votes"}
     s = replacements.get(s, s)
     s = re.sub(r"[’'`]", "", s)             # drop apostrophes
@@ -99,7 +101,7 @@ def normalize_headers(df: pd.DataFrame) -> pd.DataFrame:
         "name": "route_name",
         # totals
         "ticks_total": "total_ticks",
-        "ticks": "total_ticks",        # sometimes labeled 'ticks'
+        "ticks": "total_ticks",
         # votes/stars
         "stars": "stars",
         "votes": "votes",
@@ -116,7 +118,6 @@ def normalize_headers(df: pd.DataFrame) -> pd.DataFrame:
         "area_hierarchy": "area_hierarchy",
     }
     df = df.rename(columns={k: v for k, v in rename_map.items() if k in df.columns})
-    # dedupe identical names (keep first)
     df = df.loc[:, ~df.columns.duplicated()]
     return df
 
@@ -153,7 +154,7 @@ def smart_merge_routes_ticks(df_routes: pd.DataFrame, df_ticks: pd.DataFrame) ->
       - Prefer routes for everything else (fallback to ticks if routes null)
     """
     df_routes = ensure_route_id(df_routes)
-    df_ticks  = ensure_route_id(df_ticks)
+    df_ticks = ensure_route_id(df_ticks)
 
     overlap = sorted(set(df_routes.columns).intersection(df_ticks.columns) - {"route_id"})
 
@@ -172,12 +173,11 @@ def smart_merge_routes_ticks(df_routes: pd.DataFrame, df_ticks: pd.DataFrame) ->
         if right_col not in merged.columns:
             continue
         if col in prefer_right:
-            merged[col] = merged[right_col].combine_first(merged[col])  # prefer ticks
+            merged[col] = merged[right_col].combine_first(merged[col])
         else:
-            merged[col] = merged[col].combine_first(merged[right_col])  # prefer routes
+            merged[col] = merged[col].combine_first(merged[right_col])
         merged = merged.drop(columns=[right_col])
 
-    # remove any stray *_y
     y_cols = [c for c in merged.columns if c.endswith("_y")]
     if y_cols:
         merged = merged.drop(columns=y_cols)
@@ -238,7 +238,6 @@ def apply_classic_filters(df: pd.DataFrame) -> pd.DataFrame:
     conds.append(df["stars"] >= 3.0 if "stars" in df.columns else True)
     conds.append(df["total_ticks"] >= 100 if "total_ticks" in df.columns else True)
 
-    # combine conditions safely even if some are bools
     if isinstance(conds[0], bool):
         mask = True
         for c in conds[1:]:
@@ -269,33 +268,21 @@ def reorder_key_columns(df: pd.DataFrame) -> pd.DataFrame:
 # ================================================================
 def full_pipeline(routes_csv: str, ticks_csv: str) -> pd.DataFrame:
     """Perform join + cleaning pipeline on route and tick CSVs."""
-    # 1) Load (UTF-8) + normalize headers
     df_routes = read_csv_normalized(Path(routes_csv))
-    df_ticks  = read_csv_normalized(Path(ticks_csv))
+    df_ticks = read_csv_normalized(Path(ticks_csv))
 
-    # 2) Smart merge (no _x/_y in final)
     df = smart_merge_routes_ticks(df_routes, df_ticks)
-
-    # 2b) Normalize year columns (e.g., 2025_0 → 2025)
     df = normalize_year_columns(df)
-
-    # 3) Remove duplicate route rows
     df = drop_duplicate_routes(df)
 
-    # 4) Drop invalid year columns
     df, invalid_year_cols, current_year = drop_out_of_range_years(df, start=1950)
 
-    # 4b) Drop unneeded columns like length_ft
     if "length_ft" in df.columns:
         df = df.drop(columns=["length_ft"])
 
-    # 5) Classic filters (and require grade)
     df = apply_classic_filters(df)
-
-    # 6) Reorder columns
     df = reorder_key_columns(df)
 
-    # Summary prints
     print("🧱 Columns after cleaning:", list(df.columns))
     print(f"🗓️ Dropped year columns outside 1950–{current_year}: {invalid_year_cols}")
     print(f"📉 Routes remaining after filters: {len(df)}")
@@ -309,8 +296,8 @@ def full_pipeline(routes_csv: str, ticks_csv: str) -> pd.DataFrame:
 def main():
     parser = argparse.ArgumentParser(description="Join + clean route/tick CSVs without _x/_y duplicates.")
     parser.add_argument("--routes", default=str(DEFAULT_ROUTES), help="Path to routes_filtered.csv")
-    parser.add_argument("--ticks",  default=str(DEFAULT_TICKS),  help="Path to tick_summary_by_route.csv")
-    parser.add_argument("--out",    default=str(DEFAULT_OUT),    help="Output path for final cleaned CSV")
+    parser.add_argument("--ticks", default=str(DEFAULT_TICKS), help="Path to tick_summary_by_route.csv")
+    parser.add_argument("--out", default=str(DEFAULT_OUT), help="Output path for final cleaned CSV")
     args = parser.parse_args()
 
     df_final = full_pipeline(args.routes, args.ticks)
