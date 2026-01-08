@@ -5,6 +5,13 @@ _Generated 2026-01-07 23:53:56 MST_
 
 **Routes included:** 100
 
+**Routes by geographical location:**
+- Boulder: 47% (37% Eldo, 7% Flatirons, 3% BoCan)
+- Estes Park: 26% (17% RMNP, 9% Lumpy Ridge)
+- Southern Colorado: 14% (12% South Platte, 2% other)
+- Western Colorado: 7% (5% Black Canyon, 2% other)
+- Other: 6% (5% alpine, 1% Golden)
+
 **Routes (by Classic Rank):**
 | Classic Rank | Route |
 | --- | --- |
@@ -5841,3 +5848,4 @@ Dec |                              1.7%
 | 100 | Anonymous | 0 | 4 |
 
 </details>
+
