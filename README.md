@@ -133,14 +133,14 @@ Colorado-climbing-route-analysis/
 
 **The problem**: Climbing decisions and planning by climbers and land managers benefit from objective measures of quality, seasonality, engagement and trend.  
 
-**How it was solved**: A reproducible pipeline + SQL/Python analysis to rank cultural impact, profile seasonality, surface hidden gems, and forecast demand.  
+**How it was solved**: A reproducible pipeline + SQL/Python analysis to rank cultural impact, profile seasonality, surface hidden gems and forecast demand.  
 
 **Key takeaways**:  
 1. A consistent “cultural core” of routes appears across regions.  
 2. Seasonality clusters separate all-season objectives from narrow windows.  
 3. Hidden gems and overrated flags help prioritize exploration.  
 4. FA/FFA timelines illuminate eras of boldness and later engagement waves.  
-5. Forecasts highlight where demand is likely to rise—useful for both trip planning and stewardship.  
+5. Forecasts highlight where demand is likely to rise, useful for both trip planning and stewardship.  
 
 ## License
 
