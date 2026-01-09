@@ -2,20 +2,13 @@
 """
 scripts/leaderboards/top_100_routes.py
 
-PURPOSE
-    Start from build_leaderboards.py, but generate a Markdown for the ENTIRE CSV
-    (not featured/selected routes). Output file is docs/top_100_routes.md.
+CHANGE SUMMARY
+- Use TOP_25_FOR_SCORING = 25 when compiling the *user leaderboard scores*
+- Still display only TOP_N_CLIMBERS (default 10) per-route
 
-    Produces:
-      - Routes index by classic_score (for entire CSV)
-      - Per-route: Summary, Seasonality (+ ASCII month bars), Top N Climbers
-      - Top 100 Users leaderboard aggregated from ALL routes (entire CSV)
-
-INPUT (default, UTF-8)
-    - data/processed/joined_route_tick_cleaned.csv
-
-OUTPUT
-    - docs/top_100_routes.md (UTF-8)
+So:
+- Per-route section shows Top 10 (or --top-n-climbers)
+- Global "Top 100 Users" scoring uses Top 25 (if present in CSV)
 """
 
 from __future__ import annotations
@@ -40,7 +33,11 @@ DEFAULT_DOCS_DIR = (PROJECT_ROOT / "docs").resolve()
 DEFAULT_OUT_MD = (DEFAULT_DOCS_DIR / "leaderboards-100.md").resolve()
 DEFAULT_SOURCE_CSV = (PROJECT_ROOT / "data" / "processed" / "joined_route_tick_cleaned.csv").resolve()
 
+# Display per-route
 TOP_N_CLIMBERS = 10
+
+# Score compilation (global leaderboard)
+TOP_25_FOR_SCORING = 25
 
 # =============================================================================
 # Column constants (snake_case)
@@ -63,8 +60,9 @@ CLIMBER_TICKS_RE_LEGACY = re.compile(r"^\s*top\s+climber\s+(\d+)_ticks\s*$", re.
 SPLIT_SUFFIX_RE = re.compile(r"^(.*?)(?::\s*([0-9][\d,]*))\s*$")
 GRADE_NUM_RE = re.compile(r"5\.(\d{1,2})")
 
-MONTHS = ["January","February","March","April","May","June","July","August","September","October","November","December"]
-MONTH_ABBR = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
+MONTHS = ["January", "February", "March", "April", "May", "June",
+          "July", "August", "September", "October", "November", "December"]
+MONTH_ABBR = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 
 # =============================================================================
 # Header normalization
@@ -104,7 +102,8 @@ def read_source_df(csv_path: Path) -> pd.DataFrame:
 # Small helpers
 # =============================================================================
 def clean_area_text(s: object) -> str:
-    if s is None or (isinstance(s, float) and pd.isna(s)): return ""
+    if s is None or (isinstance(s, float) and pd.isna(s)):
+        return ""
     txt = str(s)
     txt = re.sub(r"[\r\n\t]+", " ", txt)
     txt = re.sub(r"(\s*>\s*)?Sort\s*Routes\b", "", txt, flags=re.IGNORECASE)
@@ -119,12 +118,17 @@ def to_int_str(x) -> str:
         return "" if pd.isna(x) else str(x)
 
 def pct_or_zero(x) -> float:
-    if pd.isna(x): return 0.0
-    if isinstance(x, (int, float)): return float(x)
+    if pd.isna(x):
+        return 0.0
+    if isinstance(x, (int, float)):
+        return float(x)
     s = str(x).strip()
-    if s.endswith("%"): s = s[:-1]
-    try: return float(s)
-    except Exception: return 0.0
+    if s.endswith("%"):
+        s = s[:-1]
+    try:
+        return float(s)
+    except Exception:
+        return 0.0
 
 def slugify_anchor(text: str) -> str:
     s = re.sub(r"[^a-z0-9 -]", "", text.lower())
@@ -135,15 +139,20 @@ def route_anchor(name: str) -> str:
     return f"#{slugify_anchor(name)}"
 
 def split_name_ticks(label):
-    if label is None or (isinstance(label, float) and pd.isna(label)): return None, None
+    if label is None or (isinstance(label, float) and pd.isna(label)):
+        return None, None
     s = str(label).strip()
-    if not s: return "", None
+    if not s:
+        return "", None
     m = SPLIT_SUFFIX_RE.match(s)
-    if not m: return s, None
+    if not m:
+        return s, None
     name = m.group(1).strip()
     t = m.group(2)
-    try: ticks = int(str(t).replace(",", ""))
-    except Exception: ticks = None
+    try:
+        ticks = int(str(t).replace(",", ""))
+    except Exception:
+        ticks = None
     return name, ticks
 
 def extract_top_climbers(row: pd.Series, top_n: int) -> pd.DataFrame:
@@ -176,25 +185,35 @@ def extract_top_climbers(row: pd.Series, top_n: int) -> pd.DataFrame:
     return pd.DataFrame(recs, columns=["Rank", "Climber", "Ticks"])
 
 def grade_weight(grade_text: object) -> float:
-    if grade_text is None or (isinstance(grade_text, float) and pd.isna(grade_text)): return 1.0
+    if grade_text is None or (isinstance(grade_text, float) and pd.isna(grade_text)):
+        return 1.0
     s = str(grade_text).lower()
     m = GRADE_NUM_RE.search(s)
-    if not m: return 1.0
-    try: num = int(m.group(1))
-    except Exception: return 1.0
-    if num >= 11: return 10.0
-    if num in (9, 10): return 5.0
-    if num in (5, 6, 7, 8): return 2.5
-    if 0 <= num <= 4: return 1.25
+    if not m:
+        return 1.0
+    try:
+        num = int(m.group(1))
+    except Exception:
+        return 1.0
+    if num >= 11:
+        return 10.0
+    if num in (9, 10):
+        return 5.0
+    if num in (5, 6, 7, 8):
+        return 2.5
+    if 0 <= num <= 4:
+        return 1.25
     return 1.0
 
 def md_table(df: pd.DataFrame) -> str:
-    if df.empty: return "_No data available_"
-    try: return df.to_markdown(index=False)
+    if df.empty:
+        return "_No data available_"
+    try:
+        return df.to_markdown(index=False)
     except Exception:
         cols = list(df.columns)
         header = "| " + " | ".join(cols) + " |"
-        sep = "| " + " | ".join(["---"]*len(cols)) + " |"
+        sep = "| " + " | ".join(["---"] * len(cols)) + " |"
         rows = ["| " + " | ".join("" if pd.isna(v) else str(v) for v in r) + " |" for r in df.values]
         return "\n".join([header, sep, *rows])
 
@@ -235,23 +254,12 @@ def seasonality_block(row: pd.Series) -> str:
     def _season_pct(lbls):
         return sum(months.get(m, 0.0) for m in lbls)
 
-    if all(k in row.index for k in ("winter_pct", "spring_pct", "summer_pct", "fall_pct")):
-        def safe(v):
-            v = pct_or_zero(v)
-            return v * 100 if v <= 1.01 else v
-        seasons = {
-            "❄️ **Winter (Dec–Feb)**": safe(row["winter_pct"]),
-            "🌸 **Spring (Mar–May)**": safe(row["spring_pct"]),
-            "☀️ **Summer (Jun–Aug)**": safe(row["summer_pct"]),
-            "🍂 **Fall (Sep–Nov)**": safe(row["fall_pct"]),
-        }
-    else:
-        seasons = {
-            "❄️ **Winter (Dec–Feb)**": _season_pct(["December","January","February"]),
-            "🌸 **Spring (Mar–May)**": _season_pct(["March","April","May"]),
-            "☀️ **Summer (Jun–Aug)**": _season_pct(["June","July","August"]),
-            "🍂 **Fall (Sep–Nov)**": _season_pct(["September","October","November"]),
-        }
+    seasons = {
+        "❄️ **Winter (Dec–Feb)**": _season_pct(["December", "January", "February"]),
+        "🌸 **Spring (Mar–May)**": _season_pct(["March", "April", "May"]),
+        "☀️ **Summer (Jun–Aug)**": _season_pct(["June", "July", "August"]),
+        "🍂 **Fall (Sep–Nov)**": _season_pct(["September", "October", "November"]),
+    }
 
     vals = {k: float(pct_or_zero(v)) for k, v in seasons.items()}
     max_v = max(vals.values()) if vals else 0.0
@@ -275,7 +283,9 @@ def seasonality_block(row: pd.Series) -> str:
     return "### Seasonality\n\n" + "- Seasonality Profile: (placeholder)\n" + f"- Highest-use months in order: {top4}\n\n" + "\n".join(lines) + "\n"
 
 # =============================================================================
-# User leaderboard (compact) - built from ALL routes (entire CSV)
+# User leaderboard (scores) - IMPORTANT:
+# - use TOP_25_FOR_SCORING for aggregation
+# - independent from per-route display TOP_N_CLIMBERS
 # =============================================================================
 def build_user_leaderboard(rows: list[pd.Series], top_n: int) -> pd.DataFrame:
     rank_counts = defaultdict(lambda: defaultdict(int))
@@ -297,8 +307,10 @@ def build_user_leaderboard(rows: list[pd.Series], top_n: int) -> pd.DataFrame:
                 tk = 0 if pd.isna(tk) else int(float(tk))
             except Exception:
                 tk = 0
+
             if rk and 1 <= rk <= top_n:
                 rank_counts[user][rk] += 1
+
             if tk > 0:
                 tick_totals[user] += tk
                 grade_points[user] += tk * gw
@@ -307,10 +319,11 @@ def build_user_leaderboard(rows: list[pd.Series], top_n: int) -> pd.DataFrame:
     users = set(rank_counts) | set(tick_totals) | set(grade_points)
     for u in users:
         rk_counts = rank_counts.get(u, {})
-        rank_score = sum((11 - r) * rk_counts.get(r, 0) for r in range(1, top_n + 1))
+        # dynamic weights for top_n: top rank worth top_n points, down to 1 point
+        rank_score = sum(((top_n + 1) - r) * rk_counts.get(r, 0) for r in range(1, top_n + 1))
         row = {
             "Username": u,
-            "RankScore": rank_score,
+            "RankScore": int(rank_score),
             "GradePts": float(grade_points.get(u, 0.0)),
             "Total Ticks": int(tick_totals.get(u, 0)),
             "Score": 0.0,
@@ -322,25 +335,25 @@ def build_user_leaderboard(rows: list[pd.Series], top_n: int) -> pd.DataFrame:
         out_rows.append(row)
 
     if not out_rows:
-        cols = ["Username","Score","RankScore","GradePts"] + [f"#{r}" for r in range(1, top_n + 1)] + ["Total Ranks","Total Ticks"]
+        cols = ["Username", "Score", "RankScore", "GradePts"] + [f"#{r}" for r in range(1, top_n + 1)] + ["Total Ranks", "Total Ticks"]
         return pd.DataFrame(columns=cols)
 
     df_out = pd.DataFrame(out_rows)
-    return (
-        df_out
-        .sort_values(["Score","GradePts","RankScore","#1","Username"], ascending=[False,False,False,False,True], kind="mergesort")
-        .reset_index(drop=True)
-    )
+    # if top_n < 25, #1 exists; if top_n==25, still exists
+    sort_cols = ["Score", "GradePts", "RankScore", "#1", "Username"] if "#1" in df_out.columns else ["Score", "GradePts", "RankScore", "Username"]
+    ascending = [False, False, False, False, True] if "#1" in df_out.columns else [False, False, False, True]
+    return df_out.sort_values(sort_cols, ascending=ascending, kind="mergesort").reset_index(drop=True)
 
 # =============================================================================
 # Args
 # =============================================================================
 def parse_args():
-    ap = argparse.ArgumentParser(description="Build top_100_routes.md from the ENTIRE CSV (snake_case, UTF-8).")
-    ap.add_argument("--out", type=str, help="Absolute output .md path (default: docs/top_100_routes.md).")
+    ap = argparse.ArgumentParser(description="Build leaderboards-100.md from the ENTIRE CSV (snake_case, UTF-8).")
+    ap.add_argument("--out", type=str, help="Absolute output .md path (default: docs/leaderboards-100.md).")
     ap.add_argument("--csv", type=str, help="Path to source CSV (default: data/processed/joined_route_tick_cleaned.csv).")
-    ap.add_argument("--top-n-climbers", type=int, default=TOP_N_CLIMBERS, help="Top climbers per route (default: 10).")
+    ap.add_argument("--top-n-climbers", type=int, default=TOP_N_CLIMBERS, help="Top climbers SHOWN per route (default: 10).")
     ap.add_argument("--top-users", type=int, default=100, help="How many users to show (default: 100).")
+    ap.add_argument("--score-top-n", type=int, default=TOP_25_FOR_SCORING, help="Top N USED for scoring (default: 25).")
     return ap.parse_args()
 
 # =============================================================================
@@ -384,9 +397,14 @@ def main():
         route_rows.append({"Classic Rank": int(rnk), "Route": f"[{rnm}]({route_anchor(rnm)})"})
     routes_block = "**Routes (by Classic Rank):**\n" + (md_table(pd.DataFrame(route_rows)) if route_rows else "_No routes available_")
 
+    # quick visibility in the output
+    score_top_n = int(args.score_top_n)
+    show_top_n = int(args.top_n_climbers)
+
     parts = [
         "# Colorado Climbing Route Leaderboards - Full CSV (Ranked by Classic Score)",
         f"_Generated {now_str}_\n",
+        f"**User scoring uses Top {score_top_n} climbers per route; route pages display Top {show_top_n}.**\n",
         "**[Top 100 Users by Score](#top-100-users-by-score)**\n",
         f"**Routes included:** {len(df_sorted)}\n",
         routes_block,
@@ -394,36 +412,8 @@ def main():
         "> Source: joined_route_tick_cleaned.csv with embedded leaderboard columns.\n",
     ]
 
-    def grade_bucket(g):
-        if g is None or (isinstance(g, float) and pd.isna(g)): return None
-        s = str(g).lower()
-        m = GRADE_NUM_RE.search(s)
-        if not m:
-            return "5.0*" if s.startswith("5.0") else ("4th*" if "4th" in s or "fourth" in s else None)
-        n = int(m.group(1))
-        return f"5.{n}*" if n <= 12 else "5.12*"
-
-    # Optional rollups for the full CSV
-    if len(df_sorted) and COL_GRADE in df_sorted.columns:
-        buckets = df_sorted[COL_GRADE].map(grade_bucket).value_counts()
-        order = ["5.12*","5.11*","5.10*","5.9*","5.8*","5.7*","5.6*","5.5*","5.4*","5.3*","5.2*","5.1*","5.0*","4th*"]
-        parts.append("**Grades Summary:**")
-        parts.append(md_table(pd.DataFrame([{"Bucket": b, "Routes": int(buckets.get(b, 0))} for b in order])))
-        parts.append("")
-
-    if len(df_sorted) and COL_AREA in df_sorted.columns:
-        ser = df_sorted[COL_AREA].astype(str).str.strip()
-        ser = ser[ser.ne("") & ser.str.lower().ne("nan")]
-        if not ser.empty:
-            counts = ser.value_counts()
-            top_areas = [f"{int(n)} routes {area}" for area, n in counts.head(5).items()]
-            if top_areas:
-                parts.append(f"**Top Areas:** {', '.join(top_areas)}\n")
-
     # Per-route blocks for ALL routes
     rows_for_lb = []
-    top_n_climbers = int(args.top_n_climbers)
-
     for _, r in df_sorted.iterrows():
         rname = r.get(COL_ROUTE_NAME, "(unnamed route)") or "(unnamed route)"
         area = r.get(COL_AREA, "")
@@ -455,15 +445,17 @@ def main():
             parts.append(chart)
             parts.append("")
 
-        top_df = extract_top_climbers(r, top_n_climbers)
-        parts.append(f"### Top {top_n_climbers} Climbers")
+        # SHOW top N per-route (default 10)
+        top_df = extract_top_climbers(r, show_top_n)
+        parts.append(f"### Top {show_top_n} Climbers")
         parts.append(md_table(top_df))
         parts.append("\n---\n")
 
         rows_for_lb.append(r)
 
-    # Top 100 Users by Score (built from ALL routes)
-    lb_df = build_user_leaderboard(rows_for_lb, top_n_climbers)
+    # SCORE using Top 25 (or --score-top-n), independent of display
+    lb_df = build_user_leaderboard(rows_for_lb, score_top_n)
+
     parts.append("## Top 100 Users by Score")
     if lb_df.empty:
         parts.append("_No data available_\n")
@@ -474,17 +466,17 @@ def main():
             if c in top_users.columns:
                 top_users[c] = top_users[c].map(lambda x: f"{float(x):.1f}")
         if "RankScore" in top_users.columns:
-            top_users["RankScore"] = top_users["RankScore"].map(lambda x: f"{int(x)}")
+            top_users["RankScore"] = top_users["RankScore"].map(lambda x: f"{int(float(x))}")
         if "Total Ticks" in top_users.columns:
-            top_users["Total Ticks"] = top_users["Total Ticks"].map(lambda x: f"{int(x)}")
+            top_users["Total Ticks"] = top_users["Total Ticks"].map(lambda x: f"{int(float(x))}")
 
-        compact = [c for c in ["Rank","Username","Score","RankScore","GradePts","Total Ticks"] if c in top_users.columns]
+        compact = [c for c in ["Rank", "Username", "Score", "RankScore", "GradePts", "Total Ticks"] if c in top_users.columns]
         parts.append(md_table(top_users[compact]))
         parts.append("")
 
         if "#1" in top_users.columns and "Total Ranks" in top_users.columns:
             parts.append("<details><summary>Show #1 finishes and Total Ranks (Top 100)</summary>\n")
-            parts.append(md_table(top_users[["Rank","Username","#1","Total Ranks"]]))
+            parts.append(md_table(top_users[["Rank", "Username", "#1", "Total Ranks"]]))
             parts.append("\n</details>\n")
 
     content = "\n".join(parts)

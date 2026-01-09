@@ -17,6 +17,10 @@ INPUTS (defaults, UTF-8)
 
 OUTPUT
     - docs/leaderboards.md (UTF-8)
+
+CHANGE (2026-01-08)
+    - Score Top 100 Users using top 25 climbers per route
+    - Display only top 10 climbers in each route section
 """
 
 from __future__ import annotations
@@ -43,7 +47,9 @@ DEFAULT_FEATURED_CSV = (PROJECT_ROOT / "data" / "processed" / "featured_routes.c
 DEFAULT_OUT_MD = (DEFAULT_DOCS_DIR / "leaderboards.md").resolve()
 DEFAULT_SOURCE_CSV = (PROJECT_ROOT / "data" / "processed" / "joined_route_tick_cleaned.csv").resolve()
 
-TOP_N_CLIMBERS = 10
+# ✅ Display per-route top 10, but score using top 25
+TOP_N_CLIMBERS_DISPLAY = 10
+TOP_N_CLIMBERS_SCORE = 25
 
 # Optional “manual featured” for stable ordering; md only used for per-route “Open route profile” links
 # top 20 routes
@@ -65,14 +71,11 @@ FEATURED_ROUTES = [
     {"name": "The Scenic Cruise",    "area_hint": "Black Canyon",       "md": "routes/scenic-cruise.md"},
     {"name": "Vertigo",   "area_hint": "Eldorado Canyon",    "md": "routes/vertigo.md"},
     {"name": "Blind Faith",   "area_hint": "Eldorado Canyon",    "md": "routes/blind-faith.md"},
-# Rebuffat's Arete...this is really a variation on Rewritten
+    # Rebuffat's Arete...this is really a variation on Rewritten
     {"name": "Ruper",   "area_hint": "Eldorado Canyon",    "md": "routes/ruper.md"},
     {"name": "Over the Hill",   "area_hint": "Eldorado Canyon",    "md": "routes/over-the-hill.md"},
     {"name": "Handcracker Direct",   "area_hint": "Eldorado Canyon",    "md": "routes/handcracker-direct.md"},
 ]
-
-
-
 
 # =============================================================================
 # Column constants (snake_case)
@@ -497,6 +500,7 @@ def main():
         f"_Generated {now_str}_\n",
         "**[Top 100 Users by Score](#top-100-users-by-score)**\n",
         f"**Selected routes:** {len(to_render)}\n",
+        f"**Scoring uses top {TOP_N_CLIMBERS_SCORE} climbers per route; route pages display top {TOP_N_CLIMBERS_DISPLAY}.**\n",
         routes_block,
         "",
     ]
@@ -565,14 +569,17 @@ def main():
             parts.append(chart)
             parts.append("")
 
-        top_df = extract_top_climbers(r, TOP_N_CLIMBERS)
-        parts.append(f"### Top {TOP_N_CLIMBERS} Climbers")
+        # ✅ Per-route display still Top 10
+        top_df = extract_top_climbers(r, TOP_N_CLIMBERS_DISPLAY)
+        parts.append(f"### Top {TOP_N_CLIMBERS_DISPLAY} Climbers")
         parts.append(md_table(top_df))
         parts.append("\n---\n")
 
         rows_for_lb.append(r)
 
-    lb_df = build_user_leaderboard(rows_for_lb, TOP_N_CLIMBERS)
+    # ✅ Scoring uses Top 25
+    lb_df = build_user_leaderboard(rows_for_lb, TOP_N_CLIMBERS_SCORE)
+
     parts.append("## Top 100 Users by Score")
     if lb_df.empty:
         parts.append("_No data available_\n")
@@ -590,6 +597,8 @@ def main():
         compact = [c for c in ["Rank","Username","Score","RankScore","GradePts","Total Ticks"] if c in top100.columns]
         parts.append(md_table(top100[compact]))
         parts.append("")
+
+        # Keep optional detail block (still works with top 25 scoring)
         if "#1" in top100.columns and "Total Ranks" in top100.columns:
             parts.append("<details><summary>Show #1 finishes and Total Ranks (Top 100)</summary>\n")
             parts.append(md_table(top100[["Rank","Username","#1","Total Ranks"]]))
