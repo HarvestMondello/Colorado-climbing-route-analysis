@@ -131,7 +131,7 @@ Colorado-climbing-route-analysis/
 
 ## Conclusion
 
-**The problem**: Climbing decisions and planning by climbers and land managers—benefit from objective measures of quality, seasonality, engagement and trend.  
+**The problem**: Climbing decisions and planning by climbers and land managers benefit from objective measures of quality, seasonality, engagement and trend.  
 
 **How it was solved**: A reproducible pipeline + SQL/Python analysis to rank cultural impact, profile seasonality, surface hidden gems, and forecast demand.  
 
