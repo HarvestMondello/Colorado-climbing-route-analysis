@@ -1,16 +1,11 @@
 # Colorado Climbing Route Leaderboards - Full CSV (Ranked by Classic Score)
-_Generated 2026-01-07 23:53:56 MST_
+_Generated 2026-01-08 20:48:49 MST_
+
+**User scoring uses Top 25 climbers per route; route pages display Top 10.**
 
 **[Top 100 Users by Score](#top-100-users-by-score)**
 
 **Routes included:** 100
-
-**Routes by geographical location:**
-- Boulder: 47% (37% Eldo, 7% Flatirons, 3% BoCan)
-- Estes Park: 26% (17% RMNP, 9% Lumpy Ridge)
-- Southern Colorado: 14% (12% South Platte, 2% other)
-- Western Colorado: 7% (5% Black Canyon, 2% other)
-- Other: 6% (5% alpine, 1% Golden)
 
 **Routes (by Classic Rank):**
 | Classic Rank | Route |
@@ -117,26 +112,6 @@ _Generated 2026-01-07 23:53:56 MST_
 | 100 | [Turnkorner](#turnkorner) |
 
 > Source: joined_route_tick_cleaned.csv with embedded leaderboard columns.
-
-**Grades Summary:**
-| Bucket | Routes |
-| --- | --- |
-| 5.12* | 8 |
-| 5.11* | 21 |
-| 5.10* | 32 |
-| 5.9* | 12 |
-| 5.8* | 9 |
-| 5.7* | 6 |
-| 5.6* | 3 |
-| 5.5* | 0 |
-| 5.4* | 5 |
-| 5.3* | 0 |
-| 5.2* | 1 |
-| 5.1* | 0 |
-| 5.0* | 2 |
-| 4th* | 1 |
-
-**Top Areas:** 6 routes All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Lumpe to…, 6 routes All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower One, 5 routes All Locations > Colorado > Alpine Rock > RMNP - Rock > Long's Peak > Diamond, 4 routes All Locations > Colorado > Boulder > Eldorado Canyon SP > Bastille > Bastille - N Face, 3 routes All Locations > Colorado > S Platte > Turkey Rocks > Turkey Tail
 
 ## The Naked Edge
 **Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower Two
@@ -5641,211 +5616,210 @@ Dec |                              1.7%
 ## Top 100 Users by Score
 | Rank | Username | Score | RankScore | GradePts | Total Ticks |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Stefan Griebel | 7486.5 | 186 | 7300.5 | 1522 |
-| 2 | John Alcorn | 2913.0 | 128 | 2785.0 | 481 |
-| 3 | Jack Neus | 2821.5 | 64 | 2757.5 | 485 |
-| 4 | Danny Gilbert | 2663.5 | 144 | 2519.5 | 553 |
-| 5 | Guy H. | 1940.5 | 283 | 1657.5 | 253 |
-| 6 | WadeM | 1881.0 | 71 | 1810.0 | 193 |
-| 7 | ChossCrimper TopRopePrincess | 1702.0 | 52 | 1650.0 | 165 |
-| 8 | Choss Pirate | 1684.0 | 59 | 1625.0 | 195 |
-| 9 | Michael Butts | 1539.5 | 132 | 1407.5 | 275 |
-| 10 | Samuel Andree | 1210.5 | 88 | 1122.5 | 327 |
-| 11 | Max Manson | 1010.5 | 43 | 967.5 | 126 |
-| 12 | Eddie Taylor | 974.0 | 4 | 970.0 | 97 |
-| 13 | Justin Compton | 910.2 | 44 | 866.2 | 323 |
-| 14 | DWF 3 | 807.5 | 75 | 732.5 | 87 |
-| 15 | Kate pinktapegloves | 799.0 | 9 | 790.0 | 79 |
-| 16 | Gregger Man | 785.5 | 98 | 687.5 | 129 |
-| 17 | Eric K | 698.0 | 23 | 675.0 | 261 |
-| 18 | Tony B | 646.0 | 81 | 565.0 | 93 |
-| 19 | Quinn Davie | 632.0 | 2 | 630.0 | 63 |
-| 20 | Harvest Mondello | 612.8 | 34 | 578.8 | 136 |
-| 21 | Bill Wright | 590.0 | 30 | 560.0 | 112 |
-| 22 | tooTALLtim | 547.0 | 107 | 440.0 | 99 |
-| 23 | brenta | 535.8 | 27 | 508.8 | 407 |
-| 24 | Ryan Marsters | 529.8 | 36 | 493.8 | 164 |
-| 25 | Justin Popplewell | 517.0 | 67 | 450.0 | 67 |
-| 26 | Brian Carver | 516.0 | 46 | 470.0 | 73 |
-| 27 | Frederick Hijazi | 508.5 | 51 | 457.5 | 58 |
-| 28 | Chris Gummer | 505.8 | 22 | 483.8 | 242 |
-| 29 | Athena | 492.5 | 80 | 412.5 | 66 |
-| 30 | Mark Hammond | 486.5 | 64 | 422.5 | 59 |
-| 31 | Mark Griffin | 480.5 | 33 | 447.5 | 167 |
-| 32 | Jake Albright | 473.2 | 22 | 451.2 | 296 |
-| 33 | Pierce J | 429.0 | 34 | 395.0 | 52 |
-| 34 | Bill Kinter | 414.8 | 56 | 358.8 | 97 |
-| 35 | Daniel Dunn | 397.2 | 66 | 331.2 | 63 |
-| 36 | Haley Young | 396.0 | 21 | 375.0 | 75 |
-| 37 | rob bauer | 395.2 | 44 | 351.2 | 53 |
-| 38 | Michael Underwood | 357.0 | 37 | 320.0 | 32 |
-| 39 | Sarah Meiser | 355.5 | 48 | 307.5 | 54 |
-| 40 | Charles Vernon | 341.0 | 91 | 250.0 | 47 |
-| 41 | Mike Robinson | 334.0 | 19 | 315.0 | 49 |
-| 42 | Jason Antin | 313.5 | 48 | 265.5 | 92 |
-| 43 | Ryan Enright | 313.0 | 33 | 280.0 | 28 |
-| 44 | claytown | 312.0 | 32 | 280.0 | 36 |
-| 45 | max seigal | 303.0 | 13 | 290.0 | 39 |
-| 46 | joe trabucco | 300.0 | 30 | 270.0 | 54 |
-| 47 | 303scott | 279.0 | 44 | 235.0 | 34 |
-| 48 | Dustin V | 278.0 | 28 | 250.0 | 25 |
-| 49 | Yaroslav Lototskyy | 278.0 | 28 | 250.0 | 42 |
-| 50 | G P | 272.5 | 35 | 237.5 | 96 |
-| 51 | Jeff G | 266.0 | 36 | 230.0 | 31 |
-| 52 | Japhy Dhungana | 261.5 | 49 | 212.5 | 44 |
-| 53 | Samuel Puckett | 259.5 | 22 | 237.5 | 55 |
-| 54 | David Kennedy | 254.0 | 14 | 240.0 | 189 |
-| 55 | Mark Roth | 252.8 | 14 | 238.8 | 79 |
-| 56 | New Leader | 246.0 | 16 | 230.0 | 23 |
-| 57 | Nick Esker | 244.5 | 12 | 232.5 | 186 |
-| 58 | Andrew McLean | 221.0 | 41 | 180.0 | 25 |
-| 59 | A.Eaton | 216.0 | 61 | 155.0 | 31 |
-| 60 | P. W. | 215.0 | 5 | 210.0 | 84 |
-| 61 | tim | 215.0 | 25 | 190.0 | 30 |
-| 62 | William Mayhew | 198.0 | 48 | 150.0 | 30 |
-| 63 | Mitchell Hodge | 184.0 | 19 | 165.0 | 28 |
-| 64 | Tony Luchetta | 183.0 | 13 | 170.0 | 35 |
-| 65 | Abel Richards | 181.5 | 4 | 177.5 | 71 |
-| 66 | space monkey | 181.0 | 16 | 165.0 | 21 |
-| 67 | mike bankoff | 180.0 | 10 | 170.0 | 26 |
-| 68 | Isaac Porter | 175.8 | 15 | 160.8 | 125 |
-| 69 | Kenan | 175.0 | 20 | 155.0 | 23 |
-| 70 | Monty | 169.0 | 19 | 150.0 | 15 |
-| 71 | Gruff | 169.0 | 44 | 125.0 | 25 |
-| 72 | Ryan Montoya | 163.0 | 3 | 160.0 | 32 |
-| 73 | Weston S | 156.0 | 6 | 150.0 | 15 |
-| 74 | Sputnick | 154.0 | 19 | 135.0 | 19 |
-| 75 | Kevin Heinrich | 131.0 | 11 | 120.0 | 13 |
-| 76 | Zach Alles | 127.0 | 17 | 110.0 | 11 |
-| 77 | Dan Howell | 117.8 | 29 | 88.8 | 49 |
-| 78 | Andrew Reed | 115.0 | 25 | 90.0 | 12 |
-| 79 | Matt Piscopo | 114.0 | 14 | 100.0 | 14 |
-| 80 | Wes Martin | 112.0 | 12 | 100.0 | 10 |
-| 81 | Yiran Li | 111.5 | 9 | 102.5 | 29 |
-| 82 | Hailey Moore | 111.5 | 14 | 97.5 | 39 |
-| 83 | Nick Wilder | 111.0 | 11 | 100.0 | 20 |
-| 84 | Suraj Kushwaha | 108.0 | 8 | 100.0 | 10 |
-| 85 | Will Starks | 106.0 | 16 | 90.0 | 13 |
-| 86 | James Klaers | 102.5 | 10 | 92.5 | 35 |
-| 87 | Adam Brink | 101.0 | 11 | 90.0 | 9 |
-| 88 | Marcos M | 98.5 | 31 | 67.5 | 19 |
-| 89 | Brian Anderson | 96.0 | 6 | 90.0 | 9 |
-| 90 | Nicholas Patterson | 95.0 | 5 | 90.0 | 9 |
-| 91 | Andrew S. | 93.5 | 11 | 82.5 | 18 |
-| 92 | Mitch Friedeman | 93.0 | 13 | 80.0 | 8 |
-| 93 | JagerMeister | 90.0 | 10 | 80.0 | 8 |
-| 94 | Pete Lardy | 89.5 | 22 | 67.5 | 21 |
-| 95 | Blake B | 86.0 | 6 | 80.0 | 8 |
-| 96 | Sastre | 86.0 | 6 | 80.0 | 8 |
-| 97 | Brent Z | 85.0 | 10 | 75.0 | 9 |
-| 98 | Alex Vidal | 84.0 | 19 | 65.0 | 15 |
-| 99 | F r i t z | 84.0 | 24 | 60.0 | 7 |
-| 100 | Anonymous | 80.0 | 15 | 65.0 | 27 |
+| 1 | Stefan Griebel | 8285.0 | 662 | 7623.0 | 1576 |
+| 2 | John Alcorn | 3443.0 | 511 | 2932.0 | 503 |
+| 3 | Danny Gilbert | 3255.0 | 483 | 2772.0 | 583 |
+| 4 | Jack Neus | 3128.5 | 276 | 2852.5 | 538 |
+| 5 | Guy H. | 2977.8 | 979 | 1998.8 | 308 |
+| 6 | WadeM | 2292.0 | 282 | 2010.0 | 219 |
+| 7 | Choss Pirate | 2176.0 | 296 | 1880.0 | 238 |
+| 8 | Michael Butts | 2043.8 | 480 | 1563.8 | 346 |
+| 9 | ChossCrimper TopRopePrincess | 1949.0 | 164 | 1785.0 | 210 |
+| 10 | Samuel Andree | 1891.0 | 421 | 1470.0 | 394 |
+| 11 | Max Manson | 1391.5 | 184 | 1207.5 | 155 |
+| 12 | Justin Compton | 1353.0 | 283 | 1070.0 | 386 |
+| 13 | Gregger Man | 1331.0 | 391 | 940.0 | 187 |
+| 14 | Athena | 1245.5 | 443 | 802.5 | 118 |
+| 15 | Pierce J | 1221.5 | 249 | 972.5 | 135 |
+| 16 | tooTALLtim | 1202.0 | 507 | 695.0 | 147 |
+| 17 | Mark Hammond | 1177.8 | 349 | 828.8 | 127 |
+| 18 | Eddie Taylor | 1127.0 | 37 | 1090.0 | 121 |
+| 19 | Tony B | 1094.2 | 318 | 776.2 | 164 |
+| 20 | Harvest Mondello | 1010.0 | 180 | 830.0 | 259 |
+| 21 | Brian Carver | 996.0 | 251 | 745.0 | 119 |
+| 22 | DWF 3 | 991.5 | 239 | 752.5 | 89 |
+| 23 | Bill Kinter | 958.8 | 285 | 673.8 | 201 |
+| 24 | Ryan Marsters | 956.2 | 205 | 751.2 | 242 |
+| 25 | Mark Griffin | 955.0 | 255 | 700.0 | 242 |
+| 26 | Chris Gummer | 913.0 | 153 | 760.0 | 322 |
+| 27 | Bill Wright | 867.5 | 130 | 737.5 | 140 |
+| 28 | Daniel Dunn | 864.2 | 338 | 526.2 | 95 |
+| 29 | rob bauer | 863.8 | 245 | 618.8 | 117 |
+| 30 | Mike Robinson | 855.0 | 175 | 680.0 | 114 |
+| 31 | Kate pinktapegloves | 852.0 | 42 | 810.0 | 81 |
+| 32 | Frederick Hijazi | 845.0 | 215 | 630.0 | 89 |
+| 33 | Eric K | 840.8 | 132 | 708.8 | 286 |
+| 34 | 303scott | 810.0 | 285 | 525.0 | 76 |
+| 35 | Yiran Li | 770.0 | 95 | 675.0 | 116 |
+| 36 | Michael Underwood | 744.0 | 154 | 590.0 | 102 |
+| 37 | Charles Vernon | 740.0 | 330 | 410.0 | 73 |
+| 38 | Justin Popplewell | 729.0 | 244 | 485.0 | 75 |
+| 39 | Jason Antin | 698.0 | 230 | 468.0 | 166 |
+| 40 | claytown | 682.0 | 182 | 500.0 | 59 |
+| 41 | Quinn Davie | 647.0 | 17 | 630.0 | 63 |
+| 42 | Haley Young | 623.0 | 103 | 520.0 | 102 |
+| 43 | max seigal | 623.0 | 133 | 490.0 | 64 |
+| 44 | Sarah Meiser | 622.5 | 203 | 419.5 | 89 |
+| 45 | Matt Piscopo | 616.0 | 186 | 430.0 | 58 |
+| 46 | Sputnick | 591.0 | 116 | 475.0 | 53 |
+| 47 | brenta | 580.8 | 72 | 508.8 | 407 |
+| 48 | G P | 546.5 | 199 | 347.5 | 132 |
+| 49 | Jake Albright | 518.2 | 67 | 451.2 | 296 |
+| 50 | Japhy Dhungana | 510.5 | 218 | 292.5 | 53 |
+| 51 | Aaron Lucas | 505.2 | 139 | 366.2 | 75 |
+| 52 | Yaroslav Lototskyy | 497.0 | 117 | 380.0 | 63 |
+| 53 | Samuel Puckett | 493.5 | 146 | 347.5 | 86 |
+| 54 | Becca Droz | 492.0 | 52 | 440.0 | 44 |
+| 55 | Mark Roth | 486.5 | 89 | 397.5 | 165 |
+| 56 | New Leader | 466.0 | 116 | 350.0 | 38 |
+| 57 | Abel Richards | 436.0 | 61 | 375.0 | 160 |
+| 58 | James Klaers | 432.5 | 110 | 322.5 | 70 |
+| 59 | A.Eaton | 424.5 | 237 | 187.5 | 39 |
+| 60 | Andrew McLean | 419.0 | 199 | 220.0 | 33 |
+| 61 | tim | 411.0 | 121 | 290.0 | 50 |
+| 62 | Bryce Kerscher | 410.0 | 135 | 275.0 | 52 |
+| 63 | space monkey | 407.0 | 87 | 320.0 | 48 |
+| 64 | AdamShep | 404.0 | 79 | 325.0 | 40 |
+| 65 | Mitch Friedeman | 394.0 | 114 | 280.0 | 28 |
+| 66 | Dustin V | 391.0 | 106 | 285.0 | 30 |
+| 67 | Ryan Enright | 388.0 | 108 | 280.0 | 28 |
+| 68 | Hailey Moore | 384.5 | 87 | 297.5 | 73 |
+| 69 | Jeff G | 380.0 | 130 | 250.0 | 33 |
+| 70 | joe trabucco | 367.0 | 82 | 285.0 | 57 |
+| 71 | Mitchell Hodge | 348.5 | 91 | 257.5 | 55 |
+| 72 | Tony Luchetta | 340.5 | 58 | 282.5 | 75 |
+| 73 | Rich Kelly | 339.0 | 79 | 260.0 | 31 |
+| 74 | P. W. | 331.5 | 34 | 297.5 | 154 |
+| 75 | David Kennedy | 323.0 | 73 | 250.0 | 197 |
+| 76 | Gruff | 319.0 | 149 | 170.0 | 32 |
+| 77 | William Mayhew | 318.0 | 153 | 165.0 | 33 |
+| 78 | Kenan | 313.5 | 81 | 232.5 | 49 |
+| 79 | Nick Esker | 310.0 | 65 | 245.0 | 192 |
+| 80 | Samuel Li | 307.0 | 57 | 250.0 | 40 |
+| 81 | Andrew Reed | 294.0 | 144 | 150.0 | 21 |
+| 82 | brent b | 289.2 | 108 | 181.2 | 32 |
+| 83 | Rob Baumgartner | 289.0 | 54 | 235.0 | 45 |
+| 84 | Andy S | 288.5 | 81 | 207.5 | 58 |
+| 85 | JagerMeister | 284.0 | 34 | 250.0 | 25 |
+| 86 | -Mike- | 284.0 | 154 | 130.0 | 14 |
+| 87 | Wes Martin | 274.0 | 104 | 170.0 | 22 |
+| 88 | Kishen Mangat | 271.5 | 24 | 247.5 | 27 |
+| 89 | Jon Oulton | 268.0 | 68 | 200.0 | 34 |
+| 90 | Rafael Zapparoli | 262.0 | 62 | 200.0 | 20 |
+| 91 | Julius Beres | 258.5 | 126 | 132.5 | 22 |
+| 92 | Monty | 252.0 | 92 | 160.0 | 17 |
+| 93 | Isaac Porter | 250.8 | 90 | 160.8 | 125 |
+| 94 | Alex Hladkyj | 247.2 | 131 | 116.2 | 21 |
+| 95 | mike bankoff | 243.0 | 43 | 200.0 | 32 |
+| 96 | David Appelhans | 241.5 | 104 | 137.5 | 35 |
+| 97 | Armin hammer | 238.0 | 68 | 170.0 | 21 |
+| 98 | Everett Johnson | 236.0 | 46 | 190.0 | 31 |
+| 99 | Jan Rous | 234.0 | 44 | 190.0 | 25 |
+| 100 | Bill Karam | 231.0 | 116 | 115.0 | 18 |
 
 <details><summary>Show #1 finishes and Total Ranks (Top 100)</summary>
 
 | Rank | Username | #1 | Total Ranks |
 | --- | --- | --- | --- |
-| 1 | Stefan Griebel | 9 | 25 |
-| 2 | John Alcorn | 4 | 20 |
-| 3 | Jack Neus | 0 | 12 |
-| 4 | Danny Gilbert | 4 | 20 |
-| 5 | Guy H. | 14 | 40 |
-| 6 | WadeM | 0 | 10 |
-| 7 | ChossCrimper TopRopePrincess | 3 | 6 |
-| 8 | Choss Pirate | 1 | 11 |
-| 9 | Michael Butts | 2 | 20 |
-| 10 | Samuel Andree | 0 | 14 |
-| 11 | Max Manson | 0 | 7 |
-| 12 | Eddie Taylor | 0 | 1 |
-| 13 | Justin Compton | 1 | 9 |
-| 14 | DWF 3 | 3 | 10 |
-| 15 | Kate pinktapegloves | 0 | 2 |
-| 16 | Gregger Man | 3 | 15 |
-| 17 | Eric K | 0 | 6 |
-| 18 | Tony B | 2 | 11 |
-| 19 | Quinn Davie | 0 | 1 |
-| 20 | Harvest Mondello | 0 | 5 |
-| 21 | Bill Wright | 1 | 4 |
-| 22 | tooTALLtim | 3 | 18 |
-| 23 | brenta | 2 | 3 |
-| 24 | Ryan Marsters | 1 | 6 |
-| 25 | Justin Popplewell | 3 | 9 |
-| 26 | Brian Carver | 0 | 10 |
-| 27 | Frederick Hijazi | 1 | 7 |
-| 28 | Chris Gummer | 0 | 4 |
-| 29 | Athena | 1 | 14 |
-| 30 | Mark Hammond | 0 | 11 |
-| 31 | Mark Griffin | 0 | 9 |
-| 32 | Jake Albright | 1 | 3 |
-| 33 | Pierce J | 0 | 7 |
-| 34 | Bill Kinter | 0 | 10 |
-| 35 | Daniel Dunn | 0 | 15 |
-| 36 | Haley Young | 1 | 3 |
-| 37 | rob bauer | 1 | 9 |
-| 38 | Michael Underwood | 2 | 5 |
-| 39 | Sarah Meiser | 1 | 6 |
-| 40 | Charles Vernon | 3 | 12 |
-| 41 | Mike Robinson | 0 | 5 |
-| 42 | Jason Antin | 0 | 8 |
-| 43 | Ryan Enright | 0 | 5 |
-| 44 | claytown | 1 | 6 |
-| 45 | max seigal | 0 | 5 |
-| 46 | joe trabucco | 3 | 3 |
-| 47 | 303scott | 0 | 8 |
-| 48 | Dustin V | 0 | 4 |
-| 49 | Yaroslav Lototskyy | 0 | 5 |
-| 50 | G P | 1 | 7 |
-| 51 | Jeff G | 2 | 6 |
-| 52 | Japhy Dhungana | 0 | 9 |
-| 53 | Samuel Puckett | 0 | 5 |
-| 54 | David Kennedy | 0 | 3 |
-| 55 | Mark Roth | 0 | 3 |
-| 56 | New Leader | 0 | 4 |
-| 57 | Nick Esker | 0 | 2 |
-| 58 | Andrew McLean | 0 | 8 |
-| 59 | A.Eaton | 0 | 10 |
-| 60 | P. W. | 0 | 1 |
-| 61 | tim | 0 | 5 |
-| 62 | William Mayhew | 1 | 6 |
-| 63 | Mitchell Hodge | 0 | 4 |
-| 64 | Tony Luchetta | 0 | 2 |
-| 65 | Abel Richards | 0 | 1 |
-| 66 | space monkey | 0 | 3 |
-| 67 | mike bankoff | 0 | 2 |
-| 68 | Isaac Porter | 0 | 5 |
-| 69 | Kenan | 1 | 3 |
-| 70 | Monty | 0 | 4 |
-| 71 | Gruff | 2 | 5 |
-| 72 | Ryan Montoya | 0 | 1 |
-| 73 | Weston S | 0 | 3 |
-| 74 | Sputnick | 0 | 4 |
-| 75 | Kevin Heinrich | 0 | 3 |
-| 76 | Zach Alles | 0 | 3 |
-| 77 | Dan Howell | 1 | 4 |
-| 78 | Andrew Reed | 0 | 5 |
-| 79 | Matt Piscopo | 0 | 4 |
-| 80 | Wes Martin | 0 | 3 |
-| 81 | Yiran Li | 0 | 2 |
-| 82 | Hailey Moore | 1 | 2 |
-| 83 | Nick Wilder | 0 | 3 |
-| 84 | Suraj Kushwaha | 0 | 2 |
-| 85 | Will Starks | 1 | 2 |
-| 86 | James Klaers | 0 | 2 |
-| 87 | Adam Brink | 0 | 3 |
-| 88 | Marcos M | 2 | 4 |
-| 89 | Brian Anderson | 0 | 1 |
-| 90 | Nicholas Patterson | 0 | 1 |
-| 91 | Andrew S. | 0 | 2 |
-| 92 | Mitch Friedeman | 0 | 3 |
-| 93 | JagerMeister | 1 | 1 |
-| 94 | Pete Lardy | 1 | 4 |
-| 95 | Blake B | 0 | 1 |
-| 96 | Sastre | 0 | 1 |
-| 97 | Brent Z | 0 | 2 |
-| 98 | Alex Vidal | 0 | 4 |
-| 99 | F r i t z | 1 | 3 |
-| 100 | Anonymous | 0 | 4 |
+| 1 | Stefan Griebel | 9 | 34 |
+| 2 | John Alcorn | 4 | 27 |
+| 3 | Danny Gilbert | 4 | 25 |
+| 4 | Jack Neus | 0 | 17 |
+| 5 | Guy H. | 14 | 51 |
+| 6 | WadeM | 0 | 17 |
+| 7 | Choss Pirate | 1 | 23 |
+| 8 | Michael Butts | 2 | 25 |
+| 9 | ChossCrimper TopRopePrincess | 3 | 9 |
+| 10 | Samuel Andree | 0 | 24 |
+| 11 | Max Manson | 0 | 13 |
+| 12 | Justin Compton | 1 | 18 |
+| 13 | Gregger Man | 3 | 23 |
+| 14 | Athena | 1 | 30 |
+| 15 | Pierce J | 0 | 18 |
+| 16 | tooTALLtim | 3 | 30 |
+| 17 | Mark Hammond | 0 | 24 |
+| 18 | Eddie Taylor | 0 | 5 |
+| 19 | Tony B | 2 | 19 |
+| 20 | Harvest Mondello | 0 | 13 |
+| 21 | Brian Carver | 0 | 19 |
+| 22 | DWF 3 | 3 | 11 |
+| 23 | Bill Kinter | 0 | 20 |
+| 24 | Ryan Marsters | 1 | 15 |
+| 25 | Mark Griffin | 0 | 19 |
+| 26 | Chris Gummer | 0 | 12 |
+| 27 | Bill Wright | 1 | 9 |
+| 28 | Daniel Dunn | 0 | 22 |
+| 29 | rob bauer | 1 | 15 |
+| 30 | Mike Robinson | 0 | 16 |
+| 31 | Kate pinktapegloves | 0 | 3 |
+| 32 | Frederick Hijazi | 1 | 14 |
+| 33 | Eric K | 0 | 9 |
+| 34 | 303scott | 0 | 23 |
+| 35 | Yiran Li | 0 | 7 |
+| 36 | Michael Underwood | 2 | 12 |
+| 37 | Charles Vernon | 3 | 20 |
+| 38 | Justin Popplewell | 3 | 13 |
+| 39 | Jason Antin | 0 | 16 |
+| 40 | claytown | 1 | 13 |
+| 41 | Quinn Davie | 0 | 1 |
+| 42 | Haley Young | 1 | 8 |
+| 43 | max seigal | 0 | 10 |
+| 44 | Sarah Meiser | 1 | 12 |
+| 45 | Matt Piscopo | 0 | 16 |
+| 46 | Sputnick | 0 | 7 |
+| 47 | brenta | 2 | 3 |
+| 48 | G P | 1 | 13 |
+| 49 | Jake Albright | 1 | 3 |
+| 50 | Japhy Dhungana | 0 | 13 |
+| 51 | Aaron Lucas | 0 | 15 |
+| 52 | Yaroslav Lototskyy | 0 | 8 |
+| 53 | Samuel Puckett | 0 | 10 |
+| 54 | Becca Droz | 0 | 4 |
+| 55 | Mark Roth | 0 | 7 |
+| 56 | New Leader | 0 | 7 |
+| 57 | Abel Richards | 0 | 8 |
+| 58 | James Klaers | 0 | 8 |
+| 59 | A.Eaton | 0 | 13 |
+| 60 | Andrew McLean | 0 | 12 |
+| 61 | tim | 0 | 9 |
+| 62 | Bryce Kerscher | 0 | 14 |
+| 63 | space monkey | 0 | 7 |
+| 64 | AdamShep | 0 | 9 |
+| 65 | Mitch Friedeman | 0 | 8 |
+| 66 | Dustin V | 0 | 6 |
+| 67 | Ryan Enright | 0 | 5 |
+| 68 | Hailey Moore | 1 | 5 |
+| 69 | Jeff G | 2 | 7 |
+| 70 | joe trabucco | 3 | 4 |
+| 71 | Mitchell Hodge | 0 | 7 |
+| 72 | Tony Luchetta | 0 | 4 |
+| 73 | Rich Kelly | 0 | 7 |
+| 74 | P. W. | 0 | 3 |
+| 75 | David Kennedy | 0 | 4 |
+| 76 | Gruff | 2 | 8 |
+| 77 | William Mayhew | 1 | 7 |
+| 78 | Kenan | 1 | 6 |
+| 79 | Nick Esker | 0 | 4 |
+| 80 | Samuel Li | 0 | 6 |
+| 81 | Andrew Reed | 0 | 11 |
+| 82 | brent b | 0 | 8 |
+| 83 | Rob Baumgartner | 0 | 8 |
+| 84 | Andy S | 0 | 8 |
+| 85 | JagerMeister | 1 | 2 |
+| 86 | -Mike- | 0 | 12 |
+| 87 | Wes Martin | 0 | 8 |
+| 88 | Kishen Mangat | 0 | 2 |
+| 89 | Jon Oulton | 0 | 5 |
+| 90 | Rafael Zapparoli | 1 | 4 |
+| 91 | Julius Beres | 0 | 8 |
+| 92 | Monty | 0 | 5 |
+| 93 | Isaac Porter | 0 | 5 |
+| 94 | Alex Hladkyj | 0 | 11 |
+| 95 | mike bankoff | 0 | 3 |
+| 96 | David Appelhans | 0 | 9 |
+| 97 | Armin hammer | 1 | 7 |
+| 98 | Everett Johnson | 0 | 4 |
+| 99 | Jan Rous | 0 | 5 |
+| 100 | Bill Karam | 0 | 9 |
 
 </details>
-
