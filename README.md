@@ -95,7 +95,7 @@ Colorado hosts some of North America’s most storied stone, from Eldorado Canyo
 - FA/FFA decades by route and region; boldness timelines.  
 - Links between milestone ascents and later popularity waves.  
 
-### 5) Demand Forecasts (2025–2029)
+### 5) Demand Forecasts (2025-2029)
 - Linear + exponential models; pick by best fit (R² tracked).  
 - Reliability filter (R² ≥ 0.85); summary by sub-region (Area Hierarchy L1–L5).  
 - Growth rankings to flag where pressure likely increases.  
