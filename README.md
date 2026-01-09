@@ -88,7 +88,7 @@ Colorado hosts some of North America’s most storied stone, from Eldorado Canyo
 
 ### 3) Seasonality Profiles
 - Monthly percentages + meteorological seasons (Winter/Spring/Summer/Fall).  
-- K-Means clustering to label routes (e.g., “All-Season”, “Summer-Peak”, “Shoulder-Season”).  
+- K-Means clustering to label routes (four seasinal profiles were found: “All-Season”, “Summer-Peak”, “Shoulder-Season (Spring/Fall)” and " Nesting Closure Seasonal").  
 - Seasonal Concentration Score + dominant season.  
 
 ### 4) Historical Context (FA/FFA)
