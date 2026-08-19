@@ -76,10 +76,11 @@
 - Verification: **37:11** [GPS Proof](https://strava.app.link/QmSTqth4IWb)  
 - **First all-women FKT:** 37:21 B2B | 2021-09 | Kate Kelleghan & Becca Droz
 
-All known sub 25 and Sub 30 minutes bridge to bridge climbers:
-- | Time    | Date       | Climbers                          | Notes              | Verification       |
+### All known sub 25 and Sub 30 minutes bridge to bridge climbers:
+| Time    | Date       | Climbers                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | 22:44   | 2022-10-10 | Stefan Griebel, Joe Kennedy       | Current FKT        |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
 | 24:14   | 2020-05-22 | John Ebers, Ben Wilbur            |                    |                    |
 | 24:29   | 2015-09-19 | Stefan Griebel, Jason Wells       |                    |                    |
 | 24:57   | 2014-10-08 | Scott Bennett, Brad Gobright      |                    |                    |
