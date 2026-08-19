@@ -60,17 +60,19 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 
 ### FKT History (B2B)
 
-| Time   | Date       | Climbers                       | Notes        |
-|--------|------------|--------------------------------|--------------|
-| 29:35  | 2021-03-03 | Jack Neus, Joe Kennedy         | Current FKT  |
-| 33:35  | 2020-11-21 | Jack Neus, Joe Kennedy         |              |
-| 36:05  | 2020-08-08 | Bill Wright, Danny Gilbert     |              |
-| 41:02  | 2020-08-05 | Bill Wright, Danny Gilbert     |              |
-| 42:48  | 2018-08-01 | Bill Wright, Danny Gilbert     |              |
-| 46:55  | 2018-07-13 | Jon Oulton, Nodin DeSaillan    |              |
-| 47:47  | 2018-07-12 | Bill Wright, Danny Gilbert     |              |
-| 57:02  | 2018-07-11 | Jon Oulton, Nodin DeSaillan    |              |
-| 58:10  | Early 2000s| Josh Wharton, Kevin Chochran   | First logged |
+| Time    | Date       | Climbers                          | Notes              | Verification       |      |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+| 28:04  | 2026-07-23 | Michael Reese, Jack Gugel         | Current FKT  | [GPS Verification](https://www.strava.com/activities/19434761338/overview)|                    |
+| 29:21  | 2026-07-07 | Michael Reese, Jack Gugel        |   |[GPS Verification](https://www.strava.com/activities/19217626802) |                    |
+| 29:35  | 2021-03-03 | Jack Neus, Joe Kennedy         |   | |                    |
+| 33:35  | 2020-11-21 | Jack Neus, Joe Kennedy         |              | |                    |
+| 36:05  | 2020-08-08 | Bill Wright, Danny Gilbert     |              | |                    |
+| 41:02  | 2020-08-05 | Bill Wright, Danny Gilbert     |              | |                    |
+| 42:48  | 2018-08-01 | Bill Wright, Danny Gilbert     |              | |                    |
+| 46:55  | 2018-07-13 | Jon Oulton, Nodin DeSaillan    |              | |                    |
+| 47:47  | 2018-07-12 | Bill Wright, Danny Gilbert     |              | |                    |
+| 57:02  | 2018-07-11 | Jon Oulton, Nodin DeSaillan    |              | |                    |
+| 58:10  | Early 2000s| Josh Wharton, Kevin Chochran   | First logged | |                    |
 
 ## Analysis Highlights (Dataset)  
 - **#5 Classic Rank:** 5th highest *classic score* in Colorado.  
