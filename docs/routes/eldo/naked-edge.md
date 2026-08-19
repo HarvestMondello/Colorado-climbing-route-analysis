@@ -56,7 +56,7 @@
 
 | Time    | Date       | Climbers                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
-| 22:44   | 2022-10-10 | Stefan Griebel, Joe Kennedy       | Current FKT        |                    |
+| 22:44   | 2022-10-10 | Stefan Griebel, Joe Kennedy       | Current FKT        | [GPS Verification](https://www.strava.com/activities/8004442835#3019063963637264876) |
 | 24:14   | 2020-05-22 | John Ebers, Ben Wilbur            |                    |                    |
 | 24:29   | 2015-09-19 | Stefan Griebel, Jason Wells       |                    |                    |
 | 24:57   | 2014-10-08 | Scott Bennett, Brad Gobright      |                    |                    |
@@ -88,7 +88,7 @@
 | 27:03   | 2023-09-18 | Joe Kennedy, John Alcorn                                  |                    | [GPS Verification](https://www.strava.com/activities/9876877583)                   |                    |
 | 28:03   | 2026-08-13 |   John Alcorn, Forrest Freeman                                |                     | [GPS Verification](https://www.strava.com/activities/19726671767#3523004514159732852) 
 |29:29   |  2026-08-17 |    John Alcorn, Michael Reese                               |                      |  [GPS Verification](https://www.strava.com/activities/19787664615)                   |                    |
-                   |                    |
+
 
 
 
