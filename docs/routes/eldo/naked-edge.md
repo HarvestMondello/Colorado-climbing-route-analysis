@@ -73,35 +73,34 @@
 
 ### All Women’s FKT  
 - **37:08 B2B** | 2025-03-28 | Kate Kelleghan & Laura Pineau (France)  
-- Verification: **37:11** [GPS Proof](https://strava.app.link/QmSTqth4IWb)  
+- Verification: **37:11** [GPS Verification](https://www.strava.com/activities/14015319817)  
 - **First all-women FKT:** 37:21 B2B | 2021-09 | Kate Kelleghan & Becca Droz
 
 ### All known sub 25 and Sub 30 minutes bridge to bridge climbers:
 | Time    | Date       | Climbers                          | Notes              | Verification       | Verification 2     |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 22:44   | 2022-10-10 | Stefan Griebel, Joe Kennedy       | Current FKT        |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
+| 22:44   | 2022-10-10 | Stefan Griebel, Joe Kennedy       | Current FKT        | [GPS Verification](https://www.strava.com/activities/8004442835#3019063963637264876)|                    |
+| 22:47   | 2024-05-08|      Jack Neus, Joe Kennedy   |                    |[GPS Verification](https://www.strava.com/activities/11365661498#3223473321806499336) |                    |
 | 24:14   | 2020-05-22 | John Ebers, Ben Wilbur            |                    |                    |                    |
 | 24:29   | 2015-09-19 | Stefan Griebel, Jason Wells       |                    |                    |                    |
-| 24:45   | 2025-10-17 | Jack Neus,  Quinn Davie           |                    |[                    ](https://www.strava.com/activities/16175626536)|  https://www.strava.com/activities/16174824116#3414435780969046232 |
+| *24:45   | 2025-10-17 | Jack Neus,  Quinn Davie           |  (*GPS follow up question)                 |[GPS Verification](https://www.strava.com/activities/16175626536)  | [GPS Verification 2](https://www.strava.com/activities/16174824116#3414435780969046232)  |
 | 24:57   | 2014-10-08 | Scott Bennett, Brad Gobright      |                    |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
+| 27:03   | 2023-09-18 | Joe Kennedy, John Alcorn                                  |                    | [GPS Verification](https://www.strava.com/activities/9876877583)                   |                    |
+| 28:03   | 2026-08-13 |   John Alcorn, Forrest Freeman                                |                     | [GPS Verification](https://www.strava.com/activities/19726671767#3523004514159732852) 
+|29:29   |  2026-08-17 |    John Alcorn, Michael Reese                               |                      |  [GPS Verification](https://www.strava.com/activities/19787664615)                   |                    |
+                   |                    |
 
-Quinn Davie (sub-25) 24:45  https://www.strava.com/activities/16174824116#3414435780969046232
-Jack Neus (sub-25)24:45 https://www.strava.com/activities/16175626536
 
-John Alcorn (sub-30)
-Lynn Anderson (sub-30)
-Forrest Freeman (sub-30)
-Michael Reese (sub-30)
+
+
+
+
+
+
+
+Lynn Anderson (sub-30) Verification? Partner? more info needed...
+
+
 
 
 ## Analysis Highlights (Dataset)  
