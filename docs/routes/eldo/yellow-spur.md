@@ -60,13 +60,13 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 
 ### FKT History (B2B)
 
-| Time    | Date       | Climbers                          | Notes              | Verification       |      |
+| Time    | Date       | Climbers                          | Notes              | Verification       |   Verification 2   |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 28:04  | 2026-07-23 | Michael Reese, Jack Gugel         | Current FKT  | [GPS Verification](https://www.strava.com/activities/19434761338)|                    |
 | 29:21  | 2026-07-07 | Michael Reese, Jack Gugel        |   |[GPS Verification](https://www.strava.com/activities/19217626802) |                    |
 | 29:35  | 2021-03-03 | Jack Neus, Joe Kennedy         |   | [GPS Verification](https://www.strava.com/activities/6769287759)  |                    |
 | 33:35  | 2020-11-21 | Jack Neus, Joe Kennedy         |              | |                    |
-| 36:05  | 2020-08-08 | Bill Wright, Danny Gilbert     |              | |                    |
+| 36:05  | 2020-08-08 | Bill Wright, Danny Gilbert     |             |    [GPS Verification](https://www.strava.com/activities/3882758948)                  |[GPS Verification](https://www.strava.com/activities/3882911091) |                    | |                    |
 | 41:02  | 2020-08-05 | Bill Wright, Danny Gilbert     |              | |                    |
 | 42:48  | 2018-08-01 | Bill Wright, Danny Gilbert     |              | |                    |
 | 46:55  | 2018-07-13 | Jon Oulton, Nodin DeSaillan    |              | |                    |
