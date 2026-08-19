@@ -55,16 +55,16 @@ The climb features a mix of technical roof and corner climbing, delicate face se
     - East Slab descent (4th class)  
 
 ### Current Record  
-- **29:35 B2B** | 2021-03-03 | Jack Neus & Joe Kennedy  
-- [GPS Verification](https://www.strava.com/activities/6769287759)  
+- **20:04 B2B** | 2026-07-23 | Michael Reese & Jack Gugel  
+- [FKT GPS Verification](https://www.strava.com/activities/6769287759)  
 
 ### FKT History (B2B)
 
 | Time    | Date       | Climbers                          | Notes              | Verification       |      |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 28:04  | 2026-07-23 | Michael Reese, Jack Gugel         | Current FKT  | [GPS Verification](https://www.strava.com/activities/19434761338/overview)|                    |
+| 28:04  | 2026-07-23 | Michael Reese, Jack Gugel         | Current FKT  | [GPS Verification](https://www.strava.com/activities/19434761338/)|                    |
 | 29:21  | 2026-07-07 | Michael Reese, Jack Gugel        |   |[GPS Verification](https://www.strava.com/activities/19217626802) |                    |
-| 29:35  | 2021-03-03 | Jack Neus, Joe Kennedy         |   | |                    |
+| 29:35  | 2021-03-03 | Jack Neus, Joe Kennedy         |   | [GPS Verification](https://www.strava.com/activities/6769287759)  |                    |
 | 33:35  | 2020-11-21 | Jack Neus, Joe Kennedy         |              | |                    |
 | 36:05  | 2020-08-08 | Bill Wright, Danny Gilbert     |              | |                    |
 | 41:02  | 2020-08-05 | Bill Wright, Danny Gilbert     |              | |                    |
