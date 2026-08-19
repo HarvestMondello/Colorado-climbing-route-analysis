@@ -54,27 +54,54 @@
 
 ### FKT History (B2B unless noted)
 
-| Time    | Date       | Climbers                          | Notes              |
-|---------|------------|-----------------------------------|--------------------|
-| 22:44   | 2022-10-10 | Stefan Griebel, Joe Kennedy       | Current FKT        |
-| 24:14   | 2020-05-22 | John Ebers, Ben Wilbur            |                    |
-| 24:29   | 2015-09-19 | Stefan Griebel, Jason Wells       |                    |
-| 24:57   | 2014-10-08 | Scott Bennett, Brad Gobright      |                    |
-| 26:16   | 2014-09-24 | Scott Bennett, Brad Gobright      |                    |
-| 26:33   | 2014-08-15 | Stefan Griebel, Jason Wells       |                    |
-| 29:53   | 2014-06-09 | Scott Bennett, Brad Gobright      |                    |
-| 35:01   | 2014-04-22 | Stefan Griebel, Jason Wells       |                    |
-| 40:36   | 2014-04-09 | Stefan Griebel, Jason Wells       |                    |
-| 44:00   | 2013-01-XX | Scott Bennett, Brad Gobright      |                    |
-| 49:44   | 2012-05-XX | Stefan Griebel, Jason Wells       | First sub-1 hour   |
-| 1:13:XX | 2010-12-XX | Scott Bennett, Blake Harrington   |                    |
-| 1:22:XX | 2006-09-06 | Bob Rotert, Dave Vaughn           | C2C                |
-| 1:30:XX | 1991-XX-XX | Michael Gilbert, Rob Slater       | C2C                |
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| 22:44   | 2022-10-10 | Stefan Griebel, Joe Kennedy       | Current FKT        |                    |
+| 24:14   | 2020-05-22 | John Ebers, Ben Wilbur            |                    |                    |
+| 24:29   | 2015-09-19 | Stefan Griebel, Jason Wells       |                    |                    |
+| 24:57   | 2014-10-08 | Scott Bennett, Brad Gobright      |                    |                    |
+| 26:16   | 2014-09-24 | Scott Bennett, Brad Gobright      |                    |                    |
+| 26:33   | 2014-08-15 | Stefan Griebel, Jason Wells       |                    |                    |
+| 29:53   | 2014-06-09 | Scott Bennett, Brad Gobright      |                    |                    |
+| 35:01   | 2014-04-22 | Stefan Griebel, Jason Wells       |                    |                    |
+| 40:36   | 2014-04-09 | Stefan Griebel, Jason Wells       |                    |                    |
+| 44:00   | 2013-01-XX | Scott Bennett, Brad Gobright      |                    |                    |
+| 49:44   | 2012-05-XX | Stefan Griebel, Jason Wells       | First sub-1 hour   |                    |
+| 1:13:XX | 2010-12-XX | Scott Bennett, Blake Harrington   |                    |                    |
+| 1:22:XX | 2006-09-06 | Bob Rotert, Dave Vaughn           | C2C                |                    |
+| 1:30:XX | 1991-XX-XX | Michael Gilbert, Rob Slater       | C2C                |                    |
 
-### Women’s FKT  
+### All Women’s FKT  
 - **37:08 B2B** | 2025-03-28 | Kate Kelleghan & Laura Pineau (France)  
 - Verification: **37:11** [GPS Proof](https://strava.app.link/QmSTqth4IWb)  
-- **First all-women FKT:** 37:21 B2B | 2021-09 | Kate Kelleghan & Becca Droz  
+- **First all-women FKT:** 37:21 B2B | 2021-09 | Kate Kelleghan & Becca Droz
+
+All known sub 25 and Sub 30 minutes bridge to bridge climbers:
+- | Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| 22:44   | 2022-10-10 | Stefan Griebel, Joe Kennedy       | Current FKT        |                    |
+| 24:14   | 2020-05-22 | John Ebers, Ben Wilbur            |                    |                    |
+| 24:29   | 2015-09-19 | Stefan Griebel, Jason Wells       |                    |                    |
+| 24:57   | 2014-10-08 | Scott Bennett, Brad Gobright      |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
+
+Quinn Davie (sub-25)
+Jack Neus (sub-25)
+
+John Alcorn (sub-30)
+Lynn Anderson (sub-30)
+Forrest Freeman (sub-30)
+Michael Reese (sub-30)
+
 
 ## Analysis Highlights (Dataset)  
 - **#1 Classic Rank:** Highest *classic score* in Colorado.  
