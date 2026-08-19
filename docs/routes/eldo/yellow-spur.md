@@ -55,7 +55,7 @@ The climb features a mix of technical roof and corner climbing, delicate face se
     - East Slab descent (4th class)  
 
 ### Current Record  
-- **20:04 B2B** | 2026-07-23 | Michael Reese & Jack Gugel  
+- **28:04 B2B** | 2026-07-23 | Michael Reese & Jack Gugel  
 - [FKT GPS Verification](https://www.strava.com/activities/19434761338)  
 
 ### FKT History (B2B)
