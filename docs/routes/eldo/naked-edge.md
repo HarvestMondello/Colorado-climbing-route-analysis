@@ -77,26 +77,26 @@
 - **First all-women FKT:** 37:21 B2B | 2021-09 | Kate Kelleghan & Becca Droz
 
 ### All known sub 25 and Sub 30 minutes bridge to bridge climbers:
-| Time    | Date       | Climbers                          | Notes              | Verification       |
-|---------|------------|-----------------------------------|--------------------|--------------------|
-| 22:44   | 2022-10-10 | Stefan Griebel, Joe Kennedy       | Current FKT        |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
-| 24:14   | 2020-05-22 | John Ebers, Ben Wilbur            |                    |                    |
-| 24:29   | 2015-09-19 | Stefan Griebel, Jason Wells       |                    |                    |
-| 24:57   | 2014-10-08 | Scott Bennett, Brad Gobright      |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
-| <>:<<   | <<<<-<<-<< |                                   |                    |                    |
+| Time    | Date       | Climbers                          | Notes              | Verification       | Verification 2     |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+| 22:44   | 2022-10-10 | Stefan Griebel, Joe Kennedy       | Current FKT        |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
+| 24:14   | 2020-05-22 | John Ebers, Ben Wilbur            |                    |                    |                    |
+| 24:29   | 2015-09-19 | Stefan Griebel, Jason Wells       |                    |                    |                    |
+| 24:45   | 2025-10-17 | Jack Neus,  Quinn Davie           |                    |[                    ](https://www.strava.com/activities/16175626536)|  https://www.strava.com/activities/16174824116#3414435780969046232 |
+| 24:57   | 2014-10-08 | Scott Bennett, Brad Gobright      |                    |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
+| <>:<<   | <<<<-<<-<< |                                   |                    |                    |                    |
 
-Quinn Davie (sub-25)
-Jack Neus (sub-25)
+Quinn Davie (sub-25) 24:45  https://www.strava.com/activities/16174824116#3414435780969046232
+Jack Neus (sub-25)24:45 https://www.strava.com/activities/16175626536
 
 John Alcorn (sub-30)
 Lynn Anderson (sub-30)
