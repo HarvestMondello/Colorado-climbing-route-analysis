@@ -1,6 +1,6 @@
 
 
-# Route Profile: First Flatiron: Direct Route (DEF)
+# Route Profile: First Flatiron: DEF (Direct East Face) aka Direct Route
 
 (photo banner, area/grade/FA info, etc.)
 
@@ -74,3 +74,7 @@ Dec | █                              3.4%
 | 9 | Jack Neus | 60 |
 | 10 | John Alcorn | 60 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+
+### Current Record: First Flatiron - DEF (Direct East Face) aka Direct Route (self supported, no rappel)
+- **36:23 Ranger Cottage trash can to Ranger Cottage trash can  (the can by the big sign)** | 2019-10-15 | Kyle Richardson    
+- [GPS Verification](https://www.strava.com/activities/2792210665/overview)  
