@@ -106,7 +106,6 @@ Dec | █                              1.1%
     - back to the trailhead via foot power
     - bike to and from Boulder
 
-https://fastestknowntime.com/route/longs-peak-co
 
 ### Current Record: Long's Triathlon (unsupported)
 - **09:50:03** | 2022-10-26 | Stefan Griebel & Anton Krupicka 
