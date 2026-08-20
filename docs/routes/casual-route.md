@@ -93,8 +93,8 @@ Dec | █                              1.1%
 | Time    | Date       | Climbers                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | 03:09:50  | 2024-09-02 | John Alcorn (solo)         | Current FKT  | [GPS Verification](https://www.strava.com/activities/12306779867)|  
-| 03:26:12  | 2021-08-30 | Maury Birdwell (solo)         | Current FKT  | [GPS Verification](https://www.strava.com/activities/12306779867)|   
-| 03:59:00  | 2000-08-01 | Dean Potter (solo)         | Current FKT  | [GPS Verification](https://www.strava.com/activities/12306779867)|              
+| 03:26:12  | 2021-08-30 | Maury Birdwell (solo)         |   | [GPS Verification](https://www.strava.com/activities/5878487555)|   
+| 03:59:00  | 2000-08-01 | Dean Potter (solo)         |   | n/a             
 
 
 ## Fastest Known Time (FKT): Long's Triathlon
