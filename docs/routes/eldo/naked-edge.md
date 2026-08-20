@@ -92,18 +92,6 @@
 
 
 
-
-
-
-
-
-
-
-Lynn Anderson (sub-30) Verification? Partner? more info needed...
-
-
-
-
 ## Analysis Highlights (Dataset)  
 - **#1 Classic Rank:** Highest *classic score* in Colorado.  
 - **Engagement:** Top **5%** of Colorado trad for popularity & quality.  
