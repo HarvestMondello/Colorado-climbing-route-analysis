@@ -48,8 +48,7 @@
     - East Slab descent (4th class)  
 
 ### Current Record  
-- **22:44 B2B** | 2022-10-26 | Stefan Griebel & Joe Kennedy  
-- [Video of FKT](https://vimeo.com/764407847)  
+- **22:44 B2B** | 2022-10-26 | Stefan Griebel & Joe Kennedy   
 - [GPS Verification](https://www.strava.com/activities/8004442835#3019063963637264876)  
 
 ### FKT History (B2B unless noted)
