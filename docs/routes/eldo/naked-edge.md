@@ -48,14 +48,14 @@
     - East Slab descent (4th class)  
 
 ### Current Record  
-- **22:44 B2B** | 2022-10-26 | Stefan Griebel & Joe Kennedy   
+- **22:44 B2B** | 2022-10-22 | Stefan Griebel & Joe Kennedy   
 - [GPS Verification](https://www.strava.com/activities/8004442835#3019063963637264876)  
 
 ### FKT History (B2B unless noted)
 
 | Time    | Date       | Climbers                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
-| 22:44   | 2022-10-10 | Stefan Griebel, Joe Kennedy       | Current FKT        | [GPS Verification](https://www.strava.com/activities/8004442835#3019063963637264876) |
+| 22:44   | 2022-10-22 | Stefan Griebel, Joe Kennedy       | Current FKT        | [GPS Verification](https://www.strava.com/activities/8004442835#3019063963637264876) |
 | 24:14   | 2020-05-22 | John Ebers, Ben Wilbur            |                    |                    |
 | 24:29   | 2015-09-19 | Stefan Griebel, Jason Wells       |                    |                    |
 | 24:57   | 2014-10-08 | Scott Bennett, Brad Gobright      |                    |                    |
