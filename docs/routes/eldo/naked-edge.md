@@ -87,7 +87,7 @@
 | 24:57   | 2014-10-08 | Scott Bennett, Brad Gobright      |                    |                    |                    |
 | 27:03   | 2023-09-18 | Joe Kennedy, John Alcorn                                  |                    | [GPS Verification](https://www.strava.com/activities/9876877583)                   |                    |
 | 28:03   | 2026-08-13 |   John Alcorn, Forrest Freeman                                |                     | [GPS Verification](https://www.strava.com/activities/19726671767#3523004514159732852) 
-| 28:32?   | <<>>>>-<<>>>-<>> |   Jack Neus, Lynn Anderson                                |                     | [GPS Verification](n/a) 
+| 28:35   | 2024-09-13 |   Jack Neus, Lynn Anderson                                |                     | [GPS Verification](https://www.strava.com/activities/12403561283) 
 |29:29   |  2026-08-17 |    John Alcorn, Michael Reese                               |                      |  [GPS Verification](https://www.strava.com/activities/19787664615)                   |                    |
 
 
