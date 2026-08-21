@@ -78,7 +78,7 @@
 ### All known sub 25 and Sub 30 minutes bridge to bridge climbers:
 | Time    | Date       | Climbers                          | Notes              | Verification       | Verification 2     |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 22:44   | 2022-10-10 | Stefan Griebel, Joe Kennedy       | Current FKT        | [GPS Verification](https://www.strava.com/activities/8004442835#3019063963637264876)|                    |
+| 22:44   | 2022-10-22 | Stefan Griebel, Joe Kennedy       | Current FKT        | [GPS Verification](https://www.strava.com/activities/8004442835#3019063963637264876)|                    |
 | 22:47   | 2024-05-08|      Jack Neus, Joe Kennedy   |                    |[GPS Verification](https://www.strava.com/activities/11365661498#3223473321806499336) |                    |
 | 24:14   | 2020-05-22 | John Ebers, Ben Wilbur            |                    |                    |                    |
 | 24:29   | 2015-09-19 | Stefan Griebel, Jason Wells       |                    |                    |                    |
