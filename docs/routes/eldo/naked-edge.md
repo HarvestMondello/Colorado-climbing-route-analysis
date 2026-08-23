@@ -82,11 +82,11 @@
 | 22:47   | 2024-05-08|      Jack Neus, Joe Kennedy   |                    |[GPS Verification](https://www.strava.com/activities/11365661498#3223473321806499336) |                    |
 | 24:14   | 2020-05-22 | John Ebers, Ben Wilbur            |                    |                    |                    |
 | 24:29   | 2015-09-19 | Stefan Griebel, Jason Wells       |                    |                    |                    |
-| *24:45   | 2025-10-17 | Jack Neus,  Quinn Davie           |  (*GPS follow up question)                 |[GPS Verification](https://www.strava.com/activities/16175626536)  | [GPS Verification 2](https://www.strava.com/activities/16174824116#3414435780969046232)  |
+| *24:45   | 2025-10-17 | Jack Neus,  Quinn Davie           |  (*)                 |[GPS Verification](https://www.strava.com/activities/16175626536)  | [GPS Verification 2](https://www.strava.com/activities/16174824116#3414435780969046232)  |
 | 24:57   | 2014-10-08 | Scott Bennett, Brad Gobright      |                    |                    |                    |
 | 27:03   | 2023-09-18 | Joe Kennedy, John Alcorn                                  |                    | [GPS Verification](https://www.strava.com/activities/9876877583)                   |                    |
 | 28:03   | 2026-08-13 |   John Alcorn, Forrest Freeman                                |                     | [GPS Verification](https://www.strava.com/activities/19726671767#3523004514159732852) 
-| 28:35   | 2024-09-13 |   Jack Neus, Lynn Anderson                                |    First women under 30 min                 | [GPS Verification](https://www.strava.com/activities/12403561283) 
+| 28:35   | 2024-09-13 |   Jack Neus, Lynn Anderson                                |    First women under 30 min                 | [GPS Verification](https://www.strava.com/activities/12403561283) | [GPS Verification](https://www.strava.com/activities/12403791278)
 |29:29   |  2026-08-17 |    John Alcorn, Michael Reese                               |                      |  [GPS Verification](https://www.strava.com/activities/19787664615)                   |                    |
 
 
