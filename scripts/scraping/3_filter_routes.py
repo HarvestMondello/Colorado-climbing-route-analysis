@@ -167,11 +167,18 @@ def compute_climbing_metrics(df: pd.DataFrame, k: int = BAYES_K) -> pd.DataFrame
 
     # Composite score
     df["classic_score"] = (
-        0.55 * df["norm_quality"]          # 55%
-        + 0.20 * df["norm_popularity"]     # 20%
-        + 0.10 * df["norm_cult_following"] # 10%
+        0.60 * df["norm_quality"]          # 60%
         + 0.15 * df["norm_consensus"]      # 15%
+        + 0.15 * df["norm_cult_following"] # 15%
+        + 0.10 * df["norm_popularity"]     # 10%
     )
+
+    #df["classic_score"] = (
+    #        0.55 * df["norm_quality"]          # 55%
+     #       + 0.20 * df["norm_popularity"]     # 20%
+     #       + 0.10 * df["norm_cult_following"] # 10%
+     #       + 0.15 * df["norm_consensus"]      # 15%
+      #  )
 
     # Guardrail: if very low votes, deprioritize/remove score
     df.loc[df["votes"] < 10, "classic_score"] = np.nan

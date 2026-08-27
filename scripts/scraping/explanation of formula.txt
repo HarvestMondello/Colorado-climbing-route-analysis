@@ -1,0 +1,33 @@
+new .md to explain the Classic Score math (overview in the main page)
+
+A classic route is has the consensus of the climbing community that it is of high quality, climbed a lot, loved enough to repeat, and widely agreed to be great.
+
+A high Classic Score means a route is highly rated, frequently climbed, loved enough to repeat, and widely agreed to be great.
+
+Formula:  all metrics are normalized
+0.60(Quality)+0.15(Consensus)+0.15(Cult Following)+0.10(Popularity)
+ 
+    # Composite score
+    df["classic_score"] = (
+        0.60 * df["norm_quality"]          # 60%
+        + 0.15 * df["norm_consensus"]      # 15%
+        + 0.15 * df["norm_cult_following"] # 15%
+        + 0.10 * df["norm_popularity"]     # 10%
+    )
+
+⭐ Highly rated
+
+👥 Frequently climbed
+
+🔁 Loved enough to repeat
+
+🤝 Widely agreed to be great
+
+
+🧗 Quality: Star rating from Mountain Project (column: stars).
+
+👥 Popularity: How many people climb it (from tick data: ticks_total, unique_climbers).
+
+🔁 Cult Following: Repeat climbers — routes people come back to (from top_climber_*_ticks).
+
+🤝 Consensus: How strong the agreement is about the rating (from stars and votes).
