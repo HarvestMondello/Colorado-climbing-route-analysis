@@ -25,11 +25,11 @@ Any narrative insights you want to keep hand-written.
 | Classic Rank         |           |
 | Grade                | 5.7 YDS   |
 | Location             | Redgarden - Lumpe to… |
-| Stars (avg)          | 3.7       |
-| Votes                | 1877.0    |
-| Unique Climbers      | 4102.0    |
-| Lifetime Ticks       | 6490.0    |
-| Avg Ticks / Climber  | 1.58      |
+| Stars (avg)          | 3.8       |
+| Votes                | 1943.0    |
+| Unique Climbers      | 4278.0    |
+| Lifetime Ticks       | 6973.0    |
+| Avg Ticks / Climber  | 1.63      |
 <!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
@@ -37,24 +37,24 @@ Any narrative insights you want to keep hand-written.
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 9.4% **low season**
-- 🌸 **Spring (Mar–May)**: 25.8%
-- ☀️ **Summer (Jun–Aug)**: 36.6% **high season**
-- 🍂 **Fall (Sep–Nov)**: 28.3%
+- 🌸 **Spring (Mar–May)**: 27.0%
+- ☀️ **Summer (Jun–Aug)**: 37.4% **high season**
+- 🍂 **Fall (Sep–Nov)**: 26.2%
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              2.7%
-Feb | █                              2.8%
-Mar | ██                             6.5%
-Apr | ██                             8.6%
-May | ███                           10.7%
-Jun | ████                          12.9%
-Jul | ███                           11.4%
-Aug | ████                          12.4%
-Sep | ███                           11.7%
-Oct | ███                           10.0%
-Nov | ██                             6.6%
-Dec | █                              3.9%
+Feb | █                              3.1%
+Mar | ██                             7.0%
+Apr | ██                             8.7%
+May | ███                           11.2%
+Jun | ████                          12.8%
+Jul | ████                          12.6%
+Aug | ███                           12.0%
+Sep | ███                           10.9%
+Oct | ███                            9.3%
+Nov | ██                             6.1%
+Dec | █                              3.6%
 ```
 <!-- AUTO:SEASONALITY:END -->
 
@@ -63,14 +63,29 @@ Dec | █                              3.9%
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | Danny Gilbert | 35 |
-| 2 | James Klaers | 33 |
-| 3 | Yiran Li | 17 |
-| 4 | G P | 15 |
-| 5 | Samuel Puckett | 15 |
-| 6 | Anonymous | 14 |
-| 7 | Choss Pirate | 14 |
-| 8 | Jack Neus | 14 |
-| 9 | John Alcorn | 14 |
-| 10 | Michael Butts | 14 |
+| 1 | Danny Gilbert | 40 |
+| 2 | Christian Shields | 38 |
+| 3 | James Klaers | 33 |
+| 4 | Gnarls von Powderborne | 32 |
+| 5 | Anonymous | 20 |
+| 6 | Yiran Li | 18 |
+| 7 | Ryan Marsters | 17 |
+| 8 | Jack Neus | 16 |
+| 9 | Samuel Puckett | 16 |
+| 10 | G P | 15 |
+| 11 | John Alcorn | 15 |
+| 12 | Michael Butts | 15 |
+| 13 | Sarah Meiser | 15 |
+| 14 | choss pirate | 15 |
+| 15 | Samuel Andree | 14 |
+| 16 | Benjamn P | 13 |
+| 17 | Harvest Mondello | 13 |
+| 18 | Ryan Dresser | 13 |
+| 19 | Mark Griffin | 12 |
+| 20 | Nate Haebig-Kerber | 12 |
+| 21 | Andy S | 11 |
+| 22 | Javier Goldstein | 11 |
+| 23 | John Acker | 11 |
+| 24 | Mitchell Hodge | 11 |
+| 25 | Amanda I'd Climb That | 10 |
 <!-- AUTO:TOP_CLIMBERS:END -->
