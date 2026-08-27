@@ -106,35 +106,35 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 | Grade                | 5.9+ YDS  |
 | Location             | Redgarden - Tower One |
 | Stars (avg)          | 3.7       |
-| Votes                | 1402.0    |
-| Unique Climbers      | 2537.0    |
-| Lifetime Ticks       | 4600.0    |
-| Avg Ticks / Climber  | 1.81      |
+| Votes                | 1446.0    |
+| Unique Climbers      | 2632.0    |
+| Lifetime Ticks       | 4878.0    |
+| Avg Ticks / Climber  | 1.85      |
 <!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
 ### Seasonality
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 9.1% **low season**
-- 🌸 **Spring (Mar–May)**: 24.4%
-- ☀️ **Summer (Jun–Aug)**: 36.0% **high season**
-- 🍂 **Fall (Sep–Nov)**: 30.5%
+- ❄️ **Winter (Dec–Feb)**: 9.3% **low season**
+- 🌸 **Spring (Mar–May)**: 25.8%
+- ☀️ **Summer (Jun–Aug)**: 36.2% **high season**
+- 🍂 **Fall (Sep–Nov)**: 28.7%
 
 ### Seasonality Usage by Month
 ```
-Jan | █                              2.6%
-Feb | █                              2.6%
-Mar | ██                             5.5%
-Apr | ███                            8.8%
-May | ███                           10.1%
+Jan | █                              2.7%
+Feb | █                              2.9%
+Mar | ██                             6.1%
+Apr | ███                            9.1%
+May | ███                           10.6%
 Jun | ████                          12.3%
-Jul | ███                           11.7%
-Aug | ███                           12.0%
-Sep | ███                           11.8%
-Oct | ███                           11.4%
-Nov | ██                             7.2%
-Dec | █                              3.9%
+Jul | ███                           11.8%
+Aug | ███                           12.2%
+Sep | ███                           11.1%
+Oct | ███                           10.7%
+Nov | ██                             6.8%
+Dec | █                              3.7%
 ```
 <!-- AUTO:SEASONALITY:END -->
 
@@ -143,14 +143,29 @@ Dec | █                              3.9%
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | Danny Gilbert | 262 |
-| 2 | Bill Wright | 92 |
-| 3 | Harvest Mondello | 82 |
-| 4 | Michael Butts | 67 |
-| 5 | Jack Neus | 41 |
-| 6 | John Alcorn | 41 |
-| 7 | Samuel Andree | 33 |
-| 8 | Ryan Montoya | 32 |
-| 9 | Ryan Marsters | 24 |
-| 10 | Mike Robinson | 20 |
+| 1 | Danny Gilbert | 272 |
+| 2 | Harvest Mondello | 95 |
+| 3 | Bill Wright | 92 |
+| 4 | Michael Butts | 70 |
+| 5 | Jack Neus | 44 |
+| 6 | John Alcorn | 42 |
+| 7 | Ryan Montoya | 34 |
+| 8 | Samuel Andree | 34 |
+| 9 | Ryan Marsters | 25 |
+| 10 | Hailey Moore | 23 |
+| 11 | Stefan Griebel | 22 |
+| 12 | Mike Robinson | 20 |
+| 13 | Nate Haebig-Kerber | 19 |
+| 14 | Benjamn P | 16 |
+| 15 | James Klaers | 16 |
+| 16 | Jon Oulton | 16 |
+| 17 | Yiran Li | 15 |
+| 18 | Mark D | 13 |
+| 19 | choss pirate | 13 |
+| 20 | Gregger Man | 12 |
+| 21 | Max Manson | 12 |
+| 22 | Bill Kinter | 11 |
+| 23 | Brian Carver | 11 |
+| 24 | Daniel Dunn | 10 |
+| 25 | Mario Delgado | 10 |
 <!-- AUTO:TOP_CLIMBERS:END -->
