@@ -26,35 +26,35 @@ Any narrative insights you want to keep hand-written.
 | Grade                | 5.11a/b YDS |
 | Location             | Rincon - Center Route… |
 | Stars (avg)          | 3.8       |
-| Votes                | 293.0     |
-| Unique Climbers      | 435.0     |
-| Lifetime Ticks       | 843.0     |
-| Avg Ticks / Climber  | 1.94      |
+| Votes                | 299.0     |
+| Unique Climbers      | 447.0     |
+| Lifetime Ticks       | 958.0     |
+| Avg Ticks / Climber  | 2.14      |
 <!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
 ### Seasonality
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 23.9%
-- 🌸 **Spring (Mar–May)**: 28.8%
-- ☀️ **Summer (Jun–Aug)**: 13.6% **low season**
-- 🍂 **Fall (Sep–Nov)**: 33.8% **high season**
+- ❄️ **Winter (Dec–Feb)**: 22.8%
+- 🌸 **Spring (Mar–May)**: 27.2%
+- ☀️ **Summer (Jun–Aug)**: 20.4% **low season**
+- 🍂 **Fall (Sep–Nov)**: 29.6% **high season**
 
 ### Seasonality Usage by Month
 ```
-Jan | ██                             6.3%
-Feb | ██                             7.2%
-Mar | ███                            9.4%
-Apr | ███                           10.9%
+Jan | ██                             7.0%
+Feb | ██                             6.9%
+Mar | ██                             8.3%
+Apr | ███                           10.3%
 May | ██                             8.5%
-Jun | █                              4.9%
-Jul | █                              3.0%
-Aug | ██                             5.6%
-Sep | ███                            9.6%
-Oct | ███                           10.8%
-Nov | ████                          13.3%
-Dec | ███                           10.3%
+Jun | █                              4.4%
+Jul | ███                           11.1%
+Aug | █                              4.9%
+Sep | ██                             8.4%
+Oct | ███                            9.5%
+Nov | ███                           11.6%
+Dec | ███                            9.0%
 ```
 <!-- AUTO:SEASONALITY:END -->
 
@@ -63,14 +63,29 @@ Dec | ███                           10.3%
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | ChossCrimper TopRopePrincess | 20 |
-| 2 | Choss Pirate | 12 |
-| 3 | Guy H. | 11 |
-| 4 | Mark Griffin | 9 |
-| 5 | Michael Butts | 9 |
-| 6 | New Leader | 9 |
-| 7 | Brian Carver | 8 |
-| 8 | Dustin V | 7 |
-| 9 | Jan Rous | 7 |
-| 10 | Mark Hammond | 7 |
+| 1 | Zephyr Miller | 72 |
+| 2 | ChossCrimper TopRopePrincess | 20 |
+| 3 | choss pirate | 12 |
+| 4 | Guy H. | 11 |
+| 5 | Mark Griffin | 9 |
+| 6 | Michael Butts | 9 |
+| 7 | New Leader | 9 |
+| 8 | Brian Carver | 8 |
+| 9 | Hailey Moore | 8 |
+| 10 | Dustin V | 7 |
+| 11 | Jan Rous | 7 |
+| 12 | Mark Hammond | 7 |
+| 13 | AdamShep | 6 |
+| 14 | Hale OHerren | 6 |
+| 15 | Mike Robinson | 6 |
+| 16 | Rich Kelly | 6 |
+| 17 | Armin hammer | 5 |
+| 18 | Athena | 5 |
+| 19 | Daniel Bateman | 5 |
+| 20 | Max Manson | 5 |
+| 21 | Michael Underwood | 5 |
+| 22 | claytown | 5 |
+| 23 | Anton Krupicka | 4 |
+| 24 | Austin Lowe | 4 |
+| 25 | Brent Z | 4 |
 <!-- AUTO:TOP_CLIMBERS:END -->
