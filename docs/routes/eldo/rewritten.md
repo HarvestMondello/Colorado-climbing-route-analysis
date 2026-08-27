@@ -22,7 +22,7 @@ Any narrative insights you want to keep hand-written.
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
+| Classic Rank         |     2      |
 | Grade                | 5.7 YDS   |
 | Location             | Redgarden - Lumpe to… |
 | Stars (avg)          | 3.8       |
