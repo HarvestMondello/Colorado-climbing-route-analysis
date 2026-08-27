@@ -13,7 +13,7 @@ Key behavior:
   - Uses H1 '# Route Profile: <name>' if present (warns on mismatch, still updates).
   - Falls back to filename stem.
   - Ignores leading articles ('the', 'a', 'an').
-  - Treats spaces, hyphens, and underscores as equivalent.
+  - Treats spaces, hyphens, and underscores as equivalent
   - Handles duplicate route names by keeping all candidates and
     selecting the best via Area Hierarchy tokens, then filename stem, then path length.
 - Idempotent by default; add --force to rewrite even without diffs.
@@ -436,7 +436,7 @@ def build_top_climbers(row: pd.Series) -> Optional[str]:
         return None
 
     out_rows = []
-    for i in range(1, 11):
+    for i in range(1, 26):
         name = getv(f"Top Climber {i}", f"top_climber_{i}")
         name = "" if name is None or (isinstance(name, float) and pd.isna(name)) else str(name).strip()
         if not name:

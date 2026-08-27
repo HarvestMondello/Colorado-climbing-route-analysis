@@ -47,34 +47,46 @@ DEFAULT_FEATURED_CSV = (PROJECT_ROOT / "data" / "processed" / "featured_routes.c
 DEFAULT_OUT_MD = (DEFAULT_DOCS_DIR / "leaderboards.md").resolve()
 DEFAULT_SOURCE_CSV = (PROJECT_ROOT / "data" / "processed" / "joined_route_tick_cleaned.csv").resolve()
 
-# ✅ Display per-route top 10, but score using top 25
-TOP_N_CLIMBERS_DISPLAY = 10
+# ✅ Display per-route top 25, but score using top 25
+TOP_N_CLIMBERS_DISPLAY = 25
 TOP_N_CLIMBERS_SCORE = 25
 
 # Optional “manual featured” for stable ordering; md only used for per-route “Open route profile” links
 # top 20 routes
 FEATURED_ROUTES = [
+    #1-10
     {"name": "The Naked Edge",       "area_hint": "Eldorado Canyon", "md": "routes/eldo/naked-edge.md"},
-    {"name": "Outer Space",          "area_hint": "Eldorado Canyon", "md": "routes/eldo/outer-space.md"},
     {"name": "Rewritten",            "area_hint": "Eldorado Canyon", "md": "routes/eldo/rewritten.md"},
-    {"name": "East Face (Standard)", "area_hint": "Third Flatiron",  "md": "routes/east-face-standard.md"},
-    {"name": "The Yellow Spur",      "area_hint": "Eldorado Canyon", "md": "routes/eldo/yellow-spur.md"},
-    {"name": "Center Route",         "area_hint": "Cathedral Spire", "md": "routes/center-route.md"},
-    {"name": "Direct Route",         "area_hint": "First Flatiron",  "md": "routes/direct-route.md"},
-    {"name": "Casual Route",         "area_hint": "Long's Peak",     "md": "routes/casual-route.md"},
+    {"name": "Outer Space",          "area_hint": "Eldorado Canyon", "md": "routes/eldo/outer-space.md"},
+    {"name": "Center Route",         "area_hint": "Cathedral Spire", "md": "routes/center-route-cs.md"},
+    {"name": "East Face (Standard)", "area_hint": "Third Flatiron",  "md": "routes/flatirons/east-face-standard.md"},
     {"name": "Country Club Crack",   "area_hint": "Boulder Canyon",  "md": "routes/country-club-crack.md"},
+    {"name": "The Yellow Spur",      "area_hint": "Eldorado Canyon", "md": "routes/eldo/yellow-spur.md"},
     {"name":  "Wunsch's Dihedral",   "area_hint": "Cathedral Spire", "md": "routes/wunschs-dihedral.md"},
-    {"name": "Rosy Crucifixion",     "area_hint": "Eldorado Canyon",    "md": "routes/rosy-crucifixion.md"},
-    {"name": "The Bastille Crack",   "area_hint": "Eldorado Canyon",    "md": "routes/bastille-crack.md"},
-    {"name": "Freeway",              "area_hint": "Second Flatiron",    "md": "routes/freeway.md"},
-    {"name": "South Face",           "area_hint": "RMNP",               "md": "routes/south-face.md"},
+    {"name": "Casual Route",         "area_hint": "Long's Peak",     "md": "routes/casual-route.md"},
+    {"name": "Direct Route",         "area_hint": "First Flatiron",  "md": "routes/flatirons/direct-route.md"},
+    #11-20
+    {"name": "Handcracker Direct",   "area_hint": "Eldorado Canyon",    "md": "routes/eldo/handcracker-direct.md"},
     {"name": "The Scenic Cruise",    "area_hint": "Black Canyon",       "md": "routes/scenic-cruise.md"},
-    {"name": "Vertigo",   "area_hint": "Eldorado Canyon",    "md": "routes/vertigo.md"},
-    {"name": "Blind Faith",   "area_hint": "Eldorado Canyon",    "md": "routes/blind-faith.md"},
-    # Rebuffat's Arete...this is really a variation on Rewritten
-    {"name": "Ruper",   "area_hint": "Eldorado Canyon",    "md": "routes/ruper.md"},
-    {"name": "Over the Hill",   "area_hint": "Eldorado Canyon",    "md": "routes/over-the-hill.md"},
-    {"name": "Handcracker Direct",   "area_hint": "Eldorado Canyon",    "md": "routes/handcracker-direct.md"},
+    {"name": "Rosy Crucifixion",     "area_hint": "Eldorado Canyon",    "md": "routes/eldo/rosy-crucifixion.md"},
+    {"name": "Vertigo",               "area_hint": "Eldorado Canyon",    "md": "routes/eldo/vertigo.md"},
+    {"name": "Center Route",         "area_hint": "Eldorado Canyon", "md":"routes/eldo/center-route-ec.md"},
+    {"name": "South Face",           "area_hint": "RMNP",               "md": "routes/south-face.md"},
+    {"name": "Freeway",              "area_hint": "Second Flatiron",    "md": "routes/flatirons/freeway.md"},
+    {"name": "Drumstick Direct",     "area_hint": "Turkey Tail",    "md": "routes/drumstick-direct.md"},
+    {"name": "Over the Hill",       "area_hint": "Eldorado Canyon",    "md": "routes/eldo/over-the-hill.md"},
+    {"name": "Blind Faith",         "area_hint": "Eldorado Canyon",    "md": "routes/eldo/blind-faith.md"},
+    #21-25
+    {"name": "Bear-Blanca Traverse",   "area_hint": "Sangre de Cristo Range",    "md": "routes/bear-blanca-traverse.md"},
+    {"name": "The Bastille Crack",     "area_hint": "Eldorado Canyon",    "md": "routes/eldo/bastille-crack.md"},
+    {"name": "Pervertical Santuary",   "area_hint": "Long's Peak",     "md": "routes/pervertical-santuary.md"},
+    {"name": "Darkness 'til Dawn",     "area_hint": "Eldorado Canyon",    "md": "routes/eldo/darkness-til-dawn.md"},
+    {"name": "Ruper",                  "area_hint": "Eldorado Canyon",    "md": "routes/eldo/ruper.md"}
+    #alts:
+    #Whimsicle Dreams
+    #Cheap Date
+    #D7
+    #Gambit
 ]
 
 # =============================================================================
