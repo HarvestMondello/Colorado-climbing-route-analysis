@@ -24,7 +24,7 @@ Formula:  all metrics are normalized
 🤝 Widely agreed to be great
 
 
-🧗 Quality: Star rating from Mountain Project (column: stars).
+🧗 Quality: Star rating from (column: stars).
 
 👥 Popularity: How many people climb it (from tick data: ticks_total, unique_climbers).
 
