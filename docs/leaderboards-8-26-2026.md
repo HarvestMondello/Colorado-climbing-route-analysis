@@ -1,5 +1,5 @@
 # Colorado Climbing Route Leaderboards - Top Routes
-_Generated 2026-08-26 21:25:00 MDT_
+_Generated 2026-08-26 20:56:56 MDT_
 
 **[Top 100 Users by Score](#top-100-users-by-score)**
 
@@ -531,7 +531,7 @@ Dec | █                            3.7%
 | Rank | Climber | Ticks |
 | --- | --- | --- |
 | 1 | Danny Gilbert | 272 |
-| 2 | Harvest Mondello | 96 |
+| 2 | Harvest Mondello | 95 |
 | 3 | Bill Wright | 92 |
 | 4 | Michael Butts | 70 |
 | 5 | Jack Neus | 44 |
@@ -1582,7 +1582,7 @@ Dec | █                            4.6%
 | 11 | Kate pinktapegloves | 873.0 | 3 | 870.0 | 87 |
 | 12 | Max Manson | 794.5 | -18 | 812.5 | 109 |
 | 13 | Quinn Davie | 785.0 | 5 | 780.0 | 78 |
-| 14 | Harvest Mondello | 750.8 | -3 | 753.8 | 238 |
+| 14 | Harvest Mondello | 745.8 | -3 | 748.8 | 237 |
 | 15 | Zephyr Miller | 730.0 | 10 | 720.0 | 72 |
 | 16 | Chris Gummer | 728.5 | -9 | 737.5 | 337 |
 | 17 | Eric K | 702.8 | 4 | 698.8 | 285 |
