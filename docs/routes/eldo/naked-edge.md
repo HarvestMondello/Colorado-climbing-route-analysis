@@ -89,8 +89,6 @@
 | 28:35   | 2024-09-13 |   Jack Neus, Lynn Anderson                                |    First women under 30 min                 | [GPS Verification](https://www.strava.com/activities/12403561283) | [GPS Verification](https://www.strava.com/activities/12403791278)
 |29:29   |  2026-08-17 |    John Alcorn, Michael Reese                               |                      |  [GPS Verification](https://www.strava.com/activities/19787664615)                   |                    |
 
-
-
 ## Analysis Highlights (Dataset)  
 - **#1 Classic Rank:** Highest *classic score* in Colorado.  
 - **Engagement:** Top **5%** of Colorado trad for popularity & quality.  
@@ -119,35 +117,35 @@
 | Grade                | 5.11b YDS |
 | Location             | Redgarden - Tower Two |
 | Stars (avg)          | 3.9       |
-| Votes                | 523.0     |
-| Unique Climbers      | 743.0     |
-| Lifetime Ticks       | 3024.0    |
-| Avg Ticks / Climber  | 4.07      |
+| Votes                | 537.0     |
+| Unique Climbers      | 785.0     |
+| Lifetime Ticks       | 3265.0    |
+| Avg Ticks / Climber  | 4.16      |
 <!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
 ### Seasonality
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 9.2% **low season**
-- 🌸 **Spring (Mar–May)**: 23.5%
-- ☀️ **Summer (Jun–Aug)**: 29.6%
-- 🍂 **Fall (Sep–Nov)**: 37.8% **high season**
+- ❄️ **Winter (Dec–Feb)**: 10.5% **low season**
+- 🌸 **Spring (Mar–May)**: 24.8%
+- ☀️ **Summer (Jun–Aug)**: 29.8%
+- 🍂 **Fall (Sep–Nov)**: 35.0% **high season**
 
 ### Seasonality Usage by Month
 ```
-Jan | █                              2.9%
-Feb | █                              2.5%
-Mar | █                              5.2%
-Apr | ██                             8.0%
-May | ███                           10.2%
-Jun | ███                           11.0%
+Jan | █                              3.5%
+Feb | █                              3.4%
+Mar | ██                             5.4%
+Apr | ██                             8.7%
+May | ███                           10.7%
+Jun | ███                           10.8%
 Jul | ██                             8.5%
-Aug | ███                           10.1%
-Sep | ████                          15.2%
-Oct | ████                          14.8%
-Nov | ██                             7.8%
-Dec | █                              3.8%
+Aug | ███                           10.5%
+Sep | ████                          14.1%
+Oct | ████                          13.7%
+Nov | ██                             7.2%
+Dec | █                              3.5%
 ```
 <!-- AUTO:SEASONALITY:END -->
 
@@ -156,14 +154,29 @@ Dec | █                              3.8%
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | Stefan Griebel | 392 |
-| 2 | Jack Neus | 192 |
-| 3 | John Alcorn | 127 |
+| 1 | Stefan Griebel | 414 |
+| 2 | Jack Neus | 208 |
+| 3 | John Alcorn | 147 |
 | 4 | WadeM | 127 |
-| 5 | ChossCrimper TopRopePrincess | 114 |
-| 6 | Choss Pirate | 99 |
-| 7 | Eddie Taylor | 97 |
-| 8 | Kate pinktapegloves | 77 |
-| 9 | Quinn Davie | 63 |
-| 10 | Max Manson | 51 |
+| 5 | choss pirate | 120 |
+| 6 | ChossCrimper TopRopePrincess | 119 |
+| 7 | Eddie Taylor | 107 |
+| 8 | Kate pinktapegloves | 87 |
+| 9 | Quinn Davie | 71 |
+| 10 | Max Manson | 58 |
+| 11 | Becca Droz | 53 |
+| 12 | Yiran Li | 38 |
+| 13 | Pierce J | 29 |
+| 14 | Sputnick | 29 |
+| 15 | Kishen Mangat | 23 |
+| 16 | AdamShep | 21 |
+| 17 | Danny Gilbert | 21 |
+| 18 | JagerMeister | 17 |
+| 19 | Guy H. | 15 |
+| 20 | Max Rumer | 14 |
+| 21 | Armand La Douceur | 11 |
+| 22 | Bill Wright | 11 |
+| 23 | Jeffrey Mascaro | 11 |
+| 24 | Mark Hammond | 11 |
+| 25 | max seigal | 10 |
 <!-- AUTO:TOP_CLIMBERS:END -->
