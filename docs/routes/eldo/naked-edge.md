@@ -96,8 +96,8 @@
 - **Traffic:** 9th most climbed route in the Canyon; only 5.11 in top 10.  
 - **Consensus:** Stable 5.11b; widely considered sandbagged (hard for grade).  
 - **Leaderboards:**  
-  - **Stefan Griebel:** ~**400** public ticks (#1).  
-  - Note: Some climbers such as Kishen Mangat (120+) don’t log ticks.  
+  - **Stefan Griebel:** **400+** public ticks (#1).  
+  - Note: Some climbers such as Kishen Mangat (120+) don’t log all their ticks.  
 
 ## References  
 - [Leaderboards.md (live stats)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)  
@@ -113,7 +113,7 @@
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
+| Classic Rank         |    1      |
 | Grade                | 5.11b YDS |
 | Location             | Redgarden - Tower Two |
 | Stars (avg)          | 3.9       |
