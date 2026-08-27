@@ -53,9 +53,9 @@ Any narrative insights you want to keep hand-written.
 
 ### FKT History: Long's Triathlon
 
-| Time    | Date       | Climbers                          | Notes              | Verification       |
+| Time    | Date       | Climbers                          | Notes              | Verification       |Verification 2      |
 |---------|------------|-----------------------------------|--------------------|--------------------|
-
+| 09:50:03  | 2022-10-26 | Stefan Griebel & Anton Krupicka         | Current FKT  |[GPS Verification](https://www.strava.com/activities/19973950) |  [GPS Verification 2](https://www.strava.com/activities/678646953)   |
 
 <!-- AUTO:METRICS:START -->
 ### Metrics
