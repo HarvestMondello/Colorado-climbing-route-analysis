@@ -18,8 +18,7 @@ Any narrative insights you want to keep hand-written.
 
 ### Current Record: Third Flatiron (self supported, no rappel)
 - **36:23 Ranger Cottage trash casn to Ranger Cottage Trash can  (the can by the big sign)** | 2012-11-06 | Stefan Griebel    
-- [GPS Verification](https://www.strava.com/segments/16355234)  
-
+- [GPS Verification](https://www.strava.com/activities/27138366/overview)
 
 <!-- AUTO:METRICS:START -->
 ### Metrics
