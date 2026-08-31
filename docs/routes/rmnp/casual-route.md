@@ -120,14 +120,16 @@
 ## Nearby FKTs:
 
 ### FKT History: Long's Peak: Cables Route
-| Time    | Date       | Climbers                          | Notes              | Verification       |
+| Time    | Date       | Climbers                          | Notes              | Verification       |     |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 01:55:40  | 2020-08-28 | Kyle Richardson         | Current FKT  |[GPS Verification](https://www.strava.com/activities/3978440370/) |   |
 | 01:56:48  | 2012-08-88 | Andy Anderson         | | |   |
 | 02:04:27  | 1978-08-15 | Chris Reveley         |   | |   |
 
 
 ### FKT History: Long's Peak: Kiener's Route
-| Time    | Date       | Climbers                          | Notes              | Verification       |
+| Time    | Date       | Climbers                          | Notes              | Verification       |    |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 02:19:37  | 2024-08-07 | Anton Krupicka (solo)      | Current FKT  |[GPS Verification](https://www.strava.com/activities/12088698671) |  |
 
 
