@@ -6,25 +6,39 @@
 
 # Route Profile: Casual Route
 
-(photo banner, area/grade/FA info, etc.)
+## Overview  
+- **Area:** Long's Peak, RMNP (Rocky Mount National Park), Colorado  
+- **Formation:** The Diamond
+- **Grade:** 5.10a (7 pitches) / IV
+- **Length:** ~800'  
+- **Style:** Trad, multipitch  
+- **First Ascent:** Duncan Ferguson, Chris Reveley, 1977
 
-Summary
+## Summary  
+*The Casual Route* is the easiest free climb up the Diamond on Long's Peaj and one of the most iconic multipitch climbs in North America. With striking exposure, moderate difficulty, and historic significance, it remains a must-do for generations of climbers. In this analysis, the route stands out as both a **cultural landmark** and a **high-traffic classic**.  
 
-Your prose: history, cultural importance, climbing experience.
+## Route Characteristics  
+- delicate traverses, confidence inspiring finger cracks, a squeeze chimney and a bulge crux.
+- Diverse climbing: fingerlocks, stemming, technical face sequences, and crack climbing.  
+- Known for **serious exposure**, to the elements and storms.  
+- Protection is very good, G.
 
-Route Characteristics
+### Approach & Descent 
+- The most common approach is the West Chimney, known for rockfall.
+- Common descents are the D7 rapels or topping out via Kiener's and then descending via the Cables Route or the Keyhole. All FKT's top out via Kiener's and descend the Cables Route.
 
-Bullets, anecdotes, formation details.
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Primary climbed in alpine summer: Late July, August and early September. Winter ascents are rare.
+- **Sun Exposure:** Northeast facing. Morning sun and shade the rest of the day.
 
-Analysis
-
-Any narrative insights you want to keep hand-written.
+## Historical Context  
+- **A Brief Diamond History:** [Alpinist Article by Roger Briggs, March 1, 2007](https://alpinist.com/profile/the-diamond/)
 
 ## Fastest Known Time (FKT): Casual Route
-- **Rules:** Trailhead-to-Trailhead (Long's Ranger Cottage), roped semul-climb or solo.  
+- **Rules:** Trailhead-to-Trailhead (Long's Ranger Cottage), roped simul-climb or solo (current fkts).  
   - All known FKTs involve:  
-    - Soloing approach (YDS 5.8)  
-    - Simul climbing with Micro Traxion or similar device or solo
+    - Soloing approach (YDS ~5.4)  
+    - Simul climbing with Micro Traxion or similar device or free solo
     - Top out on Long's summit
     - back to the trailhead via foot power
 
