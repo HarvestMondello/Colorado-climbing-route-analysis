@@ -47,7 +47,6 @@
 - [GPS Verification](https://www.strava.com/activities/12306779867)  
 
 ### FKT History: Casual Route
-
 | Time    | Date       | Climbers                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | 03:09:50  | 2024-09-02 | John Alcorn (solo)         | Current FKT  | [GPS Verification](https://www.strava.com/activities/12306779867)|  
@@ -75,20 +74,6 @@
 | Time    | Date       | Climbers                          | Notes              | Verification       |Verification 2      |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 09:50:03  | 2022-10-26 | Stefan Griebel & Anton Krupicka         | Current FKT  |[GPS Verification](https://www.strava.com/activities/19973950) |  [GPS Verification 2](https://www.strava.com/activities/678646953)   |
-
-(photo banner, area/grade/FA info, etc.)
-
-Summary
-
-Your prose: history, cultural importance, climbing experience.
-
-Route Characteristics
-
-Bullets, anecdotes, formation details.
-
-Analysis
-
-Any narrative insights you want to keep hand-written.
 
 ## Fastest Known Time (FKT): Casual Route
 - **Rules:** Trailhead-to-Trailhead (Long's Ranger Cottage), roped semul-climb or solo.  
@@ -130,6 +115,20 @@ Any narrative insights you want to keep hand-written.
 | Time    | Date       | Climbers                          | Notes              | Verification       |Verification 2      |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 09:50:03  | 2022-10-26 | Stefan Griebel & Anton Krupicka         | Current FKT  |[GPS Verification](https://www.strava.com/activities/19973950) |  [GPS Verification 2](https://www.strava.com/activities/678646953)   |
+
+
+## Nearby FKTs:
+
+### FKT History: Long's Peak: Cables Route
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+| 01:55:40  | 2020-08-28 | Kyle Richardson         | Current FKT  |[GPS Verification](https://www.strava.com/activities/3978440370/) |   |
+| 01:56:48  | 2012-08-88 | Andy Anderson         | | |   |
+| 02:04:27  | 1978-08-15 | Chris Reveley         |   | |   |
+
+
+### FKT History: Long's Peak: Kiener's Route
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+| 02:19:37  | 2024-08-07 | Anton Krupicka (solo)      | Current FKT  |[GPS Verification](https://www.strava.com/activities/12088698671) |  |
 
 
 <!-- AUTO:METRICS:START -->
