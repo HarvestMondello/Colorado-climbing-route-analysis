@@ -3,37 +3,32 @@
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/route-name.png" alt="South Face on Petit Grepon in RMNP" width="1200"/>
 
 ## Overview  
-- **Area:** <<<>>>>>>, Colorado  
-- **Formation:** <<<>>>>>>: <<<>>>>>>  
-- **Grade:** 5.<<<>>>>>> (<<<>>>>>> pitches)  
-- **Length:** <<<>>>>>>'  
+- **Area:** Sky Pond,, RMNP, Colorado  
+- **Formation:** Petit Grepon
+- **Grade:** 5.7 (8 pitches)  / III
+- **Length:** ~700'  
 - **Style:** Trad, multipitch  
-- **First Ascent:** <<<>>>>>>, 19<<<>>> 
-- **First Free Ascent:**  <<<>>>>>>, 19<<<>>> 
+- **First Ascent:**  William Buckingham and Art Davidson, 1961 
 
 ## Summary  
 *South Face* on the Petit Grepon
 
 ## Route Characteristics  
-- <<<>>>>>>
-- <<<>>>>>>
-- <<<>>>>>>
+- Lower pitches are chossy. Upper pitches are emaculate moderate face climbing. These stellar final pitches are shared with the higher quality, more difficult and less crowded Southwest Corner Route (5.9 III).
 
 ### Approach & Descent 
-- <>
-- <>
+- Double rope rapels or
+- A North walk off (involved and not described here)
 
 ### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Climbed year-round; peak <<<>>>>>> season; low <<<>>>>>> traffic.  
-- **Sun Exposure:** <<<>>>>>>
+- **Seasonality:** June-September. The south face opens up early in alpine season and is climbed until snow fall begins.
+- **Sun Exposure:** South facing.
 
 ## Historical Context  
-- **19<>>>:** <<<>>>>>>
-- **19<>>:** <<<>>>>>>  
-- **19<>>:** <<<>>>>>>
+n/a
 
 ## Fastest Known Time (FKT)  
-- n/a
+- n/a: SG or TK may have gone sub 3. Research in progress.
 
 ## Analysis Highlights (Dataset)  
 - **Classic Rank:** 
@@ -42,7 +37,7 @@
 - **Traffic:**  
 - **Consensus:** .  
 - **Leaderboards:**  
-  - **Leader:** <>> 
+  - **Leader:**  
  
 
 ## References  
