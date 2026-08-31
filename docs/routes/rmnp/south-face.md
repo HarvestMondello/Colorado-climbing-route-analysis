@@ -1,6 +1,6 @@
 # Route Profile: *South Face* of Petite Grepon
 
-<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/route-name.png" alt="South Face on Petit Grepon in RMNP" width="1200"/>
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/petite-grepon.png" alt="South Face on Petit Grepon in RMNP" width="1200"/>
 
 ## Overview  
 - **Area:** Sky Pond,, RMNP, Colorado  
