@@ -2,6 +2,7 @@
 
 # Route Profile: Casual Route
 
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/casual-route.png" alt="Casual Route on the Diamond of Long's Peak" width="1200"/>
 
 # Route Profile: Casual Route
 
