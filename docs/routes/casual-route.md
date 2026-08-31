@@ -32,7 +32,7 @@
 - **Sun Exposure:** Northeast facing. Morning sun and shade the rest of the day.
 
 ## Historical Context  
-- **A Brief Diamond History:** [Alpinist Article by Roger Briggs, March 1, 2007](https://alpinist.com/profile/the-diamond/)
+- **A Brief History of Climbing the Diamond:** [Alpinist Article by Roger Briggs, March 1, 2007](https://alpinist.com/profile/the-diamond/)
 
 ## Fastest Known Time (FKT): Casual Route
 - **Rules:** Trailhead-to-Trailhead (Long's Ranger Cottage), roped simul-climb or solo (current fkts).  
