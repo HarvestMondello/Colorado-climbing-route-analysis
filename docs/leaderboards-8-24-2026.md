@@ -634,7 +634,7 @@ Dec | ███                          9.8%
 
 ## Casual Route
 **Area:** All Locations > Colorado > Alpine Rock > RMNP - Rock > Long's Peak > Diamond
-[Open route profile](./routes/casual-route.md)
+[Open route profile](./routes/rmnp/casual-route.md)
 
 ### Summary
 | Metric | Value |
@@ -1138,7 +1138,7 @@ Dec | ██                           9.0%
 
 ## South Face
 **Area:** All Locations > Colorado > Alpine Rock > RMNP - Rock > Petit Grepon
-[Open route profile](./routes/south-face.md)
+[Open route profile](./routes/rmnp/south-face.md)
 
 ### Summary
 | Metric | Value |
