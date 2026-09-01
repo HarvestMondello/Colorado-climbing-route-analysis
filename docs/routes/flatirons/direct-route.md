@@ -24,11 +24,11 @@ Other related FKTs:
 
 **Flatirons Trifecta**: East faces of First, Second and Third Flatiron (self supported, no rap, round trip)
 - **01:02:25** Chautaqua Ranger Cottage (trash can by the big TH sign)
-- | 2021-10-25 | ** Michael Reese ** 
+- | 2021-10-25 | **Michael Reese** 
 - [GPS Verification](https://www.strava.com/activities/6166869935 )
 
 **Flatirons Qunifecta**: East faces of First, Second, Third, Fourth and Fifth Flatiron (self supported, no rap, round trip)
-- **01:42:08** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2021-09-01 | Kyle Richardson    
+- **01:42:08** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2021-09-01 | **Kyle Richardson**  
 - [GPS Verification](https://www.strava.com/activities/5887894393/overview)
 
 
