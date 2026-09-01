@@ -17,9 +17,9 @@ Analysis
 
 Any narrative insights you want to keep hand-written.
 
-### Current Record: Second Flatiron (summit route) (self supported, no rappel)
+### Current Record: Second Flatiron (summit route) (self supported, no rappel, round trip)
 - **36:23** Chautaqua Ranger Cottage round trip (trash can by the big TH sign)
--  | 20124-07-05 | Soren Kodak   
+-  | 2024-07-05 | **Soren Kodak**   
 - [GPS Verification](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/sk-2nd%20-flatiron-fkt.gpx)  
 
 <!-- AUTO:METRICS:START -->
