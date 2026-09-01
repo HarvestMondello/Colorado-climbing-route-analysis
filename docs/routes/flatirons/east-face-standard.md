@@ -5,25 +5,26 @@
 - **Area:** Flatirons, Colorado  
 - **Formation:** Third Flatiron  
 - **Grade:** 5.4 (8 pitches climb & 4 pitches downclimb)  
-- **Length:** n/a'  
+- **Length:** ~800'  
 - **Style:** Trad, multipitch  
 - **First Ascent:** Floyd and Earl Millard, 1906
 
 ## Summary  
-*East Face (Standard) on the Third Flatiron* is a classic. It's status of being closed half the year for falcon nesting makes it even more sought after of a climb. The route stands out as both a **cultural landmark** and a **high-traffic classic**.  
+*East Face (Standard) on the Third Flatiron* is a mega classic. It's status of being closed half the year for falcon nesting makes it even more sought after of a climb. The route stands out as both a **cultural landmark** and a **high-traffic classic**.  
 
 ## Route Characteristics  
 - The imposing East Face is visible from all over the Boulder area.  
-- Easy to moderate technical climbing with a thin finish. 
+- Easy technical climbing with a thin finish. 
 - Known for **serious exposure**, especially on upper pitch.  
-- Protection is generally good, with some PG-13 runouts;some bolts.
+- Protection is generally good, with some PG-13 runouts; some bolts.
  
 ### Approach & Descent 
 - The approach is a steep hike starting by the trash can near a sign next to the Chautaqua Ranger Station.
 - The Southeast Chimney descent (4th class) is standard walk-off but any of several summit routes can be downclimbed. There is also a rapel option. This rappel option is consider supported for FKTs. 
 
 ### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Closed for raptur nesting February 1 to ~ August 1st. Summer temps make this primarily late summer and fall climb. Winter ascents can be icy and are rare.
+- **Seasonality:** Closed for raptur nesting February 1 to ~ July 30st. Closures makes this primarily a late summer and fall climb. Winter ascents can be icy or dry
+- .
 - **Sun Exposure:** East-facing. Morning sun, afternoon shade.  
 
 ## Historical Context  
@@ -59,7 +60,7 @@
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 11.5%
-- 🌸 **Spring (Mar–May)**: 1.9% **off season**
+- 🌸 **Spring (Mar–May)**: 1.9% **closures**
 - ☀️ **Summer (Jun–Aug)**: 33.9%
 - 🍂 **Fall (Sep–Nov)**: 52.7% **high season**
 
