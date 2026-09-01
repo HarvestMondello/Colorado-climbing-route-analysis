@@ -4,19 +4,19 @@
 ## Overview  
 - **Area:** Flatirons, Colorado  
 - **Formation:** Third Flatiron  
-- **Grade:** 5.4 (8 pitches climb, 4 pitches downclimb SE Chimney)  
+- **Grade:** 5.4 (8 pitches climb & 4 pitches downclimb)  
 - **Length:** n/a'  
 - **Style:** Trad, multipitch  
-- **First Ascent:** 	Floyd and Earl Millard, 1906
+- **First Ascent:** Floyd and Earl Millard, 1906
 
 ## Summary  
 *East Face (Standard) on the Third Flatiron* is a classic. It's status of being closed half the year for falcon nesting makes it even more sought after of a climb. The route stands out as both a **cultural landmark** and a **high-traffic classic**.  
 
 ## Route Characteristics  
-- Striking arete and dihedral route visible across Eldorado Canyon.  
-- Sustained climbing with multiple cruxes: fingerlocks, stemming, technical face sequences, and crack climbing.  
-- Known for **serious exposure**, especially on upper pitches.  
-- Protection is generally good, with some PG-13 runouts; bold reputation remains.
+- The imposing East Face is visible from all over the Boulder area.  
+- Easy to moderate technical climbing with a thin finish. 
+- Known for **serious exposure**, especially on upper pitch.  
+- Protection is generally good, with some PG-13 runouts;some bolts.
  
 ### Approach & Descent 
 - The approach is a steep hike starting by the trash can near a sign next to the Chautaqua Ranger Station.
