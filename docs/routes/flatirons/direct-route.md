@@ -17,17 +17,18 @@ Analysis
 Any narrative insights you want to keep hand-written.
 
 ### Current Record: First Flatiron - DEF (Direct East Face) aka Direct Route (self supported, no rappel)
-- **36:23 Ranger Cottage trash can to Ranger Cottage trash can  (the can by the big sign)** | 2019-10-15 | Kyle Richardson    
+- **36:23** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2019-10-15 | **Kyle Richardson**    
 - [GPS Verification](https://www.strava.com/activities/2792210665/overview)  
 
 Other related FKTs:
 
 Trifecta: East faces of First, Second and Third Flatiron
-- **01:02:25 hour:min:sec Ranger Cottage trash can to Ranger Cottage trash can  (the can by the big sign)** | 2021-10-25 | Michael Reese  
+- **01:02:25** Chautaqua Ranger Cottage (trash can by the big TH sign)
+- | 2021-10-25 | Michael Reese  
 - [GPS Verification](https://www.strava.com/activities/6166869935 )
 
 Qunifecta: East faces of First, Second, Third, Fourth and Fifth Flatiron
-- **01:42:08 hour:min:sec Ranger Cottage trash can to Ranger Cottage trash can  (the can by the big sign)** | 2021-09-01 | Kyle Richardson    
+- **01:42:08** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2021-09-01 | Kyle Richardson    
 - [GPS Verification](https://www.strava.com/activities/5887894393/overview)
 
 
