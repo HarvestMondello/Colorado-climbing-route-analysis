@@ -16,18 +16,18 @@ Analysis
 
 Any narrative insights you want to keep hand-written.
 
-### Current Record: First Flatiron - DEF (Direct East Face) aka Direct Route (self supported, no rappel)
+### Current Record: First Flatiron - DEF (Direct East Face) aka Direct Route (self supported, no rappel, round trip)
 - **36:23** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2019-10-15 | **Kyle Richardson**    
 - [GPS Verification](https://www.strava.com/activities/2792210665/overview)  
 
 Other related FKTs:
 
-Trifecta: East faces of First, Second and Third Flatiron
+**Flatirons Trifecta**: East faces of First, Second and Third Flatiron (self supported, no rap, round trip)
 - **01:02:25** Chautaqua Ranger Cottage (trash can by the big TH sign)
-- | 2021-10-25 | Michael Reese  
+- | 2021-10-25 | ** Michael Reese ** 
 - [GPS Verification](https://www.strava.com/activities/6166869935 )
 
-Qunifecta: East faces of First, Second, Third, Fourth and Fifth Flatiron
+**Flatirons Qunifecta**: East faces of First, Second, Third, Fourth and Fifth Flatiron (self supported, no rap, round trip)
 - **01:42:08** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2021-09-01 | Kyle Richardson    
 - [GPS Verification](https://www.strava.com/activities/5887894393/overview)
 
