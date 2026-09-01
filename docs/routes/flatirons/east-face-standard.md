@@ -17,8 +17,17 @@ Analysis
 Any narrative insights you want to keep hand-written.
 
 ### Current Record: Third Flatiron (self supported, no rappel)
-- **36:23 Ranger Cottage trash casn to Ranger Cottage Trash can  (the can by the big sign)** | 2012-11-06 | Stefan Griebel    
-- [GPS Verification](https://www.strava.com/activities/27138366/overview)
+
+- **36:14** Ranger Cottage trash casn to Ranger Cottage Trash can  (the can by the big sign) | 2008-10-xx | **Stefan Griebel** no gps.    
+- The runner up time is also Stefan in 2012 with gps: **36:26 | 2012-11-06 | Stefan Griebel | [GPS Verification](https://www.strava.com/activities/27138366/) which is also the 2nd fast known time after his 2010 time.
+
+
+
+### FKT History (self supported, no rappel)
+| Time    | Date       | Climbers                          | Notes              | Verification       |    |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+| 36:14   | 2008-10-xx | Stefan Griebel      | Current FKT        |
+| 36:27   | 1989-xx-xx | Bill Briggs     | Prior FKT        |
 
 <!-- AUTO:METRICS:START -->
 ### Metrics
