@@ -1,20 +1,33 @@
 
 
 # Route Profile: Third Flatiron: East Face (Standard)
+## Overview  
+- **Area:** Flatirons, Colorado  
+- **Formation:** Third Flatiron  
+- **Grade:** 5.4 (8 pitches climb, 4 pitches downclimb SE Chimney)  
+- **Length:** n/a'  
+- **Style:** Trad, multipitch  
+- **First Ascent:** 	Floyd and Earl Millard, 1906
 
-(photo banner, area/grade/FA info, etc.)
+## Summary  
+*East Face (Standard) on the Third Flatiron* is a classic. It's status of being closed half the year for falcon nesting makes it even more sought after of a climb. The route stands out as both a **cultural landmark** and a **high-traffic classic**.  
 
-Summary
+## Route Characteristics  
+- Striking arete and dihedral route visible across Eldorado Canyon.  
+- Sustained climbing with multiple cruxes: fingerlocks, stemming, technical face sequences, and crack climbing.  
+- Known for **serious exposure**, especially on upper pitches.  
+- Protection is generally good, with some PG-13 runouts; bold reputation remains.
+ 
+### Approach & Descent 
+- The approach is a steep hike starting by the trash can near a sign next to the Chautaqua Ranger Station.
+- The Southeast Chimney descent (4th class) is standard walk-off but any of several summit routes can be downclimbed. There is also a rapel option. This rappel option is consider supported for FKTs. 
 
-Your prose: history, cultural importance, climbing experience.
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Closed for raptur nesting February 1 to ~ August 1st. Summer temps make this primarily late summer and fall climb. Winter ascents can be icy and are rare.
+- **Sun Exposure:** East-facing. Morning sun, afternoon shade.  
 
-Route Characteristics
-
-Bullets, anecdotes, formation details.
-
-Analysis
-
-Any narrative insights you want to keep hand-written.
+## Historical Context  
+- **n/a** (A lot of history - to be filled in later)
 
 ### Current Record: Third Flatiron (self supported, no rappel)
 
