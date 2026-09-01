@@ -31,7 +31,7 @@
 
 ### Current Record: Third Flatiron (self supported, no rappel)
 
-- **36:14** Ranger Cottage trash casn to Ranger Cottage Trash can  (the can by the big sign) | 2008-10-xx | **Stefan Griebel**.    
+- **36:14** Chautaqua Ranger Cottage (the trash can by the big trail sign) | 2008-10-xx | **Stefan Griebel**.    
 
 ### FKT History (self supported, no rappel)
 | Time    | Date       | Climbers                          | Notes              | Verification       |    |
