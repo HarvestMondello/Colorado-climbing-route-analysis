@@ -22,7 +22,7 @@ Colorado has a tradition of going fast on routes, round trip; trailhead to trail
 |[The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/naked-edge.md)    | 22:44   | 2022-10-22 | Stefan Griebel, Joe Kennedy       |  Redgarden: Tower Two |  |
 [The Yellow Spur](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/yellow-spur.md)    | 28:04   | 2026-07-23 | Michael Reese, Jack Gugel       |  Redgarden: Tower One | 
 
-researching: Bastille Crack, Handcracker Direct, Blind Faith, Wind Ridge, Gambit
+researching: Rewtitten, Bastille Crack, Handcracker Direct, Blind Faith, Long John Wall, Wind Ridge, Gambit or other routes on these formations (Green Spur Buttress, The Bastille, West Ridge,  Wind Tower, Shirt Tail Peak ect)
 
    
 
