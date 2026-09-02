@@ -26,7 +26,6 @@
 
 ### Seasonal Profile & Sun Aspect  
 - **Seasonality:** Year Round access with lower traffic in the winter.
-- .
 - **Sun Exposure:** East-facing. Morning sun, afternoon shade.  
 
 ## Historical Context  
