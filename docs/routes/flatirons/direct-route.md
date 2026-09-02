@@ -2,7 +2,8 @@
 
 # Route Profile: First Flatiron: DEF (Direct East Face) aka Direct Route
 
-(photo banner, area/grade/FA info, etc.)
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/1-2-3.png" alt="First, Second and Third Flatiron" width="1200"/>
+
 
 Summary
 
