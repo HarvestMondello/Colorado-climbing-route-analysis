@@ -91,9 +91,10 @@ Colorado hosts some of North America’s most storied stone, from Eldorado Canyo
 - K-Means clustering to label routes (four seasinal profiles were found: “All-Season”, “Summer-Peak”, “Shoulder-Season (Spring/Fall)” and " Nesting Closure Seasonal").  
 - Seasonal Concentration Score + dominant season.  
 
-### 4) Historical Context (FA/FFA)
+### 4) Historical Context (FA/FFA/FKT)
 - FA/FFA decades by route and region; boldness timelines.  
-- Links between milestone ascents and later popularity waves.  
+- Links between milestone ascents and later popularity waves.
+- Fastest Known Times: [`/docs/leaderboards.md`](docs/fkt.md) - updated September, 2026
 
 ### 5) Demand Forecasts (2025-2029)
 - Linear + exponential models; pick by best fit (R² tracked).  
