@@ -4,18 +4,33 @@
 
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/1-2-3.png" alt="First, Second and Third Flatiron" width="1200"/>
 
+## Overview  
+- **Area:** Flatirons, Colorado  
+- **Formation:** fIRST Flatiron  
+- **Grade:** 5.6 (10 pitches climb & 1 pitch downclimb)  
+- **Length:** ~1,000'  
+- **Style:** Trad, multipitch  
+- **First Ascent:** Pat Ament and Larry Dalke, 1960
 
-Summary
+## Summary  
+*DEF on the First Flatiron* is a mega classic. This is the most prestigious of the Flatirons. **cultural landmark** and a **high-traffic classic**.  
 
-Your prose: history, cultural importance, climbing experience.
+## Route Characteristics  
+- The imposing East Face is visible from all over the Boulder area.  
+- Easy technical climbing with variety. 
+- Protection is generally good, with some PG-13 runouts; some bolts.
+ 
+### Approach & Descent 
+- The approach is a steep hike starting by the trash can near a sign next to the Chautaqua Ranger Station.
+- The SW Face (4th class) is standard walk-off. There is also a rapel option. This rappel option is consider supported for FKTs. 
 
-Route Characteristics
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Year Round access with lower traffic in the winter.
+- .
+- **Sun Exposure:** East-facing. Morning sun, afternoon shade.  
 
-Bullets, anecdotes, formation details.
-
-Analysis
-
-Any narrative insights you want to keep hand-written.
+## Historical Context  
+- **n/a** (A lot of history - to be filled in later)
 
 ### Current Record: First Flatiron - DEF (Direct East Face) aka Direct Route (self supported, no rappel, round trip)
 - **36:23** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2019-10-15 | **Kyle Richardson**    
