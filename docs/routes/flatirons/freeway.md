@@ -7,7 +7,7 @@
 ## Overview  
 - **Area:** Flatirons, Colorado  
 - **Formation:** Second Flatiron  
-- **Grade:** 5.0 (6 pitches climb)  
+- **Grade:** 5.0 (6 pitches)  
 - **Length:** ~600'  
 - **Style:** Trad, multipitch  
 - **First Ascent:** n/a
