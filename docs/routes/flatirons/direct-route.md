@@ -6,7 +6,7 @@
 
 ## Overview  
 - **Area:** Flatirons, Colorado  
-- **Formation:** fIRST Flatiron  
+- **Formation:** First Flatiron  
 - **Grade:** 5.6 (10 pitches climb & 1 pitch downclimb)  
 - **Length:** ~1,000'  
 - **Style:** Trad, multipitch  
