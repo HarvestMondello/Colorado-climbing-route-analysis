@@ -87,8 +87,16 @@
 | 27:03   | 2023-09-18 | Joe Kennedy, John Alcorn                                  |                    | [GPS Verification](https://www.strava.com/activities/9876877583)                   |                    |
 | 28:03   | 2026-08-13 |   John Alcorn, Forrest Freeman                                |                     | [GPS Verification](https://www.strava.com/activities/19726671767#3523004514159732852) 
 | 28:35   | 2024-09-13 |   Jack Neus, Lynn Anderson                                |    First women under 30 min                 | [GPS Verification](https://www.strava.com/activities/12403561283) | [GPS Verification](https://www.strava.com/activities/12403791278)
-|29:29   |  2026-08-17 |    John Alcorn, Michael Reese                               |                      |  [GPS Verification](https://www.strava.com/activities/19787664615)                   |                    |
+|29:29   |  2026-08-17 |    John Alcorn, Michael Reese                               |                      |  [GPS Verification](https://www.strava.com/activities/19787664615)    
 
+
+### Some other interesting Naked Edge laps:
+
+| Time    | Date       | Climbers                          | Notes              | Verification       | Verification 2     |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+| 54:29   | 2024-11-01 | Stefan Griebel, Jack Neus       | Double Naked Edge        | [GPS Verification](https://www.strava.com/activities/12799156686)|    [GPS Verification](https://www.strava.com/activities/12799275089)              |
+| 2:51:41   | 2026-01-14 | Stefan Griebel, Jack Neus        | Quad Naked Edge        | [GPS Verification](https://www.strava.com/activities/17051369134)|    [GPS Verification](https://www.strava.com/activities/17051658142)  
+  
 ## Analysis Highlights (Dataset)  
 - **#1 Classic Rank:** Highest *classic score* in Colorado.  
 - **Engagement:** Top **5%** of Colorado trad for popularity & quality.  
@@ -113,7 +121,7 @@
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |    1      |
+| Classic Rank         |           |
 | Grade                | 5.11b YDS |
 | Location             | Redgarden - Tower Two |
 | Stars (avg)          | 3.9       |
