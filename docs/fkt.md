@@ -1,7 +1,3 @@
-# Route Profile: *Route Name*
-
-<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/route-name.png" alt="The Route Name in Crag" width="1200"/>
-
 # Fastest Known Time (FKT) in Colorado 
 Colorado has a tradition of going fast on routes, round trip; trailhead to trailhead. Areas such as Eldo and Chautaqua have specific starting points near the trailhead. This is unlike Yosemite where the fkt is for just the route. Complex descents involving running and climbing add to the complexity of a FKT.
 
