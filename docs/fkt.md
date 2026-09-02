@@ -30,7 +30,7 @@ Routes are bridge to bridge.
 |[The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/naked-edge.md)    | 22:44   | 2022-10-22 | Stefan Griebel, Joe Kennedy       |  Redgarden: Tower Two |  |
 [The Yellow Spur](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/yellow-spur.md)    | 28:04   | 2026-07-23 | Michael Reese, Jack Gugel       |  Redgarden: Tower One | 
 
-researching: Rewtitten, Bastille Crack, Handcracker Direct, Blind Faith, Long John Wall, Wind Ridge, Gambit or other routes on these formations (Green Spur Buttress, The Bastille, West Ridge,  Wind Tower, Shirt Tail Peak ect)
+researching: Rewritten, Bastille Crack, Handcracker Direct, Blind Faith, Long John Wall, Wind Ridge, Gambit, Swanson's Arete, or other routes on these formations (Green Spur Buttress, The Bastille, West Ridge, Wind Tower, Shirt Tail Peak, Lumpe Tower ect)
 
    
 
