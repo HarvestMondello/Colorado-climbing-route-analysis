@@ -7,7 +7,7 @@
 - **Area:** Flatirons, Colorado  
 - **Formation:** Third Flatiron  
 - **Grade:** 5.4 (8 pitches climb & 4 pitches downclimb)  
-- **Length:** ~800'  
+- **Length:** ~800' up and ~400' down
 - **Style:** Trad, multipitch  
 - **First Ascent:** Floyd and Earl Millard, 1906
 
