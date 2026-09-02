@@ -1,6 +1,8 @@
 
 
 # Route Profile: Third Flatiron: East Face (Standard)
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/1-2-3.png" alt="First, Second and Third Flatiron" width="1200"/>
+
 ## Overview  
 - **Area:** Flatirons, Colorado  
 - **Formation:** Third Flatiron  
