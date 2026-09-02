@@ -4,17 +4,34 @@
 
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/1-2-3.png" alt="First, Second and Third Flatiron" width="1200"/>
 
-Summary
+## Overview  
+- **Area:** Flatirons, Colorado  
+- **Formation:** Second Flatiron  
+- **Grade:** 5.0 (6 pitches climb)  
+- **Length:** ~600'  
+- **Style:** Trad, multipitch  
+- **First Ascent:** n/a
 
-Your prose: history, cultural importance, climbing experience.
+## Summary  
+*Freeway on the Second Flatiron* is a classic. This is the most repeated route in Colorado. A **high-traffic classic**. This has a reputation is being easy and therefore has a lot of accidents.   
 
-Route Characteristics
+## Route Characteristics  
+- The East Face is tucked away in the trees giving it good winter and storm protection. 
+- Easy technical climbing. 
+- Protection is generally good, with some PG-13 runouts.
+ 
+### Approach & Descent 
+- The approach is a steep hike starting by the trash can near a sign next to the Chautaqua Ranger Station.
+- Freeway isn't a summit route and doesn't have a walk off. There are several summit routes to the top.
 
-Bullets, anecdotes, formation details.
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Year Round access with lower traffic in the winter.
+- .
+- **Sun Exposure:** East-facing. Morning sun, afternoon shade.  
 
-Analysis
+## Historical Context  
+- **n/a** (A lot of history - to be filled in later)
 
-Any narrative insights you want to keep hand-written.
 
 ### Current Record: Second Flatiron (summit route) (self supported, no rappel, round trip)
 - **36:23** Chautaqua Ranger Cottage round trip (trash can by the big TH sign)
