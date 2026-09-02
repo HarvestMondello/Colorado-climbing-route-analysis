@@ -3,7 +3,7 @@
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/petite-grepon.png" alt="South Face on Petit Grepon in RMNP" width="1200"/>
 
 ## Overview  
-- **Area:** Sky Pond,, RMNP, Colorado  
+- **Area:** Cathedral Spires,, RMNP, Colorado  
 - **Formation:** Petit Grepon
 - **Grade:** 5.7 (8 pitches)  / III
 - **Length:** ~700'  
