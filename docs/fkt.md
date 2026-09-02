@@ -1,5 +1,5 @@
 # Fastest Known Time (FKT) in Colorado 
-Colorado has a tradition of going fast on routes, round trip; trailhead to trailhead. Areas such as Eldo and Chautaqua have specific starting points near the trailhead. This is unlike Yosemite where the fkt is for just the route. Complex descents involving running and climbing add to the complexity of a FKT.
+Colorado has a tradition of going fast and light on routes, round trip; trailhead to trailhead. Areas such as Eldo and Chautaqua have specific starting points near the trailhead (bridge). Complex descents involving running and climbing add to the complexity of a FKT. This is unlike Yosemite where the fkt is for just the route. 
 
 **FKT styles:** All FKTs on this website are un-supported, trailhead to trailhead. This means no fixed line rapels. Raps are allowed if the climbers carry the rope on the fkt attemp. No other support such as stashing gear, other climbers to bring supplies ect. 
 
@@ -17,6 +17,8 @@ Colorado has a tradition of going fast on routes, round trip; trailhead to trail
 
 ---
 ## Eldorado Canyon (Eldo)
+Routes are bridge to bridge. 
+
 | Route    | Time      | Date                         | Climbers              | Formation      |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 |[The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/naked-edge.md)    | 22:44   | 2022-10-22 | Stefan Griebel, Joe Kennedy       |  Redgarden: Tower Two |  |
@@ -29,6 +31,7 @@ researching: Rewtitten, Bastille Crack, Handcracker Direct, Blind Faith, Long Jo
 
 ---
 ## The Flatirons 
+First, Second and Third Flatiron start at Chautauqua TH near the ranger cottage at the TH trash can.  
 | Route    | Time      | Date                         | Climbers              | Formation      |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 |[First Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 36:23   | 2019-10-15 | Kyle Richardson       |  First Flatiron |  |
@@ -43,7 +46,10 @@ researching: Rewtitten, Bastille Crack, Handcracker Direct, Blind Faith, Long Jo
 
 ---
 
-#### References  
+
+
+## To Submit a possible FKT
+FKTs are by definition the fastest known time. If you have a faster time or know someone that does submit the information including date, time, style and gps verification. 
 
 
 
