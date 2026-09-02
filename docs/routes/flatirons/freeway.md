@@ -1,9 +1,8 @@
 
 
 # Route Profile: Second Flatiron: any East Face summit route
-# this needs climb stats...
 
-(photo banner, area/grade/FA info, etc.)
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/1-2-3.png" alt="First, Second and Third Flatiron" width="1200"/>
 
 Summary
 
