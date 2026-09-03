@@ -46,6 +46,8 @@ Other related FKTs:
 - **01:42:08** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2021-09-01 | **Kyle Richardson**  
 - [GPS Verification](https://www.strava.com/activities/5887894393/overview)
 
+## Climbers not in the dataset:
+- **Michael Reese** at 572 climbs of DEF as of 9/2/2026
 
 <!-- AUTO:METRICS:START -->
 ### Metrics
