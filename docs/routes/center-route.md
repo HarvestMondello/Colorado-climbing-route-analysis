@@ -27,18 +27,18 @@ Any narrative insights you want to keep hand-written.
 | Location             | Rincon - Center Route… |
 | Stars (avg)          | 3.8       |
 | Votes                | 299.0     |
-| Unique Climbers      | 447.0     |
-| Lifetime Ticks       | 958.0     |
-| Avg Ticks / Climber  | 2.14      |
+| Unique Climbers      | 446.0     |
+| Lifetime Ticks       | 957.0     |
+| Avg Ticks / Climber  | 2.15      |
 <!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
 ### Seasonality
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 22.8%
+- ❄️ **Winter (Dec–Feb)**: 22.9%
 - 🌸 **Spring (Mar–May)**: 27.2%
-- ☀️ **Summer (Jun–Aug)**: 20.4% **low season**
+- ☀️ **Summer (Jun–Aug)**: 20.3% **low season**
 - 🍂 **Fall (Sep–Nov)**: 29.6% **high season**
 
 ### Seasonality Usage by Month
@@ -49,11 +49,11 @@ Mar | ██                             8.3%
 Apr | ███                           10.3%
 May | ██                             8.5%
 Jun | █                              4.4%
-Jul | ███                           11.1%
+Jul | ███                           11.0%
 Aug | █                              4.9%
 Sep | ██                             8.4%
 Oct | ███                            9.5%
-Nov | ███                           11.6%
+Nov | ███                           11.7%
 Dec | ███                            9.0%
 ```
 <!-- AUTO:SEASONALITY:END -->
@@ -63,7 +63,7 @@ Dec | ███                            9.0%
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | Zephyr Miller | 72 |
+| 1 | Zephyr Miller | 71 |
 | 2 | ChossCrimper TopRopePrincess | 20 |
 | 3 | choss pirate | 12 |
 | 4 | Guy H. | 11 |

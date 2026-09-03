@@ -27,8 +27,8 @@ Any narrative insights you want to keep hand-written.
 | Location             | Castle Rock |
 | Stars (avg)          | 3.9       |
 | Votes                | 343.0     |
-| Unique Climbers      | 553.0     |
-| Lifetime Ticks       | 1002.0    |
+| Unique Climbers      | 555.0     |
+| Lifetime Ticks       | 1004.0    |
 | Avg Ticks / Climber  | 1.81      |
 <!-- AUTO:METRICS:END -->
 
@@ -38,7 +38,7 @@ Any narrative insights you want to keep hand-written.
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 6.2% **low season**
 - 🌸 **Spring (Mar–May)**: 24.4%
-- ☀️ **Summer (Jun–Aug)**: 45.1% **high season**
+- ☀️ **Summer (Jun–Aug)**: 45.2% **high season**
 - 🍂 **Fall (Sep–Nov)**: 24.3%
 
 ### Seasonality Usage by Month
@@ -46,12 +46,12 @@ Any narrative insights you want to keep hand-written.
 Jan | █                              1.7%
 Feb | █                              2.7%
 Mar | ██                             5.4%
-Apr | ██                             8.4%
+Apr | ██                             8.3%
 May | ███                           10.6%
 Jun | █████                         16.5%
-Jul | █████                         16.2%
-Aug | ████                          12.4%
-Sep | ████                          13.4%
+Jul | █████                         16.1%
+Aug | ████                          12.6%
+Sep | ████                          13.3%
 Oct | ██                             7.6%
 Nov | █                              3.4%
 Dec | █                              1.7%
@@ -83,9 +83,9 @@ Dec | █                              1.7%
 | 18 | Redacted Redactberg | 5 |
 | 19 | Rob Baumgartner | 5 |
 | 20 | Ryan Enright | 5 |
-| 21 | WadeM | 5 |
-| 22 | Alan Yamamoto | 4 |
-| 23 | Bruno D | 4 |
-| 24 | Charles James | 4 |
-| 25 | Cole Pazar | 4 |
+| 21 | Ryan Moser | 5 |
+| 22 | WadeM | 5 |
+| 23 | Alan Yamamoto | 4 |
+| 24 | Bruno D | 4 |
+| 25 | Charles James | 4 |
 <!-- AUTO:TOP_CLIMBERS:END -->
