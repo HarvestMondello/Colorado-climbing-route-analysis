@@ -70,6 +70,17 @@ Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron,
 <br />
 
 
+Other Flatirons linkups:
+
+| Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
+|---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
+TTCIAD    | 05:01:43| 2025-09-26 |  Caleb Hardaway       |  Roach Classic 10 Flatirons: Top 10 Classics In A Day (linkup)  |South Mesa|[Verification](https://www.strava.com/activities/15945117574) |
+
+
+
+<br />
+<br />
+<br />
 
 ---
 ## Other Areas
