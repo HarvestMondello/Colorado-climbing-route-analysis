@@ -84,7 +84,6 @@
 | 01:56:48  | 2012-08-88 | Andy Anderson         | | |   |
 | 02:04:27  | 1978-08-15 | Chris Reveley         |   | |   |
 
-
 ### FKT History: Long's Peak: Kiener's Route
 | Time    | Date       | Climbers                          | Notes              | Verification       |    |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
@@ -100,9 +99,9 @@
 | Grade                | 5.10a YDS |
 | Location             | Diamond   |
 | Stars (avg)          | 3.8       |
-| Votes                | 730.0     |
-| Unique Climbers      | 1216.0    |
-| Lifetime Ticks       | 1631.0    |
+| Votes                | 733.0     |
+| Unique Climbers      | 1220.0    |
+| Lifetime Ticks       | 1640.0    |
 | Avg Ticks / Climber  | 1.34      |
 <!-- AUTO:METRICS:END -->
 
@@ -111,21 +110,21 @@
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 2.1% **off season**
-- 🌸 **Spring (Mar–May)**: 1.7% **off season**
-- ☀️ **Summer (Jun–Aug)**: 76.2% **high season**
-- 🍂 **Fall (Sep–Nov)**: 20.1%
+- 🌸 **Spring (Mar–May)**: 1.6% **off season**
+- ☀️ **Summer (Jun–Aug)**: 76.3% **high season**
+- 🍂 **Fall (Sep–Nov)**: 20.0%
 
 ### Seasonality Usage by Month
 ```
-Jan | █                              0.6%
+Jan | █                              0.5%
 Feb | █                              0.4%
 Mar | █                              0.3%
 Apr | █                              0.5%
 May | █                              0.9%
 Jun | ██                             5.6%
-Jul | ████████                      28.5%
-Aug | ████████████                  42.1%
-Sep | █████                         17.9%
+Jul | ████████                      28.3%
+Aug | ████████████                  42.3%
+Sep | █████                         17.8%
 Oct | █                              1.4%
 Nov | █                              0.8%
 Dec | █                              1.2%
@@ -143,8 +142,8 @@ Dec | █                              1.2%
 | 4 | Will Starks | 11 |
 | 5 | Japhy Dhungana | 10 |
 | 6 | Charles Vernon | 7 |
-| 7 | Matt Conklin | 7 |
-| 8 | Jason Antin | 6 |
+| 7 | Jason Antin | 7 |
+| 8 | Matt Conklin | 7 |
 | 9 | Jack Neus | 5 |
 | 10 | Mikaela DeRousseau | 5 |
 | 11 | Mike Lewis | 5 |

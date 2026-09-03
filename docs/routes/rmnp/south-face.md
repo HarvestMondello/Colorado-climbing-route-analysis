@@ -3,7 +3,7 @@
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/petite-grepon.png" alt="South Face on Petit Grepon in RMNP" width="1200"/>
 
 ## Overview  
-- **Area:** Cathedral Spires,, RMNP, Colorado  
+- **Area:** Sky Pond,, RMNP, Colorado  
 - **Formation:** Petit Grepon
 - **Grade:** 5.7 (8 pitches)  / III
 - **Length:** ~700'  
@@ -46,6 +46,13 @@ n/a
 ## References  
 - [Mountain Project Entry](https://www.mountainproject.com/route/105749770/south-face)  
 
+- **Leaderboards:**  
+  - **Leader:**  
+ 
+
+## References  
+- [Mountain Project Entry](https://www.mountainproject.com/route/105749770/south-face)  
+
 
 <!-- AUTO:METRICS:START -->
 ### Metrics
@@ -56,9 +63,9 @@ n/a
 | Grade                | 5.8 YDS   |
 | Location             | Petit Grepon |
 | Stars (avg)          | 3.7       |
-| Votes                | 819.0     |
-| Unique Climbers      | 1604.0    |
-| Lifetime Ticks       | 2067.0    |
+| Votes                | 820.0     |
+| Unique Climbers      | 1608.0    |
+| Lifetime Ticks       | 2072.0    |
 | Avg Ticks / Climber  | 1.29      |
 <!-- AUTO:METRICS:END -->
 
@@ -79,8 +86,8 @@ Mar | █                              0.5%
 Apr | █                              0.6%
 May | █                              2.4%
 Jun | ██████                        20.0%
-Jul | ████████                      29.4%
-Aug | ███████                       25.6%
+Jul | ████████                      29.3%
+Aug | ███████                       25.7%
 Sep | █████                         18.0%
 Oct | █                              2.0%
 Nov | █                              0.2%
@@ -119,11 +126,3 @@ Dec | █                              0.5%
 | 24 | Daniel S | 3 |
 | 25 | David Stillman | 3 |
 <!-- AUTO:TOP_CLIMBERS:END -->
-
-- **Leaderboards:**  
-  - **Leader:**  
- 
-
-## References  
-- [Mountain Project Entry](https://www.mountainproject.com/route/105749770/south-face)  
-
