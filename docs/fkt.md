@@ -2,6 +2,9 @@
 Colorado has a tradition of going fast and light on routes, round trip; trailhead to trailhead. Areas such as Eldo and Chautaqua have specific starting points near the trailhead (bridge). Complex descents involving running and climbing add to the complexity of a FKT. This is unlike Yosemite where the fkt is for just the route. 
 
 **FKT styles:** All FKTs on this website are un-supported, trailhead to trailhead, unless otherwise noted. This means no fixed line rappels. Raps are allowed if the climbers carry the rope on the fkt attempt. No other support such as stashing gear, other climbers to bring supplies ect. 
+<br />
+<br />
+<br />
 
 ---
 ## Rocky Mountain National Park (RMNP) & other alpine
@@ -19,7 +22,9 @@ Colorado has a tradition of going fast and light on routes, round trip; trailhea
 add Blitzen Ridge
 add Lone Eagle Peak
 
-
+<br />
+<br />
+<br />
 
 ---
 ## Eldorado Canyon (Eldo)
@@ -31,9 +36,9 @@ Routes are bridge to bridge.
 [The Yellow Spur](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/yellow-spur.md)    | 28:04   | 2026-07-23 | Michael Reese, Jack Gugel       |  Redgarden: Tower One | 
 
 researching: Rewritten, Bastille Crack, Handcracker Direct, Blind Faith, Long John Wall, Wind Ridge, Gambit, Swanson's Arete, or other routes on these formations (Green Spur Buttress, The Bastille, West Ridge, Wind Tower, Shirt Tail Peak, Lumpe Tower ect)
-
-   
-
+<br />
+<br />
+<br />
 
 ---
 ## The Flatirons 
@@ -45,12 +50,25 @@ First, Second and Third Flatiron start at Chautauqua TH near the ranger cottage 
 [Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)    | 36:14   | 2008-10-01 | Stefan Griebel       |  Third Flatiron | 
 [Flatirons Trifecta](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 01:02:25    | 2021-10-25| Michael Reese |  First, Second & Third Flatiron (linkup)| 
 [Flatirons Quinfecta](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 01:42:08   | 2021-09-01 |  Kyle Richardson       |  Flatirons One through Five (linkup)|
-North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden
-Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden (linkup)
+  
+<br />
+<br />
+<br />
 
+Other Flatirons routes listed North to South from various trailheads:
+| Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
+|---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
+Stairway to Heaven    | 38:13   | 2024-10-10 |  Josh LaMar      |  Ridge Two from NCAR |NCAR|[Verification](https://www.strava.com/activities/12657026283/) |
+Angel's Way    | 49:19   | 2024-10-24 |  Chester Cooper     |  Ridge Four from NCAR | NCAR |[Verification](https://www.strava.com/activities/12737711583/) |
+East Face of Seal Rock    | n/a   | n/a |  n/a       |  Seal Rock |Bear Canyon|[]( ) |
+Diagonal   | 29:59   | 2020-10-21 |  Michael Reese       |  The Slab |Shanahan|[Verification](https://www.strava.com/activities/4226557500/) |
+North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden |South Mesa|[]( ) |
+Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden (linkup)  |South Mesa|[]( ) |
 
+<br />
+<br />
+<br />
 
-The Slab, Seal Rock,  Angels Way, Stairway to Heaven
 
 
 ---
@@ -58,9 +76,11 @@ The Slab, Seal Rock,  Angels Way, Stairway to Heaven
 
 ---
 
+<br />
+<br />
+<br />
 
-
-## To Submit a possible FKT
+## To Submit a Possible FKT
 FKTs are by definition the fastest known time. If you have a faster time or know someone that does submit the information including date, time, style and gps verification. 
 
 
