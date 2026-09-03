@@ -1,7 +1,7 @@
 # Fastest Known Time (FKT) in Colorado 
 Colorado has a tradition of going fast and light on routes, round trip; trailhead to trailhead. Areas such as Eldo and Chautaqua have specific starting points near the trailhead (bridge). Complex descents involving running and climbing add to the complexity of a FKT. This is unlike Yosemite where the fkt is for just the route. 
 
-**FKT styles:** All FKTs on this website are un-supported, trailhead to trailhead. This means no fixed line rapels. Raps are allowed if the climbers carry the rope on the fkt attemp. No other support such as stashing gear, other climbers to bring supplies ect. 
+**FKT styles:** All FKTs on this website are un-supported, trailhead to trailhead, unless otherwise noted. This means no fixed line rappels. Raps are allowed if the climbers carry the rope on the fkt attempt. No other support such as stashing gear, other climbers to bring supplies ect. 
 
 ---
 ## Rocky Mountain National Park (RMNP) & other alpine
