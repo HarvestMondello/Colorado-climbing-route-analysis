@@ -28,14 +28,27 @@ add Lone Eagle Peak
 
 ---
 ## Eldorado Canyon (Eldo)
-Routes are bridge to bridge. 
+Routes are bridge to bridge. These are listed in order by the classic rankings. 
 
 | Route    | Time      | Date                         | Climbers              | Formation      |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 |[The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/naked-edge.md)    | 22:44   | 2022-10-22 | Stefan Griebel, Joe Kennedy       |  Redgarden: Tower Two |  |
 [The Yellow Spur](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/yellow-spur.md)    | 28:04   | 2026-07-23 | Michael Reese, Jack Gugel       |  Redgarden: Tower One | 
+[Rewritten](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/rewritten.md)    | n/a   | n/a  | n/a      |  Redgarden: Green Spur Buttress | 
+[Handcracker Direct](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/handcracker-direct.md)    | n/a   | n/a  | n/a      |  The West Ridge: Mail Ridge Tower | 
+[Bastille Crack (B2B)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/bastille-crack.md)    | n/a   | n/a  | n/a      |  The Bastille: North Face | 
+[Blind Faith (B2B)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/blind-faith.md)    | n/a   | n/a  | n/a      |  The Bastille: West Face | 
+[Ruper](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/ruper.md)    | n/a   | n/a  | n/a      |  Redgarden: Upper & Lower Ramp | 
+Hair City (B2B) | n/a   | n/a  | n/a      |  The Bastille: West Face | 
+Long John Wall    | n/a   | n/a  | n/a      |  The West Ridge: Long John Tower | 
+Gambit    | n/a   | n/a  | n/a      |  Shirt Tail Peak | 
+Wind Ridge (Direct)    | n/a   | n/a  | n/a      |  Wind Tower: West Face | 
+Swanson's Arete    | n/a   | n/a  | n/a      |  Redgarden: Lump Tower | 
 
-researching: Rewritten, Bastille Crack, Handcracker Direct, Blind Faith, Long John Wall, Wind Ridge, Gambit, Swanson's Arete, or other routes on these formations (Green Spur Buttress, The Bastille, West Ridge, Wind Tower, Shirt Tail Peak, Lumpe Tower ect)
+
+
+researching: Rewritten, Bastille Crack, Handcracker Direct, Blind Faith, Long John Wall, Wind Ridge, Gambit, Swanson's Arete, or other routes on these formations (Green Spur Buttress, The Bastille, West Ridge, Wind Tower, Shirt Tail Peak, Lumpe Tower ect). A few of these still need route pages.
+
 <br />
 <br />
 <br />
@@ -64,6 +77,9 @@ East Face of Seal Rock    | n/a   | n/a |  n/a       |  Seal Rock |Bear Canyon|[
 Diagonal   | 29:59   | 2020-10-21 |  Michael Reese       |  The Slab |Shanahan|[Verification](https://www.strava.com/activities/4226557500/) |
 North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden |South Mesa|[]( ) |
 Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden (linkup)  |South Mesa|[]( ) |
+
+
+A few of these still need route pages.
 
 <br />
 <br />
