@@ -12,7 +12,7 @@ Colorado has a tradition of going fast and light on routes, round trip; trailhea
 |---------|------------|-----------------------------------|--------------------|--------------------|
 |[Longs Triathlon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 09:50:03  | 2022-10-26 | Stefan Griebel & Anton Krupicka       |  The Diamond on Long's Peak from Boulder RT (bike, run, climb) |  |
 |[Casual Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 03:09:50  | 2024-09-02 | John Alcorn       |  The Diamond on Long's Peak |  |
-[South Face](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/south-face.md)    | 02:39:27   | 2012-06-26 | Stefan Griebel       |  Petit Grepon in the Cathedral Spires |
+[South Face of Petit Greon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/south-face.md)    | 02:39:27   | 2012-06-26 | Stefan Griebel       |  Petit Grepon in the Cathedral Spires |
 |[Kiener's Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 02:19:37 | 2024-08-07 | Anton Krupicka      |  East Face on Long's Peak |  |
 |[Cables Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 01:55:40  | 2020-08-28 | Kyle Richardson       |  North Face on Long's Peak |  | 
 
