@@ -33,7 +33,7 @@
 - **n/a** (A lot of history - to be filled in later)
 
 ### Current Record: First Flatiron - DEF (Direct East Face) aka Direct Route (self supported, no rappel, round trip)
-- **36:23** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2019-10-15 | **Kyle Richardson**    
+- **30:19** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2019-10-15 | **Kyle Richardson**    
 - [GPS Verification](https://www.strava.com/activities/2792210665/overview)  
 
 Other related FKTs:
