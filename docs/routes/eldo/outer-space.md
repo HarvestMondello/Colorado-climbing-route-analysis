@@ -27,16 +27,16 @@ Any narrative insights you want to keep hand-written.
 | Location             | Bastille - N Face |
 | Stars (avg)          | 3.9       |
 | Votes                | 789.0     |
-| Unique Climbers      | 1298.0    |
-| Lifetime Ticks       | 2251.0    |
-| Avg Ticks / Climber  | 1.73      |
+| Unique Climbers      | 1297.0    |
+| Lifetime Ticks       | 2254.0    |
+| Avg Ticks / Climber  | 1.74      |
 <!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
 ### Seasonality
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 2.7% **off season**
+- ❄️ **Winter (Dec–Feb)**: 2.8% **off season**
 - 🌸 **Spring (Mar–May)**: 22.3%
 - ☀️ **Summer (Jun–Aug)**: 48.8% **high season**
 - 🍂 **Fall (Sep–Nov)**: 26.2%
@@ -49,12 +49,12 @@ Mar | █                              2.5%
 Apr | ██                             7.8%
 May | ███                           12.0%
 Jun | █████                         17.2%
-Jul | █████                         16.2%
-Aug | ████                          15.4%
+Jul | █████                         16.1%
+Aug | ████                          15.5%
 Sep | ████                          14.5%
 Oct | ██                             8.7%
 Nov | █                              3.0%
-Dec | █                              1.4%
+Dec | █                              1.5%
 ```
 <!-- AUTO:SEASONALITY:END -->
 

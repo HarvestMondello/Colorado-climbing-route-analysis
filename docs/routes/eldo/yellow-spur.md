@@ -109,35 +109,35 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 | Grade                | 5.9+ YDS  |
 | Location             | Redgarden - Tower One |
 | Stars (avg)          | 3.7       |
-| Votes                | 1446.0    |
-| Unique Climbers      | 2632.0    |
-| Lifetime Ticks       | 4878.0    |
-| Avg Ticks / Climber  | 1.85      |
+| Votes                | 1449.0    |
+| Unique Climbers      | 2635.0    |
+| Lifetime Ticks       | 4892.0    |
+| Avg Ticks / Climber  | 1.86      |
 <!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
 ### Seasonality
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 9.3% **low season**
-- 🌸 **Spring (Mar–May)**: 25.8%
-- ☀️ **Summer (Jun–Aug)**: 36.2% **high season**
+- ❄️ **Winter (Dec–Feb)**: 9.2% **low season**
+- 🌸 **Spring (Mar–May)**: 25.7%
+- ☀️ **Summer (Jun–Aug)**: 36.4% **high season**
 - 🍂 **Fall (Sep–Nov)**: 28.7%
 
 ### Seasonality Usage by Month
 ```
-Jan | █                              2.7%
+Jan | █                              2.6%
 Feb | █                              2.9%
 Mar | ██                             6.1%
 Apr | ███                            9.1%
 May | ███                           10.6%
 Jun | ████                          12.3%
-Jul | ███                           11.8%
-Aug | ███                           12.2%
-Sep | ███                           11.1%
+Jul | ███                           11.7%
+Aug | ████                          12.3%
+Sep | ███                           11.2%
 Oct | ███                           10.7%
 Nov | ██                             6.8%
-Dec | █                              3.7%
+Dec | █                              3.6%
 ```
 <!-- AUTO:SEASONALITY:END -->
 
@@ -147,25 +147,25 @@ Dec | █                              3.7%
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
 | 1 | Danny Gilbert | 272 |
-| 2 | Harvest Mondello | 96 |
+| 2 | Harvest Mondello | 98 |
 | 3 | Bill Wright | 92 |
-| 4 | Michael Butts | 70 |
+| 4 | Michael Butts | 71 |
 | 5 | Jack Neus | 44 |
 | 6 | John Alcorn | 42 |
 | 7 | Ryan Montoya | 34 |
 | 8 | Samuel Andree | 34 |
 | 9 | Ryan Marsters | 25 |
-| 10 | Hailey Moore | 23 |
-| 11 | Stefan Griebel | 22 |
+| 10 | Stefan Griebel | 24 |
+| 11 | Hailey Moore | 23 |
 | 12 | Mike Robinson | 20 |
 | 13 | Nate Haebig-Kerber | 19 |
 | 14 | Benjamn P | 16 |
 | 15 | James Klaers | 16 |
 | 16 | Jon Oulton | 16 |
 | 17 | Yiran Li | 15 |
-| 18 | Mark D | 13 |
-| 19 | choss pirate | 13 |
-| 20 | Gregger Man | 12 |
+| 18 | choss pirate | 13 |
+| 19 | Gregger Man | 12 |
+| 20 | Mark D | 12 |
 | 21 | Max Manson | 12 |
 | 22 | Bill Kinter | 11 |
 | 23 | Brian Carver | 11 |

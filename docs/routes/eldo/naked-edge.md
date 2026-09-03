@@ -41,7 +41,7 @@
   - Shows simul-climbing style in one pitch (IAP).  
 
 ## Fastest Known Time (FKT)  
-- **Rules:** Bridge-to-Bridge (South Boulder Peak footbridge), roped semul-climb.  
+- **Rules:** Bridge-to-Bridge (South Boulder Peak footbridge), roped simul-climb.  
   - All known FKTs involve:  
     - Soloing approach (YDS 5.8)  
     - Simul climbing with Micro Traxion or similar device
@@ -89,7 +89,6 @@
 | 28:35   | 2024-09-13 |   Jack Neus, Lynn Anderson                                |    First women under 30 min                 | [GPS Verification](https://www.strava.com/activities/12403561283) | [GPS Verification](https://www.strava.com/activities/12403791278)
 |29:29   |  2026-08-17 |    John Alcorn, Michael Reese                               |                      |  [GPS Verification](https://www.strava.com/activities/19787664615)    
 
-
 ### Some other interesting Naked Edge laps:
 
 | Time    | Date       | Climbers                          | Notes              | Verification       | Verification 2     |
@@ -127,30 +126,30 @@
 | Stars (avg)          | 3.9       |
 | Votes                | 537.0     |
 | Unique Climbers      | 785.0     |
-| Lifetime Ticks       | 3265.0    |
-| Avg Ticks / Climber  | 4.16      |
+| Lifetime Ticks       | 3384.0    |
+| Avg Ticks / Climber  | 4.31      |
 <!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
 ### Seasonality
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 10.5% **low season**
+- ❄️ **Winter (Dec–Feb)**: 10.2% **low season**
 - 🌸 **Spring (Mar–May)**: 24.8%
 - ☀️ **Summer (Jun–Aug)**: 29.8%
-- 🍂 **Fall (Sep–Nov)**: 35.0% **high season**
+- 🍂 **Fall (Sep–Nov)**: 35.2% **high season**
 
 ### Seasonality Usage by Month
 ```
-Jan | █                              3.5%
-Feb | █                              3.4%
-Mar | ██                             5.4%
+Jan | █                              3.4%
+Feb | █                              3.3%
+Mar | █                              5.2%
 Apr | ██                             8.7%
-May | ███                           10.7%
-Jun | ███                           10.8%
+May | ███                           10.8%
+Jun | ███                           10.7%
 Jul | ██                             8.5%
-Aug | ███                           10.5%
-Sep | ████                          14.1%
+Aug | ███                           10.6%
+Sep | ████                          14.2%
 Oct | ████                          13.7%
 Nov | ██                             7.2%
 Dec | █                              3.5%
@@ -162,21 +161,21 @@ Dec | █                              3.5%
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | Stefan Griebel | 414 |
+| 1 | Stefan Griebel | 419 |
 | 2 | Jack Neus | 208 |
 | 3 | John Alcorn | 147 |
-| 4 | WadeM | 127 |
-| 5 | choss pirate | 120 |
-| 6 | ChossCrimper TopRopePrincess | 119 |
-| 7 | Eddie Taylor | 107 |
-| 8 | Kate pinktapegloves | 87 |
-| 9 | Quinn Davie | 71 |
-| 10 | Max Manson | 58 |
-| 11 | Becca Droz | 53 |
-| 12 | Yiran Li | 38 |
-| 13 | Pierce J | 29 |
-| 14 | Sputnick | 29 |
-| 15 | Kishen Mangat | 23 |
+| 4 | Kishen Mangat | 134 |
+| 5 | WadeM | 127 |
+| 6 | choss pirate | 121 |
+| 7 | ChossCrimper TopRopePrincess | 119 |
+| 8 | Eddie Taylor | 107 |
+| 9 | Kate pinktapegloves | 87 |
+| 10 | Quinn Davie | 71 |
+| 11 | Max Manson | 58 |
+| 12 | Becca Droz | 54 |
+| 13 | Yiran Li | 38 |
+| 14 | Pierce J | 29 |
+| 15 | Sputnick | 29 |
 | 16 | AdamShep | 21 |
 | 17 | Danny Gilbert | 21 |
 | 18 | JagerMeister | 17 |

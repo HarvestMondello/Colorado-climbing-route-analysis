@@ -22,13 +22,13 @@ Any narrative insights you want to keep hand-written.
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |     2      |
+| Classic Rank         |           |
 | Grade                | 5.7 YDS   |
 | Location             | Redgarden - Lumpe to… |
 | Stars (avg)          | 3.8       |
-| Votes                | 1943.0    |
-| Unique Climbers      | 4278.0    |
-| Lifetime Ticks       | 6973.0    |
+| Votes                | 1947.0    |
+| Unique Climbers      | 4289.0    |
+| Lifetime Ticks       | 6991.0    |
 | Avg Ticks / Climber  | 1.63      |
 <!-- AUTO:METRICS:END -->
 
@@ -38,7 +38,7 @@ Any narrative insights you want to keep hand-written.
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 9.4% **low season**
 - 🌸 **Spring (Mar–May)**: 27.0%
-- ☀️ **Summer (Jun–Aug)**: 37.4% **high season**
+- ☀️ **Summer (Jun–Aug)**: 37.5% **high season**
 - 🍂 **Fall (Sep–Nov)**: 26.2%
 
 ### Seasonality Usage by Month
@@ -48,11 +48,11 @@ Feb | █                              3.1%
 Mar | ██                             7.0%
 Apr | ██                             8.7%
 May | ███                           11.2%
-Jun | ████                          12.8%
+Jun | ████                          12.7%
 Jul | ████                          12.6%
-Aug | ███                           12.0%
+Aug | ███                           12.2%
 Sep | ███                           10.9%
-Oct | ███                            9.3%
+Oct | ███                            9.2%
 Nov | ██                             6.1%
 Dec | █                              3.6%
 ```
@@ -77,9 +77,9 @@ Dec | █                              3.6%
 | 12 | Michael Butts | 15 |
 | 13 | Sarah Meiser | 15 |
 | 14 | choss pirate | 15 |
-| 15 | Samuel Andree | 14 |
-| 16 | Benjamn P | 13 |
-| 17 | Harvest Mondello | 13 |
+| 15 | Harvest Mondello | 14 |
+| 16 | Samuel Andree | 14 |
+| 17 | Benjamn P | 13 |
 | 18 | Ryan Dresser | 13 |
 | 19 | Mark Griffin | 12 |
 | 20 | Nate Haebig-Kerber | 12 |
