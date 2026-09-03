@@ -49,10 +49,10 @@
 ### FKT History: Casual Route
 | Time    | Date       | Climbers                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
-| 03:09:50  | 2024-09-02 | John Alcorn (solo)         | Current FKT  | [GPS Verification](https://www.strava.com/activities/12306779867)|  
-| 03:26:12  | 2021-08-30 | Maury Birdwell (solo)         |   | [GPS Verification](https://www.strava.com/activities/5878487555)|   
+| 03:09:50  | 2024-09-02 | John Alcorn         | Current FKT  | [GPS Verification](https://www.strava.com/activities/12306779867)|  
+| 03:26:12  | 2021-08-30 | Maury Birdwell        |   | [GPS Verification](https://www.strava.com/activities/)|   
 | 03:53:59  | 2020-08-04 | Stefan Griebel and Wade Morris          |   | n/a  
-| 03:59:00  | 2000-08-01 | Dean Potter (solo)         |   | n/a             
+| 03:59:00  | 2000-08-01 | Dean Potter         |   | n/a             
 
 ## Fastest Known Time (FKT): Long's Triathlon
 - **Rules:** Boulder to Long's East TH via human powered bike, run to the base of the Diamond, ascent the Casual Route, top out on the summit of Long's. Run down to the TH and bike back to Boulder 
