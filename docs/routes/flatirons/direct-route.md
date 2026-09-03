@@ -49,6 +49,7 @@ Other related FKTs:
 ## Climbers not in the dataset:
 - **Michael Reese** at 572 climbs of DEF as of 9/2/2026
 
+
 <!-- AUTO:METRICS:START -->
 ### Metrics
 
@@ -58,9 +59,9 @@ Other related FKTs:
 | Grade                | 5.6 YDS   |
 | Location             | First Flatiron |
 | Stars (avg)          | 3.6       |
-| Votes                | 1427.0    |
-| Unique Climbers      | 2952.0    |
-| Lifetime Ticks       | 7191.0    |
+| Votes                | 1431.0    |
+| Unique Climbers      | 2955.0    |
+| Lifetime Ticks       | 7209.0    |
 | Avg Ticks / Climber  | 2.44      |
 <!-- AUTO:METRICS:END -->
 
@@ -69,20 +70,20 @@ Other related FKTs:
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 7.0% **low season**
-- 🌸 **Spring (Mar–May)**: 28.5%
-- ☀️ **Summer (Jun–Aug)**: 39.4% **high season**
+- 🌸 **Spring (Mar–May)**: 28.4%
+- ☀️ **Summer (Jun–Aug)**: 39.6% **high season**
 - 🍂 **Fall (Sep–Nov)**: 25.1%
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              1.7%
 Feb | █                              2.1%
-Mar | ██                             6.4%
+Mar | ██                             6.3%
 Apr | ███                           10.0%
 May | ███                           12.1%
-Jun | ████                          14.9%
-Jul | ████                          13.3%
-Aug | ███                           11.3%
+Jun | ████                          14.8%
+Jul | ████                          13.2%
+Aug | ███                           11.5%
 Sep | ███                            9.8%
 Oct | ███                            9.8%
 Nov | ██                             5.5%
@@ -95,29 +96,29 @@ Dec | █                              3.2%
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | Stefan Griebel | 591 |
-| 2 | Eric K | 262 |
-| 3 | Samuel Andree | 172 |
-| 4 | Chris Gummer | 119 |
-| 5 | Ryan Marsters | 109 |
-| 6 | Jake Albright | 106 |
+| 1 | Stefan Griebel | 594 |
+| 2 | Eric K | 264 |
+| 3 | Samuel Andree | 171 |
+| 4 | Chris Gummer | 121 |
+| 5 | Jake Albright | 109 |
+| 6 | Ryan Marsters | 109 |
 | 7 | P. W. | 84 |
-| 8 | John Alcorn | 72 |
-| 9 | Abel Richards | 71 |
-| 10 | Jack Neus | 69 |
-| 11 | Luke D | 57 |
+| 8 | Abel Richards | 72 |
+| 9 | John Alcorn | 72 |
+| 10 | Jack Neus | 71 |
+| 11 | Luke D | 58 |
 | 12 | Jason Antin | 49 |
 | 13 | dylan grabowski | 49 |
 | 14 | Bill Kinter | 45 |
-| 15 | ChossCrimper TopRopePrincess | 44 |
+| 15 | ChossCrimper TopRopePrincess | 43 |
 | 16 | Tony Luchetta | 36 |
 | 17 | Caleb Hackett | 34 |
 | 18 | Dylan Oliver | 32 |
 | 19 | rob bauer | 29 |
 | 20 | Bob Johnson | 28 |
-| 21 | Joey Prusa | 26 |
+| 21 | Joey Prusa | 25 |
 | 22 | Michael Butts | 25 |
-| 23 | Tony B | 25 |
-| 24 | Thomas Dietert | 24 |
+| 23 | Thomas Dietert | 25 |
+| 24 | Tony B | 25 |
 | 25 | SeanC Cahill | 22 |
 <!-- AUTO:TOP_CLIMBERS:END -->

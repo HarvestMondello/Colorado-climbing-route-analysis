@@ -31,10 +31,10 @@
 ## Historical Context  
 - **n/a** (A lot of history - to be filled in later)
 
-
 ### Current Record: Second Flatiron (summit route) (self supported, no rappel, round trip)
 - **32:14** Chautaqua Ranger Cottage round trip (trash can by the big TH sign)| 2024-07-05 | **Soren Kodak** ** via Freeway to Freezeway ** 
 - [GPS Verification](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/sk-2nd%20-flatiron-fkt.gpx)  
+
 
 <!-- AUTO:METRICS:START -->
 ### Metrics
@@ -45,9 +45,9 @@
 | Grade                | 5.0 YDS   |
 | Location             | Second Flatiron |
 | Stars (avg)          | 3.4       |
-| Votes                | 1476.0    |
-| Unique Climbers      | 4275.0    |
-| Lifetime Ticks       | 13251.0   |
+| Votes                | 1478.0    |
+| Unique Climbers      | 4286.0    |
+| Lifetime Ticks       | 13283.0   |
 | Avg Ticks / Climber  | 3.10      |
 <!-- AUTO:METRICS:END -->
 
@@ -57,8 +57,8 @@
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 8.9% **low season**
 - 🌸 **Spring (Mar–May)**: 27.4%
-- ☀️ **Summer (Jun–Aug)**: 37.2% **high season**
-- 🍂 **Fall (Sep–Nov)**: 26.5%
+- ☀️ **Summer (Jun–Aug)**: 37.3% **high season**
+- 🍂 **Fall (Sep–Nov)**: 26.4%
 
 ### Seasonality Usage by Month
 ```
@@ -69,7 +69,7 @@ Apr | ███                            9.4%
 May | ███                           11.7%
 Jun | ████                          12.6%
 Jul | ███                           12.0%
-Aug | ████                          12.6%
+Aug | ████                          12.7%
 Sep | ███                           10.7%
 Oct | ███                           10.0%
 Nov | ██                             5.8%
@@ -82,29 +82,29 @@ Dec | █                              3.8%
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | brenta | 229 |
-| 2 | Jake Albright | 226 |
-| 3 | Justin Compton | 194 |
-| 4 | David Kennedy | 176 |
+| 1 | brenta | 228 |
+| 2 | Jake Albright | 225 |
+| 3 | Justin Compton | 195 |
+| 4 | David Kennedy | 178 |
 | 5 | Nick Esker | 149 |
-| 6 | Stefan Griebel | 142 |
-| 7 | Chris Gummer | 138 |
+| 6 | Stefan Griebel | 143 |
+| 7 | Chris Gummer | 140 |
 | 8 | Jack Neus | 138 |
-| 9 | Isaac Porter | 121 |
-| 10 | Mark Griffin | 107 |
-| 11 | James Poindexter | 102 |
+| 9 | Isaac Porter | 116 |
+| 10 | Mark Griffin | 108 |
+| 11 | James Poindexter | 103 |
 | 12 | Chris Bamat | 82 |
-| 13 | joshua larkin | 80 |
-| 14 | Harvest Mondello | 79 |
+| 13 | joshua larkin | 81 |
+| 14 | Harvest Mondello | 80 |
 | 15 | Mark Roth | 74 |
 | 16 | Anna Dolan | 73 |
-| 17 | Michael Spiesbach | 71 |
+| 17 | Michael Spiesbach | 72 |
 | 18 | Shadrock | 70 |
-| 19 | Abel Richards | 67 |
-| 20 | Kevin Karn | 67 |
-| 21 | Bill West | 63 |
-| 22 | Damon Ehrett | 62 |
-| 23 | Paul Hoerster | 52 |
+| 19 | Abel Richards | 68 |
+| 20 | Kevin Karn | 68 |
+| 21 | Bill West | 66 |
+| 22 | Damon Ehrett | 61 |
+| 23 | Paul Hoerster | 54 |
 | 24 | P. W. | 50 |
-| 25 | Becca Simeone | 47 |
+| 25 | Michael Underwood | 48 |
 <!-- AUTO:TOP_CLIMBERS:END -->

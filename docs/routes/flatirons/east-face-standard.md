@@ -34,13 +34,14 @@
 
 ### Current Record: Third Flatiron (self supported, no rappel, round trip)
 
-- **36:14** Chautaqua Ranger Cottage (the trash can by the TH sign) | 2008-10-01 | **Stefan Griebel**.    
+- **36:14** Chautaqua Ranger Cottage (the trash can by the TH sign) | 2008-10-xx | **Stefan Griebel**.    
 
 ### FKT History (self supported, no rappel)
 | Time    | Date       | Climbers                          | Notes              | Verification       |    |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 36:14   | 2008-10-01 | Stefan Griebel      | Current FKT        |
+| 36:14   | 2008-10-xx | Stefan Griebel      | Current FKT        |
 | 36:27   | 1989-xx-xx | Bill Briggs     | Prior FKT        |
+
 
 <!-- AUTO:METRICS:START -->
 ### Metrics
@@ -51,9 +52,9 @@
 | Grade                | 5.4 YDS   |
 | Location             | Third Flatiron |
 | Stars (avg)          | 3.7       |
-| Votes                | 1272.0    |
-| Unique Climbers      | 2581.0    |
-| Lifetime Ticks       | 5147.0    |
+| Votes                | 1274.0    |
+| Unique Climbers      | 2594.0    |
+| Lifetime Ticks       | 5174.0    |
 | Avg Ticks / Climber  | 1.99      |
 <!-- AUTO:METRICS:END -->
 
@@ -61,24 +62,24 @@
 ### Seasonality
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 11.5%
-- 🌸 **Spring (Mar–May)**: 1.9% **closures**
-- ☀️ **Summer (Jun–Aug)**: 33.9%
-- 🍂 **Fall (Sep–Nov)**: 52.7% **high season**
+- ❄️ **Winter (Dec–Feb)**: 11.4%
+- 🌸 **Spring (Mar–May)**: 1.9% **off season**
+- ☀️ **Summer (Jun–Aug)**: 34.2%
+- 🍂 **Fall (Sep–Nov)**: 52.4% **high season**
 
 ### Seasonality Usage by Month
 ```
-Jan | ██                             5.4%
+Jan | ██                             5.3%
 Feb | █                              0.3%
 Mar | █                              0.5%
 Apr | █                              0.9%
 May | █                              0.6%
 Jun | █                              0.9%
 Jul | █                              4.2%
-Aug | ████████                      28.8%
-Sep | ██████                        22.0%
-Oct | █████                         19.0%
-Nov | ███                           11.8%
+Aug | ████████                      29.2%
+Sep | ██████                        21.9%
+Oct | █████                         18.9%
+Nov | ███                           11.7%
 Dec | ██                             5.8%
 ```
 <!-- AUTO:SEASONALITY:END -->
@@ -90,18 +91,18 @@ Dec | ██                             5.8%
 |-----:|:--------|------:|
 | 1 | brenta | 172 |
 | 2 | Stefan Griebel | 147 |
-| 3 | Mark Roth | 62 |
+| 3 | Mark Roth | 63 |
 | 4 | Brad Schildt | 39 |
 | 5 | Nick Esker | 38 |
 | 6 | Jason Antin | 34 |
-| 7 | Samuel Andree | 31 |
+| 7 | Samuel Andree | 32 |
 | 8 | Dan Howell | 27 |
-| 9 | Jack Neus | 27 |
-| 10 | Eric Klammer | 26 |
-| 11 | G P | 26 |
-| 12 | Chris Gummer | 24 |
-| 13 | Harvest Mondello | 24 |
-| 14 | Bill Kinter | 22 |
+| 9 | G P | 27 |
+| 10 | Jack Neus | 27 |
+| 11 | Eric Klammer | 26 |
+| 12 | Harvest Mondello | 24 |
+| 13 | Bill Kinter | 23 |
+| 14 | Chris Gummer | 23 |
 | 15 | Michael Butts | 22 |
 | 16 | Mighty Mango | 21 |
 | 17 | P. W. | 20 |
