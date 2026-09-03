@@ -34,12 +34,12 @@
 
 ### Current Record: Third Flatiron (self supported, no rappel, round trip)
 
-- **36:14** Chautaqua Ranger Cottage (the trash can by the TH sign) | 2008-10-xx | **Stefan Griebel**.    
+- **36:14** Chautaqua Ranger Cottage (the trash can by the TH sign) | 2008-10-01 | **Stefan Griebel**.    
 
 ### FKT History (self supported, no rappel)
 | Time    | Date       | Climbers                          | Notes              | Verification       |    |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 36:14   | 2008-10-xx | Stefan Griebel      | Current FKT        |
+| 36:14   | 2008-10-01 | Stefan Griebel      | Current FKT        |
 | 36:27   | 1989-xx-xx | Bill Briggs     | Prior FKT        |
 
 <!-- AUTO:METRICS:START -->
