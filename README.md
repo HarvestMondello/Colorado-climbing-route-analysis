@@ -103,8 +103,8 @@ Colorado hosts some of North America’s most storied stone, from Eldorado Canyo
 
 ### Live Leaderboards (Docs)
 
-- **Top Routes & climbers (refreshed quarterly)**: [`/docs/leaderboards.md`](docs/leaderboards.md) - updated August, 2026
-- **Top 100 Climbrs / 100 routes (refreshed annually)**: [`/docs/leaderboards-100.md`](docs/leaderboards-100.md) - updated August, 2026
+- **Top Routes & climbers (refreshed quarterly)**: [`/docs/leaderboards.md`](docs/leaderboards.md) - updated September, 2026
+- **Top 100 Climbrs / 100 routes (refreshed annually)**: [`/docs/leaderboards-100.md`](docs/leaderboards-100.md) - updated Septembe, 2026
 
 ## Automation
 
