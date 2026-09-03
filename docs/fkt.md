@@ -28,7 +28,7 @@ add Lone Eagle Peak
 
 ---
 ## Eldorado Canyon (Eldo)
-Routes are bridge to bridge. These are listed in order by the classic rankings. 
+Routes are bridge to bridge. (these need orders) 
 
 | Route    | Time      | Date                         | Climbers              | Formation      |
 |---------|------------|-----------------------------------|--------------------|--------------------|
