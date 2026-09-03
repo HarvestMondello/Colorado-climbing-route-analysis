@@ -58,8 +58,8 @@ First, Second and Third Flatiron start at Chautauqua TH near the ranger cottage 
 Other Flatirons routes listed North to South from various trailheads:
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
-Stairway to Heaven    | 38:13   | 2024-10-10 |  Josh LaMar      |  Ridge Two from NCAR |NCAR|[Verification](https://www.strava.com/activities/12657026283/) |
-Angel's Way    | 49:19   | 2024-10-24 |  Chester Cooper     |  Ridge Four from NCAR | NCAR |[Verification](https://www.strava.com/activities/12737711583/) |
+Stairway to Heaven    | 38:13   | 2024-10-10 |  Josh LaMar      |  Ridge Two |NCAR|[Verification](https://www.strava.com/activities/12657026283/) |
+Angel's Way    | 49:19   | 2024-10-24 |  Chester Cooper     |  Ridge Four  | NCAR |[Verification](https://www.strava.com/activities/12737711583/) |
 East Face of Seal Rock    | n/a   | n/a |  n/a       |  Seal Rock |Bear Canyon|[]( ) |
 Diagonal   | 29:59   | 2020-10-21 |  Michael Reese       |  The Slab |Shanahan|[Verification](https://www.strava.com/activities/4226557500/) |
 North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden |South Mesa|[]( ) |
