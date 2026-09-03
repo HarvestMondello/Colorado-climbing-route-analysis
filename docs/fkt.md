@@ -73,7 +73,7 @@ Other Flatirons routes listed North to South from various trailheads:
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
 Stairway to Heaven    | 38:13   | 2024-10-10 |  Josh LaMar      |  Ridge Two |NCAR|[Verification](https://www.strava.com/activities/12657026283/) |
 Angel's Way    | 49:19   | 2024-10-24 |  Chester Cooper     |  Ridge Four  | NCAR |[Verification](https://www.strava.com/activities/12737711583/) |
-East Face of Seal Rock    | n/a   | n/a |  n/a       |  Seal Rock |Bear Canyon|[]( ) |
+East Face of Seal Rock    | 49:29   | 2024-09-24 |  Vints Vahala, pending verification      |  Seal Rock |Bear Canyon|[Verification](pending) |
 Diagonal   | 29:59   | 2020-10-21 |  Michael Reese       |  The Slab |Shanahan|[Verification](https://www.strava.com/activities/4226557500/) |
 North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden |South Mesa|[]( ) |
 Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden (linkup)  |South Mesa|[]( ) |
