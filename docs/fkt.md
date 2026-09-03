@@ -37,17 +37,20 @@ researching: Rewritten, Bastille Crack, Handcracker Direct, Blind Faith, Long Jo
 
 ---
 ## The Flatirons 
-First, Second and Third Flatiron start at Chautauqua TH near the ranger cottage at the TH trash can.  
+First, Second and Third Flatiron start at Chautauqua TH near the ranger cottage at the TH trash can.  Routes are listed North to South.
 | Route    | Time      | Date                         | Climbers              | Formation      |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 |[First Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 30:19   | 2019-10-15 | Kyle Richardson       |  First Flatiron |  |
-[Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)    | 36:14   | 2008-10-01 | Stefan Griebel       |  Third Flatiron | 
 [Second Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/freeway.md)    | 32:14   | 2024-07-05 |  Soren Kodak      |  Second Flatiron (summit route) | 
+[Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)    | 36:14   | 2008-10-01 | Stefan Griebel       |  Third Flatiron | 
 [Flatirons Trifecta](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 01:02:25    | 2021-10-25| Michael Reese |  First, Second & Third Flatiron (linkup)| 
-[Flatirons Quinfecta](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 01:42:08   | 2021-09-01 |  Kyle Richardson       |  Flatirons One through Five (linkup)| 
+[Flatirons Quinfecta](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 01:42:08   | 2021-09-01 |  Kyle Richardson       |  Flatirons One through Five (linkup)|
+North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden
+Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden (linkup)
 
 
-add The Maiden, Fatiron, Slab, Seal Rock,  Angels Way, Stairway to Heaven
+
+The Slab, Seal Rock,  Angels Way, Stairway to Heaven
 
 
 ---
@@ -59,6 +62,8 @@ add The Maiden, Fatiron, Slab, Seal Rock,  Angels Way, Stairway to Heaven
 
 ## To Submit a possible FKT
 FKTs are by definition the fastest known time. If you have a faster time or know someone that does submit the information including date, time, style and gps verification. 
+
+
 
 
 
