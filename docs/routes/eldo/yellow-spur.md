@@ -81,10 +81,13 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 - **Trend:** **47%** of public ticks logged in the last 5 years.  
 - **Consensus:** 5.9+, widely regarded as sandbagged (hard for grade).  
 - **Leaderboards:**  
-  - **Danny Gilbert:** Over **250** public ticks (#1).  
+  - **Danny Gilbert:** Over **250** public ticks (#1).
+
+  ## Climbers not in the dataset or with partial entries:  
   - **Bill Wright:** Estimated 100 to 200+ ascents (partial record shows 92). He is quoted as saying he has less ascents than Danny Gilbert.    
+  - **Michael Reese** has 123 ascents as of 9/2/2026, none logged publicly.
   - **Anton Krupicka:** Estimated ~100 ascents, none logged publicly.  
-  - Wright is also known for climbing it **8 times in a single day** on his birthday.  
+  - **Bill Wright** is also known for climbing it **8 times in a single day** on his birthday.  
 
 ## Seasonal Profile & Sun Aspect  
 - **Seasonality:** Year-round; peak summer; quiet winters.  
@@ -144,7 +147,7 @@ Dec | █                              3.7%
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
 | 1 | Danny Gilbert | 272 |
-| 2 | Harvest Mondello | 98 |
+| 2 | Harvest Mondello | 96 |
 | 3 | Bill Wright | 92 |
 | 4 | Michael Butts | 70 |
 | 5 | Jack Neus | 44 |
