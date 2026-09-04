@@ -71,7 +71,7 @@ First, Second and Third Flatiron start at Chautauqua TH near the ranger cottage 
 Other Flatirons routes listed North to South from various trailheads:
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
-Stairway to Heaven   | 29:26  | Cordis Hall |  2017-xx-xx    |  Ridge Two |NCAR|[]() |
+Stairway to Heaven   | 29:26  | Cordis Hall |  2017-10-10    |  Ridge Two |NCAR|[]() |
 Angel's Way    | 49:19(possible fkt)   | n/a |  n/a     |  Ridge Four  | NCAR |[]() |
 East Face of Seal Rock    | 41:26 (possible fkt)   | 2002-10-07 |  n/a      |  Seal Rock |Bear Canyon|[]() |
 Diagonal   | 29:59   | 2020-10-21 |  Michael Reese       |  The Slab |Shanahan|[Verification](https://www.strava.com/activities/4226557500/) |
