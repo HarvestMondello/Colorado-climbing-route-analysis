@@ -8,7 +8,7 @@
 - **Grade:** 5.9+ to 5.10B (6 pitches)  
 - **Length:** 580'  
 - **Style:** Trad, multipitch  
-- **First Ascent:** Layton Kor, Dave Dornan, 1959 aid via original Direct Start and Direct Finish (both now 5.10B free)  
+- **First Ascent:** Layton Kor, Dave Dornan, 1959 aid via original Direct Start and Direct Finish (both are 5.10B free)  
 - **First Free Ascent:** Royal Robbins, Pat Ament, 1964 via 5.9+ free variation  
 
 ## Summary  
@@ -147,7 +147,7 @@ Dec | █                              3.6%
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
 | 1 | Danny Gilbert | 272 |
-| 2 | Harvest Mondello | 98 |
+| 2 | Harvest Mondello | 99 |
 | 3 | Bill Wright | 92 |
 | 4 | Michael Butts | 71 |
 | 5 | Jack Neus | 44 |
