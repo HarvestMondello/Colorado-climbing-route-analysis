@@ -36,7 +36,7 @@
 - **30:19** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2019-10-15 | **Kyle Richardson**    
 - [GPS Verification](https://www.strava.com/activities/2792210665/overview)  
 
-Other related FKTs:
+### Other related FKTs:
 
 **Flatirons Trifecta**: East faces of First, Second and Third Flatiron (self supported, no rap, round trip)
 - **01:02:25** Chautaqua Ranger Cottage (trash can by the big TH sign)| 2021-10-25  |**Michael Reese** 
@@ -45,6 +45,9 @@ Other related FKTs:
 **Flatirons Qunifecta**: East faces of First, Second, Third, Fourth and Fifth Flatiron (self supported, no rap, round trip)
 - **01:42:08** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2021-09-01 | **Kyle Richardson**  
 - [GPS Verification](https://www.strava.com/activities/5887894393/overview)
+
+**DEF (Direct East Face)** on the First Flatiron *(route only): base of First Flatiron to summit (not C2C)
+- **07:51** | 2026-9-3 | **Michael Reese**
 
 ## Climbers not in the dataset:
 - **Michael Reese** at 572 climbs of DEF as of 9/2/2026
