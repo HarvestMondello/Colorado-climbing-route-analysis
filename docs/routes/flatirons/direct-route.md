@@ -26,7 +26,6 @@
 
 ### Seasonal Profile & Sun Aspect  
 - **Seasonality:** Year Round access with lower traffic in the winter.
-- .
 - **Sun Exposure:** East-facing. Morning sun, afternoon shade.  
 
 ## Historical Context  
@@ -42,12 +41,12 @@
 - **01:02:25** Chautaqua Ranger Cottage (trash can by the big TH sign)| 2021-10-25 | **Michael Reese** 
 - [GPS Verification](https://www.strava.com/activities/6166869935 )
 
-**Flatirons Qunifecta**: East faces of First, Second, Third, Fourth and Fifth Flatiron (self supported, no rap, round trip)
+**Flatirons Quinfecta**: East faces of First, Second, Third, Fourth and Fifth Flatiron (self supported, no rap, round trip)
 - **01:42:08** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2021-09-01 | **Kyle Richardson**  
 - [GPS Verification](https://www.strava.com/activities/5887894393/)
 
 **DEF (Direct East Face)** on the First Flatiron *(route only): base of First Flatiron to summit (not C2C)
-- **07:51** | 2026-9-3 | **Michael Reese**
+- **07:51** | 2026-09-03 | **Michael Reese**
 - [GPS Verification](https://www.strava.com/activities/20028317044/)
 
 ## Climbers not in the dataset:
