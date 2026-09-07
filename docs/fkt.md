@@ -58,9 +58,9 @@ researching: Rewritten, Bastille Crack, Handcracker Direct, Blind Faith, Long Jo
 First, Second and Third Flatiron start at Chautauqua TH near the ranger cottage at the TH trash can.  Routes are listed North to South.
 | Route    | Time      | Date                         | Climbers              | Formation      |
 |---------|------------|-----------------------------------|--------------------|--------------------|
-|[First Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 30:19   | 2019-10-15 | Kyle Richardson       |  First Flatiron |  |
-[Second Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/freeway.md)    | 32:14   | 2024-07-05 |  Soren Kodak      |  Second Flatiron (summit route) | 
-[Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)    | 36:14   | 2008-10-01 | Stefan Griebel       |  Third Flatiron | 
+|[First Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 30:19   | 2019-10-15 | Kyle Richardson       |  First Flatiron from Chautauqua |  |
+[Second Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/freeway.md)    | 32:14   | 2024-07-05 |  Soren Kodak      |  Second Flatiron (summit route) from Chautauqua | 
+[Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)    | 36:14   | 2008-10-01 | Stefan Griebel       |  Third Flatiron from Chautauqua | 
 [Flatirons Trifecta](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 01:02:25    | 2021-10-25| Michael Reese |  First, Second & Third Flatiron (linkup)| 
 [Flatirons Quinfecta](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 01:42:08   | 2021-09-01 |  Kyle Richardson       |  Flatirons One through Five (linkup)|
   
