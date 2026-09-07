@@ -39,7 +39,7 @@
 ### FKT History (self supported, no rappel)
 | Time    | Date       | Climbers                          | Notes              | Verification       |    |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 36:14   | 2008-10-xx | Stefan Griebel      | Current FKT        | TdF 2008
+| 36:14   | 2008-10-10 | Stefan Griebel      | Current FKT        | TdF 2008
 | 36:27   | 1989-xx-xx | Bill Briggs     | Prior FKT        |
 
 
