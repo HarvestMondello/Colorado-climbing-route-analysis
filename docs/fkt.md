@@ -36,10 +36,10 @@ Routes are bridge to bridge. (these need orders)
 [The Yellow Spur](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/yellow-spur.md)    | 28:04   | 2026-07-23 | Michael Reese, Jack Gugel       |  Redgarden: Tower One | 
 [Rewritten](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/rewritten.md)    | n/a   | n/a  | n/a      |  Redgarden: Green Spur Buttress | 
 [Handcracker Direct](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/handcracker-direct.md)    | n/a   | n/a  | n/a      |  The West Ridge: Mail Ridge Tower | 
-[Bastille Crack (B2B)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/bastille-crack.md)    | n/a   | n/a  | n/a      |  The Bastille: North Face | 
-[Blind Faith (B2B)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/blind-faith.md)    | n/a   | n/a  | n/a      |  The Bastille: West Face | 
+[Bastille Crack (b2b)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/bastille-crack.md)    | n/a   | n/a  | n/a      |  The Bastille: North Face | 
+[Blind Faith (b2b)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/blind-faith.md)    | n/a   | n/a  | n/a      |  The Bastille: West Face | 
 [Ruper](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/ruper.md)    | n/a   | n/a  | n/a      |  Redgarden: Upper & Lower Ramp | 
-Hair City (B2B) | n/a   | n/a  | n/a      |  The Bastille: West Face | 
+Hair City (b2b) | n/a   | n/a  | n/a      |  The Bastille: West Face | 
 Long John Wall    | n/a   | n/a  | n/a      |  The West Ridge: Long John Tower | 
 Gambit    | n/a   | n/a  | n/a      |  Shirt Tail Peak | 
 Wind Ridge (Direct)    | n/a   | n/a  | n/a      |  Wind Tower: West Face | 
@@ -73,8 +73,8 @@ Other Flatirons routes listed North to South from various trailheads:
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
 Stairway to Heaven   | 29:26  | Cordis Hall |  2017-10-13    |  Ridge Two |NCAR|[Verification (TdF 2017)](https://www.strava.com/activities/1228892735/) |
 Angel's Way    | 49:19(possible fkt)   | n/a |  n/a     |  Ridge Four  | NCAR |[]() |
-Front Porch   | 20:59 (possible fkt)   | 2004-10-07 |  Jon Sargant (possible fkt)      |  Dave Mackey |NCAR|TdF 2004 |
-East Face of Seal Rock    | 41:26 (possible fkt)   | 2007-10-20 |  Jon Sargant (possible fkt)      |  Seal Rock |Bear Canyon|TdF 2007 |
+Front Porch East Face Center   | 20:59 (possible fkt)   | 2004-10-07 |  Jon Sargant (possible fkt)      |  Front Porch |NCAR|TdF 2004 |
+East Face of Seal Rock    | 41:26 (possible fkt)   | 2007-10-20 |  Dave Mackey (possible fkt)      |  Seal Rock |Bear Canyon|TdF 2007 |
 Diagonal   | 29:59   | 2020-10-21 |  Michael Reese       |  The Slab |Shanahan|[Verification](https://www.strava.com/activities/4226557500/) |
 North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden |South Mesa|[]( ) |
 Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden (linkup)  |South Mesa|[]( ) |
