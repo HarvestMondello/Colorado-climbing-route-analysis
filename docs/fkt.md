@@ -71,16 +71,15 @@ First, Second and Third Flatiron start at Chautauqua TH near the ranger cottage 
 Other Flatirons routes listed North to South from various trailheads:
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
-Stairway to Heaven   | 29:26  | Cordis Hall |  2017-10-10    |  Ridge Two |NCAR|[]() |
+Stairway to Heaven   | 29:26  | Cordis Hall |  2017-10-13    |  Ridge Two |NCAR|[Verification (TdF 2017)](https://www.strava.com/activities/1228892735/) |
 Angel's Way    | 49:19(possible fkt)   | n/a |  n/a     |  Ridge Four  | NCAR |[]() |
-East Face of Seal Rock    | 41:26 (possible fkt)   | 2002-10-07 |  n/a      |  Seal Rock |Bear Canyon|[]() |
+Front Porch   | 20:59 (possible fkt)   | 2004-10-07 |  Jon Sargant (possible fkt)      |  Dave Mackey |NCAR|TdF 2004 |
+East Face of Seal Rock    | 41:26 (possible fkt)   | 2007-10-20 |  Jon Sargant (possible fkt)      |  Seal Rock |Bear Canyon|TdF 2007 |
 Diagonal   | 29:59   | 2020-10-21 |  Michael Reese       |  The Slab |Shanahan|[Verification](https://www.strava.com/activities/4226557500/) |
 North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden |South Mesa|[]( ) |
 Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden (linkup)  |South Mesa|[]( ) |
 
 
-A few of these still need route pages.
-Front Porch...
 
 <br />
 <br />
