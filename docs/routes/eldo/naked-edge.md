@@ -104,7 +104,9 @@
 - **Consensus:** Stable 5.11b; widely considered sandbagged (hard for grade).  
 - **Leaderboards:**  
   - **Stefan Griebel:** **400+** public ticks (#1).  
-  - Note: Some climbers such as JJ don’t log all their ticks in the database. 
+  - **Note on dataset:**
+  - Michael Reese has 59 ascents as of 9/2/2026, none logged publicly.
+  - Some climbers such as JJ don’t log all their ticks in the database. 
 
 ## References  
 - [Leaderboards.md (live stats)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)  
