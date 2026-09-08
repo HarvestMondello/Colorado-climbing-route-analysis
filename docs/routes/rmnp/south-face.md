@@ -4,6 +4,8 @@
 
 # Route Profile: *South Face* of Petite Grepon
 
+<br>
+
 ## Index
 
 - [Overview](#overview)
@@ -13,6 +15,8 @@
 - [FKTs](#fkts)
 - [Leaderboards](#leaderboards)
 - [References](#references)
+
+<br>
 
 ## Overview  
 - **Area:** Sky Pond, RMNP, Colorado  
@@ -38,6 +42,8 @@
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
 
+<br>
+
 ## Route Details
 ### Route Characteristics  
 - Lower pitches are chossy. Upper pitches are emaculate moderate face climbing. These stellar final pitches are shared with the higher quality, more difficult and less crowded Southwest Corner Route (5.9 III).
@@ -50,6 +56,8 @@
 n/a
 
 [↑ Back to Index](#index)
+
+<br>
 
 ## Seasonality
 ### Seasonal Profile & Sun Aspect  
@@ -83,6 +91,8 @@ Dec | █                              0.5%
 <!-- AUTO:SEASONALITY:END -->
 [↑ Back to Index](#index)
 
+<br>
+
 ## FKTs
 ### Fastest Known Time (FKT): trailhead to trailhead 
 
@@ -91,6 +101,8 @@ Dec | █                              0.5%
 | 02:39:27   | 2012-06-26 | Stefan Griebel      | Current FKT        | [GPS Verification](https://www.strava.com/activities/13156158) |
 
 [↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
 ## Leaderboards
