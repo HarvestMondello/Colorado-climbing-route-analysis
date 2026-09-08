@@ -42,8 +42,8 @@ Routes are bridge to bridge. (these need orders)
 [Gambit](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/gambit.md)     | n/a   | n/a  | n/a      |  Shirt Tail Peak | #30
 [Hair City](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/hair-city.md) (b2b)| n/a   | n/a  | n/a      |  The Bastille: West Face | #42
 [Long John Wall](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/long-john-wall.md)     | n/a   | n/a  | n/a      |  The West Ridge: Long John Tower | #92
-Wind Ridge (Direct)    | n/a   | n/a  | n/a      |  Wind Tower: Southwest Face | - 
-Swanson's Arete    | n/a   | n/a  | n/a      |  Redgarden: Lumpe Tower | -
+Wind Ridge (Direct)    | n/a   | n/a  | n/a      |  Wind Tower: Southwest Face |#183
+Swanson's Arete    | n/a   | n/a  | n/a      |  Redgarden: Lumpe Tower |#223
 
 
 researching: Rewritten, Bastille Crack, Handcracker Direct, Blind Faith, Long John Wall, Wind Ridge, Gambit, Swanson's Arete, or other routes on these formations (Green Spur Buttress, The Bastille, West Ridge, Wind Tower, Shirt Tail Peak, Lumpe Tower ect).
@@ -70,12 +70,12 @@ First, Second and Third Flatiron start at Chautauqua TH near the ranger cottage 
 Other Flatirons routes listed North to South from various trailheads:
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
-[Angel's Way](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/angels-way.md)   | 49:19(possible fkt)   | n/a |  n/a     |  Ridge Four  | NCAR |[]() |
-Stairway to Heaven   | 29:26  | Cordis Hall |  2017-10-13    |  Ridge Two |NCAR|[Verification (TdF 2017)](https://www.strava.com/activities/1228892735/) |
+[Angel's Way](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/angels-way.md)   | 49:19(possible fkt)   | n/a |  n/a     |  Ridge Four  | NCAR |[]() | #46
+Stairway to Heaven   | 29:26  | Cordis Hall |  2017-10-13    |  Ridge Two |NCAR|[Verification (TdF 2017)](https://www.strava.com/activities/1228892735/) |#255
 East Face Center on Front Porch   | 20:59 (possible fkt)   | 2004-10-07 |  Jon Sargant (possible fkt)      |  Front Porch |NCAR|TdF 2004 |
-[East Face North Side of Seal Rock](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md)   | 41:26 (possible fkt)   | 2007-10-20 |  Dave Mackey (possible fkt)      |  Seal Rock |Bear Canyon|TdF 2007 |
-Diagonal   | 29:59   | 2020-10-21 |  Michael Reese       |  The Slab |Shanahan|[Verification](https://www.strava.com/activities/4226557500/) |
-North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden |South Mesa|[]( ) |
+[East Face North Side of Seal Rock](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md)   | 41:26 (possible fkt)   | 2007-10-20 |  Dave Mackey (possible fkt)      |  Seal Rock |Bear Canyon|TdF 2007 | #98
+Diagonal   | 29:59   | 2020-10-21 |  Michael Reese       |  The Slab |Shanahan|[Verification](https://www.strava.com/activities/4226557500/) |-
+North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden |South Mesa|[]( ) |#112
 Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden (linkup)  |South Mesa|[]( ) |
 
 
