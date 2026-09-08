@@ -97,7 +97,7 @@
 | 2:51:41   | 2026-01-14 | Stefan Griebel, Jack Neus        | Quad Naked Edge        | [GPS Verification](https://www.strava.com/activities/17051369134)|    [GPS Verification](https://www.strava.com/activities/17051658142)  
   
 ## Analysis Highlights (Dataset)  
-- **#1 Classic Rank:** Highest *classic score* in Colorado.  
+- **#Classic Rank: 1** Highest *classic score* in Colorado.  
 - **Engagement:** Top **5%** of Colorado trad for popularity & quality.  
 - **Trend:** **58%** of public ticks in last 5 years.  
 - **Traffic:** 9th most climbed route in the Canyon; only 5.11 in top 10.  
@@ -107,14 +107,6 @@
   - **Note on dataset:**
   - Michael Reese has 59 ascents as of 9/2/2026, none logged publicly.
   - Some climbers such as JJ don’t log all their ticks in the database. 
-
-## References  
-- [Leaderboards.md (live stats)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)  
-- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
-- [Women’s FKT Report](https://ca.coros.com/stories/d/naked-edge-womens-speed-record-kate-kelleghan-laura-pineau)  
-- [All Women FKT News](https://www.climbing.com/news/fast-and-furious/)  
-- [FKT History Summary](https://gripped.com/routes/less-than-23-minutes-needed-for-this-famous-six-pitch-5-11/)  
-- [Mountain Project Entry](https://www.mountainproject.com/route/105748786/the-naked-edge)  
 
 
 <!-- AUTO:METRICS:START -->
@@ -189,3 +181,11 @@ Dec | █                              3.5%
 | 24 | Mark Hammond | 11 |
 | 25 | max seigal | 10 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+
+## References  
+- [Leaderboards.md (live stats)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)  
+- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
+- [Women’s FKT Report](https://ca.coros.com/stories/d/naked-edge-womens-speed-record-kate-kelleghan-laura-pineau)  
+- [All Women FKT News](https://www.climbing.com/news/fast-and-furious/)  
+- [FKT History Summary](https://gripped.com/routes/less-than-23-minutes-needed-for-this-famous-six-pitch-5-11/)  
+- [Mountain Project Entry](https://www.mountainproject.com/route/105748786/the-naked-edge)

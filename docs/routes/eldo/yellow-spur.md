@@ -74,15 +74,6 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 | 57:02  | 2018-07-11 | Jon Oulton, Nodin DeSaillan    |              | |                    |
 | 58:10  | Early 2000s| Josh Wharton, Kevin Chochran   | First logged | |                    |
 
-## Analysis Highlights (Dataset)  
-- **#5 Classic Rank:** 5th highest *classic score* in Colorado.  
-- **Engagement:** Top **5%** of Colorado trad for popularity & quality.  
-- **Traffic:** 5th most climbed route in the Canyon.  
-- **Trend:** **47%** of public ticks logged in the last 5 years.  
-- **Consensus:** 5.9+, widely regarded as sandbagged (hard for grade).  
-- **Leaderboards:**  
-  - **Danny Gilbert:** Over **250** public ticks (#1).
-
   ## Climbers not in the dataset or with partial entries:  
   - **Bill Wright:** Estimated 100 to 200+ ascents (partial record shows 92). He is quoted as saying he has less ascents than Danny Gilbert.    
   - **Michael Reese** has 123 ascents as of 9/2/2026, none logged publicly.
@@ -93,11 +84,17 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 - **Seasonality:** Year-round; peak summer; quiet winters.  
 - **Exposure:** West-facing. Summer shade; spring morning shade; fall afternoon sun. Winter is cold but afternoon sun can provide reasonable temps.  
 
-## References  
-- [Leaderboards.md (live stats)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)  
-- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
-- FKT history confirmed via Danny Gilbert  
-- [Mountain Project Entry](https://www.mountainproject.com/route/105748657/the-yellow-spur)  
+
+
+## Analysis Highlights (Dataset)  
+- **Classic Rank: 7** 7th highest *classic score* in Colorado.  
+- **Engagement:** Top **5%** of Colorado trad for popularity & quality.  
+- **Traffic:** 5th most climbed route in the Canyon.  
+- **Trend:** **47%** of public ticks logged in the last 5 years.  
+- **Consensus:** 5.9+, widely regarded as sandbagged (hard for grade).  
+- **Leaderboards:**  
+  - **Danny Gilbert:** Over **270** public ticks (#1).
+
 
 
 <!-- AUTO:METRICS:START -->
@@ -147,7 +144,7 @@ Dec | █                              3.6%
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
 | 1 | Danny Gilbert | 272 |
-| 2 | Harvest Mondello | 99 |
+| 2 | Harvest Mondello | 98 |
 | 3 | Bill Wright | 92 |
 | 4 | Michael Butts | 71 |
 | 5 | Jack Neus | 44 |
@@ -172,3 +169,9 @@ Dec | █                              3.6%
 | 24 | Daniel Dunn | 10 |
 | 25 | Mario Delgado | 10 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+
+
+## References  
+- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
+- FKT history confirmed via Danny Gilbert  
+- [Mountain Project Entry](https://www.mountainproject.com/route/105748657/the-yellow-spur)
