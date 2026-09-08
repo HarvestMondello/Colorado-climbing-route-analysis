@@ -73,7 +73,7 @@ Other Flatirons routes listed North to South from various trailheads:
 [Angel's Way](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/angels-way.md)   | 49:19(possible fkt)   | n/a |  n/a     |  Ridge Four  | NCAR |[]() |
 Stairway to Heaven   | 29:26  | Cordis Hall |  2017-10-13    |  Ridge Two |NCAR|[Verification (TdF 2017)](https://www.strava.com/activities/1228892735/) |
 East Face Center on Front Porch   | 20:59 (possible fkt)   | 2004-10-07 |  Jon Sargant (possible fkt)      |  Front Porch |NCAR|TdF 2004 |
-East Face of Seal Rock    | 41:26 (possible fkt)   | 2007-10-20 |  Dave Mackey (possible fkt)      |  Seal Rock |Bear Canyon|TdF 2007 |
+East Face North Side of Seal Rock [East Face North Side of Seal Rock](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md)   | 41:26 (possible fkt)   | 2007-10-20 |  Dave Mackey (possible fkt)      |  Seal Rock |Bear Canyon|TdF 2007 |
 Diagonal   | 29:59   | 2020-10-21 |  Michael Reese       |  The Slab |Shanahan|[Verification](https://www.strava.com/activities/4226557500/) |
 North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden |South Mesa|[]( ) |
 Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden (linkup)  |South Mesa|[]( ) |
