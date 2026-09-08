@@ -36,7 +36,7 @@
 | Lifetime Ticks       | 2072.0    |
 | Avg Ticks / Climber  | 1.29      |
 <!-- AUTO:METRICS:END -->
-
+[↑ Back to Index](#index)
 
 ## Route Details
 ### Route Characteristics  
@@ -48,7 +48,7 @@
 
 ### Historical Context  
 n/a
-
+[↑ Back to Index](#index)
 
 ## Seasonality
 ### Seasonal Profile & Sun Aspect  
@@ -80,6 +80,7 @@ Nov | █                              0.2%
 Dec | █                              0.5%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
 
 ## FKTs
 ### Fastest Known Time (FKT): trailhead to trailhead 
@@ -87,6 +88,8 @@ Dec | █                              0.5%
 | Time    | Date       | Climbers                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | 02:39:27   | 2012-06-26 | Stefan Griebel      | Current FKT        | [GPS Verification](https://www.strava.com/activities/13156158) |
+
+[↑ Back to Index](#index)
 
 <!-- AUTO:TOP_CLIMBERS:START -->
 ## Leaderboards
@@ -119,6 +122,8 @@ Dec | █                              0.5%
 | 24 | Daniel S | 3 |
 | 25 | David Stillman | 3 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+
+[↑ Back to Index](#index)
 
 ## References  
 - *Rocky Mountain National Park* by Richard Rossiter, 2015   
