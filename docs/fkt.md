@@ -32,18 +32,18 @@ Routes are bridge to bridge. (these need orders)
 
 | Route    | Time      | Date                         | Climbers              | Formation      |
 |---------|------------|-----------------------------------|--------------------|--------------------|
-|[The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/naked-edge.md)    | 22:44   | 2022-10-22 | Stefan Griebel, Joe Kennedy       |  Redgarden: Tower Two |  |
-[The Yellow Spur](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/yellow-spur.md)    | 28:04   | 2026-07-23 | Michael Reese, Jack Gugel       |  Redgarden: Tower One | 
-[Rewritten](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/rewritten.md)    | n/a   | n/a  | n/a      |  Redgarden: Green Spur Buttress | 
-[Handcracker Direct](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/handcracker-direct.md)    | n/a   | n/a  | n/a      |  The West Ridge: Mail Ridge Tower | 
-[Bastille Crack (b2b)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/bastille-crack.md)    | n/a   | n/a  | n/a      |  The Bastille: North Face | 
-[Blind Faith (b2b)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/blind-faith.md)    | n/a   | n/a  | n/a      |  The Bastille: West Face | 
-[Ruper](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/ruper.md)    | n/a   | n/a  | n/a      |  Redgarden: Upper & Lower Ramp | 
-Hair City (b2b) | n/a   | n/a  | n/a      |  The Bastille: West Face | 
-Long John Wall    | n/a   | n/a  | n/a      |  The West Ridge: Long John Tower | 
-Gambit    | n/a   | n/a  | n/a      |  Shirt Tail Peak | 
-Wind Ridge (Direct)    | n/a   | n/a  | n/a      |  Wind Tower: West Face | 
-Swanson's Arete    | n/a   | n/a  | n/a      |  Redgarden: Lump Tower | 
+|[The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/naked-edge.md)    | 22:44   | 2022-10-22 | Stefan Griebel, Joe Kennedy       |  Redgarden: Tower Two |  | #1
+[The Yellow Spur](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/yellow-spur.md)    | 28:04   | 2026-07-23 | Michael Reese, Jack Gugel       |  Redgraden: Tower One | #7
+[Rewritten](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/rewritten.md)    | n/a   | n/a  | n/a      |  Redgarden: Green Spur Buttress | #2 
+[Handcracker Direct](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/handcracker-direct.md)    | n/a   | n/a  | n/a      |  The West Ridge: Mail Ridge Tower | #11
+[Blind Faith](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/blind-faith.md) (b2b)   | n/a   | n/a  | n/a      |  The Bastille: West Face | #21
+[Bastille Crack](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/bastille-crack.md) (b2b)   | n/a   | n/a  | n/a      |  The Bastille: North Face | #24
+[Ruper](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/ruper.md)    | n/a   | n/a  | n/a      |  Redgarden: Upper & Lower Ramp | #28
+[Gambit](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/gambit.md)     | n/a   | n/a  | n/a      |  Shirt Tail Peak | #30
+[Hair City](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/hair-city.md) (b2b)| n/a   | n/a  | n/a      |  The Bastille: West Face | #42
+[Long John Wall](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/long-john-wall.md)     | n/a   | n/a  | n/a      |  The West Ridge: Long John Tower | #92
+Wind Ridge (Direct)    | n/a   | n/a  | n/a      |  Wind Tower: West Face | - 
+Swanson's Arete    | n/a   | n/a  | n/a      |  Redgarden: Lump Tower | -
 
 
 
@@ -71,10 +71,10 @@ First, Second and Third Flatiron start at Chautauqua TH near the ranger cottage 
 Other Flatirons routes listed North to South from various trailheads:
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
+[Angel's Way](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/angels-way.md)   | 49:19(possible fkt)   | n/a |  n/a     |  Ridge Four  | NCAR |[]() |
 Stairway to Heaven   | 29:26  | Cordis Hall |  2017-10-13    |  Ridge Two |NCAR|[Verification (TdF 2017)](https://www.strava.com/activities/1228892735/) |
-Angel's Way    | 49:19(possible fkt)   | n/a |  n/a     |  Ridge Four  | NCAR |[]() |
-Front Porch East Face Center   | 20:59 (possible fkt)   | 2004-10-07 |  Jon Sargant (possible fkt)      |  Front Porch |NCAR|TdF 2004 |
-East Face of Seal Rock    | 41:26 (possible fkt)   | 2007-10-20 |  Dave Mackey (possible fkt)      |  Seal Rock |Bear Canyon|TdF 2007 |
+East Face Center on Front Porch   | 20:59 (possible fkt)   | 2004-10-07 |  Jon Sargant (possible fkt)      |  Front Porch |NCAR|TdF 2004 |
+[East Face of Seal Rock](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-seal-rock.md)    | 41:26 (possible fkt)   | 2007-10-20 |  Dave Mackey (possible fkt)      |  Seal Rock |Bear Canyon|TdF 2007 |
 Diagonal   | 29:59   | 2020-10-21 |  Michael Reese       |  The Slab |Shanahan|[Verification](https://www.strava.com/activities/4226557500/) |
 North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden |South Mesa|[]( ) |
 Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden (linkup)  |South Mesa|[]( ) |
