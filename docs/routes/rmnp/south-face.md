@@ -1,60 +1,29 @@
-# Route Profile: *South Face* of Petite Grepon
+
 
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/petite-grepon.png" alt="South Face on Petit Grepon in RMNP" width="1200"/>
 
+# Route Profile: *South Face* of Petite Grepon
+
+## Index
+
+- [Overview](#overview)
+- [Metrics](#metrics)
+- [Route Details](#route-details)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
+
 ## Overview  
-- **Area:** Sky Pond,, RMNP, Colorado  
+- **Area:** Sky Pond, RMNP, Colorado  
 - **Formation:** Petit Grepon
-- **Grade:** 5.7 (8 pitches)  / III
+- **Grade:** 5.8 (8 pitches)  / III
 - **Length:** ~700'  
 - **Style:** Trad, multipitch  
 - **First Ascent:**  William Buckingham and Art Davidson, 1961 
 
-## Summary  
-*South Face* on the Petit Grepon
-
-## Route Characteristics  
-- Lower pitches are chossy. Upper pitches are emaculate moderate face climbing. These stellar final pitches are shared with the higher quality, more difficult and less crowded Southwest Corner Route (5.9 III).
-
-### Approach & Descent 
-- Double rope rapels or
-- A North walk off (involved and not described here)
-
-### Seasonal Profile & Sun Aspect  
-- **Seasonality:** June-September. The south face opens up early in alpine season and is climbed until snow fall begins.
-- **Sun Exposure:** South facing.
-
-## Historical Context  
-n/a
-
-## Fastest Known Time (FKT): trailhead to trailhead 
-
-| Time    | Date       | Climbers                          | Notes              | Verification       |
-|---------|------------|-----------------------------------|--------------------|--------------------|
-| 02:39:27   | 2012-06-26 | Stefan Griebel      | Current FKT        | [GPS Verification](https://www.strava.com/activities/13156158) |
-
-## Analysis Highlights (Dataset)  
-- **Classic Rank:** 
-- **Engagement:**   
-- **Trend:**   
-- **Traffic:**  
-- **Consensus:** .  
-- **Leaderboards:**  
-  - **Leader:**  
- 
-
-## References  
-- [Mountain Project Entry](https://www.mountainproject.com/route/105749770/south-face)  
-
-- **Leaderboards:**  
-  - **Leader:**  
- 
-
-## References  
-- [Mountain Project Entry](https://www.mountainproject.com/route/105749770/south-face)
-
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
@@ -68,8 +37,26 @@ n/a
 | Avg Ticks / Climber  | 1.29      |
 <!-- AUTO:METRICS:END -->
 
+
+## Route Details
+### Route Characteristics  
+- Lower pitches are chossy. Upper pitches are emaculate moderate face climbing. These stellar final pitches are shared with the higher quality, more difficult and less crowded Southwest Corner Route (5.9 III).
+
+### Approach & Descent 
+- Double rope rapels or
+- A North walk off (involved and not described here)
+
+### Historical Context  
+n/a
+
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** June-September. The south face opens up early in alpine season and is climbed until snow fall begins.
+- **Sun Exposure:** South facing.
+
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Distribution
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 1.3% **off season**
@@ -94,8 +81,15 @@ Dec | █                              0.5%
 ```
 <!-- AUTO:SEASONALITY:END -->
 
+## FKTs
+### Fastest Known Time (FKT): trailhead to trailhead 
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| 02:39:27   | 2012-06-26 | Stefan Griebel      | Current FKT        | [GPS Verification](https://www.strava.com/activities/13156158) |
+
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -125,3 +119,7 @@ Dec | █                              0.5%
 | 24 | Daniel S | 3 |
 | 25 | David Stillman | 3 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+
+## References  
+- *Rocky Mountain National Park* by Richard Rossiter, 2015   
+- [Mountain Project Entry](https://www.mountainproject.com/route/105749770/south-face)
