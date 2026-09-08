@@ -605,9 +605,15 @@ def main():
 
         candidates: List[Path] = []
         seen: Set[Path] = set()
+        #for k in key_candidates:
+        #    for p in md_idx.get(k.lower(), []):
+        #        if p not in seen:
+        #            seen.add(p)
+        #            candidates.append(p)
+
         for k in key_candidates:
             for p in md_idx.get(k.lower(), []):
-                if p not in seen:
+                if p not in seen and p not in processed_files:
                     seen.add(p)
                     candidates.append(p)
 
