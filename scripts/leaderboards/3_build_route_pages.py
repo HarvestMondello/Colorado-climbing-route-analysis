@@ -467,26 +467,86 @@ def build_top_climbers(row: pd.Series) -> Optional[str]:
     return re.sub(r"\|\s*None\s*\|", "|  |", f"{head}\n{body}")
 
 # ----------------------
-# Hard reset of auto content
+# In-place AUTO section updates
 # ----------------------
-def hard_reset_auto_sections(md: str) -> str:
-    for key in ("METRICS", "SEASONALITY", "TOP_CLIMBERS", "SUMMARY"):
-        start, end, _ = AUTO[key]
-        md = re.sub(
-            rf"[ \t]*{re.escape(start)}[\s\S]*?{re.escape(end)}[ \t]*\n?",
-            "",
-            md,
-            flags=re.IGNORECASE,
-        )
-    md = re.sub(r"(?m)^[ \t]*---[ \t]*\n?", "", md)
-    md = re.sub(r"\n{3,}", "\n\n", md)
+AUTO_INSERT_ANCHOR = "<!-- AUTO:INSERT -->"
+
+
+def normalize_auto_markers(md: str) -> str:
+    """Normalize accidentally escaped AUTO markers to canonical HTML comments."""
+    return re.sub(
+        r"\\?<!--\s*AUTO\\?:([A-Z_]+)\\?:(START|END)\s*-->",
+        lambda m: f"<!-- AUTO:{m.group(1).upper()}:{m.group(2).upper()} -->",
+        md,
+        flags=re.IGNORECASE,
+    )
+
+
+def make_auto_section(title: str, start: str, end: str, body: str) -> str:
+    return f"{start}\n{title}\n\n{body}\n{end}"
+
+
+def upsert_in_place(md: str, key: str, body: Optional[str]) -> str:
+    """
+    Replace an existing AUTO block exactly where it currently lives.
+
+    If body is None, remove the existing block (used when there is no
+    Top Climbers data).
+
+    If the block does not yet exist, insert it immediately before
+    <!-- AUTO:INSERT --> when that anchor is present. Otherwise append it.
+    Manual text outside AUTO markers is never moved.
+    """
+    start, end, title = AUTO[key]
+
+    pattern = re.compile(
+        rf"(?im)^[ \t]*{re.escape(start)}[ \t]*(?:\r?\n)?"
+        rf"[\s\S]*?"
+        rf"^[ \t]*{re.escape(end)}[ \t]*",
+        flags=re.IGNORECASE,
+    )
+
+    matches = list(pattern.finditer(md))
+    if len(matches) > 1:
+        raise RuntimeError(f"Duplicate AUTO section {key}: found {len(matches)} blocks")
+
+    if body is None:
+        if matches:
+            md = pattern.sub("", md, count=1)
+        return re.sub(r"\n{3,}", "\n\n", md).rstrip() + "\n"
+
+    section = make_auto_section(title, start, end, body)
+
+    if matches:
+        # Critical behavior: replace at the same location instead of moving
+        # generated content to the end of the Markdown file.
+        md = pattern.sub(section, md, count=1)
+    elif AUTO_INSERT_ANCHOR in md:
+        # For a page that has never had this AUTO block, put it before the
+        # insertion anchor so manual footer content can remain after it.
+        md = md.replace(AUTO_INSERT_ANCHOR, section + "\n\n" + AUTO_INSERT_ANCHOR, 1)
+    else:
+        # Backward-compatible fallback for old pages with no anchor.
+        md = md.rstrip() + "\n\n" + section + "\n"
+
     return md
 
-def upsert(md: str, title: str, start: str, end: str, body: str) -> str:
-    section = f"{start}\n{title}\n\n{body}\n{end}\n"
-    if not md.endswith("\n"):
-        md += "\n"
-    return md + "\n" + section
+
+def validate_auto_markers(md: str, md_path: Path) -> None:
+    """Fail before writing if any AUTO marker is unbalanced or duplicated."""
+    for key in ("METRICS", "SEASONALITY", "TOP_CLIMBERS"):
+        start, end, _ = AUTO[key]
+        start_count = md.count(start)
+        end_count = md.count(end)
+        if start_count != end_count:
+            raise RuntimeError(
+                f"Unbalanced AUTO markers in {md_path}: "
+                f"{key} has {start_count} START and {end_count} END marker(s)"
+            )
+        if start_count > 1:
+            raise RuntimeError(
+                f"Duplicate AUTO markers in {md_path}: {key} appears {start_count} times"
+            )
 
 # ----------------------
 # Main page update
@@ -515,19 +575,19 @@ def update_page(
         if csv_keys.isdisjoint(h1_keys):
             print(f"⚠ H1 differs (continuing): {md_path.name} | H1='{h1}' vs CSV='{name}'")
 
-    base_text = hard_reset_auto_sections(text)
+    # Normalize marker spelling/escaping, but keep every section in place.
+    updated_text = normalize_auto_markers(text)
 
     metrics = build_metrics(row, cols, ranks)
     season = build_seasonality(row, months)
     top = build_top_climbers(row)
 
-    updated_text = base_text
-    updated_text = upsert(updated_text, AUTO["METRICS"][2], *AUTO["METRICS"][:2], metrics)
-    updated_text = upsert(updated_text, AUTO["SEASONALITY"][2], *AUTO["SEASONALITY"][:2], season)
-    if top:
-        updated_text = upsert(updated_text, AUTO["TOP_CLIMBERS"][2], *AUTO["TOP_CLIMBERS"][:2], top)
+    updated_text = upsert_in_place(updated_text, "METRICS", metrics)
+    updated_text = upsert_in_place(updated_text, "SEASONALITY", season)
+    updated_text = upsert_in_place(updated_text, "TOP_CLIMBERS", top)
 
     updated_text = strip_none_lines(updated_text)
+    validate_auto_markers(updated_text, md_path)
 
     if force:
         if dry:
