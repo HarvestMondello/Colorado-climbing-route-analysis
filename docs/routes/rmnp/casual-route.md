@@ -15,12 +15,12 @@
 - **First Ascent:** Duncan Ferguson, Chris Reveley, 1977
 
 ## Summary  
-*The Casual Route* is the easiest free climb up the Diamond on Long's Peaj and one of the most iconic multipitch climbs in North America. With striking exposure, moderate difficulty, and historic significance, it remains a must-do for generations of climbers. In this analysis, the route stands out as both a **cultural landmark** and a **high-traffic classic**.  
+*The Casual Route* is the easiest free climb up the Diamond on Long's Peak and one of the most iconic multipitch climbs in North America. With striking exposure, moderate difficulty, variable weather and historic significance, it remains a must-do for generations of climbers. In this analysis, the route stands out as a **cultural landmark**. 
 
 ## Route Characteristics  
-- delicate traverses, confidence inspiring finger cracks, a squeeze chimney and a bulge crux.
+- delicate traverses, confidence inspiring finger cracks, a squeeze chimney and an intimidating bulge crux.
 - Diverse climbing: fingerlocks, stemming, technical face sequences, and crack climbing.  
-- Known for **serious exposure**, to the elements and storms.  
+- Known for **serious exposure** to the elements and storms.  
 - Protection is very good, G.
 
 ### Approach & Descent 
@@ -43,7 +43,7 @@
     - back to the trailhead via foot power
 
 ### Current Record: Casual Route Trailhead to Trailhead (Unsupported) 
-- **03:09:50 T2T** | 2024-09-02 | John Alcorn (solo)   
+- **03:09:50** | 2024-09-02 | John Alcorn  
 - [GPS Verification](https://www.strava.com/activities/12306779867)  
 
 ### FKT History: Casual Route
