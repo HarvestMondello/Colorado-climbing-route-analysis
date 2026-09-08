@@ -15,12 +15,12 @@
 - **First Ascent:** Duncan Ferguson, Chris Reveley, 1977
 
 ## Summary  
-*The Casual Route* is the easiest free climb up the Diamond on Long's Peak and one of the most iconic multipitch climbs in North America. With striking exposure, moderate difficulty, variable weather and historic significance, it remains a must-do for generations of climbers. In this analysis, the route stands out as a **cultural landmark**. 
+*The Casual Route* is the easiest free climb up the Diamond on Long's Peaj and one of the most iconic multipitch climbs in North America. With striking exposure, moderate difficulty, and historic significance, it remains a must-do for generations of climbers. In this analysis, the route stands out as both a **cultural landmark** and a **high-traffic classic**.  
 
 ## Route Characteristics  
-- delicate traverses, confidence inspiring finger cracks, a squeeze chimney and an intimidating bulge crux.
+- delicate traverses, confidence inspiring finger cracks, a squeeze chimney and a bulge crux.
 - Diverse climbing: fingerlocks, stemming, technical face sequences, and crack climbing.  
-- Known for **serious exposure** to the elements and storms.  
+- Known for **serious exposure**, to the elements and storms.  
 - Protection is very good, G.
 
 ### Approach & Descent 
@@ -43,7 +43,7 @@
     - back to the trailhead via foot power
 
 ### Current Record: Casual Route Trailhead to Trailhead (Unsupported) 
-- **03:09:50** | 2024-09-02 | John Alcorn  
+- **03:09:50 T2T** | 2024-09-02 | John Alcorn (solo)   
 - [GPS Verification](https://www.strava.com/activities/12306779867)  
 
 ### FKT History: Casual Route
@@ -88,7 +88,6 @@
 | Time    | Date       | Climbers                          | Notes              | Verification       |    |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 02:19:37  | 2024-08-07 | Anton Krupicka     | Current FKT  |[GPS Verification](https://www.strava.com/activities/12088698671) |  |
-
 
 <!-- AUTO:METRICS:START -->
 ### Metrics
@@ -162,3 +161,7 @@ Dec | █                              1.2%
 | 24 | Tristan Bradford | 4 |
 | 25 | Aaron Glasenapp | 3 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+
+## References  
+- *Rocky Mountain National Park* by Richard Rossiter, 2015   
+- [Mountain Project Entry](https://www.mountainproject.com/route/105748496/casual-route)

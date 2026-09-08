@@ -51,8 +51,7 @@ n/a
  
 
 ## References  
-- [Mountain Project Entry](https://www.mountainproject.com/route/105749770/south-face)  
-
+- [Mountain Project Entry](https://www.mountainproject.com/route/105749770/south-face)
 
 <!-- AUTO:METRICS:START -->
 ### Metrics
