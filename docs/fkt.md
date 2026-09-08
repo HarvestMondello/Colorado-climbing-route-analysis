@@ -42,12 +42,12 @@ Routes are bridge to bridge. (these need orders)
 [Gambit](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/gambit.md)     | n/a   | n/a  | n/a      |  Shirt Tail Peak | #30
 [Hair City](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/hair-city.md) (b2b)| n/a   | n/a  | n/a      |  The Bastille: West Face | #42
 [Long John Wall](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/long-john-wall.md)     | n/a   | n/a  | n/a      |  The West Ridge: Long John Tower | #92
-Wind Ridge (Direct)    | n/a   | n/a  | n/a      |  Wind Tower: West Face | - 
-Swanson's Arete    | n/a   | n/a  | n/a      |  Redgarden: Lump Tower | -
+Wind Ridge (Direct)    | n/a   | n/a  | n/a      |  Wind Tower: Southwest Face | - 
+Swanson's Arete    | n/a   | n/a  | n/a      |  Redgarden: Lumpe Tower | -
 
 
 
-researching: Rewritten, Bastille Crack, Handcracker Direct, Blind Faith, Long John Wall, Wind Ridge, Gambit, Swanson's Arete, or other routes on these formations (Green Spur Buttress, The Bastille, West Ridge, Wind Tower, Shirt Tail Peak, Lumpe Tower ect). A few of these still need route pages.
+researching: Rewritten, Bastille Crack, Handcracker Direct, Blind Faith, Long John Wall, Wind Ridge, Gambit, Swanson's Arete, or other routes on these formations (Green Spur Buttress, The Bastille, West Ridge, Wind Tower, Shirt Tail Peak, Lumpe Tower ect). 
 
 <br />
 <br />
