@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/....png" alt="..." width="1200"/>
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/.png" alt="" width="1200"/>
 
 # Route Profile: 
 
@@ -20,27 +20,27 @@
 
 ## Overview  
 - **Area:**  
-- **Formation:** =
-- **Grade:** 
-- **Length:**  
-- **Style:** Trad, multipitch  
-- **First Ascent:**  
+- **Formation:** 
+- **Grade:**
+- **Length:** 
+- **Style:** Trad,  
+- **First Ascent:** 
 
 <br>
 
 ## Details
 ### Route Characteristics  
-
+n/a
 
 ### Approach & Descent 
-
+n/a
 
 ### Historical Context  
-
+n/a
 
 [↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
@@ -63,11 +63,11 @@
 
 ## Seasonality
 ### Seasonal Profile & Sun Aspect  
-- **Seasonality:** 
+- **Seasonality:**
 - **Sun Exposure:** 
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 1.3% **off season**
@@ -95,19 +95,22 @@ Dec | █                              0.5%
 
 <br>
 
-## FKTs
+## FKTs 
+
 ### Fastest Known Time (FKT): trailhead to trailhead 
 
 | Time    | Date       | Climbers                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
-|    |  |      |        | [GPS Verification]() |
+| n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
 
 [↑ Back to Index](#index)
 
 <br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -137,9 +140,10 @@ Dec | █                              0.5%
 | 24 | Daniel S | 3 |
 | 25 | David Stillman | 3 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
 
 [↑ Back to Index](#index)
 
 ## References  
-- n.a
-- [Mountain Project Entry](https://www.mountainproject.com/route/)
+- guidebook   
+- [Mountain Project Entry](https://www.mountainproject.com/route/105749770/)
