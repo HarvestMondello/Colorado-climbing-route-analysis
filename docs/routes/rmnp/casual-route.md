@@ -51,8 +51,12 @@
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | 03:09:50  | 2024-09-02 | John Alcorn         | Current FKT  | [GPS Verification](https://www.strava.com/activities/12306779867)|  
 | 03:26:12  | 2021-08-30 | Maury Birdwell        |   | [GPS Verification](https://www.strava.com/activities/)|   
-| 03:53:59  | 2020-08-04 | Stefan Griebel and Wade Morris          |   | n/a  
-| 03:59:00  | 2000-08-01 | Dean Potter         |   | n/a             
+| 03:53:59  | 2020-08-04 | Stefan Griebel, Wade Morris          |   | [GPS Verification](https://www.strava.com/activities/3864748866/)|    
+| 03:59:00  | 2000-08-01 | Dean Potter         |   | n/a 
+| 05:45:00  | 1991-xx-xx | Roger Briggs         |   | n/a 
+
+
+
 
 ## Fastest Known Time (FKT): Long's Triathlon
 - **Rules:** Boulder to Long's East TH via human powered bike, run to the base of the Diamond, ascent the Casual Route, top out on the summit of Long's. Run down to the TH and bike back to Boulder 
@@ -73,7 +77,9 @@
 
 | Time    | Date       | Climbers                          | Notes              | Verification       |Verification 2      |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 09:06:44 | 2016-08-16 | Stefan Griebel & Anton Krupicka         | Current FKT  |[GPS Verification](https://www.strava.com/activities/678597205) |  [GPS Verification](https://www.strava.com/activities/678646953)   |
+| 09:06:44 | 2016-08-16 | Stefan Griebel, Anton Krupicka         | Current FKT  |[GPS Verification](https://www.strava.com/activities/678597205) |  [GPS Verification](https://www.strava.com/activities/678646953)   |
+| 09:50:03 | 2012-08-27 | Stefan Griebel, Jason Wells        |   |[GPS Verification](https://www.strava.com/activities/19973950) |  
+| 10:30:00 | 1990-08-10 | Neal Beidleman, Kevin Cooney         |   | |    |
 
 ## Nearby FKTs:
 
@@ -89,14 +95,26 @@
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 02:19:37  | 2024-08-07 | Anton Krupicka     | Current FKT  |[GPS Verification](https://www.strava.com/activities/12088698671) |  |
 
+
+## Related linkups:
+### Longs Peak Triathlon Sit Start: Naked Edge, Third Flatiron, First Flatiron, Casual Route (linked unsupported via bicycles between three trailheads)
+| Time    | Date       | Climbers                          | Notes              | Verification       |    |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+| 18:44:37  | 2019-08-13 | Stefan Griebel, Wade Morris     | CUrrent FKT  |[GPS Verification](https://www.strava.com/activities/2617503027) |  |
+
+
+
+
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.10a YDS |
+| Classic Rank         | 9         |
 | Location             | Diamond   |
+| Grade                | 5.10a YDS |
+| Pitches              | 8         |
+| FA Info              | Duncan Ferguson, Chris Reveley, 1977 |
 | Stars (avg)          | 3.8       |
 | Votes                | 733.0     |
 | Unique Climbers      | 1220.0    |
@@ -105,7 +123,7 @@
 <!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 2.1% **off season**
@@ -131,7 +149,7 @@ Dec | █                              1.2%
 <!-- AUTO:SEASONALITY:END -->
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
