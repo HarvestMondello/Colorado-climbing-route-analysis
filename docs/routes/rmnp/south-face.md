@@ -96,12 +96,15 @@ Dec | █                              0.5%
 
 <br>
 
-## FKTs
+## FKTs 
+
 ### Fastest Known Time (FKT): trailhead to trailhead 
 
 | Time    | Date       | Climbers                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | 02:39:27   | 2012-06-26 | Stefan Griebel      | Current FKT        | [GPS Verification](https://www.strava.com/activities/13156158) |
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
 
 [↑ Back to Index](#index)
 
@@ -138,6 +141,7 @@ Dec | █                              0.5%
 | 24 | Daniel S | 3 |
 | 25 | David Stillman | 3 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
 
 [↑ Back to Index](#index)
 
