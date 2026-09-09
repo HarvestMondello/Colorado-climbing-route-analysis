@@ -312,6 +312,8 @@ def build_metrics(row: pd.Series, cols: Dict[str, str], rank_map: Dict[str, int]
                 break
 
     grade_val         = row.get(cols["grade"])
+    pitches_val       = row.get(cols["pitches"]) if cols["pitches"] else None
+    fa_info_val       = row.get(cols["fa_info"]) if cols["fa_info"] else None
     stars_val         = row.get(cols["stars"])
     votes_val         = row.get(cols["votes"])
     total_ticks_val   = row.get(cols["total_ticks"])
@@ -328,8 +330,10 @@ def build_metrics(row: pd.Series, cols: Dict[str, str], rank_map: Dict[str, int]
 
     rows = [
         ("Classic Rank",        _fmt_rank(classic_rank_val)),
-        ("Grade",               f"{grade_val}" if pd.notna(grade_val) else ""),
         ("Location",            location_val),
+        ("Grade",               f"{grade_val}" if pd.notna(grade_val) else ""),
+        ("Pitches",             f"{pitches_val}" if pd.notna(pitches_val) else ""),
+        ("FA Info",             f"{fa_info_val}" if pd.notna(fa_info_val) else ""),
         ("Stars (avg)",         _fmt_num(stars_val, nd=1)),
         ("Votes",               _fmt_num(votes_val, nd=1)),
         ("Unique Climbers",     _fmt_num(uniq_climbers_val, nd=1)),
@@ -629,10 +633,7 @@ def main():
         sys.exit(1)
 
     df = read_csv(args.dataset)
-    # Normalize source column names
-    if "rank" in df.columns and "classic_rank" not in df.columns:
-        df = df.rename(columns={"rank": "classic_rank"})
-        months = map_month_cols(df)
+    months = map_month_cols(df)
 
     cols = {
         "name":            find_col(df, ["Route Name", "route_name", "name"]),
@@ -642,7 +643,9 @@ def main():
         "total_ticks":     find_col(df, ["total_ticks", "Total Ticks", "ticks"]),
         "unique_climbers": find_col(df, ["unique_climbers", "Unique Climbers"]),
         "area":            find_col(df, ["Area Hierarchy", "area_hierarchy"]),
-        "classic_rank":    find_col(df, ["Classic Rank", "_classic_rank", "classic_rank"]),
+        "classic_rank":    find_col(df, ["rank", "Classic Rank", "_classic_rank", "classic_rank"]),
+        "pitches":         find_col(df, ["pitches", "Pitches"]),
+        "fa_info":         find_col(df, ["fa_info", "FA Info"]),
     }
     if not cols["name"]:
         print("Dataset missing route name column.")
