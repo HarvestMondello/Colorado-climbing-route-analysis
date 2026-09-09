@@ -21,7 +21,7 @@
 ## Overview  
 - **Area:** Sky Pond, RMNP, Colorado  
 - **Formation:** Petit Grepon
-- **Grade:** 5.8 (8 pitches)  / III
+- **Grade:** 5.8 (8 pitches), III
 - **Length:** ~700'  
 - **Style:** Trad, multipitch  
 - **First Ascent:**  William Buckingham and Art Davidson, 1961 
@@ -41,7 +41,7 @@ n/a
 
 [↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
@@ -68,7 +68,7 @@ n/a
 - **Sun Exposure:** South facing.
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 1.3% **off season**
@@ -108,7 +108,7 @@ Dec | █                              0.5%
 <br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
