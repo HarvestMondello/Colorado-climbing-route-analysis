@@ -110,13 +110,15 @@
 
 
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.11b YDS |
+| Classic Rank         | 1         |
 | Location             | Redgarden - Tower Two |
+| Grade                | 5.11b YDS |
+| Pitches              | 6         |
+| FA Info              | Layton Kor, Bob Culp 1962 (partial). Layton Kor, Maurice (Rick) Horn 1964 (complete). FFA: Jim Erickson, Duncan Ferguson, 1971 |
 | Stars (avg)          | 3.9       |
 | Votes                | 537.0     |
 | Unique Climbers      | 785.0     |
@@ -125,7 +127,7 @@
 <!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 10.2% **low season**
@@ -151,7 +153,7 @@ Dec | █                              3.5%
 <!-- AUTO:SEASONALITY:END -->
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
