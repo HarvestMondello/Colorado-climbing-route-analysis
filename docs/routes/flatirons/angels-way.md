@@ -1,77 +1,73 @@
-# Route Profile: *Route Name*
 
-<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/route-name.png" alt="The Route Name in Crag" width="1200"/>
+
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/angels-way.png" alt="Angel's Way on Ridge Three in Skunk Canyon" width="1200"/>
+
+# Route Profile: *Angels Way* on Ridge Three
+
+<br>
+
+## Index
+
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
+
+<br>
 
 ## Overview  
-- **Area:** <<<>>>>>>, Colorado  
-- **Formation:** <<<>>>>>>: <<<>>>>>>  
-- **Grade:** 5.<<<>>>>>> (<<<>>>>>> pitches)  
-- **Length:** <<<>>>>>>'  
-- **Style:** Trad, multipitch  
-- **First Ascent:** <<<>>>>>>, 19<<<>>> 
-- **First Free Ascent:**  <<<>>>>>>, 19<<<>>> 
+- **Area:**  Skunk Canyon
+- **Formation:** Ridge Three
+- **Grade:** YDS 5.2, 8 pitches, II
+- **Length:** ~1,000'
+- **Style:** Trad, multi pitch  
+- **First Ascent:** n/a
 
-## Summary  
-*The Route name* <<<>>>>>>
+<br>
 
-## Route Characteristics  
-- <<<>>>>>>
-- <<<>>>>>>
-- <<<>>>>>>
+## Details
+### Route Characteristics  
+Ridge with featured face and a hand crack.
 
 ### Approach & Descent 
-- <>
-- <>
+Walk off.
 
-### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Climbed year-round; peak <<<>>>>>> season; low <<<>>>>>> traffic.  
-- **Sun Exposure:** <<<>>>>>>
+### Historical Context  
+n/a
 
-## Historical Context  
-- **19<>>>:** <<<>>>>>>
-- **19<>>:** <<<>>>>>>  
-- **19<>>:** <<<>>>>>>
-
-## Beta Media  
-- **Video:** [First person view climb of <<>>>>> with pro (beta spoiler alert!)](<<<<website>>>>)  
-  - Video by <<<>>>>>>
-  - Shows <<<>>>>>>
-
-## Fastest Known Time (FKT)  
-- n/a
-
-## Analysis Highlights (Dataset)  
-- **Classic Rank:** 
-- **Engagement:**   
-- **Trend:**   
-- **Traffic:**  
-- **Consensus:** .  
-- **Leaderboards:**  
-  - **Leader:** <>> 
- 
-
-## References  
-- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
-- [Mountain Project Entry](https://www.mountainproject.com/route/<>>)  
-
-
+[↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.2 YDS   |
+| Classic Rank         | 46        |
 | Location             | Ridge 3 aka Angel's Way |
+| Grade                | 5.2 YDS   |
+| Pitches              | 8         |
+| FA Info              | unknown   |
 | Stars (avg)          | 3.6       |
 | Votes                | 357.0     |
 | Unique Climbers      | 757.0     |
 | Lifetime Ticks       | 1406.0    |
 | Avg Ticks / Climber  | 1.86      |
 <!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Seasonal Eagle Nesting Closures: Dec 15th to opening date which varies
+- **Sun Exposure:** South facing
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 7.2%
@@ -95,9 +91,26 @@ Nov | ███                           11.3%
 Dec | █                              5.0%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+### Fastest Known Time (FKT): trailhead to trailhead 
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| 49:19(possible fkt)   | n/a | n/a     | n/a        | [GPS Verification]() |
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -127,3 +140,9 @@ Dec | █                              5.0%
 | 24 | Zachary Henry | 7 |
 | 25 | Anna Dolan | 6 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
+
+## References  
+- [Mountain Project Entry](https://www.mountainproject.com/route/105758545/angels-way)

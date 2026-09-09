@@ -1,77 +1,74 @@
-# Route Profile: *Route Name*
 
-<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/route-name.png" alt="The Route Name in Crag" width="1200"/>
+
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/seal-rock.png" alt="Seal Rock above Bear Canyon" width="1200"/>
+
+# Route Profile: *East Face (North Side)* on Seal Rock
+
+<br>
+
+## Index
+
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
+
+<br>
 
 ## Overview  
-- **Area:** <<<>>>>>>, Colorado  
-- **Formation:** <<<>>>>>>: <<<>>>>>>  
-- **Grade:** 5.<<<>>>>>> (<<<>>>>>> pitches)  
-- **Length:** <<<>>>>>>'  
-- **Style:** Trad, multipitch  
-- **First Ascent:** <<<>>>>>>, 19<<<>>> 
-- **First Free Ascent:**  <<<>>>>>>, 19<<<>>> 
+- **Area:**  Central Flatirons
+- **Formation:** Seal Rock
+- **Grade:** YDS 5.4, 4 pitches climb, 1 pitch downclimb
+- **Length:** n/a
+- **Style:** Trad, multi-pitch
+- **First Ascent:** n/a
 
-## Summary  
-*The Route name* <<<>>>>>>
+<br>
 
-## Route Characteristics  
-- <<<>>>>>>
-- <<<>>>>>>
-- <<<>>>>>>
+## Details
+### Route Characteristics  
+Featured face climbing and a beautiful finger crack.
 
 ### Approach & Descent 
-- <>
-- <>
+Approach: From NCAR or Bear Canyon TH
+Descent: Downclimb or rap.
 
-### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Climbed year-round; peak <<<>>>>>> season; low <<<>>>>>> traffic.  
-- **Sun Exposure:** <<<>>>>>>
+### Historical Context  
+n/a
 
-## Historical Context  
-- **19<>>>:** <<<>>>>>>
-- **19<>>:** <<<>>>>>>  
-- **19<>>:** <<<>>>>>>
-
-## Beta Media  
-- **Video:** [First person view climb of <<>>>>> with pro (beta spoiler alert!)](<<<<website>>>>)  
-  - Video by <<<>>>>>>
-  - Shows <<<>>>>>>
-
-## Fastest Known Time (FKT)  
-- n/a
-
-## Analysis Highlights (Dataset)  
-- **Classic Rank:** 
-- **Engagement:**   
-- **Trend:**   
-- **Traffic:**  
-- **Consensus:** .  
-- **Leaderboards:**  
-  - **Leader:** <>> 
- 
-
-## References  
-- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
-- [Mountain Project Entry](https://www.mountainproject.com/route/<>>)  
-
-
+[↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.4 YDS   |
+| Classic Rank         | 98        |
 | Location             | E Side    |
+| Grade                | 5.4 YDS   |
+| Pitches              | 4         |
+| FA Info              | unknown   |
 | Stars (avg)          | 3.5       |
 | Votes                | 300.0     |
 | Unique Climbers      | 631.0     |
 | Lifetime Ticks       | 927.0     |
 | Avg Ticks / Climber  | 1.47      |
 <!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Primarily climbed Spring-Fall. Year round access. 
+- **Sun Exposure:** East facing
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 5.5% **low season**
@@ -95,9 +92,26 @@ Nov | ██                             6.2%
 Dec | █                              1.9%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+### Fastest Known Time (FKT): trailhead to trailhead 
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| 41:26 (possible fkt)  | 2007-10-20 | Dave Mackey (possible fkt)     | TdF 2007       |  |
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -127,3 +141,9 @@ Dec | █                              1.9%
 | 24 | Joe Castellano | 4 |
 | 25 | Mark Roth | 4 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
+
+## References   
+- [Mountain Project Entry](https://www.mountainproject.com/route/105751645/east-face-north-sideseal-rock)
