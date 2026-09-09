@@ -629,7 +629,10 @@ def main():
         sys.exit(1)
 
     df = read_csv(args.dataset)
-    months = map_month_cols(df)
+    # Normalize source column names
+    if "rank" in df.columns and "classic_rank" not in df.columns:
+        df = df.rename(columns={"rank": "classic_rank"})
+        months = map_month_cols(df)
 
     cols = {
         "name":            find_col(df, ["Route Name", "route_name", "name"]),
