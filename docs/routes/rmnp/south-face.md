@@ -9,8 +9,8 @@
 ## Index
 
 - [Overview](#overview)
+- [Details](#details)
 - [Metrics](#metrics)
-- [Route Details](#route-details)
 - [Seasonality](#seasonality)
 - [FKTs](#fkts)
 - [Leaderboards](#leaderboards)
@@ -26,25 +26,9 @@
 - **Style:** Trad, multipitch  
 - **First Ascent:**  William Buckingham and Art Davidson, 1961 
 
-<!-- AUTO:METRICS:START -->
-## Metrics
-
-| Metric              | Value     |
-|:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.8 YDS   |
-| Location             | Petit Grepon |
-| Stars (avg)          | 3.7       |
-| Votes                | 820.0     |
-| Unique Climbers      | 1608.0    |
-| Lifetime Ticks       | 2072.0    |
-| Avg Ticks / Climber  | 1.29      |
-<!-- AUTO:METRICS:END -->
-[↑ Back to Index](#index)
-
 <br>
 
-## Route Details
+## Details
 ### Route Characteristics  
 - Lower pitches are chossy. Upper pitches are emaculate moderate face climbing. These stellar final pitches are shared with the higher quality, more difficult and less crowded Southwest Corner Route (5.9 III).
 
@@ -56,6 +40,25 @@
 n/a
 
 [↑ Back to Index](#index)
+<!-- AUTO:METRICS:START -->
+### Metrics
+
+| Metric              | Value     |
+|:--------------------|:----------|
+| Classic Rank         | 16        |
+| Location             | Petit Grepon |
+| Grade                | 5.8 YDS   |
+| Pitches              | 8         |
+| FA Info              | unknown   |
+| Stars (avg)          | 3.7       |
+| Votes                | 820.0     |
+| Unique Climbers      | 1608.0    |
+| Lifetime Ticks       | 2072.0    |
+| Avg Ticks / Climber  | 1.29      |
+<!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
 
 <br>
 
@@ -65,7 +68,7 @@ n/a
 - **Sun Exposure:** South facing.
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality Distribution
+### Seasonality
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 1.3% **off season**
@@ -105,7 +108,7 @@ Dec | █                              0.5%
 <br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-## Leaderboards
+### Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
