@@ -1,10 +1,23 @@
 
 
-# Route Profile: Casual Route
-
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/casual-route.png" alt="Casual Route on the Diamond of Long's Peak" width="1200"/>
 
-# Route Profile: Casual Route
+# Route Profile: *Casual Route* on Diamond of Long's Peak in RMNP
+
+<br>
+
+## Index
+
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
+
+<br>
+
 
 ## Overview  
 - **Area:** Long's Peak, RMNP (Rocky Mount National Park), Colorado  
@@ -13,8 +26,12 @@
 - **Length:** ~800'  
 - **Style:** Trad, multipitch  
 - **First Ascent:** Duncan Ferguson, Chris Reveley, 1977
+- **Rock**: Granite
 
-## Summary  
+<br>
+
+## Details
+### Intro 
 *The Casual Route* is the easiest free climb up the Diamond on Long's Peaj and one of the most iconic multipitch climbs in North America. With striking exposure, moderate difficulty, and historic significance, it remains a must-do for generations of climbers. In this analysis, the route stands out as both a **cultural landmark** and a **high-traffic classic**.  
 
 ## Route Characteristics  
@@ -27,84 +44,13 @@
 - The most common approach is the West Chimney, known for rockfall.
 - Common descents are the D7 rapels or topping out via Kiener's and then descending via the Cables Route or the Keyhole. All FKT's top out via Kiener's and descend the Cables Route.
 
-### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Primary climbed in alpine summer: Late July, August and early September. Winter ascents are rare.
-- **Sun Exposure:** Northeast facing. Morning sun and shade the rest of the day.
 
-## Historical Context  
+### Historical Context  
 - **A Brief History of Climbing the Diamond:** [Alpinist Article by Roger Briggs, March 1, 2007](https://alpinist.com/profile/the-diamond/)
 
-## Fastest Known Time (FKT): Casual Route
-- **Rules:** Trailhead-to-Trailhead (Long's Ranger Cottage), roped simul-climb or solo (current fkts).  
-  - All known FKTs involve:  
-    - Soloing approach (YDS ~5.4)  
-    - Simul climbing with Micro Traxion or similar device or free solo
-    - Top out on Long's summit
-    - back to the trailhead via foot power
-
-### Current Record: Casual Route Trailhead to Trailhead (Unsupported) 
-- **03:09:50 T2T** | 2024-09-02 | John Alcorn (solo)   
-- [GPS Verification](https://www.strava.com/activities/12306779867)  
-
-### FKT History: Casual Route
-| Time    | Date       | Climbers                          | Notes              | Verification       |
-|---------|------------|-----------------------------------|--------------------|--------------------|
-| 03:09:50  | 2024-09-02 | John Alcorn         | Current FKT  | [GPS Verification](https://www.strava.com/activities/12306779867)|  
-| 03:26:12  | 2021-08-30 | Maury Birdwell        |   | [GPS Verification](https://www.strava.com/activities/)|   
-| 03:53:59  | 2020-08-04 | Stefan Griebel, Wade Morris          |   | [GPS Verification](https://www.strava.com/activities/3864748866/)|    
-| 03:59:00  | 2000-08-01 | Dean Potter         |   | n/a 
-| 05:45:00  | 1991-xx-xx | Roger Briggs         |   | n/a 
 
 
-
-
-## Fastest Known Time (FKT): Long's Triathlon
-- **Rules:** Boulder to Long's East TH via human powered bike, run to the base of the Diamond, ascent the Casual Route, top out on the summit of Long's. Run down to the TH and bike back to Boulder 
-  - All known FKTs involve:  
-    - Soloing approach (YDS 5.8)  
-    - Simul climbing with Micro Traxion or similar device or solo
-    - Top out on Long's summit
-    - back to the trailhead via foot power
-    - bike to and from Boulder
-
-### Current Record: Long's Triathlon (unsupported)
-- **09:06:44** | 2016-08-16 | Stefan Griebel & Anton Krupicka 
-- [Video of FKT](https://www.youtube.com/watch?v=s4qEbfP2Zgs)  
-- [GPS Verification](https://www.strava.com/activities/678597205)  
-- [GPS Verification 2](https://www.strava.com/activities/678646953)  
-
-### FKT History: Long's Triathlon
-
-| Time    | Date       | Climbers                          | Notes              | Verification       |Verification 2      |
-|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 09:06:44 | 2016-08-16 | Stefan Griebel, Anton Krupicka         | Current FKT  |[GPS Verification](https://www.strava.com/activities/678597205) |  [GPS Verification](https://www.strava.com/activities/678646953)   |
-| 09:50:03 | 2012-08-27 | Stefan Griebel, Jason Wells        |   |[GPS Verification](https://www.strava.com/activities/19973950) |  
-| 10:30:00 | 1990-08-10 | Neal Beidleman, Kevin Cooney         |   | |    |
-
-## Nearby FKTs:
-
-### FKT History: Long's Peak: Cables Route
-| Time    | Date       | Climbers                          | Notes              | Verification       |     |
-|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 01:55:40  | 2020-08-28 | Kyle Richardson         | Current FKT  |[GPS Verification](https://www.strava.com/activities/3978440370/) |   |
-| 01:56:48  | 2012-08-88 | Andy Anderson         | | |   |
-| 02:04:27  | 1978-08-15 | Chris Reveley         |   | |   |
-
-### FKT History: Long's Peak: Kiener's Route
-| Time    | Date       | Climbers                          | Notes              | Verification       |    |
-|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 02:19:37  | 2024-08-07 | Anton Krupicka     | Current FKT  |[GPS Verification](https://www.strava.com/activities/12088698671) |  |
-
-
-## Related linkups:
-### Longs Peak Triathlon Sit Start: Naked Edge, Third Flatiron, First Flatiron, Casual Route (linked unsupported via bicycles between three trailheads)
-| Time    | Date       | Climbers                          | Notes              | Verification       |    |
-|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 18:44:37  | 2019-08-13 | Stefan Griebel, Wade Morris     | CUrrent FKT  |[GPS Verification](https://www.strava.com/activities/2617503027) |  |
-
-
-
-
+[↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
 ## Metrics
 
@@ -121,6 +67,17 @@
 | Lifetime Ticks       | 1640.0    |
 | Avg Ticks / Climber  | 1.34      |
 <!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** July through early September is the typical alpine season. Off season ascents are rare.
+- **Sun Exposure:** Northeast facing. Morning sun and shade the rest of the day.
+
 
 <!-- AUTO:SEASONALITY:START -->
 ### Seasonality Data
@@ -147,6 +104,96 @@ Nov | █                              0.8%
 Dec | █                              1.2%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+## Fastest Known Time (FKT): Casual Route
+- **Rules:** Trailhead-to-Trailhead (Long's Ranger Cottage), roped simul-climb or solo (current fkts).  
+  - All known FKTs involve:  
+    - Soloing approach (YDS ~5.4)  
+    - Simul climbing with Micro Traxion or similar device or free solo
+    - Top out on Long's summit
+    - back to the trailhead via foot power
+
+
+### Current Record: Casual Route Trailhead to Trailhead (Unsupported) 
+- **03:09:50 T2T** | 2024-09-02 | John Alcorn (solo)   
+- [GPS Verification](https://www.strava.com/activities/12306779867)  
+
+### FKT History: Casual Route
+| Time    | Date       | Climber(s)                         | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| 03:09:50  | 2024-09-02 | John Alcorn         | Current FKT  | [GPS Verification](https://www.strava.com/activities/12306779867)|  
+| 03:26:12  | 2021-08-30 | Maury Birdwell        |   | [GPS Verification](https://www.strava.com/activities/)|   
+| 03:53:59  | 2020-08-04 | Stefan Griebel, Wade Morris          |   | [GPS Verification](https://www.strava.com/activities/3864748866/)|    
+| 03:59:00  | 2000-08-01 | Dean Potter         |   | n/a 
+| 05:45:00  | 1991-xx-xx | Roger Briggs         |   | n/a 
+
+
+<br>
+
+## Related FKTs:
+
+### Fastest Known Time (FKT): Long's Triathlon
+- **Rules:** Boulder to Long's East TH via human powered bike, run to the base of the Diamond, ascent the Casual Route, top out on the summit of Long's. Run down to the TH and bike back to Boulder 
+  - All known FKTs involve:  
+    - Soloing approach (YDS 5.8)  
+    - Simul climbing with Micro Traxion or similar device or solo
+    - Top out on Long's summit
+    - back to the trailhead via foot power
+    - bike to and from Boulder
+
+### Current Record: Long's Triathlon (unsupported)
+- **09:06:44** | 2016-08-16 | Stefan Griebel & Anton Krupicka 
+- [Video of FKT](https://www.youtube.com/watch?v=s4qEbfP2Zgs)  
+- [GPS Verification](https://www.strava.com/activities/678597205)  
+- [GPS Verification 2](https://www.strava.com/activities/678646953)  
+
+### FKT History: Long's Triathlon
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |Verification 2      |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+| 09:06:44 | 2016-08-16 | Stefan Griebel, Anton Krupicka         | Current FKT  |[GPS Verification](https://www.strava.com/activities/678597205) |  [GPS Verification](https://www.strava.com/activities/678646953)   |
+| 09:50:03 | 2012-08-27 | Stefan Griebel, Jason Wells        |   |[GPS Verification](https://www.strava.com/activities/19973950) |  
+| 10:30:00 | 1990-08-10 | Neal Beidleman, Kevin Cooney         |   | |    |
+
+
+<br>
+
+
+## Nearby FKTs:
+
+### FKT History: Long's Peak: Cables Route
+| Time    | Date       | Climbers                          | Notes              | Verification       |     |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+| 01:55:40  | 2020-08-28 | Kyle Richardson         | Current FKT  |[GPS Verification](https://www.strava.com/activities/3978440370/) |   |
+| 01:56:48  | 2012-08-88 | Andy Anderson         | | |   |
+| 02:04:27  | 1978-08-15 | Chris Reveley         |   | |   |
+
+<br>
+
+### FKT History: Long's Peak: Kiener's Route
+| Time    | Date       | Climbers                          | Notes              | Verification       |    |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+| 02:19:37  | 2024-08-07 | Anton Krupicka     | Current FKT  |[GPS Verification](https://www.strava.com/activities/12088698671) |  |
+
+<br>
+
+## Related linkups:
+### Longs Peak Triathlon "Sit Start": Naked Edge, Third Flatiron, First Flatiron, Casual Route (linked unsupported via bicycles between three trailheads)
+| Time    | Date       | Climbers                          | Notes              | Verification       |    |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+| 18:44:37  | 2019-08-13 | Stefan Griebel, Wade Morris     | Current FKT  |[GPS Verification](https://www.strava.com/activities/2617503027) |  |
+
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
 ## Leaderboards
@@ -179,6 +226,9 @@ Dec | █                              1.2%
 | 24 | Tristan Bradford | 4 |
 | 25 | Aaron Glasenapp | 3 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
 
 ## References  
 - *Rocky Mountain National Park* by Richard Rossiter, 2015   
