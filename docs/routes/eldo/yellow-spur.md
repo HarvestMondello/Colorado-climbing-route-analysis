@@ -175,7 +175,7 @@ Dec | █                              3.6%
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
 | 1 | Danny Gilbert | 272 |
-| 2 | Harvest Mondello | 98 |
+| 2 | Harvest Mondello | 99 |
 | 3 | Bill Wright | 92 |
 | 4 | Michael Butts | 71 |
 | 5 | Jack Neus | 44 |
