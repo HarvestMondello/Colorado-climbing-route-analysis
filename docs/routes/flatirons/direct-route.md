@@ -63,8 +63,6 @@ n/a
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
 
-
-
 <br>
 
 ## Seasonality
@@ -107,19 +105,25 @@ Dec | █                              3.2%
 - **30:19** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2019-10-15 | **Kyle Richardson**    
 - [GPS Verification](https://www.strava.com/activities/2792210665/overview)  
 
-### Fastest Known Time (FKT): trailhead to trailhead 
+### Fastest Known Time (FKT):  (self supported, no rappel, round trip)
 
 | Time    | Date       | Climbers                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | 30:19   | 2019-10-15 | Kyle Richardson     |        | [GPS Verification](https://www.strava.com/activities/2792210665/overview)   |
 
 
-
+### Route only FKT
+**DEF** *route only* on the First Flatiron: base of First Flatiron to summit (not C2C)
+- **07:51** | 2026-09-03 | **Michael Reese**
+- [GPS Verification](https://www.strava.com/activities/20028317044/)
 
 
 ### Other related FKTs:
 
-**Flatirons Trifecta**: East faces of First, Second and Third Flatiron (self supported, no rap, round trip)
+**First and Third Flations** (linkup): East faces of Firstand Third Flatirons (self supported, no rap, round trip)
+- **48:33** Chautaqua Ranger Cottage (trash can by the big TH sig n)| 2010-08-13 | **Stefan Griebel** 
+
+**Flatirons Trifecta**: East faces of First, Second and Third Flatirons (self supported, no rap, round trip)
 - **01:02:25** Chautaqua Ranger Cottage (trash can by the big TH sign)| 2021-10-25 | **Michael Reese** 
 - [GPS Verification](https://www.strava.com/activities/6166869935 )
 
@@ -127,9 +131,6 @@ Dec | █                              3.2%
 - **01:42:08** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2021-09-01 | **Kyle Richardson**  
 - [GPS Verification](https://www.strava.com/activities/5887894393/)
 
-**DEF (Direct East Face)** on the First Flatiron *(route only): base of First Flatiron to summit (not C2C)
-- **07:51** | 2026-9-3 | **Michael Reese**
-- [GPS Verification](https://www.strava.com/activities/20028317044/)
 
 ## Climbers not in the dataset:
 - **Michael Reese** at 572 climbs of DEF as of 9/2/2026
