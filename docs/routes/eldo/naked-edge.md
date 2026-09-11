@@ -3,7 +3,7 @@
 
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/naked-edge.png" alt="The Naked Edge on the Redgarde Wall: Tower Two in Eldorado Canyon" width="1200"/>
 
-# Route Profile: *The Naked Edge*  on Tower Two of Redgarden in Eldorado Canyon
+# Route Profile: *The Naked Edge*  on Redgarden Wall: Tower Two in Eldorado Canyon
 
 <br>
 
