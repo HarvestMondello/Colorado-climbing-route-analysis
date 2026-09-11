@@ -14,9 +14,9 @@ Colorado has a tradition of going fast and light on routes, round trip; trailhea
 |---------|------------|-----------------------------------|--------------------|--------------------|
 **Long's Peak, RMNP:**
 |[Longs Triathlon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 09:50:03  | 2022-10-26 | Stefan Griebel & Anton Krupicka       |  The Diamond on Long's Peak from Boulder RT (bike, run, climb) |  |
-|[Casual Route on Long's Peak](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 03:09:50  | 2024-09-02 | John Alcorn       |  The Diamond on Long's Peak |  |
-|[Kiener's Route on Long's Peak](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 02:19:37 | 2024-08-07 | Anton Krupicka      |  East Face on Long's Peak |  |
-|[Cables Route on Long's Peak](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 01:55:40  | 2020-08-28 | Kyle Richardson       |  North Face on Long's Peak, RMNP |  | 
+|[Casual Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 03:09:50  | 2024-09-02 | John Alcorn       |  The Diamond on Long's Peak |  |
+|[Kiener's Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 02:19:37 | 2024-08-07 | Anton Krupicka      |  East Face on Long's Peak |  |
+|[Cables Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 01:55:40  | 2020-08-28 | Kyle Richardson       |  North Face on Long's Peak, RMNP |  | 
 **Linkups**
 ["Sit Start" Long's Triathlon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)| 18:44:37  | 2019-08-13 | Stefan Griebel, Wade Morris     |  Longs Peak Triathlon "Sit Start": Naked Edge, Third Flatiron, First Flatiron, Casual Route (linked unsupported via bicycles between three trailheads)|[GPS Verification](https://www.strava.com/activities/2617503027) |
 
