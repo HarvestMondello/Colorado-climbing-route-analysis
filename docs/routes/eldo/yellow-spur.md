@@ -2,7 +2,7 @@
 
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/yellow-spur.png" alt="The Yellow Spur on the Redgarde Wall: Tower One in Eldorado Canyon" width="1200"/>
 
-# Route Profile: *The Yellow Spur* on Redgarden: Tower One in Eldorado Canyon 
+# Route Profile: *The Yellow Spur* on Redgarden Wall: Tower One in Eldorado Canyon 
 
 <br>
 
