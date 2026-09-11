@@ -1,39 +1,74 @@
 
 
-# Route Profile: The Scenic Cruise
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/.png" alt="" width="1200"/>
 
-(photo banner, area/grade/FA info, etc.)
+# Route Profile: *The Scenic Cruise* on  North Chasm View Wall in Black Canyon of Gunnison
 
-Summary
+<br>
 
-Your prose: history, cultural importance, climbing experience.
+## Index
 
-Route Characteristics
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
 
-Bullets, anecdotes, formation details.
+<br>
 
-Analysis
+## Overview  
+- **Area:** Black Canyon of Gunnison
+- **Formation:** North Chasm View Wall
+- **Grade:** YDS 5.10D, 13 pitches, V
+- **Length:** ~1,800'
+- **Style:** Trad, multi pitch
+- **First Ascent:** Ed Webster & Joe Kaelin, 1979
+- **Rock**: Gneiss
 
-Any narrative insights you want to keep hand-written.
+<br>
 
+## Details
+### Route Characteristics  
+n/a
 
+### Approach & Descent 
+n/a
+
+### Historical Context  
+n/a
+
+[↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.10d YDS |
+| Classic Rank         | 12        |
 | Location             | N Chasm View Wall |
+| Grade                | 5.10d YDS |
+| Pitches              | 13        |
+| FA Info              | Ed Webster & Joe Kaelin, 1979  see description for full |
 | Stars (avg)          | 3.9       |
 | Votes                | 303.0     |
 | Unique Climbers      | 472.0     |
 | Lifetime Ticks       | 583.0     |
 | Avg Ticks / Climber  | 1.24      |
 <!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Spring and Fall, primarily May and October. Summer is too hot and winter has a long approach.
+- **Sun Exposure:** 
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 2.3% **off season**
@@ -57,9 +92,26 @@ Nov | █                              3.9%
 Dec | █                              1.6%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+### Fastest Known Time (FKT): trailhead to trailhead 
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -89,3 +141,10 @@ Dec | █                              1.6%
 | 24 | Mallory Rose | 2 |
 | 25 | Margie Root | 2 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
+
+## References  
+- The Black: A Comprehensive Climbing Guide to Black Canyon of the Gunnison National Park by Vic Zeilman, 2016  
+- [Mountain Project Entry](https://www.mountainproject.com/route/105756778/the-scenic-cruise/)

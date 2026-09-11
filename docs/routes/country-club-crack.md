@@ -1,39 +1,75 @@
 
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/.png" alt="" width="1200"/>
 
-# Route Profile: Country Club Crack
+# Route Profile: *Country Club Crack* on Castle Rock in Boulder Canyon
 
-(photo banner, area/grade/FA info, etc.)
+<br>
 
-Summary
+## Index
 
-Your prose: history, cultural importance, climbing experience.
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
 
-Route Characteristics
+<br>
 
-Bullets, anecdotes, formation details.
+## Overview  
+- **Area:** Boulder Canyon
+- **Formation:** Castle Rock
+- **Grade:** YDS 511C, 2 pitches, II
+- **Length:** ~200"
+- **Style:** Trad, multi pitch
+- **First Ascent:** Ted Rouillard, Cleve McCarty, 1956. 
+- **First Free Ascent:** Pat Ament, Stults, Rutwitch, 1967
+- **Rock**: Granite
 
-Analysis
+<br>
 
-Any narrative insights you want to keep hand-written.
+## Details
+### Route Characteristics  
+Varied crack climbing.
 
+### Approach & Descent 
+Approach: Roadside
+Descent: n/a
 
+### Historical Context  
+n/a
+
+[↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.11c YDS |
+| Classic Rank         | 6         |
 | Location             | Castle Rock |
+| Grade                | 5.11c YDS |
+| Pitches              | 2         |
+| FA Info              | Ted Rouillard, Cleve McCarty, 1956. FFA: Ament, Stults, Rutwitch, 1967 |
 | Stars (avg)          | 3.9       |
 | Votes                | 343.0     |
 | Unique Climbers      | 555.0     |
 | Lifetime Ticks       | 1004.0    |
 | Avg Ticks / Climber  | 1.81      |
 <!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** 
+- **Sun Exposure:** 
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 6.2% **low season**
@@ -57,9 +93,26 @@ Nov | █                              3.4%
 Dec | █                              1.7%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+### Fastest Known Time (FKT): trailhead to trailhead 
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -89,3 +142,10 @@ Dec | █                              1.7%
 | 24 | Bruno D | 4 |
 | 25 | Charles James | 4 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
+
+## References  
+- Boulder Canyon Guidebook, Jason Haas and Chris Weidner, 2019  
+- [Mountain Project Entry](https://www.mountainproject.com/route/105748711/country-club-crack)

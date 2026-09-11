@@ -1,77 +1,75 @@
-# Route Profile: *Route Name*
 
-<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/route-name.png" alt="The Route Name in Crag" width="1200"/>
+
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/.png" alt="" width="1200"/>
+
+# Route Profile: *Center Route* on Cynical Pinnacle at Cathedral Spires in the South Platte
+
+<br>
+
+## Index
+
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
+
+<br>
 
 ## Overview  
-- **Area:** <<<>>>>>>, Colorado  
-- **Formation:** <<<>>>>>>: <<<>>>>>>  
-- **Grade:** 5.<<<>>>>>> (<<<>>>>>> pitches)  
-- **Length:** <<<>>>>>>'  
-- **Style:** Trad, multipitch  
-- **First Ascent:** <<<>>>>>>, 19<<<>>> 
-- **First Free Ascent:**  <<<>>>>>>, 19<<<>>> 
+- **Area:** Cathedral Spires, South Platte
+- **Formation:** Cynical Pinnacle
+- **Grade:** 5.9, 3 pitches, II
+- **Length:** ~300'
+- **Style:** Trad, multi pitch
+- **First Ascent:**  Bill Roos, Paul Sibley, Carl Arndt, and Bernum Arndt, 1968 
+- **Rock**: Granite
 
-## Summary  
-*The Route name* <<<>>>>>>
+<br>
 
-## Route Characteristics  
-- <<<>>>>>>
-- <<<>>>>>>
-- <<<>>>>>>
+## Details
+### Route Characteristics  
+- Pitch one is a 5.9 finger crack, pitch two a splitter 5.9+ hand crack and pitch three is wider and easier. There is an alternate P3 that's a 5.10A crack with finger crack crux. Considered one of the best 5.9 crack climbs in the State of Colorado.
 
 ### Approach & Descent 
-- <>
-- <>
+Approach: Uphill hike. 
+Descent: Four rappels. 
 
-### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Climbed year-round; peak <<<>>>>>> season; low <<<>>>>>> traffic.  
-- **Sun Exposure:** <<<>>>>>>
+### Historical Context  
+n/a
 
-## Historical Context  
-- **19<>>>:** <<<>>>>>>
-- **19<>>:** <<<>>>>>>  
-- **19<>>:** <<<>>>>>>
-
-## Beta Media  
-- **Video:** [First person view climb of <<>>>>> with pro (beta spoiler alert!)](<<<<website>>>>)  
-  - Video by <<<>>>>>>
-  - Shows <<<>>>>>>
-
-## Fastest Known Time (FKT)  
-- n/a
-
-## Analysis Highlights (Dataset)  
-- **Classic Rank:** 
-- **Engagement:**   
-- **Trend:**   
-- **Traffic:**  
-- **Consensus:** .  
-- **Leaderboards:**  
-  - **Leader:** <>> 
- 
-
-## References  
-- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
-- [Mountain Project Entry](https://www.mountainproject.com/route/<>>)  
-
-
+[↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.9+ YDS  |
+| Classic Rank         | 4         |
 | Location             | Cynical Pinnacle |
+| Grade                | 5.9+ YDS  |
+| Pitches              | 3         |
+| FA Info              | Bill Roos, Paul Sibley, Carl Arndt, and Bernum Arndt, 1968 |
 | Stars (avg)          | 3.9       |
 | Votes                | 521.0     |
 | Unique Climbers      | 913.0     |
 | Lifetime Ticks       | 1228.0    |
 | Avg Ticks / Climber  | 1.35      |
 <!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Raptor Closures Feb 1st to Agust 1st. Peak season is fall, peaking September and October. 
+- **Sun Exposure:** South facing.
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 26.9%
@@ -95,9 +93,26 @@ Nov | ████                          14.6%
 Dec | ██                             7.6%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+### Fastest Known Time (FKT): trailhead to trailhead 
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -127,3 +142,10 @@ Dec | ██                             7.6%
 | 24 | Phillip Gibson | 3 |
 | 25 | Phillip Morris | 3 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
+
+## References    
+- South Platte Climbing: The Northern Volume, Jason Haas, Ben Schneider & Craig Weinhold, 2012
+- [Mountain Project Entry](https://www.mountainproject.com/route/105748816/center-route)
