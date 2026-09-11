@@ -1,6 +1,24 @@
-# Route Profile: *The Naked Edge*  
+
+
 
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/naked-edge.png" alt="The Naked Edge on the Redgarde Wall: Tower Two in Eldorado Canyon" width="1200"/>
+
+# Route Profile: *The Naked Edge*  on Tower Two of Redgarden in Eldorado Canyon
+
+<br>
+
+## Index
+
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
+
+<br>
+
 
 ## Overview  
 - **Area:** Eldorado Canyon, Colorado  
@@ -9,12 +27,16 @@
 - **Length:** 460'  
 - **Style:** Trad, multipitch  
 - **First Ascent:** Layton Kor & Rick Horn, 1964 (lower 3 pitches: Kor & Bob Culp, 1962)  
-- **First Free Ascent:** Jim Erickson & Duncan Ferguson, 1971  
+- **First Free Ascent:** Jim Erickson & Duncan Ferguson, 1971.  
+- **Rock**: Foundtain Formation sandstone
 
-## Summary  
+<br>
+
+## Details
+### Intro 
 *The Naked Edge* is considered the crown jewel of Eldorado Canyon and one of the most iconic multipitch climbs in North America. With striking exposure, continuous difficulty, and historic significance, it remains a must-do for generations of climbers. In this analysis, the route stands out as both a **cultural landmark** and a **high-traffic classic**.  
 
-## Route Characteristics  
+### Route Characteristics  
 - Striking arete and dihedral route visible across Eldorado Canyon.  
 - Sustained climbing with multiple cruxes: fingerlocks, stemming, technical face sequences, and crack climbing.  
 - Known for **serious exposure**, especially on upper pitches.  
@@ -25,90 +47,32 @@
 - The approach is via one of several routes, the standard being the Cave Pitch which is 5.8 and 2-3 pitches.
 - The East Slab descent (4th class) is standard walk-off descent and is technical involving some routefinding.
 
-### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Climbed year-round; peak fall season; low winter traffic.  
-- **Sun Exposure:** West-facing. Summer shade; spring morning shade + fall afternoon sun; cold winters but with usable afternoon sun.  
+n/a
 
-## Historical Context  
+### Historical Context  
 - **1962:** Lower pitches (aid) first climbed by Layton Kor & Bob Culp.  
 - **1964:** Full ascent by Layton Kor & Rick Horn.  
-- **1971:** First free ascent by Jim Erickson & Duncan Ferguson.  
-- Reputation: **Eldorado testpiece** and a benchmark for bold free climbing (1970s–80s).  
+- **1971:** First free ascent by Jim Erickson & Duncan Ferguson. (Interestingly Erickson never climbed the route again because he took a fall on lead and had a rule about never climbing a route twice if he fell.)
+- **Eldorado testpiece** and a benchmark for bold free climbing (1970s–80s).  
+- This was considered the hardest free climbed route in the world from 1971 to 1976.
+
 
 ## Beta Media  
 - **Video:** [First person view climb of The Naked Edge with pro (beta spoiler alert!)](https://www.youtube.com/watch?v=c8RxXWB1TZw&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX)  
   - Video by Max Manson (50+ ascents).  
   - Shows simul-climbing style in one pitch (IAP).  
 
-## Fastest Known Time (FKT)  
-- **Rules:** Bridge-to-Bridge (South Boulder Peak footbridge), roped simul-climb.  
-  - All known FKTs involve:  
-    - Soloing approach (YDS 5.8)  
-    - Simul climbing with Micro Traxion or similar device
-    - East Slab descent (4th class)  
 
-### Current Record  
-- **22:44 B2B** | 2022-10-22 | Stefan Griebel & Joe Kennedy   
-- [GPS Verification](https://www.strava.com/activities/8004442835#3019063963637264876)  
 
-### FKT History (B2B unless noted)
-
-| Time    | Date       | Climbers                          | Notes              | Verification       |
-|---------|------------|-----------------------------------|--------------------|--------------------|
-| 22:44   | 2022-10-22 | Stefan Griebel, Joe Kennedy       | Current FKT        | [GPS Verification](https://www.strava.com/activities/8004442835#3019063963637264876) |
-| 24:14   | 2020-05-22 | John Ebers, Ben Wilbur            |                    |                    |
-| 24:29   | 2015-09-19 | Stefan Griebel, Jason Wells       |                    |                    |
-| 24:57   | 2014-10-08 | Scott Bennett, Brad Gobright      |                    |                    |
-| 26:16   | 2014-09-24 | Scott Bennett, Brad Gobright      |                    |                    |
-| 26:33   | 2014-08-15 | Stefan Griebel, Jason Wells       |                    |                    |
-| 29:53   | 2014-06-09 | Scott Bennett, Brad Gobright      |                    |                    |
-| 35:01   | 2014-04-22 | Stefan Griebel, Jason Wells       |                    |                    |
-| 40:36   | 2014-04-09 | Stefan Griebel, Jason Wells       |                    |                    |
-| 44:00   | 2013-01-XX | Scott Bennett, Brad Gobright      |                    |                    |
-| 49:44   | 2012-05-XX | Stefan Griebel, Jason Wells       | First sub-1 hour   |                    |
-| 1:13:XX | 2010-12-XX | Scott Bennett, Blake Harrington   |                    |                    |
-| 1:22:XX | 2006-09-06 | Bob Rotert, Dave Vaughn           | C2C                |                    |
-| 1:30:XX | 1991-XX-XX | Michael Gilbert, Rob Slater       | C2C                |                    |
-
-### All Women’s FKT  
-- **37:08 B2B** | 2025-03-28 | Kate Kelleghan & Laura Pineau (France)  
-- Verification: **37:11** [GPS Verification](https://www.strava.com/activities/14015319817)  
-- **First all-women FKT:** 37:21 B2B | 2021-09 | Kate Kelleghan & Becca Droz
-
-### All known sub 25 and Sub 30 minutes bridge to bridge climbers:
-| Time    | Date       | Climbers                          | Notes              | Verification       | Verification 2     |
-|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 22:44   | 2022-10-22 | Stefan Griebel, Joe Kennedy       | Current FKT        | [GPS Verification](https://www.strava.com/activities/8004442835#3019063963637264876)|                    |
-| 22:47   | 2024-05-08|      Jack Neus, Joe Kennedy   |                    |[GPS Verification](https://www.strava.com/activities/11365661498#3223473321806499336) |                    |
-| 24:14   | 2020-05-22 | John Ebers, Ben Wilbur            |                    |                    |                    |
-| 24:29   | 2015-09-19 | Stefan Griebel, Jason Wells       |                    |                    |                    |
-| 24:45   | 2025-10-17 | Jack Neus,  Quinn Davie           |               |[GPS Verification](https://www.strava.com/activities/16175626536)  | [GPS Verification 2](https://www.strava.com/activities/16174824116#3414435780969046232)  |
-| 24:57   | 2014-10-08 | Scott Bennett, Brad Gobright      |                    |                    |                    |
-| 27:03   | 2023-09-18 | Joe Kennedy, John Alcorn                                  |                    | [GPS Verification](https://www.strava.com/activities/9876877583)                   |                    |
-| 28:03   | 2026-08-13 |   John Alcorn, Forrest Freeman                                |                     | [GPS Verification](https://www.strava.com/activities/19726671767#3523004514159732852) 
-| 28:35   | 2024-09-13 |   Jack Neus, Lynn Anderson                                |    First women under 30 min                 | [GPS Verification](https://www.strava.com/activities/12403561283) | [GPS Verification](https://www.strava.com/activities/12403791278)
-|29:29   |  2026-08-17 |    John Alcorn, Michael Reese                               |                      |  [GPS Verification](https://www.strava.com/activities/19787664615)    
-
-### Some other interesting Naked Edge laps:
-
-| Time    | Date       | Climbers                          | Notes              | Verification       | Verification 2     |
-|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 54:29   | 2024-11-01 | Stefan Griebel, Jack Neus       | Double Naked Edge        | [GPS Verification](https://www.strava.com/activities/12799156686)|    [GPS Verification](https://www.strava.com/activities/12799275089)              |
-| 2:51:41   | 2026-01-14 | Stefan Griebel, Jack Neus        | Quad Naked Edge        | [GPS Verification](https://www.strava.com/activities/17051369134)|    [GPS Verification](https://www.strava.com/activities/17051658142)  
-  
 ## Analysis Highlights (Dataset)  
 - **#Classic Rank: 1** Highest *classic score* in Colorado.  
 - **Engagement:** Top **5%** of Colorado trad for popularity & quality.  
 - **Trend:** **58%** of public ticks in last 5 years.  
 - **Traffic:** 9th most climbed route in the Canyon; only 5.11 in top 10.  
 - **Consensus:** Stable 5.11b; widely considered sandbagged (hard for grade).  
-- **Leaderboards:**  
-  - **Stefan Griebel:** **400+** public ticks (#1).  
-  - **Note on dataset:**
-  - Michael Reese has 59 ascents as of 9/2/2026, none logged publicly.
-  - Some climbers such as JJ don’t log all their ticks in the database. 
 
 
+[↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
 ## Metrics
 
@@ -125,6 +89,16 @@
 | Lifetime Ticks       | 3384.0    |
 | Avg Ticks / Climber  | 4.31      |
 <!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Climbed year-round; peak fall season; low winter traffic.  
+- **Sun Exposure:** South-west-facing. Summer shade; spring early morning shade + fall afternoon sun; cold winters but with nice afternoon sun.  
 
 <!-- AUTO:SEASONALITY:START -->
 ### Seasonality Data
@@ -151,6 +125,73 @@ Nov | ██                             7.2%
 Dec | █                              3.5%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+### Fastest Known Time (FKT): The Naked Edge (bridge to bridge)
+- **Rules:** Bridge-to-Bridge (South Boulder Peak footbridge), roped simul-climb.  
+  - All known FKTs involve:  
+    - Soloing approach (YDS 5.8)  
+    - Simul climbing with Micro Traxion or similar device
+    - East Slab descent (4th class)  
+
+### Current Record  
+- **22:44 B2B** | 2022-10-22 | Stefan Griebel & Joe Kennedy   
+- [GPS Verification](https://www.strava.com/activities/8004442835#3019063963637264876)  
+
+### FKT History (B2B unless noted)
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| 22:44   | 2022-10-22 | Stefan Griebel, Joe Kennedy       | Current FKT        | [GPS Verification](https://www.strava.com/activities/8004442835#3019063963637264876) |
+| 24:14   | 2020-05-22 | John Ebers, Ben Wilbur            |                    |                    |
+| 24:29   | 2015-09-19 | Stefan Griebel, Jason Wells       |                    |                    |
+| 24:57   | 2014-10-08 | Scott Bennett, Brad Gobright      |                    |                    |
+| 26:16   | 2014-09-24 | Scott Bennett, Brad Gobright      |                    |                    |
+| 26:33   | 2014-08-15 | Stefan Griebel, Jason Wells       |                    |                    |
+| 29:53   | 2014-06-09 | Scott Bennett, Brad Gobright      |                    |                    |
+| 35:01   | 2014-04-22 | Stefan Griebel, Jason Wells       |                    |                    |
+| 40:36   | 2014-04-09 | Stefan Griebel, Jason Wells       |                    |                    |
+| 44:00   | 2013-01-XX | Scott Bennett, Brad Gobright      |                    |                    |
+| 49:44   | 2012-05-XX | Stefan Griebel, Jason Wells       | First sub-1 hour   |                    |
+| 1:13:XX | 2010-12-XX | Scott Bennett, Blake Harrington   |                    |                    |
+| 1:22:XX | 2006-09-06 | Bob Rotert, Dave Vaughn           | C2C (car to car)                |                    |
+| 1:30:XX | 1991-XX-XX | Michael Gilbert, Rob Slater       | C2C                |                    |
+
+### All Women’s Naked Edge FKT  
+- **37:08 B2B** | 2025-03-28 | Kate Kelleghan & Laura Pineau (France)  
+- Verification: **37:11** [GPS Verification](https://www.strava.com/activities/14015319817)  
+- **First all-women FKT:** 37:21 B2B | 2021-09 | Kate Kelleghan & Becca Droz
+
+### All known sub 25 and Sub 30 minutes bridge to bridge climbing teams:
+| Time    | Date       | Climbers                          | Notes              | Verification       | Verification 2     |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+| 22:44   | 2022-10-22 | Stefan Griebel, Joe Kennedy       | Current FKT        | [GPS Verification](https://www.strava.com/activities/8004442835#3019063963637264876)|                    |
+| 22:47   | 2024-05-08|      Jack Neus, Joe Kennedy   | Amazingly close to breaking the FKT. The team climbed faster to the summit but slower on the technical East Slab.  |[GPS Verification](https://www.strava.com/activities/11365661498#3223473321806499336) |                    |
+| 24:14   | 2020-05-22 | John Ebers, Ben Wilbur            |                    |                    |                    |
+| 24:29   | 2015-09-19 | Stefan Griebel, Jason Wells       |                    |                    |                    |
+| 24:45   | 2025-10-17 | Jack Neus,  Quinn Davie           |               |[GPS Verification](https://www.strava.com/activities/16175626536)  | [GPS Verification 2](https://www.strava.com/activities/16174824116#3414435780969046232)  |
+| 24:57   | 2014-10-08 | Scott Bennett, Brad Gobright      |                    |                    |                    |
+| 27:03   | 2023-09-18 | Joe Kennedy, John Alcorn                                  |                    | [GPS Verification](https://www.strava.com/activities/9876877583)                   |                    |
+| 28:03   | 2026-08-13 |   John Alcorn, Forrest Freeman                                |                     | [GPS Verification](https://www.strava.com/activities/19726671767#3523004514159732852) 
+| 28:35   | 2024-09-13 |   Jack Neus, Lynn Anderson                                |    First women under 30 min                 | [GPS Verification](https://www.strava.com/activities/12403561283) | [GPS Verification](https://www.strava.com/activities/12403791278)
+|29:29   |  2026-08-17 |    John Alcorn, Michael Reese                               |                      |  [GPS Verification](https://www.strava.com/activities/19787664615)    
+
+### Some other interesting Naked Edge laps, possibly FKTs:
+
+| Time    | Date       | Climbers                          | Notes              | Verification       | Verification 2     |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+| 54:29   | 2024-11-01 | Stefan Griebel, Jack Neus       | Double Naked Edge        | [GPS Verification](https://www.strava.com/activities/12799156686)|    [GPS Verification](https://www.strava.com/activities/12799275089)              |
+| 2:51:41   | 2026-01-14 | Stefan Griebel, Jack Neus        | Quad Naked Edge        | [GPS Verification](https://www.strava.com/activities/17051369134)|    [GPS Verification](https://www.strava.com/activities/17051658142)  
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
 ## Leaderboards
@@ -184,8 +225,19 @@ Dec | █                              3.5%
 | 25 | max seigal | 10 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 
+ **Leaderboards comments**  
+  - **Stefan Griebel:** **400+** public ticks (#1).  
+  - **Note on dataset:**
+  - Michael Reese has 59 ascents as of 9/2/2026, none logged publicly.
+  - Some climbers such as JJ don’t log all their ticks in the database. 
+
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
+
+
+
 ## References  
-- [Leaderboards.md (live stats)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)  
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
 - [Women’s FKT Report](https://ca.coros.com/stories/d/naked-edge-womens-speed-record-kate-kelleghan-laura-pineau)  
 - [All Women FKT News](https://www.climbing.com/news/fast-and-furious/)  
