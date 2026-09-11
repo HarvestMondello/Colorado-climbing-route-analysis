@@ -47,7 +47,6 @@
 - The approach is via one of several routes, the standard being the Cave Pitch which is 5.8 and 2-3 pitches.
 - The East Slab descent (4th class) is standard walk-off descent and is technical involving some routefinding.
 
-n/a
 
 ### Historical Context  
 - **1962:** Lower pitches (aid) first climbed by Layton Kor & Bob Culp.  
