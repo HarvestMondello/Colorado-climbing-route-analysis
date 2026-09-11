@@ -34,7 +34,7 @@
 ### Intro 
 *The Casual Route* is the easiest free climb up the Diamond on Long's Peaj and one of the most iconic multipitch climbs in North America. With striking exposure, moderate difficulty, and historic significance, it remains a must-do for generations of climbers. In this analysis, the route stands out as both a **cultural landmark** and a **high-traffic classic**.  
 
-## Route Characteristics  
+### Route Characteristics  
 - delicate traverses, confidence inspiring finger cracks, a squeeze chimney and a bulge crux.
 - Diverse climbing: fingerlocks, stemming, technical face sequences, and crack climbing.  
 - Known for **serious exposure**, to the elements and storms.  
@@ -120,7 +120,7 @@ Dec | █                              1.2%
 
 
 ### Current Record: Casual Route Trailhead to Trailhead (Unsupported) 
-- **03:09:50 T2T** | 2024-09-02 | John Alcorn (solo)   
+- **03:09:50** | 2024-09-02 | John Alcorn   
 - [GPS Verification](https://www.strava.com/activities/12306779867)  
 
 ### FKT History: Casual Route
@@ -180,6 +180,8 @@ Dec | █                              1.2%
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 02:19:37  | 2024-08-07 | Anton Krupicka     | Current FKT  |[GPS Verification](https://www.strava.com/activities/12088698671) |  |
 
+Krupicka also had the prio Kiener's FKT
+
 <br>
 
 ## Related linkups:
@@ -187,6 +189,8 @@ Dec | █                              1.2%
 | Time    | Date       | Climbers                          | Notes              | Verification       |    |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 18:44:37  | 2019-08-13 | Stefan Griebel, Wade Morris     | Current FKT  |[GPS Verification](https://www.strava.com/activities/2617503027) |  |
+
+This is a wild linkup of some of the best climbs in the area.
 
 
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
