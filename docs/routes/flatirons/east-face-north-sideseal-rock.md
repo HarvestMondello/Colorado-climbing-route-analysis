@@ -25,10 +25,14 @@
 - **Length:** n/a
 - **Style:** Trad, multi-pitch
 - **First Ascent:** n/a
+- **Rock**: Fountain Formation sandstone
 
 <br>
 
 ## Details
+### Intro 
+This route doesn't get the traffic it deserves due to the longer approach. A classic with a stellar finger crack.
+
 ### Route Characteristics  
 Featured face climbing and a beautiful finger crack.
 
@@ -146,4 +150,5 @@ Dec | █                              1.9%
 [↑ Back to Index](#index)
 
 ## References   
+- *Climbing Boulder's Flatirons*, Second Edition by Jason Haas, 2017
 - [Mountain Project Entry](https://www.mountainproject.com/route/105751645/east-face-north-sideseal-rock)

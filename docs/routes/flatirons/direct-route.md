@@ -1,77 +1,79 @@
-
-
-# Route Profile: First Flatiron: DEF (Direct East Face) aka Direct Route
-
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/1-2-3.png" alt="First, Second and Third Flatiron" width="1200"/>
 
+# Route Profile: *DEF (Direct East Face) aka Direct Route* on the First Flatiron
+
+<br>
+
+## Index
+
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
+
+<br>
+
 ## Overview  
-- **Area:** Flatirons, Colorado  
+- **Area:** Flatirons  
 - **Formation:** First Flatiron  
 - **Grade:** 5.6 (10 pitches climb & 1 pitch downclimb)  
 - **Length:** ~1,000'  
 - **Style:** Trad, multipitch  
 - **First Ascent:** Pat Ament and Larry Dalke, 1960
+- **Rock**: Foundtain Formation Sandstone
 
-## Summary  
-*DEF on the First Flatiron* is a mega classic. This is the most prestigious of the Flatirons. **cultural landmark** and a **high-traffic classic**.  
+<br>
 
-## Route Characteristics  
+## Details
+### Intro  
+*DEF* on the First Flatiron is a mega classic. This is the most prestigious of the Flatirons. **cultural landmark** and a **high-traffic classic**.  
+
+### Route Characteristics  
 - The imposing East Face is visible from all over the Boulder area.  
 - Easy technical climbing with variety. 
 - Protection is generally good, with some PG-13 runouts; some bolts.
  
 ### Approach & Descent 
 - The approach is a steep hike starting by the trash can near a sign next to the Chautaqua Ranger Station.
-- The SW Face (4th class) is standard walk-off. There is also a rapel option. This rappel option is consider supported for FKTs. 
+- The SW Face (4th class) is standard walk-off. There is also a rapel option. This rappel option is consider supported for FKTs.
+n/a
 
-### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Year Round access with lower traffic in the winter.
-- **Sun Exposure:** East-facing. Morning sun, afternoon shade.  
+### Historical Context  
+n/a
 
-## Historical Context  
-- **n/a** (A lot of history - to be filled in later)
-
-### Current Record: First Flatiron - DEF (Direct East Face) aka Direct Route (self supported, no rappel, round trip)
-- **30:19** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2019-10-15 | **Kyle Richardson**    
-- [GPS Verification](https://www.strava.com/activities/2792210665/overview)  
-
-### Other related FKTs:
-
-**Flatirons Trifecta**: East faces of First, Second and Third Flatiron (self supported, no rap, round trip)
-- **01:02:25** Chautaqua Ranger Cottage (trash can by the big TH sign)| 2021-10-25 | **Michael Reese** 
-- [GPS Verification](https://www.strava.com/activities/6166869935 )
-
-**Flatirons Quinfecta**: East faces of First, Second, Third, Fourth and Fifth Flatiron (self supported, no rap, round trip)
-- **01:42:08** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2021-09-01 | **Kyle Richardson**  
-- [GPS Verification](https://www.strava.com/activities/5887894393/)
-
-**DEF (Direct East Face)** on the First Flatiron *(route only): base of First Flatiron to summit (not C2C)
-- **07:51** | 2026-09-03 | **Michael Reese**
-- [GPS Verification](https://www.strava.com/activities/20028317044/)
-
-## Climbers not in the dataset:
-- **Michael Reese** at 572 climbs of DEF as of 9/2/2026
-
-
-
-
+[↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.6 YDS   |
+| Classic Rank         | 10        |
 | Location             | First Flatiron |
+| Grade                | 5.6 YDS   |
+| Pitches              | 10        |
+| FA Info              | Pat Ament and Larry Dalke, c. 1960 |
 | Stars (avg)          | 3.6       |
 | Votes                | 1431.0    |
 | Unique Climbers      | 2955.0    |
 | Lifetime Ticks       | 7209.0    |
 | Avg Ticks / Climber  | 2.44      |
 <!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Year Round access peaking in the summer with lower traffic in the winter.
+- **Sun Exposure:** East-facing. Morning sun, afternoon shade.  
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 7.0% **low season**
@@ -95,9 +97,54 @@ Nov | ██                             5.5%
 Dec | █                              3.2%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+### Current Record: First Flatiron - DEF (Direct East Face) aka Direct Route (self supported, no rappel, round trip)
+- **30:19** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2019-10-15 | **Kyle Richardson**    
+- [GPS Verification](https://www.strava.com/activities/2792210665/overview)  
+
+### Fastest Known Time (FKT): trailhead to trailhead 
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| 30:19   | 2019-10-15 | Kyle Richardson     |        | [GPS Verification](https://www.strava.com/activities/2792210665/overview)   |
+
+
+
+
+
+### Other related FKTs:
+
+**Flatirons Trifecta**: East faces of First, Second and Third Flatiron (self supported, no rap, round trip)
+- **01:02:25** Chautaqua Ranger Cottage (trash can by the big TH sign)| 2021-10-25 | **Michael Reese** 
+- [GPS Verification](https://www.strava.com/activities/6166869935 )
+
+**Flatirons Qunifecta**: East faces of First, Second, Third, Fourth and Fifth Flatiron (self supported, no rap, round trip)
+- **01:42:08** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2021-09-01 | **Kyle Richardson**  
+- [GPS Verification](https://www.strava.com/activities/5887894393/)
+
+**DEF (Direct East Face)** on the First Flatiron *(route only): base of First Flatiron to summit (not C2C)
+- **07:51** | 2026-9-3 | **Michael Reese**
+- [GPS Verification](https://www.strava.com/activities/20028317044/)
+
+## Climbers not in the dataset:
+- **Michael Reese** at 572 climbs of DEF as of 9/2/2026
+- several other climbers are not in the dataset.
+
+
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -127,3 +174,11 @@ Dec | █                              3.2%
 | 24 | Tony B | 25 |
 | 25 | SeanC Cahill | 22 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
+
+
+## References  
+- *Climbing Boulder's Flatirons*, Second Edition by Jason Haas, 2017
+- [Mountain Project Entry](https://www.mountainproject.com/route/105748268/direct-route)

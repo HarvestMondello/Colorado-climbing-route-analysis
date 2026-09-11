@@ -2,7 +2,7 @@
 
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/angels-way.png" alt="Angel's Way on Ridge Three in Skunk Canyon" width="1200"/>
 
-# Route Profile: *Angels Way* on Ridge Three
+# Route Profile: *Angels Way* on Ridge Three in the Flatirons
 
 <br>
 
@@ -19,16 +19,20 @@
 <br>
 
 ## Overview  
-- **Area:**  Skunk Canyon
+- **Area:**  Skunk Canyon, The Flatirons
 - **Formation:** Ridge Three
-- **Grade:** YDS 5.2, 8 pitches, II
+- **Grade:** YDS 5.2, 8 pitches
 - **Length:** ~1,000'
 - **Style:** Trad, multi pitch  
 - **First Ascent:** n/a
+- **Rock**: Fountain Formation sandstone
 
 <br>
 
 ## Details
+### Intro 
+This hidden route can't be seen from Boulder as it's behind the much harder Satan's Slab. It features a fun hand crack.
+
 ### Route Characteristics  
 Ridge with featured face and a hand crack.
 
@@ -145,4 +149,5 @@ Dec | █                              5.0%
 [↑ Back to Index](#index)
 
 ## References  
+- *Climbing Boulder's Flatirons*, Second Edition by Jason Haas, 2017
 - [Mountain Project Entry](https://www.mountainproject.com/route/105758545/angels-way)

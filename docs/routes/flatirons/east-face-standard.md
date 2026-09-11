@@ -3,18 +3,36 @@
 # Route Profile: Third Flatiron: East Face (Standard)
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/1-2-3.png" alt="First, Second and Third Flatiron" width="1200"/>
 
+# Route Profile: *East Face (Standard)* on the Third Flatiron
+
+## Index
+
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
+
+<br>
+
 ## Overview  
 - **Area:** Flatirons, Colorado  
 - **Formation:** Third Flatiron  
 - **Grade:** 5.4 (8 pitches climb & 4 pitches downclimb)  
 - **Length:** ~800' up and ~400' down
 - **Style:** Trad, multipitch  
-- **First Ascent:** Floyd and Earl Millard, 1906
+- **First Ascent:** Floyd and Earl Millard, 1906 
+- **Rock**: Fountain Formation sandstone
 
-## Summary  
+<br>
+
+## Details
+### Intro 
 *East Face (Standard) on the Third Flatiron* is a mega classic. It's status of being closed half the year for falcon nesting makes it even more sought after of a climb. The route stands out as both a **cultural landmark** and a **high-traffic classic**.  
 
-## Route Characteristics  
+### Route Characteristics  
 - The imposing East Face is visible from all over the Boulder area.  
 - Easy technical climbing with a thin finish. 
 - Known for **serious exposure**, especially on upper pitch.  
@@ -24,42 +42,40 @@
 - The approach is a steep hike starting by the trash can near a sign next to the Chautaqua Ranger Station.
 - The Southeast Chimney descent (4th class) is standard walk-off but any of several summit routes can be downclimbed. There is also a rapel option. This rappel option is consider supported for FKTs. 
 
-### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Closed for raptur nesting February 1 to ~ July 30st. Closures makes this primarily a late summer and fall climb. Winter ascents can be icy or dry
-- .
-- **Sun Exposure:** East-facing. Morning sun, afternoon shade.  
+### Historical Context  
+n/a
 
-## Historical Context  
-- **n/a** (A lot of history - to be filled in later)
-
-### Current Record: Third Flatiron (self supported, no rappel, round trip)
-
-- **36:14** Chautaqua Ranger Cottage (the trash can by the TH sign) | 2008-10-xx | **Stefan Griebel**.    
-
-### FKT History (self supported, no rappel)
-| Time    | Date       | Climbers                          | Notes              | Verification       |    |
-|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 36:14   | 2008-10-10 | Stefan Griebel      | Current FKT        | TdF 2008
-| 36:27   | 1989-xx-xx | Bill Briggs     | Prior FKT        |
-
-
+[↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.4 YDS   |
+| Classic Rank         | 5         |
 | Location             | Third Flatiron |
+| Grade                | 5.4 YDS   |
+| Pitches              | 8         |
+| FA Info              | Floyd and Earl Millard, 1906 |
 | Stars (avg)          | 3.7       |
 | Votes                | 1274.0    |
 | Unique Climbers      | 2594.0    |
 | Lifetime Ticks       | 5174.0    |
 | Avg Ticks / Climber  | 1.99      |
 <!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality 
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Closed for raptur nesting February 1 to ~ July 30st. Closures makes this primarily a late summer and fall climb. The season peaks right as the Third opens for the year and slows down when temps get cooler. Winter ascents can be icy or dry
+- **Sun Exposure:** East-facing. Morning sun, afternoon shade.  
+
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 11.4%
@@ -83,9 +99,29 @@ Nov | ███                           11.7%
 Dec | ██                             5.8%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+### Fastest Known Time (FKT): Third Flatiron (self supported, no rappel, round trip)
+- **36:14** Chautaqua Ranger Cottage (the trash can by the TH sign) | 2008-10-01 | **Stefan Griebel**.    
+
+### FKT History (self supported, no rappel)
+| Time    | Date       | Climbers                          | Notes              | Verification       |    |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+| 36:14   | 2008-10-01 | Stefan Griebel      | Current FKT        | TdF 2008
+| 36:27   | 1989-xx-xx | Bill Briggs     | Prior FKT        |
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -115,3 +151,10 @@ Dec | ██                             5.8%
 | 24 | Chris Plesko | 17 |
 | 25 | Matthew Sharpe | 17 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
+
+## References  
+- *Climbing Boulder's Flatirons*, Second Edition by Jason Haas, 2017
+- [Mountain Project Entry](https://www.mountainproject.com/route/105748047/east-face-standard)
