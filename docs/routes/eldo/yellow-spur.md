@@ -1,22 +1,43 @@
-# Route Profile: *The Yellow Spur*  
+
 
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/yellow-spur.png" alt="The Yellow Spur on the Redgarde Wall: Tower One in Eldorado Canyon" width="1200"/>
+
+# Route Profile: *The Yellow Spur* on Redgarden: Tower One in Eldorado Canyon 
+
+<br>
+
+## Index
+
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
+
+<br>
 
 ## Overview  
 - **Area:** Eldorado Canyon, Colorado  
 - **Formation:** Redgarden: Tower One  
 - **Grade:** 5.9+ to 5.10B (6 pitches)  
-- **Length:** 580'  
+- **Length:** 580' to 600' (depending on variations) 
 - **Style:** Trad, multipitch  
 - **First Ascent:** Layton Kor, Dave Dornan, 1959 aid via original Direct Start and Direct Finish (both are 5.10B free)  
 - **First Free Ascent:** Royal Robbins, Pat Ament, 1964 via 5.9+ free variation  
+- **Rock**: Fountain Formation sandstone
 
-## Summary  
+<br>
+
+## Details
+
+### Intro 
 *The Yellow Spur* is considered one of the most iconic multipitch climbs in Eldorado Canyon. This striking moderate testpiece has exposure, continuous difficulties, and historic significance. It stands as both a **cultural landmark** and a **high-traffic classic**.  
 
 The climb features a mix of technical roof and corner climbing, delicate face sequences, and airy exposure. Today it remains both a rite of passage for aspiring Eldo leaders and a beloved repeat classic for locals.  
 
-## Route Characteristics  
+### Route Characteristics  
 - Striking upper yellow face and dihedral visible across the canyon.  
 - Starts in corners, then delicate face climbing, before breaking into an **iconic yellow lichen arete**.  
 - Technical cruxes: pumpy roofs, thin face moves, traverses, and an exposed arete finish.  
@@ -28,16 +49,12 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 - The approach is steep uphill (2nd class) and considerd a long approach by Eldo standards taking 20 minutes for the average climber. 
 - The East Slab descent (4th class) is standard walk-off and is technical involving some routefinding. Two other descents are used.  
 
-### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Climbed year-round; peak fall season; low winter traffic.  
-- **Sun Exposure:** West-facing. Summer shade; spring morning shade + fall afternoon sun; cold winters but with usable afternoon sun.  
-
-## Historical Context  
+### Historical Context  
 - **1959:** First ascent by Layton Kor & Dave Dornan (Direct Start + Finish, 5.10B).  
-- **1964:** First free ascent by Royal Robbins & Pat Ament via 5.9+ variation (Ament Start + Robbins Traverse Finish).  
+- **1964:** First free ascent by Royal Robbins & Pat Ament via 5.9+ variation (Ament Start + Robbins Traverse Finish (which was discovered by Ament)).  
 - Rapidly became one of the **most climbed Eldorado classics** and a generational milestone.  
 - Known as a proving ground for climbers seeking to establish themselves on Eldo moderates.  
-- Notable for repeat ascents by prolific locals, including Bill Wright (100–200+) and Danny Gilbert (250+).  
+- Notable for repeat ascents by prolific locals, including Bill Wright (100–200+) and Danny Gilbert (250+) both of whom, starting with Bill then as a team pioneered modern speed on the Spur. 
 
 ## Beta Media  
 - **Video:** [Speed on the Spur: Racing for the FTK (beta spoiler alert!)](https://www.youtube.com/watch?v=WDn1XcV5hJI&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX)  
@@ -46,44 +63,6 @@ The climb features a mix of technical roof and corner climbing, delicate face se
   - Wright has 100–200+ ascents.  
 - **Video:** [First person view climb (Danny Gilbert)](https://www.youtube.com/watch?v=sjsig6fEoqQ&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX)  
   - Gilbert has 250+ ascents.  
-
-## Fastest Known Time (FKT)  
-- **Rules:** Bridge-to-Bridge (South Boulder Peak footbridge), roped style.  
-  - All known FKTs involve:  
-    - Uphill run to base  
-    - Simul climbing with Micro Traxion or similar  
-    - East Slab descent (4th class)  
-
-### Current Record  
-- **28:04 B2B** | 2026-07-23 | Michael Reese & Jack Gugel  
-- [FKT GPS Verification](https://www.strava.com/activities/19434761338)  
-
-### FKT History (B2B)
-
-| Time    | Date       | Climbers                          | Notes              | Verification       |   Verification 2   |
-|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 28:04  | 2026-07-23 | Michael Reese, Jack Gugel         | Current FKT  | [GPS Verification](https://www.strava.com/activities/19434761338)|                    |
-| 29:21  | 2026-07-07 | Michael Reese, Jack Gugel        |   |[GPS Verification](https://www.strava.com/activities/19217626802) |                    |
-| 29:35  | 2021-03-03 | Jack Neus, Joe Kennedy         |   | [GPS Verification](https://www.strava.com/activities/6769287759)  |                    |
-| 33:35  | 2020-11-21 | Jack Neus, Joe Kennedy         |              | |                    |
-| 36:05  | 2020-08-08 | Bill Wright, Danny Gilbert     |             |    [GPS Verification](https://www.strava.com/activities/3882758948)                  |[GPS Verification](https://www.strava.com/activities/3882911091) |                    | |                    |
-| 41:02  | 2020-08-05 | Bill Wright, Danny Gilbert     |              | |                    |
-| 42:48  | 2018-08-01 | Bill Wright, Danny Gilbert     |              | |                    |
-| 46:55  | 2018-07-13 | Jon Oulton, Nodin DeSaillan    |              | |                    |
-| 47:47  | 2018-07-12 | Bill Wright, Danny Gilbert     |              | |                    |
-| 57:02  | 2018-07-11 | Jon Oulton, Nodin DeSaillan    |              | |                    |
-| 58:10  | Early 2000s| Josh Wharton, Kevin Chochran   | First logged | |                    |
-
-  ## Climbers not in the dataset or with partial entries:  
-  - **Bill Wright:** Estimated 100 to 200+ ascents (partial record shows 92). He is quoted as saying he has less ascents than Danny Gilbert.    
-  - **Michael Reese** has 123 ascents as of 9/2/2026, none logged publicly.
-  - **Anton Krupicka:** Estimated ~100 ascents, none logged publicly.  
-  - **Bill Wright** is also known for climbing it **8 times in a single day** on his birthday.  
-
-## Seasonal Profile & Sun Aspect  
-- **Seasonality:** Year-round; peak summer; quiet winters.  
-- **Exposure:** West-facing. Summer shade; spring morning shade; fall afternoon sun. Winter is cold but afternoon sun can provide reasonable temps.  
-
 
 
 ## Analysis Highlights (Dataset)  
@@ -95,25 +74,36 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 - **Leaderboards:**  
   - **Danny Gilbert:** Over **270** public ticks (#1).
 
-
-
+[↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.9+ YDS  |
+| Classic Rank         | 7         |
 | Location             | Redgarden - Tower One |
+| Grade                | 5.9+ YDS  |
+| Pitches              | 6         |
+| FA Info              | Layton Kor, Dave Dornan, 1959. FFA: R. Robbins, P. Ament, 1960s |
 | Stars (avg)          | 3.7       |
 | Votes                | 1449.0    |
 | Unique Climbers      | 2635.0    |
 | Lifetime Ticks       | 4892.0    |
 | Avg Ticks / Climber  | 1.86      |
 <!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Year-round; with steady traffic Spring-Fall (April-October) and low traffic winters.  
+- **Exposure:** West-facing. Summer shade; spring morning shade; fall afternoon sun. Winter is cold but afternoon sun can provide reasonable temps.  
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 9.2% **low season**
@@ -137,9 +127,50 @@ Nov | ██                             6.8%
 Dec | █                              3.6%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+### Fastest Known Time (FKT): The Yellow Spur (bridge to bridge)
+
+### Fastest Known Time (FKT)  
+- **Rules:** Bridge-to-Bridge (South Boulder Peak footbridge), roped style.  
+  - All known FKTs involve:  
+    - Uphill run to base  
+    - Simul climbing with Micro Traxion or similar  
+    - East Slab descent (4th class)  
+
+### Current Yellow Spur FKT (bridge to bridge) 
+- **28:04** | 2026-07-23 | Michael Reese & Jack Gugel  
+- [FKT GPS Verification](https://www.strava.com/activities/19434761338)  
+
+### FKT History (B2B)
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |   Verification 2   |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+| 28:04  | 2026-07-23 | Michael Reese, Jack Gugel         | Current FKT  | [GPS Verification](https://www.strava.com/activities/19434761338)|                    |
+| 29:21  | 2026-07-07 | Michael Reese, Jack Gugel        |   |[GPS Verification](https://www.strava.com/activities/19217626802) |                    |
+| 29:35  | 2021-03-03 | Jack Neus, Joe Kennedy         |   | [GPS Verification](https://www.strava.com/activities/6769287759)  |                    |
+| 33:35  | 2020-11-21 | Jack Neus, Joe Kennedy         |              | |                    |
+| 36:05  | 2020-08-08 | Bill Wright, Danny Gilbert     |             |    [GPS Verification](https://www.strava.com/activities/3882758948)                  |[GPS Verification](https://www.strava.com/activities/3882911091) |                    | |                    |
+| 41:02  | 2020-08-05 | Bill Wright, Danny Gilbert     |              | |                    |
+| 42:48  | 2018-08-01 | Bill Wright, Danny Gilbert     |              | |                    |
+| 46:55  | 2018-07-13 | Jon Oulton, Nodin DeSaillan    |              | |                    |
+| 47:47  | 2018-07-12 | Bill Wright, Danny Gilbert     |              | |                    |
+| 57:02  | 2018-07-11 | Jon Oulton, Nodin DeSaillan    |              | |                    |
+| 58:10  | Early 2000s| Josh Wharton, Kevin Chochran   | First logged | |                    |
+
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -170,8 +201,23 @@ Dec | █                              3.6%
 | 25 | Mario Delgado | 10 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 
+  ## Note on Climbers not in the dataset or with partial data entries:  
+  - **Bill Wright:** Estimated 100 to 200+ ascents (partial record shows 92). He is quoted as saying he has less ascents than Danny Gilbert. Many of these climbs were with Danny Gilbert and Bill pioneered going fast on the Spur.   
+  - **Michael Reese** has 123 ascents as of 9/2/2026, none logged publicly.
+  - **Anton Krupicka:** Estimated ~100 ascents, primarily with Danny Gilbert, none logged publicly.  
+  - **Bill Wright** is also known for climbing it **8 times in a single day** on his birthday.  
+
+
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
+
 
 ## References  
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
 - FKT history confirmed via Danny Gilbert  
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748657/the-yellow-spur)
+
+
+
+
