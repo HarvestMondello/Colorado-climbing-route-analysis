@@ -121,7 +121,7 @@ North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  Th
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|--------------------|
 Hollyberry Hill (RegRA5thFist)(supported) | 49:08| 2019-09-12 |  Kyle Richerdson      |  Regency, Royal Arch, Fifth Flatirion, The Fist (linkup) supported (fixed ropes)  |Hollyberry LN| [Verification (TdF 2019)](https://www.strava.com/activities/2703712873/) | | 
 Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden  |South Mesa TH|[]( ) | | 
-33 Spring Classics    | 01:17:12| 2023-05-17 |  Joe Kennedy, Jack Neus       |  big linkup (linkup)  |Chautauqua to Chautaqua|[Verfication](https://www.strava.com/activities/9090791867) |[Verfication 2](https://www.strava.com/activities/9090900359)  | 
+33 Spring Classics    | 13:16:59| 2023-05-17 |  Joe Kennedy, Jack Neus       |  big linkup (linkup)  |Chautauqua to Chautaqua|[Verfication](https://www.strava.com/activities/9090791867) |[Verfication 2](https://www.strava.com/activities/9090900359)  | 
 
 
 
