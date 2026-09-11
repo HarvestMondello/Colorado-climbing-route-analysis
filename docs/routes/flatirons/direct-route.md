@@ -29,7 +29,7 @@
 
 ## Details
 ### Intro  
-*DEF* on the First Flatiron is a mega classic. This is the most prestigious of the Flatirons. **cultural landmark** and a **high-traffic classic**.  
+*DEF* on the First Flatiron is a mega classic. This is the most prestigious of the Flatirons and the standard route to the summit. The route is **cultural landmark** and a **high-traffic classic**.  
 
 ### Route Characteristics  
 - The imposing East Face is visible from all over the Boulder area.  
