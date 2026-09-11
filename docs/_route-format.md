@@ -25,10 +25,14 @@
 - **Length:** 
 - **Style:** Trad,  
 - **First Ascent:** 
+- **Rock**: 
 
 <br>
 
 ## Details
+### Intro 
+n/a
+
 ### Route Characteristics  
 n/a
 
@@ -146,4 +150,4 @@ Dec | █                              0.5%
 
 ## References  
 - guidebook   
-- [Mountain Project Entry](https://www.mountainproject.com/route/105749770/)
+- [Mountain Project Entry](https://www.mountainproject.com/route/)
