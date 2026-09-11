@@ -7,17 +7,25 @@ Colorado has a tradition of going fast and light on routes, round trip; trailhea
 <br />
 
 ---
-## Rocky Mountain National Park (RMNP) & other alpine
+
+## RMNP FKTs
+### Long's Peak, Rocky Mountain National Park (RMNP)
 | Route    | Time      | Date                         | Climbers              | Formation      |
 |---------|------------|-----------------------------------|--------------------|--------------------|
+**Long's Peak, RMNP:**
 |[Longs Triathlon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 09:50:03  | 2022-10-26 | Stefan Griebel & Anton Krupicka       |  The Diamond on Long's Peak from Boulder RT (bike, run, climb) |  |
-|[Casual Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 03:09:50  | 2024-09-02 | John Alcorn       |  The Diamond on Long's Peak |  |
-[South Face of Petit Grepon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/south-face.md)    | 02:39:27   | 2012-06-26 | Stefan Griebel       |  Petit Grepon in the Cathedral Spires |
-|[Kiener's Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 02:19:37 | 2024-08-07 | Anton Krupicka      |  East Face on Long's Peak |  |
-|[Cables Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 01:55:40  | 2020-08-28 | Kyle Richardson       |  North Face on Long's Peak |  | 
+|[Casual Route on Long's Peak](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 03:09:50  | 2024-09-02 | John Alcorn       |  The Diamond on Long's Peak |  |
+|[Kiener's Route on Long's Peak](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 02:19:37 | 2024-08-07 | Anton Krupicka      |  East Face on Long's Peak |  |
+|[Cables Route on Long's Peak](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 01:55:40  | 2020-08-28 | Kyle Richardson       |  North Face on Long's Peak, RMNP |  | 
+**Linkups**
+["Sit Start" Long's Triathlon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)| 18:44:37  | 2019-08-13 | Stefan Griebel, Wade Morris     |  Longs Peak Triathlon "Sit Start": Naked Edge, Third Flatiron, First Flatiron, Casual Route (linked unsupported via bicycles between three trailheads)|[GPS Verification](https://www.strava.com/activities/2617503027) |
 
+<br />
 
-
+### other Rocky Mountain National Park (RMNP)
+| Route    | Time      | Date                         | Climbers              | Formation      |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+[South Face of Petit Grepon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/south-face.md)    | 02:39:27   | 2012-06-26 | Stefan Griebel       |  Petit Grepon in the Cathedral Spires|
 
 add Blitzen Ridge
 add Lone Eagle Peak
@@ -48,35 +56,79 @@ Swanson's Arete    | n/a   | n/a  | n/a      |  Redgarden: Lumpe Tower |#223
 
 researching: Rewritten, Bastille Crack, Handcracker Direct, Blind Faith, Long John Wall, Wind Ridge, Gambit, Swanson's Arete, or other routes on these formations (Green Spur Buttress, The Bastille, West Ridge, Wind Tower, Shirt Tail Peak, Lumpe Tower ect).
 
+
+
 <br />
 <br />
 <br />
 
 ---
-## The Flatirons 
-First, Second and Third Flatiron start at Chautauqua TH near the ranger cottage at the TH trash can.  Routes are listed North to South.
+## The Flatirons: 
+**Routes are listed North to South from various trailheads**
+
+
+### Flatirons 1-3 and TTCIAD
+
+First, Second and Third Flatiron start at Chautauqua TH near the ranger cottage at the TH trash can.  Routes are listed North to South. Unsupported unless otherwise noted.
 | Route    | Time      | Date                         | Climbers              | Formation      |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 |[First Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 30:19   | 2019-10-15 | Kyle Richardson       |  First Flatiron from Chautauqua |  |
 [Second Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/freeway.md)    | 32:14   | 2024-07-05 |  Soren Kodak      |  Second Flatiron (summit route) from Chautauqua | 
 [Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)    | 36:14   | 2008-10-01 | Stefan Griebel       |  Third Flatiron from Chautauqua | 
+**linkups:**
+[First and Third Flatirons](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 48:33    | 2010-08-13| Stefan Griebel  |  First & Third Flatiron (linkup)| 
 [Flatirons Trifecta](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 01:02:25    | 2021-10-25| Michael Reese |  First, Second & Third Flatiron (linkup)| 
-[Flatirons Quinfecta](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 01:42:08   | 2021-09-01 |  Kyle Richardson       |  Flatirons One through Five (linkup)|
+[Flatirons Quinfecta](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 01:42:08   | 2021-09-01 |  Kyle Richardson       |  Flatirons 1,2,3,4,5 (linkup)|
+TTCIAD    | 05:01:43| 2025-09-26 |  Caleb Hardaway       |  Roach Classic 10 Flatirons: Top 10 Classics In A Day (linkup)  |South Mesa|[Verification](https://www.strava.com/activities/15945117574) |
+
+
   
 <br />
 <br />
 <br />
 
-Other Flatirons routes listed North to South from various trailheads:
+
+### more Northern Flatirons: Green Mountain area, between Flagstaff Road and Skunk Canyon
+<br />
+
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
+Fourth Flatiron   | 59:15  | Stefan Griebel |  2003-07-20    |  Fourth Flatiron |Chautauqa TH| |
+Stairway to Heaven   | 29:26  | Cordis Hall |  2017-10-13    |  Ridge One |NCAR|[Verification (TdF 2017)](https://www.strava.com/activities/1228892735/) |#255
 [Angel's Way](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/angels-way.md)   | 49:19(possible fkt)   | n/a |  n/a     |  Ridge Four  | NCAR |[]() | #46
-Stairway to Heaven   | 29:26  | 2017-10-13 | Cordis Hall   |  Ridge Two |NCAR|[Verification (TdF 2017)](https://www.strava.com/activities/1228892735/) |#255
+<br />
+
+### Central Flatirons: Dinosaur Mountain area, between Skunk Canyon and Bear Canyon
+| Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
+|---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
 East Face Center on Front Porch   | 20:59 (possible fkt)   | 2004-10-07 |  Jon Sargant (possible fkt)      |  Front Porch |NCAR|TdF 2004 |
+<br />
+
+### Southern Flatirons: South Boulder Peak and Bear Peak areas, between Eldorado Canyon and Bear Canyon
+
+| Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
+|---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
 [East Face North Side of Seal Rock](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md)   | 41:26 (possible fkt)   | 2007-10-20 |  Dave Mackey (possible fkt)      |  Seal Rock |Bear Canyon|TdF 2007 | #98
 Diagonal   | 29:59   | 2020-10-21 |  Michael Reese       |  The Slab |Shanahan|[Verification](https://www.strava.com/activities/4226557500/) |-
 North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden |South Mesa|[]( ) |#112
-Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden (linkup)  |South Mesa|[]( ) |
+
+
+<br />
+
+### Flatirons linkups:
+
+| Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification| | 
+|---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|--------------------|
+Hollyberry Hill (RegRA5thFist)(supported) | 49:08| 2019-09-12 |  Kyle Richerdson      |  Regency, Royal Arch, Fifth Flatirion, The Fist (linkup) supported (fixed ropes)  |Hollyberry LN| [Verification (TdF 2019)](https://www.strava.com/activities/2703712873/) | | 
+Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden  |South Mesa TH|[]( ) | | 
+33 Spring Classics    | 01:17:12| 2023-05-17 |  Joe Kennedy, Jack Neus       |  big linkup (linkup)  |Chautauqua to Chautaqua|[Verfication](https://www.strava.com/activities/9090791867) |[Verfication 2](https://www.strava.com/activities/9090900359)  | 
+
+
+
+
+
+
+
 
 
 
@@ -84,21 +136,11 @@ Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron,
 <br />
 <br />
 
-
-Other Flatirons linkups:
-
-| Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
-|---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
-TTCIAD    | 05:01:43| 2025-09-26 |  Caleb Hardaway       |  Roach Classic 10 Flatirons: Top 10 Classics In A Day (linkup)  |South Mesa|[Verification](https://www.strava.com/activities/15945117574) |
-
-
-
-<br />
-<br />
-<br />
 
 ---
 ## Other Areas
+Lumpy Ridge (Lumpy).
+Boulder Canyon (BoCan)...
 
 ---
 
@@ -106,7 +148,7 @@ TTCIAD    | 05:01:43| 2025-09-26 |  Caleb Hardaway       |  Roach Classic 10 Fla
 <br />
 <br />
 
-## To Submit a Possible FKT
+## To Submit an FKT
 FKTs are by definition the fastest known time. If you have a faster time or know someone that does submit the information including date, time, style and gps verification. 
 
 
