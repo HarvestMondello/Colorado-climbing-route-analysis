@@ -63,9 +63,9 @@
 | FA Info              | Duncan Ferguson, Chris Reveley, 1977 |
 | Stars (avg)          | 3.8       |
 | Votes                | 733.0     |
-| Unique Climbers      | 1220.0    |
-| Lifetime Ticks       | 1640.0    |
-| Avg Ticks / Climber  | 1.34      |
+| Unique Climbers      | 1236.0    |
+| Lifetime Ticks       | 1665.0    |
+| Avg Ticks / Climber  | 1.35      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
 
@@ -83,10 +83,10 @@
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 2.1% **off season**
+- ❄️ **Winter (Dec–Feb)**: 2.0% **off season**
 - 🌸 **Spring (Mar–May)**: 1.6% **off season**
-- ☀️ **Summer (Jun–Aug)**: 76.3% **high season**
-- 🍂 **Fall (Sep–Nov)**: 20.0%
+- ☀️ **Summer (Jun–Aug)**: 75.5% **high season**
+- 🍂 **Fall (Sep–Nov)**: 20.8%
 
 ### Seasonality Usage by Month
 ```
@@ -94,14 +94,14 @@ Jan | █                              0.5%
 Feb | █                              0.4%
 Mar | █                              0.3%
 Apr | █                              0.5%
-May | █                              0.9%
+May | █                              0.8%
 Jun | ██                             5.6%
-Jul | ████████                      28.3%
-Aug | ████████████                  42.3%
-Sep | █████                         17.8%
+Jul | ████████                      28.1%
+Aug | ████████████                  41.8%
+Sep | █████                         18.6%
 Oct | █                              1.4%
 Nov | █                              0.8%
-Dec | █                              1.2%
+Dec | █                              1.1%
 ```
 <!-- AUTO:SEASONALITY:END -->
 [↑ Back to Index](#index)
@@ -175,12 +175,13 @@ Dec | █                              1.2%
 
 <br>
 
-### FKT History: Long's Peak: Kiener's Route
+### FKT History: Long's Peak: Kiener's Route 
+### [see Kiener's Route page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/kieners-route.md)
 | Time    | Date       | Climbers                          | Notes              | Verification       |    |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 02:19:37  | 2024-08-07 | Anton Krupicka     | Current FKT  |[GPS Verification](https://www.strava.com/activities/12088698671) |  |
 
-Krupicka also had the prio Kiener's FKT
+Krupicka also had the prior Kiener's FKT
 
 <br>
 
@@ -209,26 +210,26 @@ This is a wild linkup of some of the best climbs in the area.
 | 3 | WadeM | 12 |
 | 4 | Will Starks | 11 |
 | 5 | Japhy Dhungana | 10 |
-| 6 | Charles Vernon | 7 |
-| 7 | Jason Antin | 7 |
-| 8 | Matt Conklin | 7 |
-| 9 | Jack Neus | 5 |
-| 10 | Mikaela DeRousseau | 5 |
-| 11 | Mike Lewis | 5 |
-| 12 | Mitchell Hodge | 5 |
-| 13 | Sarah Malone | 5 |
-| 14 | Tim Hare | 5 |
-| 15 | tooTALLtim | 5 |
-| 16 | A.Eaton | 4 |
-| 17 | Danny Gilbert | 4 |
-| 18 | David Appelhans | 4 |
-| 19 | Evan King | 4 |
-| 20 | Guy H. | 4 |
-| 21 | Jeremy K | 4 |
-| 22 | Matt Combs | 4 |
-| 23 | Ross Andrea | 4 |
-| 24 | Tristan Bradford | 4 |
-| 25 | Aaron Glasenapp | 3 |
+| 6 | Kishen Mangat | 9 |
+| 7 | Charles Vernon | 7 |
+| 8 | Jason Antin | 7 |
+| 9 | Matt Conklin | 7 |
+| 10 | tooTALLtim | 6 |
+| 11 | Jack Neus | 5 |
+| 12 | Mikaela DeRousseau | 5 |
+| 13 | Mike Lewis | 5 |
+| 14 | Mitchell Hodge | 5 |
+| 15 | Sarah Malone | 5 |
+| 16 | Tim Hare | 5 |
+| 17 | A.Eaton | 4 |
+| 18 | Danny Gilbert | 4 |
+| 19 | David Appelhans | 4 |
+| 20 | Evan King | 4 |
+| 21 | Guy H. | 4 |
+| 22 | Jeremy K | 4 |
+| 23 | Matt Combs | 4 |
+| 24 | Ross Andrea | 4 |
+| 25 | Tristan Bradford | 4 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 [Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
 
