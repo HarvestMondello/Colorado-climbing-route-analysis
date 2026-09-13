@@ -15,7 +15,7 @@ Colorado has a tradition of going fast and light on routes, round trip; trailhea
 **Long's Peak, RMNP:**
 |[Longs Triathlon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 09:50:03  | 2022-10-26 | Stefan Griebel & Anton Krupicka       |  The Diamond on Long's Peak from Boulder RT (bike, run, climb) |  |
 |[Casual Route on Long's Peak](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 03:09:50  | 2024-09-02 | John Alcorn       |  The Diamond on Long's Peak |  |
-|[Kiener's Route on Long's Peak](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/kieners-route.md)    | 02:19:37 | 2024-08-07 | Anton Krupicka      |  East Face on Long's Peak |  |
+|[Kiener's Route on Long's Peak](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/kieners-route.md)    | 02:19:37 | 2024-08-07 | Anton Krupicka      |  East Face on Long's Peak |  | #79
 |[Cables Route on Long's Peak](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 01:55:40  | 2020-08-28 | Kyle Richardson       |  North Face on Long's Peak, RMNP |  | 
 **Linkups**
 ["Sit Start" Long's Triathlon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)| 18:44:37  | 2019-08-13 | Stefan Griebel, Wade Morris     |  Longs Peak Triathlon "Sit Start": Naked Edge, Third Flatiron, First Flatiron, Casual Route (linked unsupported via bicycles between three trailheads)|[GPS Verification](https://www.strava.com/activities/2617503027) |
@@ -50,8 +50,8 @@ Routes are bridge to bridge. (these need orders)
 [Gambit](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/gambit.md)     | n/a   | n/a  | n/a      |  Shirt Tail Peak | #30
 [Hair City](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/hair-city.md) (b2b)| n/a   | n/a  | n/a      |  The Bastille: West Face | #42
 [Long John Wall](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/long-john-wall.md)     | n/a   | n/a  | n/a      |  The West Ridge: Long John Tower | #92
-Wind Ridge (Direct)    | n/a   | n/a  | n/a      |  Wind Tower: Southwest Face |#183
-Swanson's Arete    | n/a   | n/a  | n/a      |  Redgarden: Lumpe Tower |#223
+[Wind Ridge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/wind-ridge.md)    | n/a   | n/a  | n/a      |  Wind Tower: Southwest Face |#183
+[Swanson Arete](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/swanson-arete.md)    | n/a   | n/a  | n/a      |  Redgarden: Lumpe Tower |#222
 
 
 researching: Rewritten, Bastille Crack, Handcracker Direct, Blind Faith, Long John Wall, Wind Ridge, Gambit, Swanson's Arete, or other routes on these formations (Green Spur Buttress, The Bastille, West Ridge, Wind Tower, Shirt Tail Peak, Lumpe Tower ect).
@@ -94,7 +94,7 @@ TTCIAD    | 05:01:43| 2025-09-26 |  Caleb Hardaway       |  Roach Classic 10 Fla
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
 Fourth Flatiron   | 59:15  | Stefan Griebel |  2003-07-20    |  Fourth Flatiron |Chautauqa TH| |
-Stairway to Heaven   | 29:26  | Cordis Hall |  2017-10-13    |  Ridge One |NCAR|[Verification (TdF 2017)](https://www.strava.com/activities/1228892735/) |#255
+[Stairway to Heaven](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/stairway-to-heaven.md)  | 29:26  | Cordis Hall |  2017-10-13    |  Ridge One |NCAR|[Verification (TdF 2017)](https://www.strava.com/activities/1228892735/) |#255
 [Angel's Way](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/angels-way.md)   | 49:19(possible fkt)   | n/a |  n/a     |  Ridge Four  | NCAR |[]() | #46
 <br />
 
