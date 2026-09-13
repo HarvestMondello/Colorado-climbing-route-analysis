@@ -2,7 +2,7 @@
 
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/kieners-route.png" alt="Kiener's Route, Long's Peak" width="1200"/>
 
-# Route Profile: 
+# Route Profile: *Kiener's Route* on Long's Peak in RMNP
 
 <br>
 
