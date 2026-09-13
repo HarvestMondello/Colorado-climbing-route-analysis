@@ -55,8 +55,8 @@ n/a
 | FA Info              | unknown   |
 | Stars (avg)          | 3.6       |
 | Votes                | 357.0     |
-| Unique Climbers      | 757.0     |
-| Lifetime Ticks       | 1406.0    |
+| Unique Climbers      | 765.0     |
+| Lifetime Ticks       | 1425.0    |
 | Avg Ticks / Climber  | 1.86      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
@@ -76,8 +76,8 @@ n/a
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 7.2%
 - 🌸 **Spring (Mar–May)**: 5.7% **low season**
-- ☀️ **Summer (Jun–Aug)**: 39.2%
-- 🍂 **Fall (Sep–Nov)**: 47.9% **high season**
+- ☀️ **Summer (Jun–Aug)**: 38.7%
+- 🍂 **Fall (Sep–Nov)**: 48.4% **high season**
 
 ### Seasonality Usage by Month
 ```
@@ -85,14 +85,14 @@ Jan | █                              2.1%
 Feb | █                              0.2%
 Mar | █                              0.3%
 Apr | █                              0.7%
-May | █                              4.6%
-Jun | ███                           11.5%
-Jul | ███                            9.4%
-Aug | █████                         18.3%
-Sep | █████                         19.2%
-Oct | █████                         17.3%
-Nov | ███                           11.3%
-Dec | █                              5.0%
+May | █                              4.7%
+Jun | ███                           11.4%
+Jul | ███                            9.3%
+Aug | █████                         18.1%
+Sep | ██████                        20.1%
+Oct | █████                         17.1%
+Nov | ███                           11.2%
+Dec | █                              4.9%
 ```
 <!-- AUTO:SEASONALITY:END -->
 [↑ Back to Index](#index)
@@ -122,10 +122,10 @@ Dec | █                              5.0%
 | 2 | Ralph Swansen | 20 |
 | 3 | Harvest Mondello | 19 |
 | 4 | Joe Cinderella | 14 |
-| 5 | Bill Kinter | 12 |
-| 6 | Chris Gummer | 12 |
-| 7 | Tony B | 12 |
-| 8 | Isaac Porter | 10 |
+| 5 | Tony B | 14 |
+| 6 | Chris Gummer | 13 |
+| 7 | Isaac Porter | 13 |
+| 8 | Bill Kinter | 12 |
 | 9 | Josh Horne | 10 |
 | 10 | Stefan Griebel | 10 |
 | 11 | Doug Simpson | 9 |
@@ -137,11 +137,11 @@ Dec | █                              5.0%
 | 17 | Eric K | 8 |
 | 18 | Jack Neus | 8 |
 | 19 | Kevin Karn | 8 |
-| 20 | Craig Woodward | 7 |
-| 21 | Guy H. | 7 |
-| 22 | Joey Prusa | 7 |
-| 23 | Mighty Mango | 7 |
-| 24 | Zachary Henry | 7 |
+| 20 | Zachary Henry | 8 |
+| 21 | Craig Woodward | 7 |
+| 22 | Guy H. | 7 |
+| 23 | Joey Prusa | 7 |
+| 24 | Mighty Mango | 7 |
 | 25 | Anna Dolan | 6 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 [Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
