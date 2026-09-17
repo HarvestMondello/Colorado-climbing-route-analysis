@@ -1,103 +1,122 @@
-# Route Profile: *Route Name*
 
-<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/route-name.png" alt="The Route Name in Crag" width="1200"/>
+
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/vertigo.png" alt="Vertigo on Redgarden in Eldorado Canyon" width="1200"/>
+
+# Route Profile: *Vertigo* on Redgarden in Eldorado Canyon
+
+<br>
+
+## Index
+
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
+
+<br>
 
 ## Overview  
-- **Area:** <<<>>>>>>, Colorado  
-- **Formation:** <<<>>>>>>: <<<>>>>>>  
-- **Grade:** 5.<<<>>>>>> (<<<>>>>>> pitches)  
-- **Length:** <<<>>>>>>'  
-- **Style:** Trad, multipitch  
-- **First Ascent:** <<<>>>>>>, 19<<<>>> 
-- **First Free Ascent:**  <<<>>>>>>, 19<<<>>> 
+- **Area:** Eldorado Canyon
+- **Formation:** Redgarden: na
+- **Grade:** YDS 5.11AB
+- **Route Length:** na
+- **Style:** Trad, multi-pitch  
+- **First Ascent:** Dave Dornan, Pete Lev, 1961
+- **First Free Ascent** FFA: Pat Ament/Roger Briggs (na year)
+- **Rock type**: Fountain Formation sandstone
 
-## Summary  
-*The Route name* <<<>>>>>>
+<br>
 
-## Route Characteristics  
-- <<<>>>>>>
-- <<<>>>>>>
-- <<<>>>>>>
+## Details
+### Intro 
+A testpiece for the grade.
+
+### Route Characteristics  
+Steep technical climbing followed by a roof crack. 
 
 ### Approach & Descent 
-- <>
-- <>
+Approach: Via Redgarden West climbers trail from the South Boulder Creek footbridge.
+Descent: Vertigo rapels.
 
-### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Climbed year-round; peak <<<>>>>>> season; low <<<>>>>>> traffic.  
-- **Sun Exposure:** <<<>>>>>>
+### Historical Context  
+n/a
 
-## Historical Context  
-- **19<>>>:** <<<>>>>>>
-- **19<>>:** <<<>>>>>>  
-- **19<>>:** <<<>>>>>>
-
-## Beta Media  
-- **Video:** [First person view climb of <<>>>>> with pro (beta spoiler alert!)](<<<<website>>>>)  
-  - Video by <<<>>>>>>
-  - Shows <<<>>>>>>
-
-## Fastest Known Time (FKT)  
-- n/a
-
-## Analysis Highlights (Dataset)  
-- **Classic Rank:** 
-- **Engagement:**   
-- **Trend:**   
-- **Traffic:**  
-- **Consensus:** .  
-- **Leaderboards:**  
-  - **Leader:** <>> 
- 
-
-## References  
-- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
-- [Mountain Project Entry](https://www.mountainproject.com/route/<>>)  
-
-
+[↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.11b YDS |
+| Classic Rank         | 14        |
 | Location             | Redgarden - Tower One |
+| Grade                | 5.11b YDS |
+| Pitches              | 4         |
+| FA Info              | Dave Dornan, Pete Lev, 1961. FFA: Pat Ament/Roger Briggs 196? |
 | Stars (avg)          | 3.8       |
 | Votes                | 406.0     |
-| Unique Climbers      | 630.0     |
-| Lifetime Ticks       | 1002.0    |
+| Unique Climbers      | 634.0     |
+| Lifetime Ticks       | 1007.0    |
 | Avg Ticks / Climber  | 1.59      |
 <!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Year round access with a winter low season
+- **Sun Exposure:** West facing. Morning shade, afternoon sun.
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 8.9% **low season**
-- 🌸 **Spring (Mar–May)**: 27.2%
-- ☀️ **Summer (Jun–Aug)**: 34.1% **high season**
-- 🍂 **Fall (Sep–Nov)**: 29.8%
+- ❄️ **Winter (Dec–Feb)**: 9.0% **low season**
+- 🌸 **Spring (Mar–May)**: 27.1%
+- ☀️ **Summer (Jun–Aug)**: 33.9% **high season**
+- 🍂 **Fall (Sep–Nov)**: 30.1%
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              2.1%
-Feb | █                              2.9%
+Feb | █                              3.0%
 Mar | ██                             7.7%
-Apr | ██                             8.6%
+Apr | ██                             8.5%
 May | ███                           10.9%
-Jun | ███                           11.7%
-Jul | ███                           12.2%
-Aug | ███                           10.3%
-Sep | ████                          12.3%
-Oct | ███                           10.4%
+Jun | ███                           11.5%
+Jul | ███                           12.1%
+Aug | ███                           10.2%
+Sep | ████                          12.7%
+Oct | ███                           10.3%
 Nov | ██                             7.1%
 Dec | █                              3.9%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+### Fastest Known Time (FKT): trailhead to trailhead 
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -127,3 +146,10 @@ Dec | █                              3.9%
 | 24 | claytown | 4 |
 | 25 | Aaron Glasenapp | 3 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
+
+## References  
+- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
+- [Mountain Project Entry](https://www.mountainproject.com/route/105748771/vertigo)

@@ -1,39 +1,79 @@
 
 
-# Route Profile: Outer Space
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/outer-space.png" alt=" Outer Space on The Bastille: North Face, Eldorado Canyon" width="1200"/>
 
-(photo banner, area/grade/FA info, etc.)
+# Route Profile: *Outer Space* on The Bastille: North Face, Eldorado Canyon
 
-Summary
+<br>
 
-Your prose: history, cultural importance, climbing experience.
+## Index
 
-Route Characteristics
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
 
-Bullets, anecdotes, formation details.
+<br>
 
-Analysis
+## Overview  
+- **Area:**   The Bastille: North Face
+- **Formation:** Eldorado Canyon
+- **Grade:** YDS 5.10+. Recent rockfall has increased the grade but there's no concensus on an exact letter grade. 
+- **Route Length:** 
+- **Style:** Trad, multi-pich  
+- **First Ascent:** Layton Kor, Steve Komito, 1961
+- **First Free Ascent**
+- **Rock type**: Fountain Formation sandstone
 
-Any narrative insights you want to keep hand-written.
+<br>
 
+## Details
+### Intro 
+A mega classic and test piece for the grade.
 
+### Route Characteristics  
+Technical corner crux on pitch one. Pitch two starts with roof and blowing the crux will leave you hanging in space...pitch two has multiple crack and face 5.10 sections and finishes with a run 5.8 finish.
+
+### Approach & Descent 
+Approach: The Bastille Crack P1-2 is the most common approach route. 
+Descent: The Bastille Walk off, 3rd class.
+
+### Historical Context  
+n/a
+
+[↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.10b/c YDS |
+| Classic Rank         | 3         |
 | Location             | Bastille - N Face |
+| Grade                | 5.10b/c YDS |
+| Pitches              | 2         |
+| FA Info              | Layton Kor, Steve Komito, 1961 |
 | Stars (avg)          | 3.9       |
 | Votes                | 789.0     |
-| Unique Climbers      | 1297.0    |
-| Lifetime Ticks       | 2254.0    |
+| Unique Climbers      | 1298.0    |
+| Lifetime Ticks       | 2255.0    |
 | Avg Ticks / Climber  | 1.74      |
 <!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Year round acess with a peak in the warm summer months. Winter sees very few ascents as the route is in the shade all day.
+- **Sun Exposure:** North Facing. Shade most of the day exept a few hours in the afternoon in the spring, summer, fall. Winter the route is in the shade all day due to being low in the Canyon.
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 2.8% **off season**
@@ -48,8 +88,8 @@ Feb | █                              0.8%
 Mar | █                              2.5%
 Apr | ██                             7.8%
 May | ███                           12.0%
-Jun | █████                         17.2%
-Jul | █████                         16.1%
+Jun | █████                         17.1%
+Jul | █████                         16.2%
 Aug | ████                          15.5%
 Sep | ████                          14.5%
 Oct | ██                             8.7%
@@ -57,9 +97,26 @@ Nov | █                              3.0%
 Dec | █                              1.5%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+### Fastest Known Time (FKT): trailhead to trailhead 
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -89,3 +146,10 @@ Dec | █                              1.5%
 | 24 | AdamShep | 6 |
 | 25 | Bill Kinter | 6 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
+
+## References  
+- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
+- [Mountain Project Entry](https://www.mountainproject.com/route/105748612/outer-space)

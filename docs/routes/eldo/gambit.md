@@ -1,83 +1,85 @@
-# Route Profile: *Route Name*
 
-<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/route-name.png" alt="The Route Name in Crag" width="1200"/>
+
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/gambit.png" alt="Gabmit on Shirt Tail Peak in Eldorado Canyon" width="1200"/>
+
+# Route Profile: *Gabmit* on Shirt Tail Peak in Eldorado Canyon
+
+<br>
+
+## Index
+
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
+
+<br>
 
 ## Overview  
-- **Area:** <<<>>>>>>, Colorado  
-- **Formation:** <<<>>>>>>: <<<>>>>>>  
-- **Grade:** 5.<<<>>>>>> (<<<>>>>>> pitches)  
-- **Length:** <<<>>>>>>'  
-- **Style:** Trad, multipitch  
-- **First Ascent:** <<<>>>>>>, 19<<<>>> 
-- **First Free Ascent:**  <<<>>>>>>, 19<<<>>> 
+- **Area:**  Eldorado Canyon
+- **Formation:** Shirt Tail Peak
+- **Grade:** YDS 5.8, 4 pitches, II
+- **Route Length:** na
+- **Style:** Trad, multi-pitch  
+- **First Ascent:** George Hurley and Bob Culp, 1965
+- **First Free Ascent** na
+- **Rock type**: Fountain Formation sandstone
 
-## Summary  
-*The Route name* <<<>>>>>>
+<br>
 
-## Route Characteristics  
-- <<<>>>>>>
-- <<<>>>>>>
-- <<<>>>>>>
+## Details
+### Intro 
+Tops out at the highest point in the Canyon.
+
+### Route Characteristics  
+A variety of crack climbing.
 
 ### Approach & Descent 
-- <>
-- <>
+Approach: From Eldorado Canyon Visitor Center
+Descent: Rap or walkoff.
 
-### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Climbed year-round; peak <<<>>>>>> season; low <<<>>>>>> traffic.  
-- **Sun Exposure:** <<<>>>>>>
+### Historical Context  
+n/a
 
-## Historical Context  
-- **19<>>>:** <<<>>>>>>
-- **19<>>:** <<<>>>>>>  
-- **19<>>:** <<<>>>>>>
-
-## Beta Media  
-- **Video:** [First person view climb of <<>>>>> with pro (beta spoiler alert!)](<<<<website>>>>)  
-  - Video by <<<>>>>>>
-  - Shows <<<>>>>>>
-
-## Fastest Known Time (FKT)  
-- n/a
-
-## Analysis Highlights (Dataset)  
-- **Classic Rank:** 
-- **Engagement:**   
-- **Trend:**   
-- **Traffic:**  
-- **Consensus:** .  
-- **Leaderboards:**  
-  - **Leader:** <>> 
- 
-
-## References  
-- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
-- [Mountain Project Entry](https://www.mountainproject.com/route/<>>)  
-
-
+[↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.8 YDS   |
+| Classic Rank         | 30        |
 | Location             | Shirt Tail Peak |
+| Grade                | 5.8 YDS   |
+| Pitches              | 5         |
+| FA Info              | George Hurley and Bob Culp, 1965 |
 | Stars (avg)          | 3.6       |
 | Votes                | 848.0     |
 | Unique Climbers      | 1774.0    |
-| Lifetime Ticks       | 2704.0    |
-| Avg Ticks / Climber  | 1.52      |
+| Lifetime Ticks       | 2707.0    |
+| Avg Ticks / Climber  | 1.53      |
 <!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Year round access with a winter off season.
+- **Sun Exposure:** South facing. Sunny most of the day.
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 11.0% **low season**
 - 🌸 **Spring (Mar–May)**: 26.3%
 - ☀️ **Summer (Jun–Aug)**: 33.1% **high season**
-- 🍂 **Fall (Sep–Nov)**: 29.6%
+- 🍂 **Fall (Sep–Nov)**: 29.7%
 
 ### Seasonality Usage by Month
 ```
@@ -85,19 +87,36 @@ Jan | █                              3.9%
 Feb | █                              2.9%
 Mar | ██                             7.1%
 Apr | ███                            9.6%
-May | ███                            9.7%
+May | ███                            9.6%
 Jun | ███                           10.8%
 Jul | ███                           10.2%
 Aug | ███                           12.0%
-Sep | ███                           10.9%
-Oct | ███                           11.3%
+Sep | ███                           11.1%
+Oct | ███                           11.2%
 Nov | ██                             7.4%
 Dec | █                              4.2%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+### Fastest Known Time (FKT): trailhead to trailhead 
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -105,8 +124,8 @@ Dec | █                              4.2%
 | 2 | Jack Neus | 17 |
 | 3 | Bill Kinter | 11 |
 | 4 | Gregger Man | 11 |
-| 5 | Justin Compton | 9 |
-| 6 | Samuel Andree | 9 |
+| 5 | Samuel Andree | 10 |
+| 6 | Justin Compton | 9 |
 | 7 | Scott Guile | 9 |
 | 8 | Alex Vidal | 8 |
 | 9 | Chris Johnson | 8 |
@@ -127,3 +146,10 @@ Dec | █                              4.2%
 | 24 | Patrick Coller | 6 |
 | 25 | Ralph Swansen | 6 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
+
+## References  
+- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
+- [Mountain Project Entry](https://www.mountainproject.com/route/105751960/gambit)

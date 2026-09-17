@@ -1,83 +1,85 @@
-# Route Profile: *Route Name*
 
-<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/route-name.png" alt="The Route Name in Crag" width="1200"/>
+
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/rosy-crucifixion.png" alt="Rosy Cruciifixion on Redgarden Wall: Lower Ramp in Eldorado Canyon" width="1200"/>
+
+# Route Profile: *Rosy Cruciifixion* on Redgarden Wall: Lower Ramp in Eldorado Canyon
+
+<br>
+
+## Index
+
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
+
+<br>
 
 ## Overview  
-- **Area:** <<<>>>>>>, Colorado  
-- **Formation:** <<<>>>>>>: <<<>>>>>>  
-- **Grade:** 5.<<<>>>>>> (<<<>>>>>> pitches)  
-- **Length:** <<<>>>>>>'  
-- **Style:** Trad, multipitch  
-- **First Ascent:** <<<>>>>>>, 19<<<>>> 
-- **First Free Ascent:**  <<<>>>>>>, 19<<<>>> 
+- **Area:**  Eldorado Canyon
+- **Formation:** Redgarden Wall: Lower Ramp
+- **Grade:** YDS 5.10B, 3 pitches
+- **Route Length:** 107" / 52m
+- **Style:** Trad, multi-pitch  
+- **First Ascent:** Layton Kor, Jack Turner, 1962
+- **First Free Ascent** Jim Erickson, Steve Wood, Ed Wright, 1970.
+- **Rock type**: Fountain Formation sandstone
 
-## Summary  
-*The Route name* <<<>>>>>>
+<br>
 
-## Route Characteristics  
-- <<<>>>>>>
-- <<<>>>>>>
-- <<<>>>>>>
+## Details
+### Intro 
+A testpiece for the grade.
+
+### Route Characteristics  
+Finger traverse then finger crack.
 
 ### Approach & Descent 
-- <>
-- <>
+Approach: Lower Ramp approaches
+Descent: Climb an Upper Ramp route then East Slab descent (4th). Or one of several involved rapel options.
 
-### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Climbed year-round; peak <<<>>>>>> season; low <<<>>>>>> traffic.  
-- **Sun Exposure:** <<<>>>>>>
+### Historical Context  
+n/a
 
-## Historical Context  
-- **19<>>>:** <<<>>>>>>
-- **19<>>:** <<<>>>>>>  
-- **19<>>:** <<<>>>>>>
-
-## Beta Media  
-- **Video:** [First person view climb of <<>>>>> with pro (beta spoiler alert!)](<<<<website>>>>)  
-  - Video by <<<>>>>>>
-  - Shows <<<>>>>>>
-
-## Fastest Known Time (FKT)  
-- n/a
-
-## Analysis Highlights (Dataset)  
-- **Classic Rank:** 
-- **Engagement:**   
-- **Trend:**   
-- **Traffic:**  
-- **Consensus:** .  
-- **Leaderboards:**  
-  - **Leader:** <>> 
- 
-
-## References  
-- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
-- [Mountain Project Entry](https://www.mountainproject.com/route/<>>)  
-
-
+[↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.10b YDS |
+| Classic Rank         | 13        |
 | Location             | Redgarden - Tower Two |
+| Grade                | 5.10b YDS |
+| Pitches              | 3         |
+| FA Info              | Layton Kor, Jack Turner, 1962. FFA: Jim Erickson, Steve Wood, Ed Wright, 1970. |
 | Stars (avg)          | 3.8       |
 | Votes                | 554.0     |
-| Unique Climbers      | 839.0     |
-| Lifetime Ticks       | 1200.0    |
+| Unique Climbers      | 842.0     |
+| Lifetime Ticks       | 1202.0    |
 | Avg Ticks / Climber  | 1.43      |
 <!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Year round access with a spring peak season.
+- **Sun Exposure:** Southwest facing. Morning shade, afternoon sun.
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 12.4% **low season**
-- 🌸 **Spring (Mar–May)**: 34.4% **high season**
-- ☀️ **Summer (Jun–Aug)**: 27.4%
-- 🍂 **Fall (Sep–Nov)**: 25.8%
+- 🌸 **Spring (Mar–May)**: 34.3% **high season**
+- ☀️ **Summer (Jun–Aug)**: 27.3%
+- 🍂 **Fall (Sep–Nov)**: 26.0%
 
 ### Seasonality Usage by Month
 ```
@@ -85,19 +87,36 @@ Jan | █                              4.1%
 Feb | █                              3.6%
 Mar | ███                            8.8%
 Apr | ████                          13.2%
-May | ████                          12.4%
+May | ████                          12.3%
 Jun | ███                           11.0%
 Jul | ██                             7.3%
 Aug | ███                            9.0%
-Sep | ██                             8.3%
+Sep | ██                             8.6%
 Oct | ███                           10.3%
 Nov | ██                             7.1%
 Dec | █                              4.8%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+### Fastest Known Time (FKT): trailhead to trailhead 
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -127,3 +146,10 @@ Dec | █                              4.8%
 | 24 | tooTALLtim | 4 |
 | 25 | Brian Carver | 3 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
+
+## References  
+- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
+- [Mountain Project Entry](https://www.mountainproject.com/route/105748777/rosy-crucifixion)

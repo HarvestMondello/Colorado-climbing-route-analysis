@@ -52,52 +52,53 @@
 
 ## References  
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
-- [Mountain Project Entry](https://www.mountainproject.com/route/<>>)  
-
+- [Mountain Project Entry](https://www.mountainproject.com/route/<>>)
 
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.10a YDS |
+| Classic Rank         | 11        |
 | Location             | W Ridge - part C - Po… |
+| Grade                | 5.10a YDS |
+| Pitches              | 5         |
+| FA Info              | Rossiter, Garber, Hare, Woodruff, Erickson, Wunsch, et al. |
 | Stars (avg)          | 3.7       |
 | Votes                | 807.0     |
-| Unique Climbers      | 1698.0    |
-| Lifetime Ticks       | 3061.0    |
+| Unique Climbers      | 1699.0    |
+| Lifetime Ticks       | 3065.0    |
 | Avg Ticks / Climber  | 1.80      |
 <!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 11.7% **low season**
-- 🌸 **Spring (Mar–May)**: 28.0%
+- 🌸 **Spring (Mar–May)**: 27.9%
 - ☀️ **Summer (Jun–Aug)**: 30.2% **high season**
-- 🍂 **Fall (Sep–Nov)**: 30.1%
+- 🍂 **Fall (Sep–Nov)**: 30.2%
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              3.3%
 Feb | █                              3.5%
-Mar | ██                             7.2%
+Mar | ██                             7.1%
 Apr | ███                            9.7%
 May | ███                           11.1%
-Jun | ███                            9.8%
-Jul | ███                           10.2%
+Jun | ███                            9.7%
+Jul | ███                           10.1%
 Aug | ███                           10.3%
-Sep | ███                           10.9%
+Sep | ███                           11.0%
 Oct | ███                           10.9%
 Nov | ██                             8.3%
-Dec | █                              5.0%
+Dec | █                              4.9%
 ```
 <!-- AUTO:SEASONALITY:END -->
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -108,8 +109,8 @@ Dec | █                              5.0%
 | 5 | Harvest Mondello | 19 |
 | 6 | Ryan Marsters | 17 |
 | 7 | Samuel Andree | 17 |
-| 8 | Samuel Puckett | 15 |
-| 9 | Hailey Moore | 14 |
+| 8 | Hailey Moore | 16 |
+| 9 | Samuel Puckett | 15 |
 | 10 | Haley Young | 14 |
 | 11 | Bill Kinter | 13 |
 | 12 | Yiran Li | 13 |
@@ -124,6 +125,6 @@ Dec | █                              5.0%
 | 21 | Jack Neus | 8 |
 | 22 | Neil L | 8 |
 | 23 | Rob Baumgartner | 8 |
-| 24 | 303scott | 7 |
-| 25 | Abel Richards | 7 |
+| 24 | Steve M | 8 |
+| 25 | 303scott | 7 |
 <!-- AUTO:TOP_CLIMBERS:END -->

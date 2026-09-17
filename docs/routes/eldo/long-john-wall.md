@@ -52,44 +52,45 @@
 
 ## References  
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
-- [Mountain Project Entry](https://www.mountainproject.com/route/<>>)  
-
+- [Mountain Project Entry](https://www.mountainproject.com/route/<>>)
 
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.8 YDS   |
+| Classic Rank         | 92        |
 | Location             | W Ridge - part B - Lo… |
+| Grade                | 5.8 YDS   |
+| Pitches              | 4         |
+| FA Info              | Larry Dalke, Pat Ament, Wayne Goss, 1964 |
 | Stars (avg)          | 3.4       |
 | Votes                | 803.0     |
-| Unique Climbers      | 1728.0    |
-| Lifetime Ticks       | 2751.0    |
+| Unique Climbers      | 1732.0    |
+| Lifetime Ticks       | 2757.0    |
 | Avg Ticks / Climber  | 1.59      |
 <!-- AUTO:METRICS:END -->
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 14.1% **low season**
-- 🌸 **Spring (Mar–May)**: 27.4%
-- ☀️ **Summer (Jun–Aug)**: 28.9%
-- 🍂 **Fall (Sep–Nov)**: 29.6% **high season**
+- 🌸 **Spring (Mar–May)**: 27.3%
+- ☀️ **Summer (Jun–Aug)**: 28.8%
+- 🍂 **Fall (Sep–Nov)**: 29.8% **high season**
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              3.8%
 Feb | ██                             5.3%
-Mar | ██                             8.1%
+Mar | ██                             8.0%
 Apr | ███                           10.2%
 May | ███                            9.1%
-Jun | ███                           10.1%
+Jun | ███                           10.0%
 Jul | ███                            9.0%
 Aug | ███                            9.8%
-Sep | ███                           10.5%
+Sep | ███                           10.7%
 Oct | ███                           11.2%
 Nov | ██                             7.9%
 Dec | █                              5.0%
@@ -97,7 +98,7 @@ Dec | █                              5.0%
 <!-- AUTO:SEASONALITY:END -->
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -112,12 +113,12 @@ Dec | █                              5.0%
 | 9 | Bill Kinter | 9 |
 | 10 | John Alcorn | 9 |
 | 11 | Pierce J | 9 |
-| 12 | Brian Carver | 8 |
-| 13 | G P | 8 |
-| 14 | Nitant Pandey | 8 |
-| 15 | Patrick Coller | 8 |
-| 16 | Samuel Andree | 8 |
-| 17 | Sorden | 8 |
+| 12 | G P | 8 |
+| 13 | Nitant Pandey | 8 |
+| 14 | Patrick Coller | 8 |
+| 15 | Samuel Andree | 8 |
+| 16 | Sorden | 8 |
+| 17 | Brian Carver | 7 |
 | 18 | Brian Vanderwende | 7 |
 | 19 | Chris Johnson | 7 |
 | 20 | Gregger Man | 7 |

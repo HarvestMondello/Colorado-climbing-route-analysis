@@ -69,8 +69,8 @@ n/a
 
 ## Seasonality
 ### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Year round acess with a peak in the warm summer months. 
-- **Sun Exposure:** North Facing. Shade most of the day exept a few hours in the afternoon. 
+- **Seasonality:** Year round acess with a peak in the warm summer months. Winter sees very few ascents as the route is in the shade all day.
+- **Sun Exposure:** North Facing. Shade most of the day exept a few hours in the afternoon in the spring, summer, fall. Winter the route is in the shade all day due to being low in the Canyon.
 
 <!-- AUTO:SEASONALITY:START -->
 ### Seasonality Data

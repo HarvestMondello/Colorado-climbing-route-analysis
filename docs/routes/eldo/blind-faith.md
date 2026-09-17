@@ -1,83 +1,85 @@
-# Route Profile: *Route Name*
 
-<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/route-name.png" alt="The Route Name in Crag" width="1200"/>
+
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/blind-faith.png" alt="Blind Faith on the Bastille" width="1200"/>
+
+# Route Profile: *Blind Faith* on The Bastille: West Face in Eldorado Canyon
+
+<br>
+
+## Index
+
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
+
+<br>
 
 ## Overview  
-- **Area:** <<<>>>>>>, Colorado  
-- **Formation:** <<<>>>>>>: <<<>>>>>>  
-- **Grade:** 5.<<<>>>>>> (<<<>>>>>> pitches)  
-- **Length:** <<<>>>>>>'  
-- **Style:** Trad, multipitch  
-- **First Ascent:** <<<>>>>>>, 19<<<>>> 
-- **First Free Ascent:**  <<<>>>>>>, 19<<<>>> 
+- **Area:**  Eldorado Canyon
+- **Formation:** The Bastille: West Face
+- **Grade:** YDS 5.10A, 2 pitches
+- **Route Length:** 200' / 61m
+- **Style:** Trad, multi-pich  
+- **First Ascent:** Jim Erickson, free solo, 1972
+- **First Free Ascent** Jim Erickson, free solo, 1972
+- **Rock type**: Fountain Formation sandstone
 
-## Summary  
-*The Route name* <<<>>>>>>
+<br>
 
-## Route Characteristics  
-- <<<>>>>>>
-- <<<>>>>>>
-- <<<>>>>>>
+## Details
+### Intro 
+This route gets it's name from Jim Erickson's famous first ascent in which he soloed the route and cleaned the crack at the top out crux.
+
+### Route Characteristics  
+Steep hand crack on pitch one. Pitch two is techy jugs. 
 
 ### Approach & Descent 
-- <>
-- <>
+Appoach: Bastille climbers trail
+Descent: The Bastille walk off (3rd)
 
-### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Climbed year-round; peak <<<>>>>>> season; low <<<>>>>>> traffic.  
-- **Sun Exposure:** <<<>>>>>>
+### Historical Context  
+n/a
 
-## Historical Context  
-- **19<>>>:** <<<>>>>>>
-- **19<>>:** <<<>>>>>>  
-- **19<>>:** <<<>>>>>>
-
-## Beta Media  
-- **Video:** [First person view climb of <<>>>>> with pro (beta spoiler alert!)](<<<<website>>>>)  
-  - Video by <<<>>>>>>
-  - Shows <<<>>>>>>
-
-## Fastest Known Time (FKT)  
-- n/a
-
-## Analysis Highlights (Dataset)  
-- **Classic Rank:** 
-- **Engagement:**   
-- **Trend:**   
-- **Traffic:**  
-- **Consensus:** .  
-- **Leaderboards:**  
-  - **Leader:** <>> 
- 
-
-## References  
-- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
-- [Mountain Project Entry](https://www.mountainproject.com/route/<>>)  
-
-
+[↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.10a YDS |
+| Classic Rank         | 21        |
 | Location             | Bastille - W Face |
+| Grade                | 5.10a YDS |
+| Pitches              | 2         |
+| FA Info              | Jim Erickson, free solo (hence the name), 1972 |
 | Stars (avg)          | 3.6       |
 | Votes                | 974.0     |
-| Unique Climbers      | 1994.0    |
-| Lifetime Ticks       | 3591.0    |
+| Unique Climbers      | 1996.0    |
+| Lifetime Ticks       | 3594.0    |
 | Avg Ticks / Climber  | 1.80      |
 <!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Year round access. Summer peak. 
+- **Sun Exposure:** West facing: morning shade, afternoon sun. This route starts higher in the Canyon than many Bastille routes giving it year round sun and shade aspects. 
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 3.9% **low season**
+- ❄️ **Winter (Dec–Feb)**: 3.8% **low season**
 - 🌸 **Spring (Mar–May)**: 27.7%
 - ☀️ **Summer (Jun–Aug)**: 43.8% **high season**
-- 🍂 **Fall (Sep–Nov)**: 24.6%
+- 🍂 **Fall (Sep–Nov)**: 24.7%
 
 ### Seasonality Usage by Month
 ```
@@ -87,17 +89,34 @@ Mar | █                              4.7%
 Apr | ███                            9.8%
 May | ████                          13.2%
 Jun | ████                          14.0%
-Jul | ████                          14.9%
-Aug | ████                          15.0%
-Sep | ███                           12.1%
+Jul | ████                          14.8%
+Aug | ████                          14.9%
+Sep | ████                          12.3%
 Oct | ███                            9.2%
 Nov | █                              3.3%
 Dec | █                              1.6%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+### Fastest Known Time (FKT): trailhead to trailhead 
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -105,16 +124,16 @@ Dec | █                              1.6%
 | 2 | Danny Gilbert | 46 |
 | 3 | choss pirate | 21 |
 | 4 | Michael Butts | 18 |
-| 5 | Athena | 16 |
+| 5 | Athena | 15 |
 | 6 | Jack Neus | 14 |
 | 7 | Samuel Puckett | 13 |
-| 8 | John Alcorn | 12 |
-| 9 | Mark Griffin | 12 |
-| 10 | Tony B | 12 |
+| 8 | Tony B | 13 |
+| 9 | John Alcorn | 12 |
+| 10 | Mark Griffin | 12 |
 | 11 | Gregger Man | 11 |
 | 12 | Justin Compton | 11 |
 | 13 | Ryan Marsters | 11 |
-| 14 | Yiran Li | 10 |
+| 14 | Yiran Li | 11 |
 | 15 | Bill Kinter | 9 |
 | 16 | Matt Vera | 9 |
 | 17 | Neil L | 9 |
@@ -127,3 +146,10 @@ Dec | █                              1.6%
 | 24 | Brian Vanderwende | 8 |
 | 25 | Chris Gummer | 8 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
+
+## References  
+- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
+- [Mountain Project Entry](https://www.mountainproject.com/route/105748639/blind-faith)

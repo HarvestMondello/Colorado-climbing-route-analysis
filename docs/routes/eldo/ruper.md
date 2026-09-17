@@ -1,103 +1,122 @@
-# Route Profile: *Route Name*
 
-<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/route-name.png" alt="The Route Name in Crag" width="1200"/>
+
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/ruper.png" alt="*Ruper* on Redgarden Wall: Lower and Upper Ramp in Eldorado Canyon" width="1200"/>
+
+# Route Profile: *Ruper* on Redgarden Wall: Lower and Upper Ramp in Eldorado Canyon
+
+<br>
+
+## Index
+
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
+
+<br>
 
 ## Overview  
-- **Area:** <<<>>>>>>, Colorado  
-- **Formation:** <<<>>>>>>: <<<>>>>>>  
-- **Grade:** 5.<<<>>>>>> (<<<>>>>>> pitches)  
-- **Length:** <<<>>>>>>'  
-- **Style:** Trad, multipitch  
-- **First Ascent:** <<<>>>>>>, 19<<<>>> 
-- **First Free Ascent:**  <<<>>>>>>, 19<<<>>> 
+- **Area:** Eldorado Canyon
+- **Formation:** Redgarden Wall: Lower and Upper Ramp
+- **Grade:** YDS 5.8+, 6 pitches (Lower and Upper are each 3 pitches)
+- **Route Length:** na
+- **Style:** Trad, multi-pitch  
+- **First Ascent:** Layton Kor, Bob Culp, Ed Risley, 1961
+- **First Free Ascent** na
+- **Rock type**: Fountain Formation sandstone
 
-## Summary  
-*The Route name* <<<>>>>>>
+<br>
 
-## Route Characteristics  
-- <<<>>>>>>
-- <<<>>>>>>
-- <<<>>>>>>
+## Details
+### Intro 
+A testpiece for the grade.
+
+### Route Characteristics  
+Variety of crack sizes. The lower half features finger cracks and a wide section. The upper half is a hand crack with face features and finger crack cruxes.
 
 ### Approach & Descent 
-- <>
-- <>
+Approach: Lower Ramp approaches
+Descent: East Slab walk off  (4th) or Chockstone/Vertigo raps.
 
-### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Climbed year-round; peak <<<>>>>>> season; low <<<>>>>>> traffic.  
-- **Sun Exposure:** <<<>>>>>>
+### Historical Context  
+n/a
 
-## Historical Context  
-- **19<>>>:** <<<>>>>>>
-- **19<>>:** <<<>>>>>>  
-- **19<>>:** <<<>>>>>>
-
-## Beta Media  
-- **Video:** [First person view climb of <<>>>>> with pro (beta spoiler alert!)](<<<<website>>>>)  
-  - Video by <<<>>>>>>
-  - Shows <<<>>>>>>
-
-## Fastest Known Time (FKT)  
-- n/a
-
-## Analysis Highlights (Dataset)  
-- **Classic Rank:** 
-- **Engagement:**   
-- **Trend:**   
-- **Traffic:**  
-- **Consensus:** .  
-- **Leaderboards:**  
-  - **Leader:** <>> 
- 
-
-## References  
-- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
-- [Mountain Project Entry](https://www.mountainproject.com/route/<>>)  
-
-
+[↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.8+ YDS  |
+| Classic Rank         | 28        |
 | Location             | Redgarden - Tower One |
+| Grade                | 5.8+ YDS  |
+| Pitches              | 6         |
+| FA Info              | Layton Kor, Bob Culp, Ed Risley, 1961 |
 | Stars (avg)          | 3.6       |
 | Votes                | 950.0     |
-| Unique Climbers      | 1976.0    |
-| Lifetime Ticks       | 3168.0    |
+| Unique Climbers      | 1979.0    |
+| Lifetime Ticks       | 3171.0    |
 | Avg Ticks / Climber  | 1.60      |
 <!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Year round access with a summer high season.
+- **Sun Exposure:** West facing. Morning shade, afternoon sun.
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 12.1% **low season**
 - 🌸 **Spring (Mar–May)**: 29.3%
 - ☀️ **Summer (Jun–Aug)**: 31.9% **high season**
-- 🍂 **Fall (Sep–Nov)**: 26.6%
+- 🍂 **Fall (Sep–Nov)**: 26.7%
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              3.3%
 Feb | █                              4.3%
 Mar | ██                             6.8%
-Apr | ███                           10.1%
+Apr | ███                           10.0%
 May | ████                          12.4%
 Jun | ███                           10.7%
 Jul | ███                           10.5%
 Aug | ███                           10.7%
-Sep | ███                           10.3%
+Sep | ███                           10.4%
 Oct | ███                            9.3%
 Nov | ██                             7.0%
 Dec | █                              4.6%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+### Fastest Known Time (FKT): trailhead to trailhead 
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -127,3 +146,10 @@ Dec | █                              4.6%
 | 24 | Mike dF | 7 |
 | 25 | Mitchell Hodge | 7 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
+
+## References  
+- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
+- [Mountain Project Entry](https://www.mountainproject.com/route/105748774/ruper)
