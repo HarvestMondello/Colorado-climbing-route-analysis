@@ -1,5 +1,5 @@
 # Fastest Known Time (FKT) in Colorado 
-Colorado has a tradition of going fast and light on routes, round trip; trailhead to trailhead. Areas such as Eldo and Chautaqua have specific starting points near the trailhead (bridge). Complex descents involving running and climbing add to the complexity of a FKT. This is unlike Yosemite where the fkt is for just the route. 
+Colorado has a tradition of going fast and light on routes, round trip; trailhead to trailhead. Areas such as Eldo and Chautaqua have specific starting points near the trailhead. Complex descents involving running and climbing add to the complexity of a FKT. This is unlike Yosemite where the fkt is for just the route. 
 
 **FKT styles:** All FKTs on this website are un-supported, trailhead to trailhead, unless otherwise noted. This means no fixed line rappels. Raps are allowed if the climbers carry the rope on the fkt attempt. No other support such as stashing gear, other climbers to bring supplies ect. 
 <br />
@@ -14,9 +14,9 @@ Colorado has a tradition of going fast and light on routes, round trip; trailhea
 |---------|------------|-----------------------------------|--------------------|--------------------|
 **Long's Peak, RMNP:**
 |[Longs Triathlon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 09:50:03  | 2022-10-26 | Stefan Griebel & Anton Krupicka       |  The Diamond on Long's Peak from Boulder RT (bike, run, climb) |  |
-|[Casual Route on Long's Peak](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 03:09:50  | 2024-09-02 | John Alcorn       |  The Diamond on Long's Peak |  |
-|[Kiener's Route on Long's Peak](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/kieners-route.md)    | 02:19:37 | 2024-08-07 | Anton Krupicka      |  East Face on Long's Peak |  | #79
-|[Cables Route on Long's Peak](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 01:55:40  | 2020-08-28 | Kyle Richardson       |  North Face on Long's Peak, RMNP |  | 
+|[Casual Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 03:09:50  | 2024-09-02 | John Alcorn       |  The Diamond on Long's Peak |  |
+|[Kiener's Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/kieners-route.md)    | 02:19:37 | 2024-08-07 | Anton Krupicka      |  East Face on Long's Peak |  | #79
+|[Cables Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 01:55:40  | 2020-08-28 | Kyle Richardson       |  North Face on Long's Peak, RMNP |  | 
 **Linkups**
 ["Sit Start" Long's Triathlon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)| 18:44:37  | 2019-08-13 | Stefan Griebel, Wade Morris     |  Longs Peak Triathlon "Sit Start": Naked Edge, Third Flatiron, First Flatiron, Casual Route (linked unsupported via bicycles between three trailheads)|[GPS Verification](https://www.strava.com/activities/2617503027) |
 
@@ -36,7 +36,7 @@ add Lone Eagle Peak
 
 ---
 ## Eldorado Canyon (Eldo)
-Routes are bridge to bridge. (these need orders) 
+Routes are bridge to bridge. (these need ordered) 
 
 | Route    | Time      | Date                         | Climbers              | Formation      |
 |---------|------------|-----------------------------------|--------------------|--------------------|
@@ -52,11 +52,6 @@ Routes are bridge to bridge. (these need orders)
 [Long John Wall](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/long-john-wall.md)     | n/a   | n/a  | n/a      |  The West Ridge: Long John Tower | #92
 [Wind Ridge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/wind-ridge.md)    | n/a   | n/a  | n/a      |  Wind Tower: Southwest Face |#183
 [Swanson Arete](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/swanson-arete.md)    | n/a   | n/a  | n/a      |  Redgarden: Lumpe Tower |#222
-
-
-researching: Rewritten, Bastille Crack, Handcracker Direct, Blind Faith, Long John Wall, Wind Ridge, Gambit, Swanson's Arete, or other routes on these formations (Green Spur Buttress, The Bastille, West Ridge, Wind Tower, Shirt Tail Peak, Lumpe Tower ect).
-
-
 
 <br />
 <br />
