@@ -2,7 +2,7 @@
 
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/rosy-crucifixion.png" alt="Rosy Cruciifixion on Redgarden Wall: Lower Ramp in Eldorado Canyon" width="1200"/>
 
-# Route Profile: *Rosy Cruciifixion* on Redgarden Wall: Lower Ramp in Eldorado Canyon
+# Route Profile: *Rosy Crucifixion* on Redgarden Wall: Lower Ramp in Eldorado Canyon
 
 <br>
 
