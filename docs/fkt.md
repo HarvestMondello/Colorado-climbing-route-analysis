@@ -10,22 +10,22 @@ Colorado has a tradition of going fast and light on routes, round trip; trailhea
 
 ## RMNP FKTs
 ### Long's Peak, Rocky Mountain National Park (RMNP)
-| Route    | Time      | Date                         | Climbers              | Formation      | Trailhead Round Trip | Verification |
+| Route    | Time      | Date                         | Climbers              | Formation      | Trailhead, Round Trip (TH2TH) | Verification |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
 **Long's Peak, RMNP:**
-|[Longs Triathlon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 09:50:03  | 2022-10-26 | Stefan Griebel & Anton Krupicka       |  Casual Route on the Diamond on Long's Peak from Boulder RT (bike, run, climb) |  Long's East TH | [Casual Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)|
-|[Casual Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 03:09:50  | 2024-09-02 | John Alcorn       |  The Diamond on Long's Peak |  Long's East (TH2TH)  | [Casual Routee](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)|
-|[Kiener's Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/kieners-route.md)    | 02:19:37 | 2024-08-07 | Anton Krupicka      |  East Face on Long's Peak |  Long's East (TH2TH) | [Kiener's Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/kieners-route.md)| #79
-|Cables Route   | 01:55:40  | 2020-08-28 | Kyle Richardson       |  North Face on Long's Peak, RMNP |  Long's East (TH2TH) | [GPS Verification](https://www.strava.com/activities/3978440370)
+|[Longs Triathlon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 09:50:03  | 2022-10-26 | Stefan Griebel & Anton Krupicka       |  Casual Route on the Diamond on Long's Peak from Boulder RT (bike, run, climb) |  <>> | [Casual Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)|
+|[Casual Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 03:09:50  | 2024-09-02 | John Alcorn       |  The Diamond on Long's Peak |  Long's East TH  | [Casual Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)|
+|[Kiener's Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/kieners-route.md)    | 02:19:37 | 2024-08-07 | Anton Krupicka      |  East Face on Long's Peak |  Long's East TH | [Kiener's Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/kieners-route.md)| #79
+|Cables Route   | 01:55:40  | 2020-08-28 | Kyle Richardson       |  North Face on Long's Peak, RMNP |  Long's East TH | [GPS Verification](https://www.strava.com/activities/3978440370)
 **Linkups**
 ["Sit Start" Long's Triathlon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)| 18:44:37  | 2019-08-13 | Stefan Griebel, Wade Morris     |  Longs Peak Triathlon "Sit Start": Naked Edge, Third Flatiron, First Flatiron, Casual Route (linked unsupported via bicycles between three trailheads)|Eldorardo Canyon (C2C)|[GPS Verification](https://www.strava.com/activities/2617503027) ||
 
 <br />
 
 ### other Rocky Mountain National Park (RMNP)
-| Route    | Time      | Date                         | Climbers              | Formation      | Trailhead Round Trip | Verification |
+| Route    | Time      | Date                         | Climbers              | Formation      | Trailhead, Round Trip (TH2TH) | Verification |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
-[South Face of Petit Grepon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/south-face.md)    | 02:39:27   | 2012-06-26 | Stefan Griebel       |  Petit Grepon in the Cathedral Spires|Glacier Gorge (TH2TH)  | [see route page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/south-face.)
+[South Face of Petit Grepon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/south-face.md)    | 02:39:27   | 2012-06-26 | Stefan Griebel       |  Petit Grepon in the Cathedral Spires|Glacier Gorge TH | [South Face of Petit Grepon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/south-face.)
 
 add Blitzen Ridge
 add Lone Eagle Peak
@@ -100,14 +100,14 @@ Fourth Flatiron   | 59:15  | Stefan Griebel |  2003-07-20    |  Fourth Flatiron 
 ### Central Flatirons: Dinosaur Mountain area, between Skunk Canyon and Bear Canyon
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
-East Face Center on Front Porch   | 20:59 (possible fkt)   | 2004-10-07 |  Jon Sargant (possible fkt)      |  Front Porch |NCAR TH|TdF 2004 |
+East Face Center of Front Porch   | 20:59   | 2004-10-07 |  Jon Sargant     |  Front Porch |NCAR TH|TdF 2004 |
 <br />
 
 ### Southern Flatirons: South Boulder Peak and Bear Peak areas, between Eldorado Canyon and Bear Canyon
 
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
-[East Face North Side of Seal Rock](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md)   | 41:26 (possible fkt)   | 2007-10-20 |  Dave Mackey (possible fkt)      |  Seal Rock |Bear Canyon TH|TdF 2007 | #98
+[East Face North Side of Seal Rock](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md)   | 41:26 (possible fkt)   | 2007-10-20 |  Dave Mackey     |  Seal Rock |Bear Canyon TH|[East Face North Side of Seal Rock(TdF 2007)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md) | #98
 Diagonal   | 29:59   | 2020-10-21 |  Michael Reese       |  The Slab |Shanahan TH|[Verification](https://www.strava.com/activities/4226557500/) |-
 North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden |South Mesa TH |na |#112
 
