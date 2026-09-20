@@ -1,77 +1,79 @@
-# Route Profile: *Route Name*
 
-<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/route-name.png" alt="The Route Name in Crag" width="1200"/>
+
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/gambit.png" alt="Gabmit on Shirt Tail Peak in Eldorado Canyon" width="1200"/>
+
+# Route Profile: *Gabmit* on Shirt Tail Peak in Eldorado Canyon
+
+<br>
+
+## Index
+
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
+
+<br>
 
 ## Overview  
-- **Area:** <<<>>>>>>, Colorado  
-- **Formation:** <<<>>>>>>: <<<>>>>>>  
-- **Grade:** 5.<<<>>>>>> (<<<>>>>>> pitches)  
-- **Length:** <<<>>>>>>'  
-- **Style:** Trad, multipitch  
-- **First Ascent:** <<<>>>>>>, 19<<<>>> 
-- **First Free Ascent:**  <<<>>>>>>, 19<<<>>> 
+- **Area:**  Eldorado Canyon
+- **Formation:** Rincon
+- **Grade:** YDS 5.10B, 2 pitches, II
+- **Route Length:** na
+- **Style:** Trad, multi-pitch  
+- **First Ascent:** Jim Erickson, Pat Ament, and Bill Putnam, 1972 
+- **First Free Ascent** Jim Erickson, Pat Ament, and Bill Putnam, 1972 
+- **Rock type**: Fountain Formation sandstone
 
-## Summary  
-*The Route name* <<<>>>>>>
+<br>
 
-## Route Characteristics  
-- <<<>>>>>>
-- <<<>>>>>>
-- <<<>>>>>>
+## Details
+### Intro 
+Remote and classic.
+
+### Route Characteristics  
+Dihedral crux first pitch (10B). The second pitch is a classic 5.9 finger crack. 
 
 ### Approach & Descent 
-- <>
-- <>
+Approach: From Eldorado Canyon Visitor Center
+Descent: Rap or walkoff.
 
-### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Climbed year-round; peak <<<>>>>>> season; low <<<>>>>>> traffic.  
-- **Sun Exposure:** <<<>>>>>>
+### Historical Context  
+n/a
 
-## Historical Context  
-- **19<>>>:** <<<>>>>>>
-- **19<>>:** <<<>>>>>>  
-- **19<>>:** <<<>>>>>>
-
-## Beta Media  
-- **Video:** [First person view climb of <<>>>>> with pro (beta spoiler alert!)](<<<<website>>>>)  
-  - Video by <<<>>>>>>
-  - Shows <<<>>>>>>
-
-## Fastest Known Time (FKT)  
-- n/a
-
-## Analysis Highlights (Dataset)  
-- **Classic Rank:** 
-- **Engagement:**   
-- **Trend:**   
-- **Traffic:**  
-- **Consensus:** .  
-- **Leaderboards:**  
-  - **Leader:** <>> 
- 
-
-## References  
-- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
-- [Mountain Project Entry](https://www.mountainproject.com/route/<>>)  
-
-
+[↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
-### Metrics
+## Metrics
 
 | Metric              | Value     |
 |:--------------------|:----------|
-| Classic Rank         |           |
-| Grade                | 5.10b YDS |
+| Classic Rank         | 20        |
 | Location             | Rincon - L of Center… |
+| Grade                | 5.10b YDS |
+| Pitches              | 2         |
+| FA Info              | Jim Erickson, Pat Ament, and Bill Putnam, 1972 |
 | Stars (avg)          | 3.7       |
 | Votes                | 539.0     |
 | Unique Climbers      | 969.0     |
 | Lifetime Ticks       | 1565.0    |
 | Avg Ticks / Climber  | 1.62      |
 <!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Year round access.
+- **Sun Exposure:** West facing. Morning shade, afternoon sun.
 
 <!-- AUTO:SEASONALITY:START -->
-### Seasonality
+### Seasonality Data
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 14.3% **low season**
@@ -95,9 +97,26 @@ Nov | ███                           10.0%
 Dec | ██                             6.3%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+### Fastest Known Time (FKT): trailhead to trailhead 
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
-### Leaderboards
+## Leaderboards
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
@@ -127,3 +146,10 @@ Dec | ██                             6.3%
 | 24 | Sarah Meiser | 5 |
 | 25 | Tyler Harrell | 5 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
+
+## References  
+- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
+- [Mountain Project Entry](https://www.mountainproject.com/route/105756796/over-the-hill)
