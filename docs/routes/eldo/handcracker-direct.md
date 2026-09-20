@@ -1,59 +1,50 @@
-# Route Profile: *Route Name*
 
-<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/route-name.png" alt="The Route Name in Crag" width="1200"/>
+
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/handcracker-direct.png" alt="Handcracker Direct on The West Ridge: Mail Ridge Tower in Eldorado Canyon" width="1200"/>
+
+# Route Profile: *Handcracker Direct* on The West Ridge: Mail Ridge Tower in Eldorado Canyon
+
+<br>
+
+## Index
+
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
+
+<br>
 
 ## Overview  
-- **Area:** <<<>>>>>>, Colorado  
-- **Formation:** <<<>>>>>>: <<<>>>>>>  
-- **Grade:** 5.<<<>>>>>> (<<<>>>>>> pitches)  
-- **Length:** <<<>>>>>>'  
-- **Style:** Trad, multipitch  
-- **First Ascent:** <<<>>>>>>, 19<<<>>> 
-- **First Free Ascent:**  <<<>>>>>>, 19<<<>>> 
+- **Area:** Eldorado Canyon, Colorado 
+- **Formation:** The West Ridge: Mail Ridge Tower
+- **Grade:** YDS 5.10A, 5 pitches, II
+- **Length:** ~300'
+- **Style:** Trad, multi pitch
+- **First Ascent:** na
+- **First Free Ascent** na
+- **Rock**: Fountain Formation sandstone
 
-## Summary  
-*The Route name* <<<>>>>>>
+<br>
 
-## Route Characteristics  
-- <<<>>>>>>
-- <<<>>>>>>
-- <<<>>>>>>
+## Details
+### Intro 
+The mega classic features varied crack climbing and the main event is short and slightly overhung hand crack.
+
+### Route Characteristics  
+Variety of crack climbing from fingers to hands.
 
 ### Approach & Descent 
-- <>
-- <>
+Approach: West South Boulder Creek footbridge via West Ridge climbers trail.
+Descent: Standard is the Redgarden trail to the Boulder creek footbridge. There's also a West walk off back to the base of the route.
 
-### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Climbed year-round; peak <<<>>>>>> season; low <<<>>>>>> traffic.  
-- **Sun Exposure:** <<<>>>>>>
+### Historical Context  
+n/a
 
-## Historical Context  
-- **19<>>>:** <<<>>>>>>
-- **19<>>:** <<<>>>>>>  
-- **19<>>:** <<<>>>>>>
-
-## Beta Media  
-- **Video:** [First person view climb of <<>>>>> with pro (beta spoiler alert!)](<<<<website>>>>)  
-  - Video by <<<>>>>>>
-  - Shows <<<>>>>>>
-
-## Fastest Known Time (FKT)  
-- n/a
-
-## Analysis Highlights (Dataset)  
-- **Classic Rank:** 
-- **Engagement:**   
-- **Trend:**   
-- **Traffic:**  
-- **Consensus:** .  
-- **Leaderboards:**  
-  - **Leader:** <>> 
- 
-
-## References  
-- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
-- [Mountain Project Entry](https://www.mountainproject.com/route/<>>)
-
+[↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
 ## Metrics
 
@@ -70,6 +61,16 @@
 | Lifetime Ticks       | 3065.0    |
 | Avg Ticks / Climber  | 1.80      |
 <!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Year round acess.
+- **Sun Exposure:** Southwest facing. Early morning shade on the lower portions of the route (pitch 1-2). Sun the rest of the day. 
 
 <!-- AUTO:SEASONALITY:START -->
 ### Seasonality Data
@@ -96,6 +97,23 @@ Nov | ██                             8.3%
 Dec | █                              4.9%
 ```
 <!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+### Fastest Known Time (FKT): bridge to bridge
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
 
 <!-- AUTO:TOP_CLIMBERS:START -->
 ## Leaderboards
@@ -128,3 +146,12 @@ Dec | █                              4.9%
 | 24 | Steve M | 8 |
 | 25 | 303scott | 7 |
 <!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
+
+
+
+## References  
+- *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
+- [Mountain Project Entry](https://www.mountainproject.com/route/105749599/handcracker-direct)
