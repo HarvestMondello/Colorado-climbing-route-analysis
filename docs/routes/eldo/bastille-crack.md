@@ -109,6 +109,20 @@ Dec | █                              1.7%
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
 
+<br>
+<br>
+<br>
+
+Route only FKT:
+
+### Fastest Known Time (FKT): The Bastille Crack: route only bottom to top
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| 5:02   | 2011-05-11  | Scott Bennett     | current route route only FKT (Yosemite style)    | [Self reported to MountainProject](https://www.mountainproject.com/forum/topic/107132210/bastille-crack-speed) |
+| 5:33   | 1998-07-xx  | Mic Fairchild     | prior route route only FKT (Yosemite style)    | [Self reported to MountainProject](https://www.mountainproject.com/forum/topic/107132210/bastille-crack-speed) |
+Mic has also downclimbed the Bastille Crack in  10 minutes, 42 seconds. 
+
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
 
 [↑ Back to Index](#index)
