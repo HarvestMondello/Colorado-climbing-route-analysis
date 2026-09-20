@@ -19,6 +19,7 @@ Colorado has a tradition of going fast and light on routes, round trip; trailhea
 |Cables Route   | 01:55:40  | 2020-08-28 | Kyle Richardson       |  North Face on Long's Peak, RMNP |  Long's East TH | [GPS Verification](https://www.strava.com/activities/3978440370)
 **Linkups**
 ["Sit Start" Long's Triathlon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)| 18:44:37  | 2019-08-13 | Stefan Griebel, Wade Morris     |  Longs Peak Triathlon "Sit Start": Naked Edge, Third Flatiron, First Flatiron, Casual Route (linked unsupported via bicycles between three trailheads)|Eldorardo Canyon (C2C)|[GPS Verification](https://www.strava.com/activities/2617503027) ||
+Long's Grand Slam| 4:04:07  | 2026-09-29 | Joe Kennedy     |  Long's and nearby peaks (linked unsupported via bicycles between three trailheads)|Eldorardo Canyon (C2C)|[GPS Verification](https://www.strava.com/activities/19952622662/) ||
 
 <br />
 
