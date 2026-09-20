@@ -1,8 +1,8 @@
 
 
-<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/swanson-arete.png" alt="Swanson Arete on Redgarden Wall" width="1200"/>
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/swanson-arete.png" alt="Swanson Arete on Redgarden Wall in Eldorado Canyon" width="1200"/>
 
-# Route Profile: *Swansom Arete* on Redgarden Wall: Lumpe Tower
+# Route Profile: *Swansom Arete* on Redgarden Wall: Lumpe Tower in Eldorado Canyon
 
 <br>
 
