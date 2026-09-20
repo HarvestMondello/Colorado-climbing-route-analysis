@@ -106,7 +106,7 @@ Dec | █                              1.9%
 
 | Time    | Date       | Climbers                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
-| 41:26 (possible fkt)  | 2007-10-20 | Dave Mackey (possible fkt)     | TdF 2007       |  |
+| 41:26   | 2007-10-20 | Dave Mackey    | TdF 2007       |  TdF 2007|
 
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
 
