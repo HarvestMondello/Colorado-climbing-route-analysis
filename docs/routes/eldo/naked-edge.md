@@ -3,7 +3,7 @@
 
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/naked-edge.png" alt="The Naked Edge on the Redgarde Wall: Tower Two in Eldorado Canyon" width="1200"/>
 
-# Route Profile: *The Naked Edge*  on Redgarden Wall: Tower Two in Eldorado Canyon
+# Route Profile: *The Naked Edge*  on Tower Two of Redgarden in Eldorado Canyon
 
 <br>
 
@@ -47,7 +47,6 @@
 - The approach is via one of several routes, the standard being the Cave Pitch which is 5.8 and 2-3 pitches.
 - The East Slab descent (4th class) is standard walk-off descent and is technical involving some routefinding.
 
-
 ### Historical Context  
 - **1962:** Lower pitches (aid) first climbed by Layton Kor & Bob Culp.  
 - **1964:** Full ascent by Layton Kor & Rick Horn.  
@@ -84,8 +83,8 @@
 | FA Info              | Layton Kor, Bob Culp 1962 (partial). Layton Kor, Maurice (Rick) Horn 1964 (complete). FFA: Jim Erickson, Duncan Ferguson, 1971 |
 | Stars (avg)          | 3.9       |
 | Votes                | 537.0     |
-| Unique Climbers      | 785.0     |
-| Lifetime Ticks       | 3384.0    |
+| Unique Climbers      | 787.0     |
+| Lifetime Ticks       | 3394.0    |
 | Avg Ticks / Climber  | 4.31      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
@@ -104,9 +103,9 @@
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 10.2% **low season**
-- 🌸 **Spring (Mar–May)**: 24.8%
-- ☀️ **Summer (Jun–Aug)**: 29.8%
-- 🍂 **Fall (Sep–Nov)**: 35.2% **high season**
+- 🌸 **Spring (Mar–May)**: 24.7%
+- ☀️ **Summer (Jun–Aug)**: 29.7%
+- 🍂 **Fall (Sep–Nov)**: 35.4% **high season**
 
 ### Seasonality Usage by Month
 ```
@@ -118,8 +117,8 @@ May | ███                           10.8%
 Jun | ███                           10.7%
 Jul | ██                             8.5%
 Aug | ███                           10.6%
-Sep | ████                          14.2%
-Oct | ████                          13.7%
+Sep | ████                          14.5%
+Oct | ████                          13.6%
 Nov | ██                             7.2%
 Dec | █                              3.5%
 ```
@@ -202,13 +201,13 @@ Dec | █                              3.5%
 | 3 | John Alcorn | 147 |
 | 4 | Kishen Mangat | 134 |
 | 5 | WadeM | 127 |
-| 6 | choss pirate | 121 |
+| 6 | choss pirate | 122 |
 | 7 | ChossCrimper TopRopePrincess | 119 |
-| 8 | Eddie Taylor | 107 |
-| 9 | Kate pinktapegloves | 87 |
-| 10 | Quinn Davie | 71 |
+| 8 | Eddie Taylor | 105 |
+| 9 | Kate pinktapegloves | 88 |
+| 10 | Quinn Davie | 70 |
 | 11 | Max Manson | 58 |
-| 12 | Becca Droz | 54 |
+| 12 | Becca Droz | 55 |
 | 13 | Yiran Li | 38 |
 | 14 | Pierce J | 29 |
 | 15 | Sputnick | 29 |
@@ -227,6 +226,7 @@ Dec | █                              3.5%
  **Leaderboards comments**  
   - **Stefan Griebel:** **400+** public ticks (#1).  
   - **Note on dataset:**
+  - Joe Kennedy, 123 Edge laps as of 9/2/2026. Not in the dataset.
   - Michael Reese has 59 ascents as of 9/2/2026, none logged publicly.
   - Some climbers such as JJ don’t log all their ticks in the database. 
 

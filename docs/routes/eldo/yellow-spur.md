@@ -2,7 +2,7 @@
 
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/yellow-spur.png" alt="The Yellow Spur on the Redgarde Wall: Tower One in Eldorado Canyon" width="1200"/>
 
-# Route Profile: *The Yellow Spur* on Redgarden Wall: Tower One in Eldorado Canyon 
+# Route Profile: *The Yellow Spur* on Redgarden: Tower One in Eldorado Canyon 
 
 <br>
 
@@ -87,8 +87,8 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 | FA Info              | Layton Kor, Dave Dornan, 1959. FFA: R. Robbins, P. Ament, 1960s |
 | Stars (avg)          | 3.7       |
 | Votes                | 1449.0    |
-| Unique Climbers      | 2635.0    |
-| Lifetime Ticks       | 4892.0    |
+| Unique Climbers      | 2640.0    |
+| Lifetime Ticks       | 4899.0    |
 | Avg Ticks / Climber  | 1.86      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
@@ -108,8 +108,8 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 9.2% **low season**
 - 🌸 **Spring (Mar–May)**: 25.7%
-- ☀️ **Summer (Jun–Aug)**: 36.4% **high season**
-- 🍂 **Fall (Sep–Nov)**: 28.7%
+- ☀️ **Summer (Jun–Aug)**: 36.3% **high season**
+- 🍂 **Fall (Sep–Nov)**: 28.8%
 
 ### Seasonality Usage by Month
 ```
@@ -121,7 +121,7 @@ May | ███                           10.6%
 Jun | ████                          12.3%
 Jul | ███                           11.7%
 Aug | ████                          12.3%
-Sep | ███                           11.2%
+Sep | ███                           11.3%
 Oct | ███                           10.7%
 Nov | ██                             6.8%
 Dec | █                              3.6%
@@ -179,7 +179,7 @@ Dec | █                              3.6%
 | 3 | Bill Wright | 92 |
 | 4 | Michael Butts | 71 |
 | 5 | Jack Neus | 44 |
-| 6 | John Alcorn | 42 |
+| 6 | John Alcorn | 41 |
 | 7 | Ryan Montoya | 34 |
 | 8 | Samuel Andree | 34 |
 | 9 | Ryan Marsters | 25 |
@@ -187,13 +187,13 @@ Dec | █                              3.6%
 | 11 | Hailey Moore | 23 |
 | 12 | Mike Robinson | 20 |
 | 13 | Nate Haebig-Kerber | 19 |
-| 14 | Benjamn P | 16 |
+| 14 | Benjamn P | 17 |
 | 15 | James Klaers | 16 |
 | 16 | Jon Oulton | 16 |
 | 17 | Yiran Li | 15 |
-| 18 | choss pirate | 13 |
-| 19 | Gregger Man | 12 |
-| 20 | Mark D | 12 |
+| 18 | Mark D | 13 |
+| 19 | choss pirate | 13 |
+| 20 | Gregger Man | 12 |
 | 21 | Max Manson | 12 |
 | 22 | Bill Kinter | 11 |
 | 23 | Brian Carver | 11 |
@@ -206,6 +206,7 @@ Dec | █                              3.6%
   - **Michael Reese** has 123 ascents as of 9/2/2026, none logged publicly.
   - **Anton Krupicka:** Estimated ~100 ascents, primarily with Danny Gilbert, none logged publicly.  
   - **Bill Wright** is also known for climbing it **8 times in a single day** on his birthday.  
+  - Joe Kennedy, 32 Spur laps as of 9/2/2026. Not in the dataset.
 
 
 [Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
@@ -217,7 +218,3 @@ Dec | █                              3.6%
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
 - FKT history confirmed via Danny Gilbert  
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748657/the-yellow-spur)
-
-
-
-
