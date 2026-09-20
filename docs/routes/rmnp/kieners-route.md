@@ -31,13 +31,14 @@
 
 ## Details
 ### Intro 
-n/a
+This route skirts the harder climber on the Diamond and the East face but is still a classic.
 
 ### Route Characteristics  
-n/a
+Snow Couloir (Lamb's Slide) followed by Broadway Ledge. Some chimneys (crux) and then skirt the final headway to the summit.
 
 ### Approach & Descent 
-n/a
+Approach: Lake Chasm from Long's East TH. 
+Descend: The Cables Route
 
 ### Historical Context  
 n/a
@@ -67,8 +68,8 @@ n/a
 
 ## Seasonality
 ### Seasonal Profile & Sun Aspect  
-- **Seasonality:** Summer alpine season
-- **Sun Exposure:** 
+- **Seasonality:** Summer alpine season, primarily July-August. Lambs slide is most avi prone in June and becomes hard ice in September.
+- **Sun Exposure:** Early morning sun.
 
 <!-- AUTO:SEASONALITY:START -->
 ### Seasonality Data
@@ -106,6 +107,7 @@ Dec | █                              2.6%
 | Time    | Date       | Climbers                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | 02:19:37 | 2024-08-07 | Anton Krupicka        | [GPS Verification](https://www.strava.com/activities/12088698671)  |
+Note that the prior FKT was also by Anton.
 
 ### Nearby FKTs: [Casual Route page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)
 
