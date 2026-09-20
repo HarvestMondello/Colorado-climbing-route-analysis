@@ -107,7 +107,7 @@ Dec | █                              4.6%
 
 | Time    | Date       | Climbers                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
-| n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
+|    32:11  | 2010-11-23  | Scott Bennet    |    | [Self reported](https://www.mountainproject.com/route/105748774/ruper) |
 
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
 
