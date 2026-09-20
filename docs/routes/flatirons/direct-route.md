@@ -57,8 +57,8 @@ n/a
 | FA Info              | Pat Ament and Larry Dalke, c. 1960 |
 | Stars (avg)          | 3.6       |
 | Votes                | 1431.0    |
-| Unique Climbers      | 2955.0    |
-| Lifetime Ticks       | 7209.0    |
+| Unique Climbers      | 2969.0    |
+| Lifetime Ticks       | 7237.0    |
 | Avg Ticks / Climber  | 2.44      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
@@ -74,22 +74,22 @@ n/a
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 7.0% **low season**
-- 🌸 **Spring (Mar–May)**: 28.4%
-- ☀️ **Summer (Jun–Aug)**: 39.6% **high season**
-- 🍂 **Fall (Sep–Nov)**: 25.1%
+- ❄️ **Winter (Dec–Feb)**: 6.9% **low season**
+- 🌸 **Spring (Mar–May)**: 28.3%
+- ☀️ **Summer (Jun–Aug)**: 39.4% **high season**
+- 🍂 **Fall (Sep–Nov)**: 25.3%
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              1.7%
 Feb | █                              2.1%
 Mar | ██                             6.3%
-Apr | ███                           10.0%
-May | ███                           12.1%
+Apr | ███                            9.9%
+May | ███                           12.0%
 Jun | ████                          14.8%
 Jul | ████                          13.2%
 Aug | ███                           11.5%
-Sep | ███                            9.8%
+Sep | ███                           10.1%
 Oct | ███                            9.8%
 Nov | ██                             5.5%
 Dec | █                              3.2%
@@ -117,8 +117,9 @@ Dec | █                              3.2%
 - **07:51** | 2026-09-03 | **Michael Reese**
 - [GPS Verification](https://www.strava.com/activities/20028317044/)
 
+<br>
 
-### Other related FKTs:
+### Related FKTs:
 
 **First and Third Flations** (linkup): East faces of Firstand Third Flatirons (self supported, no rap, round trip)
 - **48:33** Chautaqua Ranger Cottage (trash can by the big TH sig n)| 2010-08-13 | **Stefan Griebel** 
@@ -127,7 +128,7 @@ Dec | █                              3.2%
 - **01:02:25** Chautaqua Ranger Cottage (trash can by the big TH sign)| 2021-10-25 | **Michael Reese** 
 - [GPS Verification](https://www.strava.com/activities/6166869935 )
 
-**Flatirons Qunifecta**: East faces of First, Second, Third, Fourth and Fifth Flatiron (self supported, no rap, round trip)
+**Flatirons Quinfecta**: East faces of First, Second, Third, Fourth and Fifth Flatiron (self supported, no rap, round trip)
 - **01:42:08** Chautaqua Ranger Cottage (trash can by the big TH sign) | 2021-09-01 | **Kyle Richardson**  
 - [GPS Verification](https://www.strava.com/activities/5887894393/)
 
@@ -149,17 +150,17 @@ Dec | █                              3.2%
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | Stefan Griebel | 594 |
-| 2 | Eric K | 264 |
-| 3 | Samuel Andree | 171 |
+| 1 | Stefan Griebel | 593 |
+| 2 | Eric K | 263 |
+| 3 | Samuel Andree | 173 |
 | 4 | Chris Gummer | 121 |
-| 5 | Jake Albright | 109 |
+| 5 | Jake Albright | 112 |
 | 6 | Ryan Marsters | 109 |
 | 7 | P. W. | 84 |
-| 8 | Abel Richards | 72 |
-| 9 | John Alcorn | 72 |
+| 8 | John Alcorn | 73 |
+| 9 | Abel Richards | 71 |
 | 10 | Jack Neus | 71 |
-| 11 | Luke D | 58 |
+| 11 | Luke D | 57 |
 | 12 | Jason Antin | 49 |
 | 13 | dylan grabowski | 49 |
 | 14 | Bill Kinter | 45 |
@@ -169,10 +170,10 @@ Dec | █                              3.2%
 | 18 | Dylan Oliver | 32 |
 | 19 | rob bauer | 29 |
 | 20 | Bob Johnson | 28 |
-| 21 | Joey Prusa | 25 |
+| 21 | Joey Prusa | 27 |
 | 22 | Michael Butts | 25 |
-| 23 | Thomas Dietert | 25 |
-| 24 | Tony B | 25 |
+| 23 | Tony B | 25 |
+| 24 | Thomas Dietert | 24 |
 | 25 | SeanC Cahill | 22 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 [Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
