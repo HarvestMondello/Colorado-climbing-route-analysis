@@ -1,8 +1,8 @@
 
 
-<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/gambit.png" alt="Gabmit on Shirt Tail Peak in Eldorado Canyon" width="1200"/>
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/gambit.png" alt="Overthe Hill on Rincon in Eldorado Canyon" width="1200"/>
 
-# Route Profile: *Gabmit* on Shirt Tail Peak in Eldorado Canyon
+# Route Profile: *Over the Hill* on Rincon in Eldorado Canyon
 
 <br>
 
