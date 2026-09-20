@@ -109,6 +109,8 @@ Dec | █                              4.6%
 |---------|------------|-----------------------------------|--------------------|--------------------|
 |    32:11  | 2010-11-23  | Scott Bennet    |    |  [Self reported on blog & Mountain Project route](https://thebigwidewest.blogspot.com/2010/11/?m=1)|
 
+Prior fkt was Muc Fairchild, 44 min B2B, date unknown. 
+
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
 
 [↑ Back to Index](#index)
