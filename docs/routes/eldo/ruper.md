@@ -105,7 +105,7 @@ Dec | █                              4.6%
 
 ### Fastest Known Time (FKT): trailhead to trailhead 
 
-| Time    | Date       | Climbers                          | Notes              | Verification       |
+| Time    | Date       | Climbers                          |             | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 |    32:11  | 2010-11-23  | Scott Bennet    |    | [Self reported on Mountain Project](https://www.mountainproject.com/route/105748774/ruper) |
 
