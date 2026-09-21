@@ -21,8 +21,8 @@
 ## Overview  
 - **Area:** Eldorado Canyon, Colorado 
 - **Formation:** The Bastille: North Face
-- **Grade:** YDS 5.7, 5 pitches, II
-- **Length:** ~350'
+- **Grade:** YDS 5.7, 5 pitches, II. The guidebook has upgraded this to 5.8-. 
+- **Length:** 360'
 - **Style:** Trad, multi pitch
 - **First Ascent:** US Army climbers, 1954
 - **First Free Ascent** Stan Shepard, Allen Bergen, 1957
@@ -38,8 +38,8 @@ One of the most climbed routes in Colorado and has seen the highest number of un
 Varied crack climbing with a spicy R start off the deck.
 
 ### Approach & Descent 
-Approach: Near the parking lot and the Eldorado Canyon footbridge.
-Descent: Standard Bastille walk off, 4th. 
+Apprach: From South Boulder Creek footbridge.
+Descent: Standard Bastille walk off, 4th class downclimb. 
 
 ### Historical Context  
 n/a

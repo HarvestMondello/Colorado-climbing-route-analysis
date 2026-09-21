@@ -39,7 +39,7 @@ Technical corner crux on pitch one. Pitch two starts with roof and blowing the c
 
 ### Approach & Descent 
 Approach: The Bastille Crack P1-2 is the most common approach route. 
-Descent: The Bastille Walk off, 3rd class.
+Descent: Standard Bastille walk off, 4th class downclimb. 
 
 ### Historical Context  
 n/a

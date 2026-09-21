@@ -38,8 +38,8 @@ This route gets it's name from Jim Erickson's famous first ascent in which he so
 Steep hand crack on pitch one. Pitch two is techy jugs. 
 
 ### Approach & Descent 
-Appoach: Bastille climbers trail
-Descent: The Bastille walk off (3rd)
+Apprach: From South Boulder Creek footbridge to Bastille climbers trail.
+Descent: Standard Bastille walk off, 4th class downclimb. 
 
 ### Historical Context  
 n/a

@@ -38,8 +38,8 @@ A mental testpiece for the grade due to head run-outs.
 Steep technical face climbing followed by a roof.
 
 ### Approach & Descent 
-Approach: From Boulder Canyon footbridge.
-Descent: The Bastille walk off (3rd).
+Apprach: From South Boulder Creek footbridge to Bastille climbers trail.
+Descent: Standard Bastille walk off, 4th class downclimb. 
 
 ### Historical Context  
 n/a
