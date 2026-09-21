@@ -18,7 +18,11 @@ Colorado has a tradition of going fast and light on routes, round trip; trailhea
 |Cables Route   | 01:55:40  | 2020-08-28 | Kyle Richardson       |  North Face on Long's Peak, RMNP |  Long's East TH Long's East TH | [GPS Verification](https://www.strava.com/activities/3978440370)
 **Long's Peak Linkups:**
 ["Sit Start" Long's Triathlon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)| 18:44:37  | 2019-08-13 | Stefan Griebel, Wade Morris     |  Longs Peak Triathlon "Sit Start": Naked Edge, Third Flatiron, First Flatiron, Casual Route (linked unsupported via bicycles between three trailheads)|Eldorardo Canyon (C2C)|[GPS Verification](https://www.strava.com/activities/2617503027) ||
-Long's Grand Slam| 4:04:07  | 2026-09-29 | Joe Kennedy     |  Long's and nearby peaks (linked unsupported via bicycles between three trailheads)|Long's East TH |[GPS Verification](https://www.strava.com/activities/19952622662/) ||
+Long's Grand Slam| 4:04:07  | 2026-09-29 | Joe Kennedy     |  Long's and nearby peaks |Long's East TH |[GPS Verification](https://www.strava.com/activities/19952622662/) ||
+A Walk in the Park| 6:25:30  | 2023-07-27 | Joe Kennedy     |  Long's and nearby peaks |Long's East TH   |[GPS Verification](https://www.strava.com/activities/9532583783/) ||
+Glacier Gorge Traverse| 6:17:18  | 2012-09-01 | Anton Krupicka       |  Long's and 8 nearby peaks |Glacier Gorge TH ||
+LA Freeway| 13:20:48  | 2024-09-31 | Anton Krupicka    Glacier Gorge TH |  RMNP & Indian Peaks |Long's East TH to Arapahoe  |[GPS Verification](https://www.strava.com/activities/12293733797) ||
+
 
 <br />
 
@@ -93,7 +97,7 @@ TTCIAD    | 05:01:43| 2025-09-26 |  Caleb Hardaway       |  Roach Classic 10 Fla
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
 [Stairway to Heaven](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/stairway-to-heaven.md)  | 29:26  | Cordis Hall |  2017-10-13    |  Ridge One |NCAR TH|[Verification (TdF 2017)](https://www.strava.com/activities/1228892735/) |#255
-[Angel's Way](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/angels-way.md)   | 49:19(possible fkt)   | n/a |  n/a     |  Ridge Four  | NCAR TH |na | #46
+[Angel's Way](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/angels-way.md)   | na   | n/a |  n/a     |  Ridge Four  | NCAR TH |na | #46
 <br />
 
 ### Central Flatirons: Dinosaur Mountain area, between Skunk Canyon and Bear Canyon
@@ -106,9 +110,9 @@ East Face Center of Front Porch   | 20:59   | 2004-10-07 |  Jon Sargant     |  F
 
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
-[East Face North Side of Seal Rock](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md)   | 41:26 | 2007-10-20 |  Dave Mackey     |  Seal Rock |Bear Canyon TH|[East Face North Side of Seal Rock(TdF 2007)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md) | #98
+[East Face North Side of Seal Rock](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md)   | 41:26 (possible fkt)   | 2007-10-20 |  Dave Mackey     |  Seal Rock |Bear Canyon TH|[East Face North Side of Seal Rock(TdF 2007)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md) | #98
 Diagonal   | 29:59   | 2020-10-21 |  Michael Reese       |  The Slab |Shanahan TH|[Verification](https://www.strava.com/activities/4226557500/) |-
-North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden |South Mesa TH |na |#112
+North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden |South Mesa TH | |#112
 
 
 <br />
@@ -118,7 +122,7 @@ North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  Th
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification| | 
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|--------------------|
 Hollyberry Hill (RegRA5thFist)(supported) | 49:08| 2019-09-12 |  Kyle Richerdson      |  Regency, Royal Arch, Fifth Flatirion, The Fist (linkup) supported (fixed ropes)  |Hollyberry LN TH| [Verification (TdF 2019)](https://www.strava.com/activities/2703712873/) | | 
-Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden  |South Mesa TH|na | | 
+Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden  |South Mesa TH| | | 
 33 Spring Classics    | 13:16:59| 2023-05-17 |  Joe Kennedy, Jack Neus       |  big linkup (linkup)  |Chautauqua TH|[Verfication](https://www.strava.com/activities/9090791867) |[Verfication 2](https://www.strava.com/activities/9090900359)  | 
 
 
