@@ -103,11 +103,11 @@ Dec | █                              4.9%
 
 ## FKTs 
 
-### Fastest Known Time (FKT): bridge to bridge
+### Fastest Known Time (FKT): Handcracker Direct (West bridge to West bridge)
 
-| Time    | Date       | Climbers                          | Notes              | Verification       |
-|---------|------------|-----------------------------------|--------------------|--------------------|
-| n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
+| Time    | Date       | Climbers                          | Notes              | Verification       |Verification 2      |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+| 31:45   | 2026-07-29 | Danny Gilbert, Anton Krupicka     | Current FKT        | [GPS Verification](https://www.strava.com/activities/19516325289) |[GPS Verification2](https://www.strava.com/activities/19516495294)|
 
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
 
