@@ -107,7 +107,7 @@ Dec | █                              4.6%
 
 | Time    | Date       | Climbers                          |             | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
-|    32:11  | 2010-11-23  | Scott Bennet    |    |  [Self reported on blog & Mountain Project route](https://thebigwidewest.blogspot.com/2010/11/?m=1)|
+|    32:11  | 2010-11-23  | Scott Bennet    |  Current FKT  |  [Self reported on blog & Mountain Project route](https://thebigwidewest.blogspot.com/2010/11/?m=1)|
 |    44:xx  | 2008-08-xx (reported date)  | Mic Fairchild    |  prior fkt  |  [Self reported on Mountain Project route via photo](https://www.mountainproject.com/route/105748774/ruper)|
 
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
