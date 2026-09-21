@@ -22,7 +22,7 @@
 - **Area:** Eldorado Canyon
 - **Formation:** Redgarden Wall: Lower and Upper Ramp
 - **Grade:** YDS 5.8+, 6 pitches (Lower and Upper are each 3 pitches)
-- **Route Length:** na
+- **Route Length:** ~500' (Lower 200', Upper ~300')
 - **Style:** Trad, multi-pitch  
 - **First Ascent:** Layton Kor, Bob Culp, Ed Risley, 1961
 - **First Free Ascent** na
