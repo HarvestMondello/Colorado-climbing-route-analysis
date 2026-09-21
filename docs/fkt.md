@@ -106,7 +106,7 @@ East Face Center of Front Porch   | 20:59   | 2004-10-07 |  Jon Sargant     |  F
 
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
-[East Face North Side of Seal Rock](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md)   | 41:26 (possible fkt)   | 2007-10-20 |  Dave Mackey     |  Seal Rock |Bear Canyon TH|[East Face North Side of Seal Rock(TdF 2007)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md) | #98
+[East Face North Side of Seal Rock](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md)   | 41:26 | 2007-10-20 |  Dave Mackey     |  Seal Rock |Bear Canyon TH|[East Face North Side of Seal Rock(TdF 2007)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md) | #98
 Diagonal   | 29:59   | 2020-10-21 |  Michael Reese       |  The Slab |Shanahan TH|[Verification](https://www.strava.com/activities/4226557500/) |-
 North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden |South Mesa TH |na |#112
 
