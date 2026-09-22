@@ -32,10 +32,10 @@
 
 ## Details
 ### Intro 
-*The Casual Route* is the easiest free climb up the Diamond on Long's Peaj and one of the most iconic multipitch climbs in North America. With striking exposure, moderate difficulty, and historic significance, it remains a must-do for generations of climbers. In this analysis, the route stands out as both a **cultural landmark** and a **high-traffic classic**.  
+*The Casual Route* is the easiest free climb up the Diamond on Long's Peak and one of the most iconic multipitch climbs in North America. With striking exposure, moderate difficulty, and historic significance, it remains a must-do for generations of climbers. In this analysis, the route stands out as both a **cultural landmark** and a **high-traffic classic**.  
 
 ### Route Characteristics  
-- delicate traverses, confidence inspiring finger cracks, a squeeze chimney and a bulge crux.
+- Delicate traverses, confidence inspiring finger cracks, a squeeze chimney and a bulge crux.
 - Diverse climbing: fingerlocks, stemming, technical face sequences, and crack climbing.  
 - Known for **serious exposure**, to the elements and storms.  
 - Protection is very good, G.
@@ -138,7 +138,7 @@ Dec | █                              1.1%
 ## Related FKTs:
 
 ### Fastest Known Time (FKT): Long's Triathlon
-- **Rules:** Boulder to Long's East TH via human powered bike, run to the base of the Diamond, ascent the Casual Route, top out on the summit of Long's. Run down to the TH and bike back to Boulder 
+- **Rules:** Boulder to Long's East TH via human powered bike, run to the base of the Diamond, ascent the Casual Route, top out on the summit of Long's Peak. Run down to the TH and bike back to Boulder 
   - All known FKTs involve:  
     - Soloing approach (YDS 5.8)  
     - Simul climbing with Micro Traxion or similar device or solo
