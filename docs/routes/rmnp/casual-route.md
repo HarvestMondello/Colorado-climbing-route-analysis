@@ -129,8 +129,8 @@ Dec | █                              1.1%
 | 03:09:50  | 2024-09-02 | John Alcorn         | Current FKT  | [GPS Verification](https://www.strava.com/activities/12306779867)|  
 | 03:26:12  | 2021-08-30 | Maury Birdwell        |   | [GPS Verification](https://www.strava.com/activities/)|   
 | 03:53:59  | 2020-08-04 | Stefan Griebel, Wade Morris          |   | [GPS Verification](https://www.strava.com/activities/3864748866/)|    
-| 03:59:00  | 2000-08-01 | Dean Potter         |   | n/a 
-| 05:45:00  | 1991-xx-xx | Roger Briggs         |   | n/a 
+| 03:59:00  | 2000-08-01 | Dean Potter         |   | 
+| 05:45:00  | 1991-xx-xx | Roger Briggs         |   |
 
 
 <br>
@@ -170,7 +170,7 @@ Dec | █                              1.1%
 | Time    | Date       | Climbers                          | Notes              | Verification       |     |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 01:55:40  | 2020-08-28 | Kyle Richardson         | Current FKT  |[GPS Verification](https://www.strava.com/activities/3978440370/) |   |
-| 01:56:48  | 2012-08-88 | Andy Anderson         | | |   |
+| 01:56:48  | 2012-08-08 | Andy Anderson         | | |   |
 | 02:04:27  | 1978-08-15 | Chris Reveley         |   | |   |
 
 <br>
