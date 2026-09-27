@@ -6,13 +6,13 @@
 ## Index
 
 Introduction:
-- [Colorado Speed Climbing](#colorado-speed-cimbing)
+- [Colorado Speed Climbing](#colorado-speed-climbing) 
 - [FKT-styles](#fkt-styles)
 - [Leave No Trace](#leave-no-trace)
-- [Colorado FKT's Overview](colorado-fkts-overview)
+- [Colorado FKTs Overview](colorado-fkts-overview)
 
 FKT Areas:
-- [RMNP+ FKTs](#rmnp+-fkts)
+- [Alpine FKTs](#alpine-fkts)
 - [Eldo FKTs](#eldo-fkts)
 - [Flatirons FKTs](#flatirons-fkts)
 - [Other Area FKTs](#other-area-fkts) [this section is a work in progess]
@@ -136,16 +136,16 @@ Open Space Mountain Parks for the Flatirons area: **[OSMP Climbing In Open Space
 
 ---
 
-## Colorado FKT's Overview
+## Colorado FKTs Overview
 The most conveted FKT's in Colorado are the **Casual Route** on the Diamond of Long's Peak in RMNP, the **Naked Edge** on Redgarden Wall: Tower Two in Eldorado Canyon and the **DEF** on the First Flatiron** in the Flatirons. 
 
-### RMNP 
+### RMNP and otehr alpine
 
 Alpine FKTs typically include long approaches, technical climbing, complex descents, and significant elevation gain. The Casual Route on the Diamond is one of the most sought-after speed-climbing objectives in the park. Routes are trailhead to trailhead (TH2TH)
 
 The most competative alpine FKTs are the **Casual Route** on the Diamond, **Long's Triathlon** via the Casual Route on the Diamond and the **South Face of Peit Grepon**. 
 
-[↓ RMNP+ FKTs](#rmnp+-fkts)
+[↓ Alpine FKT's](#alpine-fkt's)
 
 
 ### Eldo
@@ -172,7 +172,7 @@ The most competative Flatiron FKT's are **DEF** on the First Flatiron** and **Ea
 
 <br />
 
-## RMNP+ FKTs
+## Alpine FKTs
 *Rocky Mountain National Park and other alpine*
 RMNP and other alpine route FKTs are by tradition trailhead to trailhead. 
 
@@ -228,25 +228,35 @@ Eldo routes are by tradition bridge to bridge (B2B), starting and ending at the 
 
 | Route    | Time      | Date                         | Climbers              | Formation      | bridge to bridge (B2B) | Verification |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
-|[The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/naked-edge.md)    | 22:44   | 2022-10-22 | Stefan Griebel, Joe Kennedy       |  Redgarden: Tower Two | SoBo Creek footbridge (B2B)  |[The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/naked-edge.md)   ||#1
+|Redgarden Wall Routes:
+[The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/naked-edge.md)    | 22:44   | 2022-10-22 | Stefan Griebel, Joe Kennedy       |  Redgarden: Tower Two | SoBo Creek footbridge (B2B)  |[The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/naked-edge.md)   ||#1
 [The Yellow Spur](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/yellow-spur.md)    | 28:04   | 2026-07-23 | Michael Reese, Jack Gugel       |  Redgarden Wall: Tower One | SoBo Creek footbridge (B2B) |[The Yellow Spur](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/yellow-spur.md)| #7
-[Handcracker Direct](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/handcracker-direct.md)    | 31:45   | 2026-07-29  | Danny Gilbert, Anton Krupicka  |  The West Ridge: Mail Ridge Tower | West SoBo Creek footbridge to West SoBo Creek footbridge (B2B) |[Handcracker Direct](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/handcracker-direct.md) | #11
 [Ruper](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/ruper.md)    |  32:11  | 2010-11-23  | Scott Bennett  |  Redgarden Wall: Upper & Lower Ramp | SoBo Creek footbridge (B2B) | [Ruper](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/ruper.md) |#28
-[Bastille Crack](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/bastille-crack.md)   | *seee route   | *  | *      |  The Bastille: North Face | SoBo Creek footbridge (B2B) | [Bastille Crack](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/bastille-crack.md) |#24
-
+The Bastille Routes:
+[Bastille Crack](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/bastille-crack.md)   | *see route   | *  | *      |  The Bastille: North Face | SoBo Creek footbridge (B2B) | [Bastille Crack](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/bastille-crack.md) |#24
+The West Ridge Routes:
+[Handcracker Direct](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/handcracker-direct.md)    | 31:45   | 2026-07-29  | Danny Gilbert, Anton Krupicka  |  The West Ridge: Mail Ridge Tower | West SoBo Creek footbridge to West SoBo Creek footbridge (B2B) |[Handcracker Direct](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/handcracker-direct.md) | #11
+Other Eldorado Canyon Routes: 
+OSMP Routes:
 <br />
 
 ### Eldorado Canyon: no known FKTs
 
 | Route    | Time      | Date                         | Climbers              | Formation      | bridge to bridge (B2B) | Verification |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
+Redgarden Wall Routes:
 [Rewritten](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/rewritten.md)    | n/a   | n/a  | n/a      |  Redgarden Wall: Green Spur Buttress | SoBo Creek footbridge (B2B) |[Rewritten](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/rewritten.md) | #2 
-[Gambit](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/gambit.md)     | n/a   | n/a  | n/a      |  Shirt Tail Peak |Visitor Center TH| [Gambit](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/gambit.md) | #30
-[Long John Wall](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/long-john-wall.md)     | n/a   | n/a  | n/a      |  The West Ridge: Long John Tower | West SoBo Creek footbridge to SoBo Creek footbridge (B2B) | [Long John Wall](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/long-john-wall.md) |#92
+[Swanson Arete](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/swanson-arete.md)    | n/a   | n/a  | n/a      |  Redgarden Wall: Lumpe Tower | SoBo Creek footbridge (B2B) |[Swanson Arete](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/swanson-arete.md) |#222
+The Bastille Routes:
 [Blind Faith](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/blind-faith.md)  | n/a   | n/a  | n/a      |  The Bastille: West Face | SoBo Creek footbridge (B2B)|[Blind Faith](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/blind-faith.md) | #21
 [Hair City](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/hair-city.md) | n/a   | n/a  | n/a      |  The Bastille: West Face | SoBo Creek footbridge (B2B) | [Hair City](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/hair-city.md)|#42
+The West Ridge Routes:
+[Long John Wall](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/long-john-wall.md)     | n/a   | n/a  | n/a      |  The West Ridge: Long John Tower | West SoBo Creek footbridge to SoBo Creek footbridge (B2B) | [Long John Wall](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/long-john-wall.md) |#92
+Other Eldorado Canyon Routes: 
+[Gambit](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/gambit.md)     | n/a   | n/a  | n/a      |  Shirt Tail Peak |Visitor Center TH| [Gambit](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/gambit.md) | #30
 [Wind Ridge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/wind-ridge.md)    | n/a   | n/a  | n/a      |  Wind Tower: Southwest Face | SoBo Creek footbridge (B2B) |[Wind Ridge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/wind-ridge.md) |#183
-[Swanson Arete](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/swanson-arete.md)    | n/a   | n/a  | n/a      |  Redgarden Wall: Lumpe Tower | SoBo Creek footbridge (B2B) |[Swanson Arete](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/swanson-arete.md) |#222
+OSMP Routes:
+[Perversion](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/perversion.md)    | n/a   | n/a  | n/a      |  Eldorado Mountain: Mickey Mouse Wall | SoBo Creek footbridge (B2B) |[Wind Ridge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/perversion.md) |#83
 
 <br />
 
@@ -334,9 +344,12 @@ TTCIAD    | 05:01:43| 2025-09-26 |  Caleb Hardaway       |  Roach Classic 10 Fla
 
 
 ---
-## Other Areas
-Lumpy Ridge (Lumpy)...
+## Other Area FKTs
+this section in progress:
+
 Boulder Canyon (BoCan)...
+South Platte...
+Lumpy Ridge (Lumpy)...
 Black Canyon (The Black)...
 
 [↑ Back to Index](#index)
