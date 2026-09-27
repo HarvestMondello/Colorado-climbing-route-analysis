@@ -119,7 +119,7 @@ The goal is enough documentation for an FKT to be independently reviewed and rea
 ## Leave No Trace
 All FKT's require climbers to follow the **[7 Princicples of Leave no Trace](https://lnt.org/why/7-principles/)** and follow all other climbing ethics as established by individual Parks. 
 
-For Park specifics see:
+**For Leave No Trace and other Park specfic rules such as nesting closures see:**
 
 Rocky Mountain National Park: **[RMNP website](https://www.nps.gov/romo/index.htm)** and **[NPS Leave No Trace](https://www.nps.gov/articles/leave-no-trace-seven-principles.htm)**
 
@@ -137,11 +137,11 @@ Open Space Mountain Parks for the Flatirons area: **[OSMP Climbing In Open Space
 ---
 
 ## Colorado FKTs Overview
-The most conveted FKT's in Colorado are the **Casual Route** on the Diamond of Long's Peak in RMNP, the **Naked Edge** on Redgarden Wall: Tower Two in Eldorado Canyon and the **DEF** on the First Flatiron** in the Flatirons. 
+The most conveted FKT's in Colorado are the **Casual Route** on the **Diamond on Long's Peak** in RMNP, the **Naked Edge** on **Redgarden Wall:** Tower Two in Eldorado Canyon and the **DEF** on the **First Flatiron** in the Flatirons. 
 
-### RMNP and otehr alpine
+### RMNP and other alpine
 
-Alpine FKTs typically include long approaches, technical climbing, complex descents, and significant elevation gain. The Casual Route on the Diamond is one of the most sought-after speed-climbing objectives in the park. Routes are trailhead to trailhead (TH2TH)
+Alpine FKTs typically include long approaches, technical climbing, complex descents, and significant elevation gain. The **Casual Route** on the **Diamond** is one of the most sought-after speed-climbing objectives in the park. Routes are trailhead to trailhead (TH2TH)
 
 The most competative alpine FKTs are the **Casual Route** on the Diamond, **Long's Triathlon** via the Casual Route on the Diamond and the **South Face of Peit Grepon**. 
 
