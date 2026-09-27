@@ -9,7 +9,7 @@ Introduction:
 - [Colorado Speed Climbing](#colorado-speed-climbing) 
 - [FKT-styles](#fkt-styles)
 - [Leave No Trace](#leave-no-trace)
-- [Colorado FKTs Overview](colorado-fkts-overview)
+- [Colorado FKTs Overview](#colorado-fkts-overview)
 
 FKT Areas:
 - [Alpine FKTs](#alpine-fkts)
@@ -20,7 +20,7 @@ FKT Areas:
 Additional info:
 - [Leaderboards](#leaderboards) [this section is a work in progess]
 - [Submit an FKT](#submit-an-fkt)
-- [Disclaimer](disclaimer)
+- [Disclaimer](#disclaimer)
 
 
 <br>
@@ -150,7 +150,7 @@ The most competative alpine FKTs are the **Casual Route** on the Diamond, **Long
 
 ### Eldo
 
-Eldo is a historic speed-climbing area with established bridge-to-bridge records, technical descents, and a strong tradition of fast multipitch climbing. The most sought-after FKTs include The Naked Edge and Yellow Spur. Routes are bridge to bridge(B2B)
+Eldo is a historic speed-climbing area with established bridge-to-bridge records, technical descents, and a strong tradition of fast multipitch climbing. The most sought-after FKTs include The Naked Edge and Yellow Spur. Routes are bridge to bridge(B2B). Areas in the adjacent Open Space Mountain Parks (OSMP) are included here.
 
 The most competative Eldo FKT's are **Naked Edge** on Redgarden Wall: Tower Two and the **Yellow Spur** on Redgarden Wall: Tower One.
 
