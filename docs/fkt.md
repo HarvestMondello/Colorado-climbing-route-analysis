@@ -182,9 +182,12 @@ RMNP and other alpine route FKTs are by tradition trailhead to trailhead.
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
 |[Casual Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)    | 03:09:50  | 2024-09-02 | John Alcorn       |  The Diamond on Long's Peak |  Long's East TH  | [Casual Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)|
 [South Face of Petit Grepon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/south-face.md)    | 02:39:27   | 2012-06-26 | Stefan Griebel       |  Petit Grepon in the Cathedral Spires|Glacier Gorge TH | [South Face of Petit Grepon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/south-face.)
+|[Blitzen Ridge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/blitzen-ridge.md)   | 04:05:04  | 2026-06-29 | William Helms        | Ypsilon Mountain, RMNP |  Lawn Lake TH | [Blitzen Ridge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/blitzen-ridge.md)
 |[Kiener's Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/kieners-route.md)    | 02:19:37 | 2024-08-07 | Anton Krupicka      |  East Face on Long's Peak |  Long's East TH | [Kiener's Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/kieners-route.md)| #79
 |Cables Route   | 01:55:40  | 2020-08-28 | Kyle Richardson       |  North Face on Long's Peak, RMNP |  Long's East TH | [GPS Verification](https://www.strava.com/activities/3978440370)
-|Blitzen Ridge   | 04:05:04  | 2026-06-29 | William Helms        | Ypsilon Mountain, RMNP |  Lawn Lake TH | [GPS Verification](https://www.strava.com/activities/18987194820/)
+
+
+ 
 
 <br />
 
@@ -336,7 +339,7 @@ First and Third Flatirons | 48:33    | 2010-08-13| Stefan Griebel  |  First & Th
 Flatirons Trifecta | 01:02:25    | 2021-10-25| Michael Reese |  First, Second & Third Flatiron (linkup)| Chautauqua TH|[Verification](https://www.strava.com/activities/6166869935)
 Flatirons Quinfecta   | 01:42:08   | 2021-09-01 |  Kyle Richardson       |  Flatirons 1,2,3,4,5 (linkup)| Chautauqua TH| [Verifiation](https://www.strava.com/activities/5887894393/)  
 Hollyberry Hill (RegRA5thFist)(supported) | 49:08| 2019-09-12 |  Kyle Richerdson      |  Regency, Royal Arch, Fifth Flatirion, The Fist (linkup) supported (fixed ropes)  |Hollyberry LN TH| [Verification (TdF 2019)](https://www.strava.com/activities/2703712873/) | | 
-Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden  |South Mesa TH| [Loop only (not the Verification)](https://www.strava.com/activities/6166869935)
+Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden  |South Mesa TH| [Loop only info (not the Verification)](https://www.strava.com/activities/6166869935)
 TTCIAD    | 05:01:43| 2025-09-26 |  Caleb Hardaway       |  Roach Classic 10 Flatirons: Top 10 Classics In A Day  |South Mesa TH|[Verification](https://www.strava.com/activities/151846558) |
 33 Spring Classics    | 13:16:59| 2023-05-17 |  Joe Kennedy, Jack Neus       |  big Flatirons linkup  |Chautauqua TH|[Verfication](https://www.strava.com/activities/9090791867) |[Verfication 2](https://www.strava.com/activities/9090900359)  | 
 
