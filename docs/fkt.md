@@ -248,6 +248,7 @@ Redgarden Wall Routes:
 [Rewritten](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/rewritten.md)    | n/a   | n/a  | n/a      |  Redgarden Wall: Green Spur Buttress | SoBo Creek footbridge (B2B) |[Rewritten](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/rewritten.md) | #2 
 [Swanson Arete](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/swanson-arete.md)    | n/a   | n/a  | n/a      |  Redgarden Wall: Lumpe Tower | SoBo Creek footbridge (B2B) |[Swanson Arete](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/swanson-arete.md) |#222
 The Bastille Routes:
+[Outer Space](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/outer-space.md)   | n/a  | n/a   | n/a       |  The Bastille: North Face | SoBo Creek footbridge (B2B) | [Bastille Crack](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/outer-space.md) |
 [Blind Faith](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/blind-faith.md)  | n/a   | n/a  | n/a      |  The Bastille: West Face | SoBo Creek footbridge (B2B)|[Blind Faith](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/blind-faith.md) | #21
 [Hair City](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/hair-city.md) | n/a   | n/a  | n/a      |  The Bastille: West Face | SoBo Creek footbridge (B2B) | [Hair City](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/hair-city.md)|#42
 The West Ridge Routes:
@@ -264,7 +265,10 @@ OSMP Routes:
 
 | Route    | Time      | Date                         | Climbers              | Formation      | bridge to bridge (B2B) | Verification |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
-work in progess
+work in progess:
+Redgarden Triple 
+Eldo Quad
+Eldo 15 Towers Tour
 
 
 [↑ Back to Index](#index)
