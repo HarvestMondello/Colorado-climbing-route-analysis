@@ -145,7 +145,7 @@ Alpine FKTs typically include long approaches, technical climbing, complex desce
 
 The most competative alpine FKTs are the **Casual Route** on the Diamond, **Long's Triathlon** via the Casual Route on the Diamond and the **South Face of Peit Grepon**. 
 
-[↓ Alpine FKT's](#alpine-fkt's)
+[↓ Alpine FKTs](#alpine-fkts)
 
 
 ### Eldo
