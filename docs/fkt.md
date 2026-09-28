@@ -315,9 +315,12 @@ First, Second and Third Flatiron start at Chautauqua TH near the Ranger Cottage 
 
 ### Central Flatirons: Dinosaur Mountain area; between Skunk Canyon and Bear Canyon
 
-| Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
-|---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
-East Face Center of Front Porch   | 20:59   | 2004-10-07 |  Jon Sargant     |  Front Porch |NCAR TH|TdF 2004 |
+| Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification| Route course|
+|---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|--------------------|
+East Face Center of Front Porch   | 20:59   | 2004-10-07 |  Jon Sargant     |  Front Porch |NCAR TH|TdF 2004 |[Route course](https://www.strava.com/segments/17616619) |
+
+
+
 
 <br />
 
@@ -335,11 +338,11 @@ North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  Th
 
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification| | 
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|--------------------| 
-First and Third Flatirons | 48:33    | 2010-08-13| Stefan Griebel  |  First & Third Flatiron (linkup)| Chautauqua TH |  
+First and Third Flatirons | 48:33    | 2010-08-13| Stefan Griebel  |  First & Third Flatiron (linkup)| Chautauqua TH | [Route course](https://www.strava.com/segments/5266733) | 
 Flatirons Trifecta | 01:02:25    | 2021-10-25| Michael Reese |  First, Second & Third Flatiron (linkup)| Chautauqua TH|[Verification](https://www.strava.com/activities/6166869935)
 Flatirons Quinfecta   | 01:42:08   | 2021-09-01 |  Kyle Richardson       |  Flatirons 1,2,3,4,5 (linkup)| Chautauqua TH| [Verifiation](https://www.strava.com/activities/5887894393/)  
 Hollyberry Hill (RegRA5thFist)(supported) | 49:08| 2019-09-12 |  Kyle Richerdson      |  Regency, Royal Arch, Fifth Flatirion, The Fist (linkup) supported (fixed ropes)  |Hollyberry LN TH| [Verification (TdF 2019)](https://www.strava.com/activities/2703712873/) | | 
-Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden  |South Mesa TH| [Loop only info (not the Verification)](https://www.strava.com/activities/6166869935)
+Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden  |South Mesa TH| [Route course ](https://www.strava.com/activities/151846558)
 TTCIAD    | 05:01:43| 2025-09-26 |  Caleb Hardaway       |  Roach Classic 10 Flatirons: Top 10 Classics In A Day  |South Mesa TH|[Verification](https://www.strava.com/activities/151846558) |
 33 Spring Classics    | 13:16:59| 2023-05-17 |  Joe Kennedy, Jack Neus       |  big Flatirons linkup  |Chautauqua TH|[Verfication](https://www.strava.com/activities/9090791867) |[Verfication 2](https://www.strava.com/activities/9090900359)  | 
 
