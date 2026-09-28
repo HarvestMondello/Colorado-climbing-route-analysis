@@ -43,7 +43,7 @@
 - The Southeast Chimney descent (4th class) is standard walk-off but any of several summit routes can be downclimbed. There is also a rapel option. This rappel option is consider supported for FKTs. 
 
 ### Historical Context  
-n/a
+The Third Flatiron has a long tradition of speed climbs. It is often included in the Tour de Flatirons in which fixed ropes are pre-fixed (supported). 
 
 [↑ Back to Index](#index)
 <!-- AUTO:METRICS:START -->
@@ -113,6 +113,32 @@ Dec | ██                             5.8%
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 36:14   | 2008-10-01 | Stefan Griebel      | Current FKT        | TdF 2008
 | 36:27   | 1989-xx-xx | Bill Briggs     | Prior FKT        |
+
+### FKT History (supported, rappels)
+| Time    | Date       | Climbers                          | Notes              | Verification       |    |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+| 30:26   | 2019-10-09 | Kyle Richardson      | Current Supported FKT        | TdF 2019
+|    |  |      |        |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
 
