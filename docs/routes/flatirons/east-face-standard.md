@@ -111,14 +111,14 @@ Dec | ██                             5.8%
 ### FKT History (self supported, no rappel)
 | Time    | Date       | Climbers                          | Notes              | Verification       |    |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 36:14   | 2008-10-01 | Stefan Griebel      | Current FKT        | TdF 2008
+| 36:14   | 2008-10-01 | Stefan Griebel      | Unsupported FKT        | TdF 2008
 | 36:27   | 1989-xx-xx | Bill Briggs     | Prior FKT        |
 
 ### FKT History (supported, rappels)
 | Time    | Date       | Climbers                          | Notes              | Verification       |    |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 30:26   | 2019-10-09 | Kyle Richardson      | Current Supported FKT        | TdF 2019
-|    |  |      |        |
+| 30:26   | 2019-10-09 | Kyle Richardson      | Supported FKT        | TdF 2019
+| [Verfication]([https://www.strava.com/activities/9090900359](https://www.strava.com/activities/2776838000/))    |  |      |        |
 
 
 
