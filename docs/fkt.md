@@ -137,13 +137,20 @@ Open Space Mountain Parks for the Flatirons area: **[OSMP Climbing In Open Space
 ---
 
 ## Colorado FKTs Overview
-The most conveted FKT's in Colorado are the **Casual Route** on the **Diamond on Long's Peak** in RMNP, the **Naked Edge** on **Redgarden Wall:** Tower Two in Eldorado Canyon and the **DEF** on the **First Flatiron** in the Flatirons. 
+The most fiercely competative FKT in Colorado in the **Naked Edge** on **Redgarden Wall** in **Eldorado Canyon**. Considered the Nose of Colorado. 
+
+The other FKTs with a long tradition of competition are primarily: 
+
+- The **Casual Route** on the **Diamond** on **Long's Peak** in **Rocky Mountain National Park**.
+- The **Yellow Spur** on **Redgarden Wall** in **Eldorado Canyon**
+- **DEF** on the **First Flatirion** and **East Face (Standard)** on the **Third Flatiron**.
+
 
 ### RMNP and other alpine
 
 Alpine FKTs typically include long approaches, technical climbing, complex descents, and significant elevation gain. The **Casual Route** on the **Diamond** is one of the most sought-after speed-climbing objectives in the park. Routes are trailhead to trailhead (TH2TH)
 
-The most competative alpine FKTs are the **Casual Route** on the Diamond, **Long's Triathlon** via the Casual Route on the Diamond and the **South Face of Petit Grepon**. 
+Other competative objectives include**Long's Triathlon** via the Casual Route on the **Diamond** on Long's Peak, the **South Face** of **Petit Grepon** and **Kieners Route** on Long's Peak. Also, the winter speed record on **D7** on the **Diamond** on **Long's Peak**. 
 
 [↓ Alpine FKTs](#alpine-fkts)
 
@@ -154,6 +161,8 @@ Eldo is a historic speed-climbing area with established bridge-to-bridge records
 
 The most competative Eldo FKT's are **Naked Edge** on Redgarden Wall: Tower Two and the **Yellow Spur** on Redgarden Wall: Tower One.
 
+Other competative objectives include **Ruper** on Redgarden Wall and **Bastille Crack** on The Bastille. 
+
 [↓ Eldo FKTs](#eldo-fkts)
 
 
@@ -163,9 +172,26 @@ FKTs often combine scrambling, running, route finding, and fast descents. Routes
 
 The most competative Flatiron FKT's are **DEF** on the First Flatiron** and **East Face** of the Third Flatiron. 
 
+Other competative objectives are linkups of formations such as the **First and Third**, **Trifecta** and **Quinfecta**, this last being the most prestigious of the three. 
+
 [↓ Flatirons FKTs](#flatirons-fkts)
 
 <br />
+
+[↑ Back to Index](#index)
+
+
+## Other Areas: Black Canyon of Gunnison
+This section is a work in progress
+
+Scenic Cruise in Black Canyon
+Hallucinogen Wall in Black Canyon
+
+Lumpy Ridge...
+
+South Platte..
+
+[↓ Other Area FKTs](#other-area-fkts)
 
 [↑ Back to Index](#index)
 
@@ -299,7 +325,7 @@ First, Second and Third Flatiron start at Chautauqua TH near the Ranger Cottage 
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead Round Trip | Verification |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
 |[DEF on the First Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 30:19   | 2019-10-15 | Kyle Richardson       |  First Flatiron  | Chautauqua  TH| [DEF on First Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md) 
-[Second Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/freeway.md)    | 32:14   | 2024-07-05 |  Soren Kodak      |  Second Flatiron (any East face summit route) | Chautauqua TH  | [Second Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/freeway.md) 
+[Freezeway Second Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/freeway.md)    | 32:14   | 2024-07-05 |  Soren Kodak      |  Second Flatiron (any East face summit route) | Chautauqua TH  | [Second Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/freeway.md) 
 [East Face on Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)    | 36:14   | 2008-10-01 | Stefan Griebel       |  Third Flatiron | Chautauqua TH| [East Face on Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)   
 [East Face (supported) on Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)    | 30:26   | 2019-10-09 | Kyler Richardson      |  Third Flatiron | Chautauqua TH| [East Face (supported) on Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)  
 
