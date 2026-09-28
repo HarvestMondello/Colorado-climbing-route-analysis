@@ -208,7 +208,7 @@ The Long's Triathlon includes biking from Boulder and back. As do some other rou
 Long's Grand Slam| 4:04:07  | 2026-09-29 | Joe Kennedy     |  Long's and nearby peaks |Long's East TH |[GPS Verification](https://www.strava.com/activities/19952622662/) ||
 A Walk in the Park| 6:25:30  | 2023-07-27 | Joe Kennedy     |  Long's and nearby peaks |Long's East TH   |[GPS Verification](https://www.strava.com/activities/9532583783/) ||
 Glacier Gorge Traverse| 6:17:18  | 2012-09-01 | Anton Krupicka       |  Long's and 8 nearby peaks |Glacier Gorge TH ||
-LA Freeway| 13:20:48  | 2024-09-31 | Anton Krupicka    Glacier Gorge TH |  RMNP & Indian Peaks |Long's East TH to Arapahoe  |[GPS Verification](https://www.strava.com/activities/12293733797) ||
+LA Freeway| 13:20:48  | 2024-09-31 | Anton Krupicka |  RMNP & Indian Peaks |Long's East TH to 4th of July TH  |[GPS Verification](https://www.strava.com/activities/12293733797) ||
 
 
 [↑ Back to Index](#index)
