@@ -117,8 +117,8 @@ Dec | ██                             5.8%
 ### FKT History (supported, rappels)
 | Time    | Date       | Climbers                          | Notes              | Verification       |    |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 30:26   | 2019-10-09 | Kyle Richardson      | Supported FKT        | TdF 2019
-| [Verfication]([https://www.strava.com/activities/9090900359](https://www.strava.com/activities/2776838000/))    |  |      |        |
+| 30:26   | 2019-10-09 | Kyle Richardson      | Supported FKT        | TdF 2019 | [Verfication]([https://www.strava.com/activities/9090900359](https://www.strava.com/activities/2776838000/))  
+|   |  |      |        |
 
 
 
