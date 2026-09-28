@@ -143,7 +143,7 @@ The most conveted FKT's in Colorado are the **Casual Route** on the **Diamond on
 
 Alpine FKTs typically include long approaches, technical climbing, complex descents, and significant elevation gain. The **Casual Route** on the **Diamond** is one of the most sought-after speed-climbing objectives in the park. Routes are trailhead to trailhead (TH2TH)
 
-The most competative alpine FKTs are the **Casual Route** on the Diamond, **Long's Triathlon** via the Casual Route on the Diamond and the **South Face of Peit Grepon**. 
+The most competative alpine FKTs are the **Casual Route** on the Diamond, **Long's Triathlon** via the Casual Route on the Diamond and the **South Face of Petit Grepon**. 
 
 [↓ Alpine FKTs](#alpine-fkts)
 
