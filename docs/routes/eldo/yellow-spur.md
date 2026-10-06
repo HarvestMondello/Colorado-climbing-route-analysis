@@ -176,7 +176,7 @@ Dec | █                              3.6%
 |-----:|:--------|------:|
 | 1 | Danny Gilbert | 272 |
 | 2 | Harvest Mondello | 99 |
-| 3 | Bill Wright | 92 |
+| 3 | Bill Wright | 92 | *est 200+
 | 4 | Michael Butts | 71 |
 | 5 | Jack Neus | 44 |
 | 6 | John Alcorn | 41 |
@@ -202,10 +202,10 @@ Dec | █                              3.6%
 <!-- AUTO:TOP_CLIMBERS:END -->
 
   ## Note on Climbers not in the dataset or with partial data entries:  
-  - **Bill Wright:** Estimated 100 to 200+ ascents (partial record shows 92). He is quoted as saying he has less ascents than Danny Gilbert. Many of these climbs were with Danny Gilbert and Bill pioneered going fast on the Spur.   
+  - **Bill Wright:** Estimated 200+ ascents (partial record shows 92 in dataset). He is quoted as saying he has less ascents than Danny Gilbert. Many of these climbs were with Danny Gilbert and Bill pioneered going fast on the Spur.   
   - **Michael Reese** has 123 ascents as of 9/2/2026, none logged publicly.
   - **Anton Krupicka:** Estimated ~100 ascents, primarily with Danny Gilbert, none logged publicly.  
-  - **Bill Wright** is also known for climbing it **10 times in a single day** on his birthday.  
+  - **Bill Wright** is also known for climbing the route **10 times in a single day** on his birthday.  
   - Joe Kennedy, 32 Spur laps as of 9/2/2026. Not in the dataset.
 
 
