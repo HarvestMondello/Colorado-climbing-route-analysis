@@ -160,7 +160,7 @@ Dec | █                              3.6%
 | 46:55  | 2018-07-13 | Jon Oulton, Nodin DeSaillan    |              | |                    |
 | 47:47  | 2018-07-12 | Bill Wright, Danny Gilbert     |              | |                    |
 | 57:02  | 2018-07-11 | Jon Oulton, Nodin DeSaillan    |              | |                    |
-| 58:10  | Early 2000s| Josh Wharton, Kevin Chochran   | First logged | |                    |
+| 58:10  | Early 2000s| Josh Wharton, Kevin Cochran   | First logged | |                    |
 
 
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
