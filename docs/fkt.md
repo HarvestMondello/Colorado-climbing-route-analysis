@@ -118,6 +118,8 @@ This approach is consistent with FastestKnownTime.com practice, where the report
 
 For COROS devices that require a 3-second hold to end an activity, 3 seconds may be deducted from the displayed elapsed time when that delay occurs after the athlete has reached the defined finish. The original, unedited activity should be retained, and the GPS track should show the athlete reaching or passing the finish before recording ends.
 
+Pausing or stopping the device before reaching the defined finish point is not recommended and should not be used as a way to compensate for device-save delays. The recording should continue through the actual finish whenever possible.
+
 Garmin and Apple watches generally do not require a comparable fixed 3-second finish hold, so no standard adjustment is normally needed. However, if any device is stopped after the athlete crosses the defined finish, the reported FKT time should reflect the actual finish rather than the later device-stop time when that finish can be reasonably verified.
 
 When possible, a second recording device or a third party using a stopwatch provides useful independent confirmation of the time. Strava segment times may also be used as a reference, but they should not be considered definitive because segment matching and timing can differ from the defined FKT start and finish points.
