@@ -146,7 +146,7 @@ Dec | █                              3.6%
 - **28:04** | 2026-07-23 | Michael Reese & Jack Gugel  
 - [FKT GPS Verification](https://www.strava.com/activities/19434761338)  
 
-### FKT History (B2B)
+### FKT History (B2B): The Yellow Spur (bridge to bridge)
 
 | Time    | Date       | Climbers                          | Notes              | Verification       |   Verification 2   |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
@@ -160,7 +160,18 @@ Dec | █                              3.6%
 | 46:55  | 2018-07-13 | Jon Oulton, Nodin DeSaillan    |              | |                    |
 | 47:47  | 2018-07-12 | Bill Wright, Danny Gilbert     |              |  [GPS Verification](https://www.strava.com/activities/3868179425)                    |
 | 57:02  | 2018-07-11 | Jon Oulton, Nodin DeSaillan    |              | |                    |
-| 58:10  | Early 2000s| Josh Wharton, Kevin Cochran   | First logged | |                    |
+| 58:10  | Early 2000s| Josh Wharton, Kevin Cochran   | First logged | Speed Climbing! How to Climb Faster and Better, by Hans Florine and Bill Wright  |        
+
+
+### Route only FKT: The Yellow Spur (route only)
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |   Verification 2   |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+| 10:10  | 2026-07-23 | Michael Reese, Jack Gugel         | Current route only FKT  | [GPS Verification](https://www.strava.com/activities/19434761338)|                    |
+| 10:48  | 2021-03-03 | Jack Neus, Joe Kennedy         |   | [GPS Verification](https://www.strava.com/activities/6769287759)  |                    |
+| 12:40  | 1998-06-xx | Mic "Sick" Fairchild         |   | Speed Climbing! How to Climb Faster and Better, by Hans Florine and Bill Wright  |                    |
+
+
 
 
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
