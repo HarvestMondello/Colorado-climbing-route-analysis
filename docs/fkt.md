@@ -110,11 +110,17 @@ Some older FKTs were completed before reliable GPS technology was widely availab
 
 The goal is enough documentation for an FKT to be independently reviewed and reasonably verified.
 
-FKT Timing: COROS Devices
+### FKT Timing Standard
 
-For FKTs recorded on a COROS watch that requires a 3-second hold to end the activity (all Coros watches at this time), 3 seconds may be deducted from the recorded elapsed time when determining the FKT time. The original, unedited activity should be retained for verification and the GPS track should show the athlete reaching or passing the defined finish before the activity ends.
+FKT time ends when the athlete reaches the defined finish point, not when the GPS device completes its save or finalization process. GPS and Strava activities serve as verification evidence, but the activity-file end timestamp does not necessarily define the actual finish time.
 
-This adjustment is specific to the COROS interface and should not be applied universally. Garmin watches generally stop recording immediately when START/STOP is pressed, with saving handled afterward, and Apple Watch does not require a comparable 3-second hold to end a workout. Garmin and Apple activities therefore normally receive no timing adjustment.
+This approach is consistent with FastestKnownTime.com practice, where the reported FKT may reflect the actual route finish even when the watch or GPS device was stopped later.
+
+For COROS devices that require a 3-second hold to end an activity, 3 seconds may be deducted from the displayed elapsed time when that delay occurs after the athlete has reached the defined finish. The original, unedited activity should be retained, and the GPS track should show the athlete reaching or passing the finish before recording ends.
+
+Garmin and Apple watches generally do not require a comparable fixed 3-second finish hold, so no standard adjustment is normally needed. However, if any device is stopped after the athlete crosses the defined finish, the reported FKT time should reflect the actual finish rather than the later device-stop time when that finish can be reasonably verified.
+
+When possible, a second recording device or a third party using a stopwatch provides useful independent confirmation of the time. Strava segment times may also be used as a reference, but they should not be considered definitive because segment matching and timing can differ from the defined FKT start and finish points.
 
 [↑ Back to Index](#index)
 
