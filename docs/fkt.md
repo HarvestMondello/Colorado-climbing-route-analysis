@@ -110,6 +110,12 @@ Some older FKTs were completed before reliable GPS technology was widely availab
 
 The goal is enough documentation for an FKT to be independently reviewed and reasonably verified.
 
+FKT Timing: COROS Devices
+
+For FKTs recorded on a COROS watch that requires a 3-second hold to end the activity (all Coros watches at this time), 3 seconds may be deducted from the recorded elapsed time when determining the FKT time. The original, unedited activity should be retained for verification and the GPS track should show the athlete reaching or passing the defined finish before the activity ends.
+
+This adjustment is specific to the COROS interface and should not be applied universally. Garmin watches generally stop recording immediately when START/STOP is pressed, with saving handled afterward, and Apple Watch does not require a comparable 3-second hold to end a workout. Garmin and Apple activities therefore normally receive no timing adjustment.
+
 [↑ Back to Index](#index)
 
 <br />
