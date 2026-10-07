@@ -141,6 +141,7 @@ Colorado Parks & Wildlife for Eldorado Canyon area: **[Colorado Parks & Wildlife
 
 Open Space Mountain Parks for the Flatirons area: **[OSMP Climbing In Open Space](https://bouldercolorado.gov/services/climbing-open-space)** AND **[OSMP nesting closures](https://bouldercolorado.gov/services/osmp-closures)**  
 
+For both Eldorado Canyon and OSMP staying on durable surfaces or established climber trails is an integral part of Leave No Trace. 
 
 [↑ Back to Index](#index)
 
