@@ -108,24 +108,40 @@ Dec | ██                             5.8%
 ### Fastest Known Time (FKT): Third Flatiron (self supported, no rappel, round trip)
 - **36:14** Chautaqua Ranger Cottage (the trash can by the TH sign) | 2008-10-01 | **Stefan Griebel**.    
 
-### FKT History (self supported, no rappel)
-| Time    | Date       | Climbers                          | Notes              | Verification       |    |
+
+### FKT History Third Flatiron (self supported, no rappel)(TH2TH)
+| Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)                          | Notes              | Verification       |  Verification 2  ||
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 36:14   | 2008-10-01 | Stefan Griebel      | Unsupported FKT        | TdF 2008
-| 36:27   | 1989-xx-xx | Bill Briggs     | Prior FKT        |
+| 36:27   | 1989-07-24 | Bill Briggs     | Prior Unsupported       |
 
-### FKT History (supported, rappels)
-| Time    | Date       | Climbers                          | Notes              | Verification       |  Verification 2  ||
+<br>
+
+## Other Third Flatiron FKTs: 
+
+### FKT Third Flatiron, Supported (rappels) (TH2TH)
+| Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)                          | Notes              | Verification       |  Verification 2  ||
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
-| 30:26   | 2019-10-09 | Kyle Richardson      | Supported FKT        | TdF 2019 | [Verification ](https://www.strava.com/activities/2776838000/)  
+| 30:26   | 2019-10-09 | Kyle Richardson      | Supported FKT (fixed rappels)         | TdF 2019 | [Verification ](https://www.strava.com/activities/2776838000/)  
+|   |  |      |        |
+| 33:17   | 2004-08-05 | Dave Mackey     | Supported (fixed rappels)        |  | 
+|   |  |      |        |
+| 34:248   | 2003-10-15 | Buzz Burrel      | Supported (fixed rappels)       | |  
 |   |  |      |        |
 
 
+<br>
 
+### Route only FKT: Third Flatiron East Face (any East Face line bottom to top)
 
-
-
-
+| Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)                          | Notes              | Verification       |  Verification 2  ||
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
+| 5:25   | 2020-09-28 | Michael Reese      | route ascent to summit (Yosemite Style)       |  | [Verification ](https://www.strava.com/activities/4125140218/)  
+|   |  |      |        |
+| 5:47   | 2014-11-05 | Stefan Griebel      | route ascent to summit (Yosemite Style)      |  |  
+|   |  |      |        |
+| 5:59   | 2010-08-03 | Stefan Griebel      | route ascent to summit (Yosemite Style)      |  |  
+|   |  |      |        |
 
 
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
