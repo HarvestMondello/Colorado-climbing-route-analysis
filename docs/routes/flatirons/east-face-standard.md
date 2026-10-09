@@ -111,9 +111,9 @@ Dec | ██                             5.8%
 
 ### FKT History Third Flatiron (self supported, no rappel)(TH2TH)
 | Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)                          | Notes              | Verification       |  Verification 2  ||
-|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
 | 36:14   | 2008-10-01 | Stefan Griebel      | Unsupported FKT        | TdF 2008
-| 36:27   | 1989-07-24 | Bill Briggs     | Prior Unsupported       |
+| 36:27   | 1989-07-24 | Bill Briggs     | Prior Unsupported FKT       |
 
 <br>
 
