@@ -107,12 +107,13 @@ Dec | █                              3.7%
 <br>
 
 ## FKTs 
+All FKTs, unless otherwise stated, start at the trailhead “Abridged” map post, located at the junction of Bluebell Road and the Chautauqua Trail across from the Ranger Cottage, or anywhere between that sign and the Ranger Station water pump. Refered to The Ranger Cottage bellow.
 
 ## Second Flatirion FKTs:
 Free isn't a summit route, so below are a variety of fkts:
 
 ### Second Flatiron (summit route) FKT: Second Flatiron (summit route, self supported, no rappel, round trip) via Freezeway or Free for All. 
-- **32:14** Chautaqua Ranger Cottage round trip (trash can by the TH)| 2024-07-05 | **Soren Kodak** ** via Freeway to Freezeway ** 
+- **32:14** Chautaqua Ranger Cottage | 2024-07-05 | **Soren Kodak** ** via Freeway to Freezeway ** 
 
 ### Fastest Known Time (FKT): Second Flatiron (summit route) (trailhead to trailhead, unsupported)
 
@@ -120,10 +121,11 @@ Free isn't a summit route, so below are a variety of fkts:
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | 32:14   | 2024-07-05 | Soren Kodak    | via Freeway to Freezeway       | (waiting on permission to post verification) |
 
+<br>
 
 ## Freeway FKTs:
 ### Freeway FKT: Freeway (this is NOT a summit route) (self supported, no rappel, round trip)
-- **24:15** Chautaqua Ranger Cottage round trip (trash can by the TH)| 2026-06-26 | **David Kennedy** 
+- **24:15** Chautaqua Ranger Cottage| 2026-06-26 | **David Kennedy** 
 - [GPS Verification](https://www.strava.com/activities/19078602395) 
 
 ### Fastest Known Time (FKT): Freeway (this is NOT a summit route) (self supported, no rappel, round trip TH2TH)
@@ -131,7 +133,14 @@ Free isn't a summit route, so below are a variety of fkts:
 | Time (min:sec)     | Date (yyyy-mm-dd)         | Climber(s)                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | 24:15   | 2026-06-26| David Kennedy      |   round trip, no summit    |  [GPS Verification](https://www.strava.com/activities/19078602395)  |
+| 25:55   | 2021-12-2| Michael Reese      |   round trip, no summit    |  [GPS Verification](https://www.strava.com/activities/6415576896)  |
+| 26:28   | 2020-07-01| Joe Mitchem    |   round trip, no summit    |  [GPS Verification](https://www.strava.com/activities/3698558678)  |
+| 27:41   | 2016-07-07| Cordis Hall    |   round trip, no summit    |  [GPS Verification](https://www.strava.com/activities/602253292)  |
+| 33:18   | 2014-08-31| Hason Smith     |   round trip, no summit    |  [GPS Verification](https://www.strava.com/activities/19078602395)  |
+| 33:00   | 2013-11-xx| Stefan Griebel      |   round trip, no summit    |  [GPS Verification](https://www.strava.com/activities/19078602395)  |
+| 32:55   | 2013-11-xx| Dave Mackey      |   round trip, no summit    |  [GPS Verification](https://www.strava.com/activities/19078602395)  |
 
+<br>
 
 ### Fastest Known Time (FKT): Freeway via the Bulge Left Start to the top of the face (route ascent only to top of route, note that the route ends at the lower tree, this fkt is to the top of the face (no summit))
 
@@ -186,6 +195,6 @@ The route-only FKT is also somewhat contrived, as it finishes at the top of the 
 
 [↑ Back to Index](#index)
 
-## References  
+## References 
 - *Climbing Boulder's Flatirons*, Second Edition by Jason Haas, 2017
 - [Mountain Project Entry](https://www.mountainproject.com/route/105752023/freeway)

@@ -104,9 +104,10 @@ Dec | ██                             5.8%
 <br>
 
 ## FKTs 
+All FKTs, unless otherwise stated, start at the trailhead “Abridged” map post, located at the junction of Bluebell Road and the Chautauqua Trail across from the Ranger Cottage, or anywhere between that sign and the Ranger Station water pump. Refered to The Ranger Cottage bellow.
 
 ### Fastest Known Time (FKT): Third Flatiron (self supported, no rappel, round trip)
-- **36:14** Chautaqua Ranger Cottage (the trash can by the TH sign) | 2008-10-01 | **Stefan Griebel**.    
+- **36:14** Chautaqua Ranger Cottage | 2008-10-01 | **Stefan Griebel**.    
 
 
 ### FKT History Third Flatiron (self supported, no rappel)(TH2TH)
@@ -126,9 +127,9 @@ Dec | ██                             5.8%
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
 | 30:26   | 2019-10-09 | Kyle Richardson      | Supported FKT (fixed rappels)         | TdF 2019 | [Verification ](https://www.strava.com/activities/2776838000/)  
 |   |  |      |        |
-| 33:17   | 2004-08-05 | Dave Mackey     | Supported (fixed rappels)        |  | 
+| 33:17   | 2004-08-05 | Dave Mackey     | Supported (fixed rappels)        |  [FKT History Notebooks: Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/3rd.jpg)| 
 |   |  |      |        |
-| 34:248   | 2003-10-15 | Buzz Burrel      | Supported (fixed rappels)       | |  
+| 34:248   | 2003-10-15 | Buzz Burrel      | Supported (fixed rappels)       | [FKT History Notebooks: Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/3rd.jpg)|  
 |   |  |      |        |
 
 
@@ -138,11 +139,11 @@ Dec | ██                             5.8%
 
 | Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)                          | Notes              | Verification       |  Verification 2  ||
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
-| 5:25   | 2020-09-28 | Michael Reese      | route ascent to summit (Yosemite Style)       |  [Verification ](https://www.strava.com/activities/4125140218/)  
+| 5:25   | 2020-09-28 | Michael Reese      | route ascent to summit (Yosemite Style)       | [Verification](https://www.strava.com/activities/4125140218/)  
 |   |  |      |        |
-| 5:47   | 2014-11-05 | Stefan Griebel      | route ascent to summit (Yosemite Style)      |  |  
+| 5:47   | 2014-11-05 | Stefan Griebel      | route ascent to summit (Yosemite Style)      | [FKT History Notebooks: Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/3rd.jpg) |  
 |   |  |      |        |
-| 5:59   | 2010-08-03 | Stefan Griebel      | route ascent to summit (Yosemite Style)      |  |  
+| 5:59   | 2010-08-03 | Stefan Griebel      | route ascent to summit (Yosemite Style)      | [FKT History Notebooks: Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/3rd.jpg) |  
 |   |  |      |        |
 
 
@@ -188,5 +189,6 @@ Dec | ██                             5.8%
 [↑ Back to Index](#index)
 
 ## References  
+- [FKT History Notebooks: Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/3rd.jpg) provided courtesy of Stefan Griebel
 - *Climbing Boulder's Flatirons*, Second Edition by Jason Haas, 2017
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748047/east-face-standard)
