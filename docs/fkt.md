@@ -310,6 +310,7 @@ OSMP Routes:
 | Route    | Time      | Date                         | Climbers              | Formation      | bridge to bridge (B2B) | Verification |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
 work in progess:
+The Naked Spur
 Redgarden Triple 
 Eldo Quad
 Eldo 15 Towers Tour
