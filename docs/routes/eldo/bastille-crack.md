@@ -123,6 +123,9 @@ Route only FKT:
 | 5:33   | 1998-07-xx  | Mic Fairchild     | prior route route only FKT (Yosemite style)    | [Self reported to MountainProject](https://www.mountainproject.com/forum/topic/107132210/bastille-crack-speed) |
 Mic has also downclimbed the Bastille Crack in  10 minutes, 42 seconds. 
 
+
+- Will Moss may have a new FKT? Awaiting verification. 
+
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
 
 [↑ Back to Index](#index)
