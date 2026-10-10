@@ -108,30 +108,42 @@ Dec | █                              3.7%
 
 ## FKTs 
 
+## Second Flatirion FKTs:
+Free isn't a summit route, so below are a variety of fkts:
+
 ### Second Flatiron (summit route) FKT: Second Flatiron (summit route, self supported, no rappel, round trip) via Freezeway or Free for All. 
 - **32:14** Chautaqua Ranger Cottage round trip (trash can by the TH)| 2024-07-05 | **Soren Kodak** ** via Freeway to Freezeway ** 
 
 ### Fastest Known Time (FKT): Second Flatiron (summit route) (trailhead to trailhead, unsupported)
 
-| Time    | Date       | Climbers                          | Notes              | Verification       |
+| Time (min:sec)     | Date (yyyy-mm-dd)      | Climber(s)                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
-| 32:14   | 2024-07-05 | Soren Kodak    | via Freezeway       | (waiting on permission to post verification) |
+| 32:14   | 2024-07-05 | Soren Kodak    | via Freeway to Freezeway       | (waiting on permission to post verification) |
 
 
-
+## Freeway FKTs:
 ### Freeway FKT: Freeway (this is NOT a summit route) (self supported, no rappel, round trip)
 - **24:15** Chautaqua Ranger Cottage round trip (trash can by the TH)| 2026-06-26 | **David Kennedy** 
 - [GPS Verification](https://www.strava.com/activities/19078602395) 
 
-### Fastest Known Time (FKT): Freeway (this is NOT a summit route) (self supported, no rappel, round trip)
+### Fastest Known Time (FKT): Freeway (this is NOT a summit route) (self supported, no rappel, round trip TH2TH)
 
-| Time    | Date       | Climbers                          | Notes              | Verification       |
+| Time (min:sec)     | Date (yyyy-mm-dd)         | Climber(s)                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
-| 24:15   | 2026-06-26| David Kennedy      |       |  [GPS Verification](https://www.strava.com/activities/19078602395)  |
+| 24:15   | 2026-06-26| David Kennedy      |   round trip, no summit    |  [GPS Verification](https://www.strava.com/activities/19078602395)  |
+
+
+### Fastest Known Time (FKT): Freeway via the Bulge Left Start to the top of the face (route ascent only to top of route, note that the route ends at the lower tree, this fkt is to the top of the face (no summit))
+
+There is no consensus on whether Freeway refers to the entire East Face or a specific line on it (such as the Bulge). Previous FKTs have been hotly contested, particularly over whether routes following the left arête or the gullies to the right qualify. This project includes only the most recent FKT, which is both the fastest known time and follows the stricter Bulge Start from the lowest point on the face.
+
+The route-only FKT is also somewhat contrived, as it finishes at the top of the face rather than at the lower tree where climbers typically end the route. Additionally, this is not a summit route.
+
+| Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| 5:26    | 2026-09-09| Michael Reese     |   bulge (left) route only (Yosemite Style) to top of face  |  [GPS Verification](https://www.strava.com/activities/20110931338)  |
 
 <br>
-
-
 
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
 
