@@ -148,12 +148,14 @@ Dec | █                              3.6%
 
 ### FKT History (B2B): The Yellow Spur (bridge to bridge)
 
+https://www.strava.com/activities/6217015397
+
 | Time    | Date       | Climbers                          | Notes              | Verification       |   Verification 2   |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 28:04  | 2026-07-23 | Michael Reese, Jack Gugel         | Current FKT  | [GPS Verification](https://www.strava.com/activities/19434761338)|                    |
 | 29:21  | 2026-07-07 | Michael Reese, Jack Gugel        |   |[GPS Verification](https://www.strava.com/activities/19217626802) |                    |
-| 29:35  | 2021-03-03 | Jack Neus, Joe Kennedy         |   | [GPS Verification](https://www.strava.com/activities/6769287759)  |                    |
-| 33:35  | 2020-11-21 | Jack Neus, Joe Kennedy         |              | |                    |
+| 29:35  | 2021-03-03 | Jack Neus, Joe Kennedy         |   | [GPS Verification](https://www.strava.com/activities/6769287759)  |[GPS Verification2](https://www.strava.com/activities/6769357740) 
+| 33:35  | 2021-11-05 | Jack Neus, Joe Kennedy         |   | [GPS Verification](https://www.strava.com/activities/6216996099)  |   [GPS Verification2](https://www.strava.com/activities/62170153979)
 | 36:05  | 2020-08-08 | Bill Wright, Danny Gilbert     |             |    [GPS Verification](https://www.strava.com/activities/3882758948)                  |[GPS Verification 2](https://www.strava.com/activities/3882911091) |                    | |                    |
 | 41:02  | 2020-08-05 | Bill Wright, Danny Gilbert     |              |  [GPS Verification](https://www.strava.com/activities/3868179425)      |               |
 | 42:48  | 2018-07-18 | Bill Wright, Danny Gilbert      |   | [GPS Verification](https://www.strava.com/activities/1710744004)                  |[GPS Verification 2](https://www.strava.com/activities/1710756525) |       
