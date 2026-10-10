@@ -145,19 +145,19 @@ Dec | █                              3.5%
 | Time    | Date       | Climbers                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | 22:44   | 2022-10-22 | Stefan Griebel, Joe Kennedy       | Current FKT        | [GPS Verification](https://www.strava.com/activities/8004442835#3019063963637264876) |
-| 24:14   | 2020-05-22 | John Ebers, Ben Wilbur            |                    |                    |
-| 24:29   | 2015-09-19 | Stefan Griebel, Jason Wells       |                    |                    |
-| 24:57   | 2014-10-08 | Scott Bennett, Brad Gobright      |                    |                    |
-| 26:16   | 2014-09-24 | Scott Bennett, Brad Gobright      |                    |                    |
-| 26:33   | 2014-08-15 | Stefan Griebel, Jason Wells       |                    |                    |
-| 29:53   | 2014-06-09 | Scott Bennett, Brad Gobright      |                    |                    |
-| 35:01   | 2014-04-22 | Stefan Griebel, Jason Wells       |                    |                    |
-| 40:36   | 2014-04-09 | Stefan Griebel, Jason Wells       |                    |                    |
-| 44:00   | 2013-01-XX | Scott Bennett, Brad Gobright      |                    |                    |
-| 49:44   | 2012-05-XX | Stefan Griebel, Jason Wells       | First sub-1 hour   |                    |
-| 1:13:XX | 2010-12-XX | Scott Bennett, Blake Harrington   |                    |                    |
-| 1:22:XX | 2006-09-06 | Bob Rotert, Dave Vaughn           | C2C (car to car)                |                    |
-| 1:30:XX | 1991-XX-XX | Michael Gilbert, Rob Slater       | C2C                |                    |
+| 24:14   | 2020-05-22 | John Ebers, Ben Wilbur            |                    |  [FKT History Notebook: The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/edge-fkts.jpg)                  |
+| 24:29   | 2015-09-19 | Stefan Griebel, Jason Wells        ||  [FKT History Notebook: The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/edge-fkts.jpg)                    |                    |
+| 24:57   | 2014-10-08 | Scott Bennett, Brad Gobright      | | [FKT History Notebook: The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/edge-fkts.jpg)                     |                    |
+| 26:16   | 2014-09-24 | Scott Bennett, Brad Gobright      | | [FKT History Notebook: The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/edge-fkts.jpg)                     |                    |
+| 26:33   | 2014-08-15 | Stefan Griebel, Jason Wells       | |  [FKT History Notebook: The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/edge-fkts.jpg)                    |                    |
+| 29:53   | 2014-06-09 | Scott Bennett, Brad Gobright       || [FKT History Notebook: The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/edge-fkts.jpg)                     |                    |
+| 35:01   | 2014-04-22 | Stefan Griebel, Jason Wells        ||  [FKT History Notebook: The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/edge-fkts.jpg)                    |                    |
+| 40:36   | 2014-04-09 | Stefan Griebel, Jason Wells        ||  [FKT History Notebook: The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/edge-fkts.jpg)                    |                    |
+| 44:00   | 2013-01-XX | Scott Bennett, Brad Gobright      | |      [FKT History Notebook: The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/edge-fkts.jpg)                |                    |
+| 49:44   | 2012-05-XX | Stefan Griebel, Jason Wells       | First sub-1 hour   | [FKT History Notebook: The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/edge-fkts.jpg)                     |
+| 1:13:XX | 2010-12-XX | Scott Bennett, Blake Harrington   |                    |  [FKT History Notebook: The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/edge-fkts.jpg)                    |
+| 1:22:XX | 2006-09-06 | Bob Rotert, Dave Vaughn           | C2C                |   [FKT History Notebook: The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/edge-fkts.jpg)                   |
+| 1:38:XX | 1991-XX-XX | Michael Gilbert, Rob Slater       | C2C                |    [FKT History Notebook: The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/edge-fkts.jpg)                  |
 
 ### All Women’s Naked Edge FKT  
 - **37:08 B2B** | 2025-03-28 | Kate Kelleghan & Laura Pineau (France)  
@@ -237,6 +237,7 @@ Dec | █                              3.5%
 
 
 ## References  
+- [FKT History Notebook: The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/edge-fkts.jpg) provided courtesy of Stefan Griebel
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
 - [Women’s FKT Report](https://ca.coros.com/stories/d/naked-edge-womens-speed-record-kate-kelleghan-laura-pineau)  
 - [All Women FKT News](https://www.climbing.com/news/fast-and-furious/)  
