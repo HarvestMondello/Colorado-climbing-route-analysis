@@ -336,13 +336,13 @@ Flatirons routes are listed North to South from various trailheads
 
 ### First Three Flatirons from Chautauqua Ranger Cottage*
 
-First, Second and Third Flatiron start at Chautauqua TH near the Ranger Cottage at the *TH trash can across from the large sign.  Routes are listed North to South. Unsupported unless otherwise noted. These are the most popular Flatirons with the First being the most prestigious. 
+First, Second and Third Flatiron start at Chautauqua TH near the Ranger Cottage by the TH sign.  Routes are listed North to South. Unsupported unless otherwise noted. These are the most popular Flatirons with the First being the most prestigious. 
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead Round Trip | Verification |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
 |[DEF on the First Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 30:19   | 2019-10-15 | Kyle Richardson       |  First Flatiron  | Chautauqua  TH| [DEF on First Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md) 
 [Freezeway Second Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/freeway.md)    | 32:14   | 2024-07-05 |  Soren Kodak      |  Second Flatiron (any East face summit route) | Chautauqua TH  | [Second Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/freeway.md) 
 [East Face on Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)    | 36:14   | 2008-10-01 | Stefan Griebel       |  Third Flatiron | Chautauqua TH| [East Face on Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)   
-[East Face (supported) on Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)    | 30:26   | 2019-10-09 | Kyler Richardson      |  Third Flatiron | Chautauqua TH| [East Face (supported) on Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)  
+[East Face (supported, fixed rappel) on Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)    | 30:26   | 2019-10-09 | Kyler Richardson      |  Third Flatiron | Chautauqua TH| [East Face (supported) on Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)  
 
 <br />
 
