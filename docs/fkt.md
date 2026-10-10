@@ -310,7 +310,6 @@ OSMP Routes:
 | Route    | Time      | Date                         | Climbers              | Formation      | bridge to bridge (B2B) | Verification |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
 work in progess:
-The Naked Spur
 Redgarden Triple 
 Eldo Quad
 Eldo 15 Towers Tour
@@ -368,10 +367,10 @@ East Face Center of Front Porch   | 20:59   | 2004-10-07 |  Jon Sargant     |  F
 
 ### Southern Flatirons: South Boulder Peak and Bear Peak areas; between Bear Canyon and Eldorado Canyon
 
-| Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification|
-|---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|
+| Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification| Verification2 |
+|---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|--------------------|
 [East Face North Side of Seal Rock](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md)   | 41:26   | 2007-10-20 |  Dave Mackey     |  Seal Rock |Bear Canyon TH|[East Face North Side of Seal Rock(TdF 2007)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md) | #98
-Diagonal   | 29:59   | 2020-10-21 |  Michael Reese       |  The Slab |Shanahan TH|[Verification](https://www.strava.com/activities/4226557500/) |-
+Diagonal   | 29:59   | 2020-10-21 |  Michael Reese       |  The Slab |Shanahan TH|[Verification](https://www.strava.com/activities/4226557500/) |[Slab FKT History](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/the-slab-fkt-hist.png) |
 North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden |South Mesa TH | |#112
 
 <br />
