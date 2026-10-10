@@ -112,8 +112,10 @@ Dec | ██                             5.8%
 ### FKT History Third Flatiron (self supported, no rappel)(TH2TH)
 | Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)                          | Notes              | Verification       |  Verification 2  ||
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
-| 36:14   | 2008-10-01 | Stefan Griebel      | Unsupported FKT        | TdF 2008
-| 36:27   | 1989-07-24 | Bill Briggs     | Prior Unsupported FKT       |
+| 36:14   | 2008-10-01 | Stefan Griebel      | Unsupported FKT        | TdF 2008 |  [Splits ](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/stefan-griebel-3fi.png) 
+| 36:27   | 1989-07-24 | Bill Briggs     | Prior Unsupported FKT        |  [Splits ](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/bill-briggs-3fi.png) 
+
+
 
 <br>
 
@@ -136,7 +138,7 @@ Dec | ██                             5.8%
 
 | Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)                          | Notes              | Verification       |  Verification 2  ||
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
-| 5:25   | 2020-09-28 | Michael Reese      | route ascent to summit (Yosemite Style)       |  | [Verification ](https://www.strava.com/activities/4125140218/)  
+| 5:25   | 2020-09-28 | Michael Reese      | route ascent to summit (Yosemite Style)       |  [Verification ](https://www.strava.com/activities/4125140218/)  
 |   |  |      |        |
 | 5:47   | 2014-11-05 | Stefan Griebel      | route ascent to summit (Yosemite Style)      |  |  
 |   |  |      |        |
