@@ -135,13 +135,13 @@ Free isn't a summit route, so below are a variety of fkts:
 
 ### Fastest Known Time (FKT): Freeway via the Bulge Left Start to the top of the face (route ascent only to top of route, note that the route ends at the lower tree, this fkt is to the top of the face (no summit))
 
-There is no consensus on whether Freeway refers to the entire East Face or a specific line on it (such as the Bulge). Previous FKTs have been hotly contested, particularly over whether routes following the left arête or the gullies to the right qualify. This project includes only the most recent FKT, which is both the fastest known time and follows the stricter Bulge Start from the lowest point on the face.
+There is no consensus on whether Freeway refers to the entire East Face or a specific line on it (such as the Bulge Start or the Arete or the Gulleys). Previous FKTs have been hotly contested, particularly over whether routes following the left arete or the gullies to the right qualify. This project includes only the fastest time, which is both the fastest known time and follows the Bulge Start from the lowest point on the East face, using any line after that to the top of the East face.
 
-The route-only FKT is also somewhat contrived, as it finishes at the top of the face rather than at the lower tree where climbers typically end the route. Additionally, this is not a summit route.
+The route-only FKT is also somewhat contrived, as it finishes at the top of the face rather than at the lower tree where climbers typically end the route. Additionally, this is not a summit route which is why nobody finishes at the false summit.
 
 | Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
-| 5:26    | 2026-09-09| Michael Reese     |   bulge (left) route only (Yosemite Style) to top of face  |  [GPS Verification](https://www.strava.com/activities/20110931338)  |
+| 5:26    | 2026-09-09| Michael Reese     |   bulge (left start) route only (Yosemite Style) to top of face  |  [GPS Verification](https://www.strava.com/activities/20110931338)  |
 
 <br>
 
