@@ -309,10 +309,10 @@ OSMP Routes:
 
 | Route    | Time      | Date                         | Climbers              | Formation      | bridge to bridge (B2B) | Verification |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
-work in progess:
-Redgarden Triple 
-Eldo Quad
-Eldo 15 Towers Tour
+The "Naked Spur" | n/a   | n/a  | n/a      |  The Naked Edge & The Yellow Spur| SoBo Creek footbridge (B2B) | |
+Redgarden Triple  | n/a   | n/a  | n/a      |  Redgarden Tower 1, Tower 2 and Green Spur Buttress| SoBo Creek footbridge (B2B) | |
+Eldo Quad | n/a   | n/a  | n/a      |  The West Ridge, Redgarden Wall, The Bastille | SoBo Creek footbridge (B2B) | |
+Eldo 15 Towers Tour   | n/a   | n/a  | n/a      |  The 15 Major Eldo Formations | SoBo Creek footbridge (B2B) | |
 
 
 [↑ Back to Index](#index)
