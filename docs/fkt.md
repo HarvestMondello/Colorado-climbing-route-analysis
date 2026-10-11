@@ -1,7 +1,8 @@
 <img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/naked-edge.png" alt="The Naked Edge on the Redgarde Wall: Tower Two in Eldorado Canyon" width="1200"/>
 
 # Speed Climbing in Colorado: Fastest Known Time (FKT)
-The photo above is of Redgarden Tower Two and the Naked Edge route, the most competative FKT route in the State of Colorado. 
+The photo above is of the Naked Edge on Redgarden Wall - Tower Two in Eldorado Canyon. This is the most competative FKT route in the State of Colorado. The route was also one of the hardest free routes in the world in the 70's. 
+
 <br>
 
 ## Index
