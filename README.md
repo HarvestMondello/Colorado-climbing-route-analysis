@@ -94,7 +94,7 @@ Colorado hosts some of North America’s most storied stone, from Eldorado Canyo
 ### 4) Historical Context (FA/FFA/FKT)
 - FA/FFA decades by route and region; boldness timelines.  
 - Links between milestone ascents and later popularity waves.
-- Fastest Known Times: [`/fkt.md`](docs/fkt.md) - updated September, 2026
+- Fastest Known Times (FKTs): [`/fkt.md`](docs/fkt.md) - updated October, 2026
 
 ### 5) Demand Forecasts (2025-2029)
 - Linear + exponential models; pick by best fit (R² tracked).  
@@ -103,8 +103,8 @@ Colorado hosts some of North America’s most storied stone, from Eldorado Canyo
 
 ### Live Leaderboards (Docs)
 
-- **Top Routes & climbers (refreshed quarterly)**: [`/docs/leaderboards.md`](docs/leaderboards.md) - updated September, 2026
-- **Top 100 Climbrs / 100 routes (refreshed annually)**: [`/docs/leaderboards-100.md`](docs/leaderboards-100.md) - updated Septembe, 2026
+- **Top Routes & climbers (refreshed quarterly)**: [`/docs/leaderboards.md`](docs/leaderboards.md) - updated October, 2026
+- **Top 100 Climbrs / 100 routes (refreshed annually)**: [`/docs/leaderboards-100.md`](docs/leaderboards-100.md) - updated October, 2026
 
 ## Automation
 
