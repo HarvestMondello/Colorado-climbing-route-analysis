@@ -57,8 +57,8 @@ n/a
 | FA Info              | George Hurley and Bob Culp, 1965 |
 | Stars (avg)          | 3.6       |
 | Votes                | 848.0     |
-| Unique Climbers      | 1774.0    |
-| Lifetime Ticks       | 2707.0    |
+| Unique Climbers      | 1783.0    |
+| Lifetime Ticks       | 2732.0    |
 | Avg Ticks / Climber  | 1.53      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
@@ -76,25 +76,25 @@ n/a
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 11.0% **low season**
-- 🌸 **Spring (Mar–May)**: 26.3%
-- ☀️ **Summer (Jun–Aug)**: 33.1% **high season**
-- 🍂 **Fall (Sep–Nov)**: 29.7%
+- ❄️ **Winter (Dec–Feb)**: 10.9% **low season**
+- 🌸 **Spring (Mar–May)**: 26.1%
+- ☀️ **Summer (Jun–Aug)**: 32.8% **high season**
+- 🍂 **Fall (Sep–Nov)**: 30.3%
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              3.9%
-Feb | █                              2.9%
-Mar | ██                             7.1%
-Apr | ███                            9.6%
+Feb | █                              2.8%
+Mar | ██                             7.0%
+Apr | ███                            9.5%
 May | ███                            9.6%
-Jun | ███                           10.8%
-Jul | ███                           10.2%
-Aug | ███                           12.0%
-Sep | ███                           11.1%
-Oct | ███                           11.2%
-Nov | ██                             7.4%
-Dec | █                              4.2%
+Jun | ███                           10.7%
+Jul | ███                           10.1%
+Aug | ███                           11.9%
+Sep | ███                           11.4%
+Oct | ███                           11.6%
+Nov | ██                             7.3%
+Dec | █                              4.1%
 ```
 <!-- AUTO:SEASONALITY:END -->
 [↑ Back to Index](#index)
@@ -122,8 +122,8 @@ Dec | █                              4.2%
 |-----:|:--------|------:|
 | 1 | Danny Gilbert | 19 |
 | 2 | Jack Neus | 17 |
-| 3 | Bill Kinter | 11 |
-| 4 | Gregger Man | 11 |
+| 3 | Gregger Man | 12 |
+| 4 | Bill Kinter | 11 |
 | 5 | Samuel Andree | 10 |
 | 6 | Justin Compton | 9 |
 | 7 | Scott Guile | 9 |
@@ -135,15 +135,15 @@ Dec | █                              4.2%
 | 13 | Sarah Meiser | 8 |
 | 14 | Steve M | 8 |
 | 15 | Dana Pearson | 7 |
-| 16 | Samuel Puckett | 7 |
-| 17 | CanDillo | 6 |
-| 18 | Colin Leahy | 6 |
-| 19 | Danielle Sarli | 6 |
-| 20 | Kevin Karn | 6 |
-| 21 | LIV Veraldi | 6 |
-| 22 | Mark Hammond | 6 |
-| 23 | Nate Haebig-Kerber | 6 |
-| 24 | Patrick Coller | 6 |
+| 16 | Patrick Coller | 7 |
+| 17 | Samuel Puckett | 7 |
+| 18 | CanDillo | 6 |
+| 19 | Colin Leahy | 6 |
+| 20 | Danielle Sarli | 6 |
+| 21 | Kevin Karn | 6 |
+| 22 | LIV Veraldi | 6 |
+| 23 | Mark Hammond | 6 |
+| 24 | Nate Haebig-Kerber | 6 |
 | 25 | Ralph Swansen | 6 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 [Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)

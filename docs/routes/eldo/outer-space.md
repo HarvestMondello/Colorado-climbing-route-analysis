@@ -57,8 +57,8 @@ n/a
 | FA Info              | Layton Kor, Steve Komito, 1961 |
 | Stars (avg)          | 3.9       |
 | Votes                | 789.0     |
-| Unique Climbers      | 1298.0    |
-| Lifetime Ticks       | 2255.0    |
+| Unique Climbers      | 1303.0    |
+| Lifetime Ticks       | 2268.0    |
 | Avg Ticks / Climber  | 1.74      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
@@ -76,25 +76,25 @@ n/a
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 2.8% **off season**
-- 🌸 **Spring (Mar–May)**: 22.3%
-- ☀️ **Summer (Jun–Aug)**: 48.8% **high season**
-- 🍂 **Fall (Sep–Nov)**: 26.2%
+- ❄️ **Winter (Dec–Feb)**: 2.7% **off season**
+- 🌸 **Spring (Mar–May)**: 22.1%
+- ☀️ **Summer (Jun–Aug)**: 48.6% **high season**
+- 🍂 **Fall (Sep–Nov)**: 26.6%
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              0.5%
 Feb | █                              0.8%
 Mar | █                              2.5%
-Apr | ██                             7.8%
-May | ███                           12.0%
+Apr | ██                             7.7%
+May | ███                           11.9%
 Jun | █████                         17.1%
-Jul | █████                         16.2%
-Aug | ████                          15.5%
-Sep | ████                          14.5%
-Oct | ██                             8.7%
+Jul | █████                         16.1%
+Aug | ████                          15.4%
+Sep | ████                          14.8%
+Oct | ███                            8.8%
 Nov | █                              3.0%
-Dec | █                              1.5%
+Dec | █                              1.4%
 ```
 <!-- AUTO:SEASONALITY:END -->
 [↑ Back to Index](#index)

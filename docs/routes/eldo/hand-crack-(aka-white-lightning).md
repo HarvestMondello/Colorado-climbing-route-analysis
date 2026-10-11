@@ -57,9 +57,9 @@ n/a
 | FA Info              | Jim Michael and Dan Hare? |
 | Stars (avg)          | 3.4       |
 | Votes                | 604.0     |
-| Unique Climbers      | 1245.0    |
-| Lifetime Ticks       | 2107.0    |
-| Avg Ticks / Climber  | 1.69      |
+| Unique Climbers      | 1254.0    |
+| Lifetime Ticks       | 2126.0    |
+| Avg Ticks / Climber  | 1.70      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
 
@@ -76,25 +76,25 @@ n/a
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 20.5%
-- 🌸 **Spring (Mar–May)**: 27.3%
-- ☀️ **Summer (Jun–Aug)**: 19.3% **low season**
-- 🍂 **Fall (Sep–Nov)**: 32.9% **high season**
+- ❄️ **Winter (Dec–Feb)**: 20.3%
+- 🌸 **Spring (Mar–May)**: 27.0%
+- ☀️ **Summer (Jun–Aug)**: 19.2% **low season**
+- 🍂 **Fall (Sep–Nov)**: 33.4% **high season**
 
 ### Seasonality Usage by Month
 ```
-Jan | ██                             5.7%
-Feb | ██                             6.5%
+Jan | ██                             5.6%
+Feb | ██                             6.4%
 Mar | ███                            8.8%
-Apr | ███                            9.6%
-May | ███                            8.9%
-Jun | ██                             6.9%
+Apr | ███                            9.5%
+May | ███                            8.8%
+Jun | ██                             6.8%
 Jul | █                              4.8%
-Aug | ██                             7.5%
-Sep | ███                            9.8%
-Oct | ████                          12.3%
-Nov | ███                           10.7%
-Dec | ██                             8.4%
+Aug | ██                             7.6%
+Sep | ███                           10.3%
+Oct | ████                          12.5%
+Nov | ███                           10.6%
+Dec | ██                             8.3%
 ```
 <!-- AUTO:SEASONALITY:END -->
 [↑ Back to Index](#index)
@@ -123,11 +123,11 @@ Dec | ██                             8.4%
 | 1 | Michael Butts | 17 |
 | 2 | Yaroslav Lototskyy | 13 |
 | 3 | Brian Carver | 12 |
-| 4 | Guy H. | 12 |
+| 4 | Guy H. | 11 |
 | 5 | Sarah Meiser | 11 |
 | 6 | Kenan | 10 |
-| 7 | Bill Kinter | 9 |
-| 8 | Samuel Puckett | 9 |
+| 7 | Samuel Puckett | 10 |
+| 8 | Bill Kinter | 9 |
 | 9 | Tony B | 9 |
 | 10 | Aaron Lucas | 8 |
 | 11 | Eric K | 8 |

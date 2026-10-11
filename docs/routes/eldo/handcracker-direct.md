@@ -57,9 +57,9 @@ n/a
 | FA Info              | Rossiter, Garber, Hare, Woodruff, Erickson, Wunsch, et al. |
 | Stars (avg)          | 3.7       |
 | Votes                | 807.0     |
-| Unique Climbers      | 1699.0    |
-| Lifetime Ticks       | 3065.0    |
-| Avg Ticks / Climber  | 1.80      |
+| Unique Climbers      | 1718.0    |
+| Lifetime Ticks       | 3110.0    |
+| Avg Ticks / Climber  | 1.81      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
 
@@ -76,24 +76,24 @@ n/a
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 11.7% **low season**
-- 🌸 **Spring (Mar–May)**: 27.9%
-- ☀️ **Summer (Jun–Aug)**: 30.2% **high season**
-- 🍂 **Fall (Sep–Nov)**: 30.2%
+- ❄️ **Winter (Dec–Feb)**: 11.5% **low season**
+- 🌸 **Spring (Mar–May)**: 27.5%
+- ☀️ **Summer (Jun–Aug)**: 29.8%
+- 🍂 **Fall (Sep–Nov)**: 31.1% **high season**
 
 ### Seasonality Usage by Month
 ```
-Jan | █                              3.3%
+Jan | █                              3.2%
 Feb | █                              3.5%
-Mar | ██                             7.1%
-Apr | ███                            9.7%
-May | ███                           11.1%
-Jun | ███                            9.7%
+Mar | ██                             7.0%
+Apr | ███                            9.6%
+May | ███                           10.9%
+Jun | ███                            9.6%
 Jul | ███                           10.1%
-Aug | ███                           10.3%
-Sep | ███                           11.0%
-Oct | ███                           10.9%
-Nov | ██                             8.3%
+Aug | ███                           10.2%
+Sep | ███                           12.0%
+Oct | ███                           11.0%
+Nov | ██                             8.2%
 Dec | █                              4.9%
 ```
 <!-- AUTO:SEASONALITY:END -->
@@ -121,13 +121,13 @@ Dec | █                              4.9%
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
 | 1 | Danny Gilbert | 63 |
-| 2 | Chris Gummer | 23 |
+| 2 | Chris Gummer | 25 |
 | 3 | Michael Butts | 22 |
 | 4 | John Alcorn | 21 |
 | 5 | Harvest Mondello | 19 |
 | 6 | Ryan Marsters | 17 |
 | 7 | Samuel Andree | 17 |
-| 8 | Hailey Moore | 16 |
+| 8 | Hailey Moore | 15 |
 | 9 | Samuel Puckett | 15 |
 | 10 | Haley Young | 14 |
 | 11 | Bill Kinter | 13 |
@@ -136,15 +136,15 @@ Dec | █                              4.9%
 | 14 | Bill Wright | 11 |
 | 15 | choss pirate | 11 |
 | 16 | Gregger Man | 10 |
-| 17 | Patrick Coller | 10 |
-| 18 | Bryce Kerscher | 9 |
-| 19 | G P | 9 |
-| 20 | Javier Goldstein | 9 |
+| 17 | Javier Goldstein | 10 |
+| 18 | Patrick Coller | 10 |
+| 19 | Bryce Kerscher | 9 |
+| 20 | G P | 9 |
 | 21 | Jack Neus | 8 |
-| 22 | Neil L | 8 |
-| 23 | Rob Baumgartner | 8 |
-| 24 | Steve M | 8 |
-| 25 | 303scott | 7 |
+| 22 | Jordan G | 8 |
+| 23 | Neil L | 8 |
+| 24 | Rob Baumgartner | 8 |
+| 25 | Steve M | 8 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 [Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
 

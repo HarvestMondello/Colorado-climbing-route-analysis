@@ -57,9 +57,9 @@ n/a
 | FA Info              | Jim Erickson, Pat Ament, and Bill Putnam, 1972 |
 | Stars (avg)          | 3.7       |
 | Votes                | 539.0     |
-| Unique Climbers      | 969.0     |
-| Lifetime Ticks       | 1565.0    |
-| Avg Ticks / Climber  | 1.62      |
+| Unique Climbers      | 974.0     |
+| Lifetime Ticks       | 1572.0    |
+| Avg Ticks / Climber  | 1.61      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
 
@@ -76,24 +76,24 @@ n/a
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 14.3% **low season**
-- 🌸 **Spring (Mar–May)**: 28.4%
-- ☀️ **Summer (Jun–Aug)**: 25.7%
-- 🍂 **Fall (Sep–Nov)**: 31.6% **high season**
+- ❄️ **Winter (Dec–Feb)**: 14.2% **low season**
+- 🌸 **Spring (Mar–May)**: 28.3%
+- ☀️ **Summer (Jun–Aug)**: 25.6%
+- 🍂 **Fall (Sep–Nov)**: 31.9% **high season**
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              3.7%
-Feb | █                              4.3%
-Mar | ██                             7.9%
+Feb | █                              4.2%
+Mar | ██                             7.8%
 Apr | ███                           10.3%
 May | ███                           10.2%
-Jun | ███                           10.3%
-Jul | ██                             7.5%
-Aug | ██                             7.9%
-Sep | ███                            9.6%
-Oct | ███                           12.0%
-Nov | ███                           10.0%
+Jun | ███                           10.2%
+Jul | ██                             7.6%
+Aug | ██                             7.8%
+Sep | ███                            9.9%
+Oct | ███                           12.1%
+Nov | ███                            9.9%
 Dec | ██                             6.3%
 ```
 <!-- AUTO:SEASONALITY:END -->
@@ -135,16 +135,16 @@ Dec | ██                             6.3%
 | 13 | Blake B | 5 |
 | 14 | Brian Vanderwende | 5 |
 | 15 | Guy H. | 5 |
-| 16 | Hailey Moore | 5 |
-| 17 | Mark Hammond | 5 |
-| 18 | Matt Chan | 5 |
-| 19 | Matt Piscopo | 5 |
-| 20 | Mike D | 5 |
-| 21 | Perry Schwinger | 5 |
-| 22 | Rich Kelly | 5 |
-| 23 | Rob Baumgartner | 5 |
-| 24 | Sarah Meiser | 5 |
-| 25 | Tyler Harrell | 5 |
+| 16 | Mark Hammond | 5 |
+| 17 | Matt Chan | 5 |
+| 18 | Matt Piscopo | 5 |
+| 19 | Mike D | 5 |
+| 20 | Perry Schwinger | 5 |
+| 21 | Rich Kelly | 5 |
+| 22 | Rob Baumgartner | 5 |
+| 23 | Sarah Meiser | 5 |
+| 24 | Tyler Harrell | 5 |
+| 25 | mountainhick | 5 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 [Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
 

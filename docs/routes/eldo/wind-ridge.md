@@ -56,8 +56,8 @@ n/a
 | FA Info              | Layton Kor and Jane Bendixon. 1959  of 5.8 variation: Phil Olinick |
 | Stars (avg)          | 3.1       |
 | Votes                | 1344.0    |
-| Unique Climbers      | 3357.0    |
-| Lifetime Ticks       | 6228.0    |
+| Unique Climbers      | 3386.0    |
+| Lifetime Ticks       | 6289.0    |
 | Avg Ticks / Climber  | 1.86      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
@@ -75,25 +75,25 @@ n/a
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 10.6% **low season**
-- 🌸 **Spring (Mar–May)**: 27.4%
-- ☀️ **Summer (Jun–Aug)**: 37.1% **high season**
-- 🍂 **Fall (Sep–Nov)**: 24.9%
+- ❄️ **Winter (Dec–Feb)**: 10.5% **low season**
+- 🌸 **Spring (Mar–May)**: 27.1%
+- ☀️ **Summer (Jun–Aug)**: 36.8% **high season**
+- 🍂 **Fall (Sep–Nov)**: 25.6%
 
 ### Seasonality Usage by Month
 ```
-Jan | █                              2.9%
+Jan | █                              2.8%
 Feb | █                              4.2%
-Mar | ██                             7.2%
-Apr | ███                            8.9%
-May | ███                           11.3%
-Jun | ████                          13.1%
-Jul | ████                          12.5%
-Aug | ███                           11.5%
-Sep | ███                            9.8%
-Oct | ███                            9.1%
-Nov | ██                             6.1%
-Dec | █                              3.6%
+Mar | ██                             7.1%
+Apr | ███                            8.8%
+May | ███                           11.2%
+Jun | ████                          13.0%
+Jul | ████                          12.4%
+Aug | ███                           11.4%
+Sep | ███                           10.3%
+Oct | ███                            9.3%
+Nov | ██                             6.0%
+Dec | █                              3.5%
 ```
 <!-- AUTO:SEASONALITY:END -->
 [↑ Back to Index](#index)
@@ -108,6 +108,8 @@ Dec | █                              3.6%
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
 
+
+
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
 
 [↑ Back to Index](#index)
@@ -120,29 +122,29 @@ Dec | █                              3.6%
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
 | 1 | John Alcorn | 57 |
-| 2 | Samuel Andree | 38 |
-| 3 | Harvest Mondello | 36 |
-| 4 | Michael Underwood | 34 |
-| 5 | Nate Haebig-Kerber | 34 |
+| 2 | Harvest Mondello | 39 |
+| 3 | Samuel Andree | 38 |
+| 4 | Nate Haebig-Kerber | 35 |
+| 5 | Michael Underwood | 34 |
 | 6 | James Klaers | 33 |
-| 7 | Mark Griffin | 31 |
-| 8 | Damon Ehrett | 24 |
+| 7 | Mark Griffin | 32 |
+| 8 | Damon Ehrett | 25 |
 | 9 | Tony Luchetta | 23 |
 | 10 | Chris Gummer | 22 |
-| 11 | Justin Compton | 19 |
-| 12 | Gregger Man | 18 |
+| 11 | Gregger Man | 20 |
+| 12 | Justin Compton | 19 |
 | 13 | Javier Goldstein | 18 |
 | 14 | Sorden | 17 |
 | 15 | Tony B | 17 |
-| 16 | Andy Rosen | 16 |
-| 17 | Mark Roth | 16 |
-| 18 | Bill Kinter | 15 |
-| 19 | Jason Antin | 15 |
-| 20 | Nick Esker | 15 |
-| 21 | Anonymous | 14 |
+| 16 | Bill Kinter | 16 |
+| 17 | Jason Antin | 16 |
+| 18 | Mark Roth | 16 |
+| 19 | Andy Rosen | 15 |
+| 20 | Anonymous | 15 |
+| 21 | Nick Esker | 15 |
 | 22 | Fern Gully | 14 |
-| 23 | Ryan Marsters | 14 |
-| 24 | Jack Neus | 13 |
+| 23 | Jack Neus | 14 |
+| 24 | Ryan Marsters | 14 |
 | 25 | Ryan Montoya | 13 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 [Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)

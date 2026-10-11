@@ -57,9 +57,9 @@ n/a
 | FA Info              | Larry Dalke, Pat Ament, Wayne Goss, 1964 |
 | Stars (avg)          | 3.4       |
 | Votes                | 803.0     |
-| Unique Climbers      | 1732.0    |
-| Lifetime Ticks       | 2757.0    |
-| Avg Ticks / Climber  | 1.59      |
+| Unique Climbers      | 1744.0    |
+| Lifetime Ticks       | 2783.0    |
+| Avg Ticks / Climber  | 1.60      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
 
@@ -76,24 +76,24 @@ n/a
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 14.1% **low season**
-- 🌸 **Spring (Mar–May)**: 27.3%
-- ☀️ **Summer (Jun–Aug)**: 28.8%
-- 🍂 **Fall (Sep–Nov)**: 29.8% **high season**
+- ❄️ **Winter (Dec–Feb)**: 14.0% **low season**
+- 🌸 **Spring (Mar–May)**: 27.1%
+- ☀️ **Summer (Jun–Aug)**: 28.5%
+- 🍂 **Fall (Sep–Nov)**: 30.3% **high season**
 
 ### Seasonality Usage by Month
 ```
-Jan | █                              3.8%
+Jan | █                              3.7%
 Feb | ██                             5.3%
 Mar | ██                             8.0%
-Apr | ███                           10.2%
-May | ███                            9.1%
-Jun | ███                           10.0%
-Jul | ███                            9.0%
-Aug | ███                            9.8%
-Sep | ███                           10.7%
-Oct | ███                           11.2%
-Nov | ██                             7.9%
+Apr | ███                           10.1%
+May | ███                            9.0%
+Jun | ███                            9.9%
+Jul | ███                            8.9%
+Aug | ███                            9.7%
+Sep | ███                           11.0%
+Oct | ███                           11.5%
+Nov | ██                             7.8%
 Dec | █                              5.0%
 ```
 <!-- AUTO:SEASONALITY:END -->
@@ -129,14 +129,14 @@ Dec | █                              5.0%
 | 7 | Justin Compton | 11 |
 | 8 | Bill Wright | 10 |
 | 9 | Bill Kinter | 9 |
-| 10 | John Alcorn | 9 |
-| 11 | Pierce J | 9 |
-| 12 | G P | 8 |
-| 13 | Nitant Pandey | 8 |
-| 14 | Patrick Coller | 8 |
-| 15 | Samuel Andree | 8 |
-| 16 | Sorden | 8 |
-| 17 | Brian Carver | 7 |
+| 10 | G P | 9 |
+| 11 | John Alcorn | 9 |
+| 12 | Nitant Pandey | 9 |
+| 13 | Pierce J | 9 |
+| 14 | Brian Carver | 8 |
+| 15 | Patrick Coller | 8 |
+| 16 | Samuel Andree | 8 |
+| 17 | Sorden | 8 |
 | 18 | Brian Vanderwende | 7 |
 | 19 | Chris Johnson | 7 |
 | 20 | Gregger Man | 7 |

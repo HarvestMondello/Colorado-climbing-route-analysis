@@ -57,8 +57,8 @@ n/a
 | FA Info              | Layton Kor, Jack Turner, 1962. FFA: Jim Erickson, Steve Wood, Ed Wright, 1970. |
 | Stars (avg)          | 3.8       |
 | Votes                | 554.0     |
-| Unique Climbers      | 842.0     |
-| Lifetime Ticks       | 1202.0    |
+| Unique Climbers      | 840.0     |
+| Lifetime Ticks       | 1204.0    |
 | Avg Ticks / Climber  | 1.43      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
@@ -78,23 +78,23 @@ n/a
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 12.4% **low season**
 - 🌸 **Spring (Mar–May)**: 34.3% **high season**
-- ☀️ **Summer (Jun–Aug)**: 27.3%
-- 🍂 **Fall (Sep–Nov)**: 26.0%
+- ☀️ **Summer (Jun–Aug)**: 27.2%
+- 🍂 **Fall (Sep–Nov)**: 26.2%
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              4.1%
 Feb | █                              3.6%
 Mar | ███                            8.8%
-Apr | ████                          13.2%
-May | ████                          12.3%
+Apr | ████                          13.1%
+May | ████                          12.4%
 Jun | ███                           11.0%
 Jul | ██                             7.3%
-Aug | ███                            9.0%
-Sep | ██                             8.6%
-Oct | ███                           10.3%
+Aug | ███                            8.9%
+Sep | ██                             8.7%
+Oct | ███                           10.4%
 Nov | ██                             7.1%
-Dec | █                              4.8%
+Dec | █                              4.7%
 ```
 <!-- AUTO:SEASONALITY:END -->
 [↑ Back to Index](#index)

@@ -57,9 +57,9 @@ n/a
 | FA Info              | Layton Kor, Bob Culp, Ed Risley, 1961 |
 | Stars (avg)          | 3.6       |
 | Votes                | 950.0     |
-| Unique Climbers      | 1979.0    |
-| Lifetime Ticks       | 3171.0    |
-| Avg Ticks / Climber  | 1.60      |
+| Unique Climbers      | 1985.0    |
+| Lifetime Ticks       | 3196.0    |
+| Avg Ticks / Climber  | 1.61      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
 
@@ -76,25 +76,25 @@ n/a
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 12.1% **low season**
-- 🌸 **Spring (Mar–May)**: 29.3%
-- ☀️ **Summer (Jun–Aug)**: 31.9% **high season**
-- 🍂 **Fall (Sep–Nov)**: 26.7%
+- ❄️ **Winter (Dec–Feb)**: 12.0% **low season**
+- 🌸 **Spring (Mar–May)**: 29.1%
+- ☀️ **Summer (Jun–Aug)**: 31.6% **high season**
+- 🍂 **Fall (Sep–Nov)**: 27.3%
 
 ### Seasonality Usage by Month
 ```
-Jan | █                              3.3%
-Feb | █                              4.3%
-Mar | ██                             6.8%
+Jan | █                              3.2%
+Feb | █                              4.2%
+Mar | ██                             6.7%
 Apr | ███                           10.0%
 May | ████                          12.4%
-Jun | ███                           10.7%
-Jul | ███                           10.5%
-Aug | ███                           10.7%
-Sep | ███                           10.4%
-Oct | ███                            9.3%
-Nov | ██                             7.0%
-Dec | █                              4.6%
+Jun | ███                           10.6%
+Jul | ███                           10.4%
+Aug | ███                           10.6%
+Sep | ███                           10.5%
+Oct | ███                            9.8%
+Nov | ██                             6.9%
+Dec | █                              4.5%
 ```
 <!-- AUTO:SEASONALITY:END -->
 [↑ Back to Index](#index)
@@ -107,7 +107,7 @@ Dec | █                              4.6%
 
 | Time    | Date       | Climbers                          |             | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
-|    32:11  | 2010-11-23  | Scott Bennet    |  Current FKT  |  [Self reported on blog & Mountain Project route](https://thebigwidewest.blogspot.com/2010/11/?m=1)|
+|    32:11  | 2010-11-23  | Scott Bennet    |  Current FKT  |  [Self reported on blog & on Mountain Project route](https://thebigwidewest.blogspot.com/2010/11/?m=1)|
 |    44:xx  | 2008-08-xx (reported date)  | Mic Fairchild    |  prior fkt  |  [Self reported on Mountain Project route via photo](https://www.mountainproject.com/route/105748774/ruper)|
 
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
@@ -135,14 +135,14 @@ Dec | █                              4.6%
 | 12 | Daniel Dunn | 9 |
 | 13 | David Appelhans | 9 |
 | 14 | Guy H. | 8 |
-| 15 | Ross Philip | 8 |
-| 16 | Ryan Beard | 8 |
-| 17 | David Ponak | 7 |
-| 18 | Harvest Mondello | 7 |
-| 19 | Justin Compton | 7 |
-| 20 | Kenan | 7 |
-| 21 | Mac Pedlow | 7 |
-| 22 | Mark Griffin | 7 |
+| 15 | Mark Griffin | 8 |
+| 16 | Ross Philip | 8 |
+| 17 | Ryan Beard | 8 |
+| 18 | David Ponak | 7 |
+| 19 | Harvest Mondello | 7 |
+| 20 | Justin Compton | 7 |
+| 21 | Kenan | 7 |
+| 22 | Mac Pedlow | 7 |
 | 23 | Mighty Mango | 7 |
 | 24 | Mike dF | 7 |
 | 25 | Mitchell Hodge | 7 |

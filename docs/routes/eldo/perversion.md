@@ -57,9 +57,9 @@ n/a
 | FA Info              | Layton Kor, Bob Culp, George Hurley and others, 1963 |
 | Stars (avg)          | 3.6       |
 | Votes                | 265.0     |
-| Unique Climbers      | 417.0     |
-| Lifetime Ticks       | 523.0     |
-| Avg Ticks / Climber  | 1.25      |
+| Unique Climbers      | 421.0     |
+| Lifetime Ticks       | 529.0     |
+| Avg Ticks / Climber  | 1.26      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
 
@@ -76,25 +76,25 @@ n/a
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 18.0%
+- ❄️ **Winter (Dec–Feb)**: 17.8%
 - 🌸 **Spring (Mar–May)**: 2.4% **off season**
-- ☀️ **Summer (Jun–Aug)**: 20.0%
-- 🍂 **Fall (Sep–Nov)**: 59.6% **high season**
+- ☀️ **Summer (Jun–Aug)**: 19.7%
+- 🍂 **Fall (Sep–Nov)**: 60.1% **high season**
 
 ### Seasonality Usage by Month
 ```
-Jan | ██                             8.0%
+Jan | ██                             7.9%
 Feb |                                0.0%
 Mar | █                              0.2%
 Apr | █                              0.9%
 May | █                              1.3%
 Jun | █                              1.5%
 Jul | █                              1.5%
-Aug | █████                         17.0%
-Sep | ██████                        21.7%
-Oct | ██████                        21.7%
-Nov | █████                         16.1%
-Dec | ███                           10.0%
+Aug | █████                         16.7%
+Sep | ██████                        22.3%
+Oct | ██████                        21.9%
+Nov | █████                         15.9%
+Dec | ███                            9.9%
 ```
 <!-- AUTO:SEASONALITY:END -->
 [↑ Back to Index](#index)
@@ -148,16 +148,16 @@ Route only FKT:
 | 13 | pfwein Weinberg | 3 |
 | 14 | Andrew McLean | 2 |
 | 15 | Arthur Diemunsch | 2 |
-| 16 | Brett S. | 2 |
-| 17 | Bryce Kerscher | 2 |
-| 18 | CanDillo | 2 |
-| 19 | Chris Gummer | 2 |
-| 20 | Colin Leahy | 2 |
-| 21 | Dan Howell | 2 |
-| 22 | Danny Gilbert | 2 |
-| 23 | Doug Haller | 2 |
-| 24 | Gregger Man | 2 |
-| 25 | Hannah12 Jansen | 2 |
+| 16 | Brandon Wampler | 2 |
+| 17 | Brett S. | 2 |
+| 18 | Bryce Kerscher | 2 |
+| 19 | CanDillo | 2 |
+| 20 | Chris Gummer | 2 |
+| 21 | Colin Leahy | 2 |
+| 22 | Dan Howell | 2 |
+| 23 | Danny Gilbert | 2 |
+| 24 | Doug Haller | 2 |
+| 25 | Gregger Man | 2 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 [Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
 

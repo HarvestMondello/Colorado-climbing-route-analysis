@@ -57,9 +57,9 @@ n/a
 | FA Info              | Larry and Roger Dalke, 1965. FFA: Chris Reveley, Scott Woodruff |
 | Stars (avg)          | 3.8       |
 | Votes                | 299.0     |
-| Unique Climbers      | 446.0     |
-| Lifetime Ticks       | 957.0     |
-| Avg Ticks / Climber  | 2.15      |
+| Unique Climbers      | 452.0     |
+| Lifetime Ticks       | 968.0     |
+| Avg Ticks / Climber  | 2.14      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
 
@@ -76,25 +76,25 @@ n/a
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 22.9%
-- 🌸 **Spring (Mar–May)**: 27.2%
-- ☀️ **Summer (Jun–Aug)**: 20.3% **low season**
-- 🍂 **Fall (Sep–Nov)**: 29.6% **high season**
+- ❄️ **Winter (Dec–Feb)**: 22.6%
+- 🌸 **Spring (Mar–May)**: 26.9%
+- ☀️ **Summer (Jun–Aug)**: 20.1% **low season**
+- 🍂 **Fall (Sep–Nov)**: 30.5% **high season**
 
 ### Seasonality Usage by Month
 ```
-Jan | ██                             7.0%
-Feb | ██                             6.9%
-Mar | ██                             8.3%
-Apr | ███                           10.3%
-May | ██                             8.5%
+Jan | ██                             6.9%
+Feb | ██                             6.8%
+Mar | ██                             8.2%
+Apr | ███                           10.2%
+May | ██                             8.4%
 Jun | █                              4.4%
-Jul | ███                           11.0%
-Aug | █                              4.9%
-Sep | ██                             8.4%
-Oct | ███                            9.5%
-Nov | ███                           11.7%
-Dec | ███                            9.0%
+Jul | ███                           10.9%
+Aug | █                              4.8%
+Sep | ███                            9.1%
+Oct | ███                            9.9%
+Nov | ███                           11.5%
+Dec | ███                            8.9%
 ```
 <!-- AUTO:SEASONALITY:END -->
 [↑ Back to Index](#index)

@@ -83,9 +83,9 @@
 | FA Info              | Layton Kor, Bob Culp 1962 (partial). Layton Kor, Maurice (Rick) Horn 1964 (complete). FFA: Jim Erickson, Duncan Ferguson, 1971 |
 | Stars (avg)          | 3.9       |
 | Votes                | 537.0     |
-| Unique Climbers      | 787.0     |
-| Lifetime Ticks       | 3394.0    |
-| Avg Ticks / Climber  | 4.31      |
+| Unique Climbers      | 791.0     |
+| Lifetime Ticks       | 3473.0    |
+| Avg Ticks / Climber  | 4.39      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
 
@@ -102,25 +102,25 @@
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 10.2% **low season**
-- 🌸 **Spring (Mar–May)**: 24.7%
-- ☀️ **Summer (Jun–Aug)**: 29.7%
-- 🍂 **Fall (Sep–Nov)**: 35.4% **high season**
+- ❄️ **Winter (Dec–Feb)**: 9.9% **low season**
+- 🌸 **Spring (Mar–May)**: 24.2%
+- ☀️ **Summer (Jun–Aug)**: 29.1%
+- 🍂 **Fall (Sep–Nov)**: 36.8% **high season**
 
 ### Seasonality Usage by Month
 ```
-Jan | █                              3.4%
+Jan | █                              3.3%
 Feb | █                              3.3%
-Mar | █                              5.2%
-Apr | ██                             8.7%
-May | ███                           10.8%
-Jun | ███                           10.7%
-Jul | ██                             8.5%
-Aug | ███                           10.6%
-Sep | ████                          14.5%
-Oct | ████                          13.6%
-Nov | ██                             7.2%
-Dec | █                              3.5%
+Mar | █                              5.1%
+Apr | ██                             8.5%
+May | ███                           10.6%
+Jun | ███                           10.4%
+Jul | ██                             8.3%
+Aug | ███                           10.3%
+Sep | ████                          15.7%
+Oct | ████                          14.0%
+Nov | ██                             7.0%
+Dec | █                              3.4%
 ```
 <!-- AUTO:SEASONALITY:END -->
 [↑ Back to Index](#index)
@@ -196,31 +196,31 @@ Dec | █                              3.5%
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | Stefan Griebel | 419 |
+| 1 | Stefan Griebel | 422 |
 | 2 | Jack Neus | 208 |
-| 3 | John Alcorn | 147 |
-| 4 | Kishen Mangat | 134 |
-| 5 | WadeM | 127 |
-| 6 | choss pirate | 122 |
-| 7 | ChossCrimper TopRopePrincess | 119 |
-| 8 | Eddie Taylor | 105 |
-| 9 | Kate pinktapegloves | 88 |
+| 3 | John Alcorn | 148 |
+| 4 | Kishen Mangat | 137 |
+| 5 | choss pirate | 129 |
+| 6 | ChossCrimper TopRopePrincess | 127 |
+| 7 | WadeM | 127 |
+| 8 | Eddie Taylor | 107 |
+| 9 | Kate pinktapegloves | 94 |
 | 10 | Quinn Davie | 70 |
-| 11 | Max Manson | 58 |
-| 12 | Becca Droz | 55 |
-| 13 | Yiran Li | 38 |
-| 14 | Pierce J | 29 |
+| 11 | Becca Droz | 59 |
+| 12 | Max Manson | 59 |
+| 13 | Yiran Li | 42 |
+| 14 | Pierce J | 36 |
 | 15 | Sputnick | 29 |
 | 16 | AdamShep | 21 |
 | 17 | Danny Gilbert | 21 |
 | 18 | JagerMeister | 17 |
 | 19 | Guy H. | 15 |
 | 20 | Max Rumer | 14 |
-| 21 | Armand La Douceur | 11 |
-| 22 | Bill Wright | 11 |
-| 23 | Jeffrey Mascaro | 11 |
-| 24 | Mark Hammond | 11 |
-| 25 | max seigal | 10 |
+| 21 | Adam Peternell | 13 |
+| 22 | Armand La Douceur | 11 |
+| 23 | Bill Wright | 11 |
+| 24 | Jeffrey Mascaro | 11 |
+| 25 | Mark Hammond | 11 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 
  **Leaderboards comments**  

@@ -57,8 +57,8 @@ n/a
 | FA Info              | US Army climbers, 1954. FFA: Stan Shepard, Allen Bergen, 1957 |
 | Stars (avg)          | 3.5       |
 | Votes                | 2507.0    |
-| Unique Climbers      | 5638.0    |
-| Lifetime Ticks       | 9674.0    |
+| Unique Climbers      | 5671.0    |
+| Lifetime Ticks       | 9741.0    |
 | Avg Ticks / Climber  | 1.72      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
@@ -77,9 +77,9 @@ n/a
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 4.0% **low season**
-- 🌸 **Spring (Mar–May)**: 23.0%
-- ☀️ **Summer (Jun–Aug)**: 48.0% **high season**
-- 🍂 **Fall (Sep–Nov)**: 24.9%
+- 🌸 **Spring (Mar–May)**: 22.8%
+- ☀️ **Summer (Jun–Aug)**: 47.6% **high season**
+- 🍂 **Fall (Sep–Nov)**: 25.5%
 
 ### Seasonality Usage by Month
 ```
@@ -88,12 +88,12 @@ Feb | █                              1.3%
 Mar | █                              3.9%
 Apr | ██                             7.4%
 May | ███                           11.6%
-Jun | ████                          15.2%
-Jul | █████                         17.7%
-Aug | ████                          15.2%
-Sep | ████                          12.9%
-Oct | ██                             8.6%
-Nov | █                              3.5%
+Jun | ████                          15.1%
+Jul | █████                         17.5%
+Aug | ████                          15.1%
+Sep | ████                          13.3%
+Oct | ███                            8.8%
+Nov | █                              3.4%
 Dec | █                              1.7%
 ```
 <!-- AUTO:SEASONALITY:END -->
@@ -109,6 +109,7 @@ Dec | █                              1.7%
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
 
+- Will Moss may have a new FKT? Awaiting verification.
 <br>
 <br>
 <br>
@@ -121,10 +122,10 @@ Route only FKT:
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | 5:02   | 2011-05-11  | Scott Bennett     | current route route only FKT (Yosemite style)    | [Self reported to MountainProject](https://www.mountainproject.com/forum/topic/107132210/bastille-crack-speed) |
 | 5:33   | 1998-07-xx  | Mic Fairchild     | prior route route only FKT (Yosemite style)    | [Self reported to MountainProject](https://www.mountainproject.com/forum/topic/107132210/bastille-crack-speed) |
-Mic has also downclimbed the Bastille Crack in  10 minutes, 42 seconds. 
 
+- Mic has also downclimbed the Bastille Crack in  10 minutes, 42 seconds. 
 
-- Will Moss may have a new FKT? Awaiting verification. 
+- Will Moss may have a new FKT? Awaiting verification.
 
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
 
@@ -137,11 +138,11 @@ Mic has also downclimbed the Bastille Crack in  10 minutes, 42 seconds.
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | Anonymous | 47 |
+| 1 | Anonymous | 51 |
 | 2 | Brandon Proffitt | 47 |
 | 3 | John Alcorn | 47 |
 | 4 | Bill Kinter | 35 |
-| 5 | Mark Griffin | 29 |
+| 5 | Mark Griffin | 31 |
 | 6 | Max Manson | 29 |
 | 7 | Michael Rickers | 26 |
 | 8 | Danny Gilbert | 25 |
@@ -150,18 +151,18 @@ Mic has also downclimbed the Bastille Crack in  10 minutes, 42 seconds.
 | 11 | Jacob Barnett | 23 |
 | 12 | Jason Antin | 23 |
 | 13 | Yiran Li | 22 |
-| 14 | George Barnes | 20 |
-| 15 | Justin Compton | 20 |
-| 16 | Tombo | 20 |
-| 17 | Michael Butts | 19 |
+| 14 | Michael Butts | 21 |
+| 15 | George Barnes | 20 |
+| 16 | Justin Compton | 20 |
+| 17 | Tombo | 20 |
 | 18 | Ryan Marsters | 19 |
 | 19 | Andy S | 18 |
-| 20 | Ryan Dresser | 18 |
-| 21 | Chris Gummer | 17 |
-| 22 | Javier Goldstein | 17 |
-| 23 | Layton B | 17 |
-| 24 | Eddie Taylor | 16 |
-| 25 | Ben Sheanin | 15 |
+| 20 | Chris Gummer | 18 |
+| 21 | Ryan Dresser | 18 |
+| 22 | Layton B | 17 |
+| 23 | Eddie Taylor | 16 |
+| 24 | Javier Goldstein | 16 |
+| 25 | Jack Neus | 15 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 [Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
 

@@ -57,8 +57,8 @@ n/a
 | FA Info              | Jim Erickson, free solo (hence the name), 1972 |
 | Stars (avg)          | 3.6       |
 | Votes                | 974.0     |
-| Unique Climbers      | 1996.0    |
-| Lifetime Ticks       | 3594.0    |
+| Unique Climbers      | 2007.0    |
+| Lifetime Ticks       | 3621.0    |
 | Avg Ticks / Climber  | 1.80      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
@@ -77,22 +77,22 @@ n/a
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 3.8% **low season**
-- 🌸 **Spring (Mar–May)**: 27.7%
-- ☀️ **Summer (Jun–Aug)**: 43.8% **high season**
-- 🍂 **Fall (Sep–Nov)**: 24.7%
+- 🌸 **Spring (Mar–May)**: 27.4%
+- ☀️ **Summer (Jun–Aug)**: 43.4% **high season**
+- 🍂 **Fall (Sep–Nov)**: 25.4%
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              0.9%
 Feb | █                              1.3%
-Mar | █                              4.7%
-Apr | ███                            9.8%
-May | ████                          13.2%
-Jun | ████                          14.0%
-Jul | ████                          14.8%
-Aug | ████                          14.9%
-Sep | ████                          12.3%
-Oct | ███                            9.2%
+Mar | █                              4.6%
+Apr | ███                            9.7%
+May | ████                          13.1%
+Jun | ████                          13.9%
+Jul | ████                          14.7%
+Aug | ████                          14.8%
+Sep | ████                          12.6%
+Oct | ███                            9.5%
 Nov | █                              3.3%
 Dec | █                              1.6%
 ```
@@ -120,20 +120,20 @@ Dec | █                              1.6%
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | Haley Young | 57 |
+| 1 | Haley Young | 58 |
 | 2 | Danny Gilbert | 46 |
 | 3 | choss pirate | 21 |
 | 4 | Michael Butts | 18 |
 | 5 | Athena | 15 |
 | 6 | Jack Neus | 14 |
-| 7 | Samuel Puckett | 13 |
-| 8 | Tony B | 13 |
-| 9 | John Alcorn | 12 |
-| 10 | Mark Griffin | 12 |
+| 7 | Mark Griffin | 13 |
+| 8 | Samuel Puckett | 13 |
+| 9 | Tony B | 13 |
+| 10 | John Alcorn | 12 |
 | 11 | Gregger Man | 11 |
 | 12 | Justin Compton | 11 |
 | 13 | Ryan Marsters | 11 |
-| 14 | Yiran Li | 11 |
+| 14 | Yiran Li | 10 |
 | 15 | Bill Kinter | 9 |
 | 16 | Matt Vera | 9 |
 | 17 | Neil L | 9 |

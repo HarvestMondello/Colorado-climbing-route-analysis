@@ -20,9 +20,9 @@
 
 ## Overview  
 - **Area:** Eldorado Canyon
-- **Formation:** Redgarden: na
-- **Grade:** YDS 5.11AB
-- **Route Length:** na
+- **Formation:** Redgarden: Vertigo Tower 
+- **Grade:** YDS 5.11AB, 4 pitches
+- **Route Length:** ~300'
 - **Style:** Trad, multi-pitch  
 - **First Ascent:** Dave Dornan, Pete Lev, 1961
 - **First Free Ascent** FFA: Pat Ament/Roger Briggs (na year)
@@ -57,9 +57,9 @@ n/a
 | FA Info              | Dave Dornan, Pete Lev, 1961. FFA: Pat Ament/Roger Briggs 196? |
 | Stars (avg)          | 3.8       |
 | Votes                | 406.0     |
-| Unique Climbers      | 634.0     |
-| Lifetime Ticks       | 1007.0    |
-| Avg Ticks / Climber  | 1.59      |
+| Unique Climbers      | 638.0     |
+| Lifetime Ticks       | 1023.0    |
+| Avg Ticks / Climber  | 1.60      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
 
@@ -76,25 +76,25 @@ n/a
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 9.0% **low season**
-- 🌸 **Spring (Mar–May)**: 27.1%
-- ☀️ **Summer (Jun–Aug)**: 33.9% **high season**
-- 🍂 **Fall (Sep–Nov)**: 30.1%
+- ❄️ **Winter (Dec–Feb)**: 8.8% **low season**
+- 🌸 **Spring (Mar–May)**: 26.6%
+- ☀️ **Summer (Jun–Aug)**: 33.4% **high season**
+- 🍂 **Fall (Sep–Nov)**: 31.2%
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              2.1%
-Feb | █                              3.0%
-Mar | ██                             7.7%
-Apr | ██                             8.5%
-May | ███                           10.9%
+Feb | █                              2.9%
+Mar | ██                             7.5%
+Apr | ██                             8.4%
+May | ███                           10.7%
 Jun | ███                           11.5%
-Jul | ███                           12.1%
-Aug | ███                           10.2%
-Sep | ████                          12.7%
-Oct | ███                           10.3%
-Nov | ██                             7.1%
-Dec | █                              3.9%
+Jul | ███                           11.9%
+Aug | ███                           10.0%
+Sep | ████                          13.7%
+Oct | ███                           10.5%
+Nov | ██                             7.0%
+Dec | █                              3.8%
 ```
 <!-- AUTO:SEASONALITY:END -->
 [↑ Back to Index](#index)
@@ -121,30 +121,30 @@ Dec | █                              3.9%
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
 | 1 | Stefan Griebel | 18 |
-| 2 | WadeM | 10 |
-| 3 | Danny Gilbert | 9 |
-| 4 | John Alcorn | 8 |
+| 2 | Danny Gilbert | 10 |
+| 3 | WadeM | 10 |
+| 4 | John Alcorn | 9 |
 | 5 | Pedro Lemos | 6 |
 | 6 | Sputnick | 6 |
-| 7 | Jack Neus | 5 |
-| 8 | Kevin Heinrich | 5 |
-| 9 | Mitch Friedeman | 5 |
-| 10 | Rich Kelly | 5 |
-| 11 | max seigal | 5 |
-| 12 | AdamShep | 4 |
-| 13 | Andrew W | 4 |
-| 14 | Athena | 4 |
-| 15 | Colette Lipton | 4 |
-| 16 | Jake Sankari | 4 |
-| 17 | Julius Beres | 4 |
-| 18 | Kristen Dillon | 4 |
-| 19 | Mark Hammond | 4 |
-| 20 | Pierce J | 4 |
-| 21 | Riley Caler | 4 |
-| 22 | Taylor Jones | 4 |
-| 23 | VirginiaS | 4 |
-| 24 | claytown | 4 |
-| 25 | Aaron Glasenapp | 3 |
+| 7 | Bryce Tandberg | 5 |
+| 8 | Jack Neus | 5 |
+| 9 | Kevin Heinrich | 5 |
+| 10 | Mitch Friedeman | 5 |
+| 11 | Rich Kelly | 5 |
+| 12 | max seigal | 5 |
+| 13 | AdamShep | 4 |
+| 14 | Andrew W | 4 |
+| 15 | Athena | 4 |
+| 16 | Colette Lipton | 4 |
+| 17 | Jake Sankari | 4 |
+| 18 | Julius Beres | 4 |
+| 19 | Kristen Dillon | 4 |
+| 20 | Mark Hammond | 4 |
+| 21 | Pierce J | 4 |
+| 22 | Riley Caler | 4 |
+| 23 | Seb Nichols | 4 |
+| 24 | Taylor Jones | 4 |
+| 25 | VirginiaS | 4 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 [Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
 

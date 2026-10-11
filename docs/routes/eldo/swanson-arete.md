@@ -56,8 +56,8 @@ n/a
 | FA Info              | Stan Shepard, et al. 1960 |
 | Stars (avg)          | 3.1       |
 | Votes                | 494.0     |
-| Unique Climbers      | 1150.0    |
-| Lifetime Ticks       | 1712.0    |
+| Unique Climbers      | 1162.0    |
+| Lifetime Ticks       | 1730.0    |
 | Avg Ticks / Climber  | 1.49      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
@@ -75,24 +75,24 @@ n/a
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 9.4% **low season**
-- 🌸 **Spring (Mar–May)**: 27.1%
-- ☀️ **Summer (Jun–Aug)**: 36.7% **high season**
-- 🍂 **Fall (Sep–Nov)**: 26.9%
+- ❄️ **Winter (Dec–Feb)**: 9.3% **low season**
+- 🌸 **Spring (Mar–May)**: 26.9%
+- ☀️ **Summer (Jun–Aug)**: 36.5% **high season**
+- 🍂 **Fall (Sep–Nov)**: 27.3%
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              2.0%
 Feb | █                              4.0%
 Mar | ██                             7.3%
-Apr | ██                             8.3%
+Apr | ██                             8.2%
 May | ███                           11.4%
 Jun | ████                          13.1%
-Jul | ████                          12.4%
-Aug | ███                           11.2%
-Sep | ███                           11.8%
-Oct | ███                            9.7%
-Nov | ██                             5.4%
+Jul | ████                          12.3%
+Aug | ███                           11.0%
+Sep | ███                           12.2%
+Oct | ███                            9.8%
+Nov | ██                             5.3%
 Dec | █                              3.3%
 ```
 <!-- AUTO:SEASONALITY:END -->
@@ -131,19 +131,19 @@ Dec | █                              3.3%
 | 10 | Nick Esker | 6 |
 | 11 | Tony Luchetta | 6 |
 | 12 | climbing coastie | 6 |
-| 13 | John Alcorn | 5 |
-| 14 | Lang Daly | 5 |
-| 15 | Mark D | 5 |
-| 16 | Mark Hammond | 5 |
-| 17 | Mark Roth | 5 |
-| 18 | Matt Vera | 5 |
-| 19 | Richie Mitchell | 5 |
-| 20 | Xam | 5 |
-| 21 | Anonymous | 4 |
-| 22 | Becca Simeone | 4 |
-| 23 | G P | 4 |
-| 24 | JF M | 4 |
-| 25 | Jeffrey Mascaro | 4 |
+| 13 | G P | 5 |
+| 14 | John Alcorn | 5 |
+| 15 | Lang Daly | 5 |
+| 16 | Mark D | 5 |
+| 17 | Mark Hammond | 5 |
+| 18 | Mark Roth | 5 |
+| 19 | Matt Vera | 5 |
+| 20 | Richie Mitchell | 5 |
+| 21 | Xam | 5 |
+| 22 | Anonymous | 4 |
+| 23 | Becca Simeone | 4 |
+| 24 | Bill Kinter | 4 |
+| 25 | Damon Ehrett | 4 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 [Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
 

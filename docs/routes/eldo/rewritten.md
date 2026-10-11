@@ -57,8 +57,8 @@ n/a
 | FA Info              | George Hurley, Bob Culp, John Link, 1967 |
 | Stars (avg)          | 3.8       |
 | Votes                | 1947.0    |
-| Unique Climbers      | 4297.0    |
-| Lifetime Ticks       | 7005.0    |
+| Unique Climbers      | 4332.0    |
+| Lifetime Ticks       | 7064.0    |
 | Avg Ticks / Climber  | 1.63      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
@@ -76,23 +76,23 @@ n/a
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 9.4% **low season**
-- 🌸 **Spring (Mar–May)**: 26.9%
-- ☀️ **Summer (Jun–Aug)**: 37.4% **high season**
-- 🍂 **Fall (Sep–Nov)**: 26.3%
+- ❄️ **Winter (Dec–Feb)**: 9.3% **low season**
+- 🌸 **Spring (Mar–May)**: 26.7%
+- ☀️ **Summer (Jun–Aug)**: 37.0% **high season**
+- 🍂 **Fall (Sep–Nov)**: 27.1%
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              2.7%
-Feb | █                              3.1%
-Mar | ██                             7.0%
-Apr | ██                             8.7%
-May | ███                           11.2%
-Jun | ████                          12.7%
-Jul | ████                          12.5%
-Aug | ███                           12.2%
-Sep | ███                           11.0%
-Oct | ███                            9.2%
+Feb | █                              3.0%
+Mar | ██                             6.9%
+Apr | ██                             8.6%
+May | ███                           11.1%
+Jun | ████                          12.6%
+Jul | ████                          12.3%
+Aug | ███                           12.1%
+Sep | ███                           11.6%
+Oct | ███                            9.5%
 Nov | ██                             6.0%
 Dec | █                              3.6%
 ```
@@ -121,21 +121,21 @@ Dec | █                              3.6%
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
 | 1 | Danny Gilbert | 40 |
-| 2 | Christian Shields | 38 |
-| 3 | James Klaers | 33 |
-| 4 | Gnarls von Powderborne | 32 |
-| 5 | Anonymous | 20 |
+| 2 | James Klaers | 33 |
+| 3 | Gnarls von Powderborne | 32 |
+| 4 | Christian Shields | 27 |
+| 5 | Anonymous | 21 |
 | 6 | Yiran Li | 18 |
 | 7 | Ryan Marsters | 17 |
 | 8 | Jack Neus | 16 |
-| 9 | Samuel Puckett | 16 |
-| 10 | G P | 15 |
-| 11 | John Alcorn | 15 |
-| 12 | Michael Butts | 15 |
+| 9 | G P | 15 |
+| 10 | John Alcorn | 15 |
+| 11 | Michael Butts | 15 |
+| 12 | Samuel Puckett | 15 |
 | 13 | Sarah Meiser | 15 |
 | 14 | choss pirate | 15 |
-| 15 | Samuel Andree | 14 |
-| 16 | Benjamn P | 13 |
+| 15 | Benjamn P | 14 |
+| 16 | Samuel Andree | 14 |
 | 17 | Harvest Mondello | 13 |
 | 18 | Ryan Dresser | 13 |
 | 19 | Mark Griffin | 12 |

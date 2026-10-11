@@ -33,7 +33,7 @@
 ## Details
 
 ### Intro 
-*The Yellow Spur* is considered one of the most iconic multipitch climbs in Eldorado Canyon. This striking moderate testpiece has exposure, continuous difficulties, and historic significance. It stands as both a **cultural landmark** and a **high-traffic classic**.  
+*The Yellow Spur* is considered one of the most iconic multipitch climbs in Eldorado Canyon. This striking moderate testpiece has exposure, continuous difficulties, and historic significance. It stands as both a **cultural landmark** and a **high-traffic classic**.  If the Naked Edge is the whisky of Eldorado, the Yellow Spur is the light beer equivelent, for the average working climber.  
 
 The climb features a mix of technical roof and corner climbing, delicate face sequences, and airy exposure. Today it remains both a rite of passage for aspiring Eldo leaders and a beloved repeat classic for locals.  
 
@@ -87,8 +87,8 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 | FA Info              | Layton Kor, Dave Dornan, 1959. FFA: R. Robbins, P. Ament, 1960s |
 | Stars (avg)          | 3.7       |
 | Votes                | 1449.0    |
-| Unique Climbers      | 2640.0    |
-| Lifetime Ticks       | 4899.0    |
+| Unique Climbers      | 2658.0    |
+| Lifetime Ticks       | 4948.0    |
 | Avg Ticks / Climber  | 1.86      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
@@ -106,24 +106,24 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 9.2% **low season**
-- 🌸 **Spring (Mar–May)**: 25.7%
-- ☀️ **Summer (Jun–Aug)**: 36.3% **high season**
-- 🍂 **Fall (Sep–Nov)**: 28.8%
+- ❄️ **Winter (Dec–Feb)**: 9.1% **low season**
+- 🌸 **Spring (Mar–May)**: 25.5%
+- ☀️ **Summer (Jun–Aug)**: 36.0% **high season**
+- 🍂 **Fall (Sep–Nov)**: 29.3%
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              2.6%
 Feb | █                              2.9%
-Mar | ██                             6.1%
-Apr | ███                            9.1%
-May | ███                           10.6%
-Jun | ████                          12.3%
-Jul | ███                           11.7%
-Aug | ████                          12.3%
-Sep | ███                           11.3%
-Oct | ███                           10.7%
-Nov | ██                             6.8%
+Mar | ██                             6.0%
+Apr | ███                            9.0%
+May | ███                           10.5%
+Jun | ███                           12.2%
+Jul | ███                           11.6%
+Aug | ███                           12.2%
+Sep | ███                           11.7%
+Oct | ███                           10.9%
+Nov | ██                             6.7%
 Dec | █                              3.6%
 ```
 <!-- AUTO:SEASONALITY:END -->
@@ -187,20 +187,20 @@ https://www.strava.com/activities/6217015397
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | Danny Gilbert | 272 |
-| 2 | Harvest Mondello | 99 |
-| 3 | Bill Wright | 92 | *est 200+
+| 1 | Danny Gilbert | 273 |
+| 2 | Harvest Mondello | 104 |
+| 3 | Bill Wright | 92 |
 | 4 | Michael Butts | 71 |
 | 5 | Jack Neus | 44 |
-| 6 | John Alcorn | 41 |
+| 6 | John Alcorn | 42 |
 | 7 | Ryan Montoya | 34 |
 | 8 | Samuel Andree | 34 |
-| 9 | Ryan Marsters | 25 |
-| 10 | Stefan Griebel | 24 |
-| 11 | Hailey Moore | 23 |
-| 12 | Mike Robinson | 20 |
-| 13 | Nate Haebig-Kerber | 19 |
-| 14 | Benjamn P | 17 |
+| 9 | Benjamn P | 26 |
+| 10 | Stefan Griebel | 26 |
+| 11 | Ryan Marsters | 24 |
+| 12 | Hailey Moore | 23 |
+| 13 | Nate Haebig-Kerber | 23 |
+| 14 | Mike Robinson | 20 |
 | 15 | James Klaers | 16 |
 | 16 | Jon Oulton | 16 |
 | 17 | Yiran Li | 15 |
@@ -210,8 +210,8 @@ https://www.strava.com/activities/6217015397
 | 21 | Max Manson | 12 |
 | 22 | Bill Kinter | 11 |
 | 23 | Brian Carver | 11 |
-| 24 | Daniel Dunn | 10 |
-| 25 | Mario Delgado | 10 |
+| 24 | Mario Delgado | 11 |
+| 25 | Daniel Dunn | 10 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 
   ## Note on Climbers not in the dataset or with partial data entries:  
@@ -229,5 +229,5 @@ https://www.strava.com/activities/6217015397
 
 ## References  
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
-- FKT history confirmed via Danny Gilbert  
+- FKT history confirmed in collaboration with Danny Gilbert 
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748657/the-yellow-spur)

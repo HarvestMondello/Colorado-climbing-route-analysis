@@ -57,9 +57,9 @@ n/a
 | FA Info              | Jim Erickson, John Behrens, Stand Badgett, 1969. |
 | Stars (avg)          | 3.6       |
 | Votes                | 551.0     |
-| Unique Climbers      | 958.0     |
-| Lifetime Ticks       | 1659.0    |
-| Avg Ticks / Climber  | 1.73      |
+| Unique Climbers      | 963.0     |
+| Lifetime Ticks       | 1677.0    |
+| Avg Ticks / Climber  | 1.74      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
 
@@ -77,23 +77,23 @@ n/a
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 3.1% **low season**
-- 🌸 **Spring (Mar–May)**: 26.2%
-- ☀️ **Summer (Jun–Aug)**: 45.5% **high season**
-- 🍂 **Fall (Sep–Nov)**: 25.1%
+- 🌸 **Spring (Mar–May)**: 26.0%
+- ☀️ **Summer (Jun–Aug)**: 44.9% **high season**
+- 🍂 **Fall (Sep–Nov)**: 26.0%
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              1.0%
 Feb | █                              1.0%
-Mar | █                              4.9%
-Apr | ██                             8.5%
-May | ████                          12.9%
-Jun | █████                         16.3%
-Jul | ████                          13.9%
-Aug | ████                          15.3%
-Sep | ████                          14.3%
-Oct | ██                             7.6%
-Nov | █                              3.3%
+Mar | █                              4.8%
+Apr | ██                             8.4%
+May | ████                          12.8%
+Jun | █████                         16.1%
+Jul | ████                          13.7%
+Aug | ████                          15.1%
+Sep | ████                          14.8%
+Oct | ██                             7.9%
+Nov | █                              3.2%
 Dec | █                              1.0%
 ```
 <!-- AUTO:SEASONALITY:END -->
@@ -125,12 +125,12 @@ Dec | █                              1.0%
 | 3 | Stefan Griebel | 18 |
 | 4 | John Alcorn | 17 |
 | 5 | Max Manson | 15 |
-| 6 | Danny Gilbert | 13 |
-| 7 | Harvest Mondello | 13 |
-| 8 | Mark Griffin | 13 |
-| 9 | G P | 9 |
-| 10 | Guy H. | 9 |
-| 11 | Javier Goldstein | 9 |
+| 6 | Mark Griffin | 14 |
+| 7 | Danny Gilbert | 13 |
+| 8 | Harvest Mondello | 13 |
+| 9 | G P | 10 |
+| 10 | Javier Goldstein | 10 |
+| 11 | Guy H. | 9 |
 | 12 | Mark Roth | 9 |
 | 13 | Gregger Man | 8 |
 | 14 | WadeM | 8 |
@@ -143,8 +143,8 @@ Dec | █                              1.0%
 | 21 | Bill Kinter | 6 |
 | 22 | Brian Carver | 6 |
 | 23 | Everett Johnson | 6 |
-| 24 | Mike Robinson | 6 |
-| 25 | tim | 6 |
+| 24 | Japhy Dhungana | 6 |
+| 25 | Mike Robinson | 6 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 [Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
 
