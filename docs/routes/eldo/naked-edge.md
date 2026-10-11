@@ -237,7 +237,7 @@ Dec | █                              3.4%
 
 
 ## References  
-- [FKT History Notebook: The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/edge-fkts.jpg) provided courtesy of Stefan Griebel
+- [FKT History Notebook: The Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/edge-fkts.jpg) and [additional page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/edge-fkts2.jpg) provided courtesy of Stefan Griebel
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
 - [Women’s FKT Report](https://ca.coros.com/stories/d/naked-edge-womens-speed-record-kate-kelleghan-laura-pineau)  
 - [All Women FKT News](https://www.climbing.com/news/fast-and-furious/)  
