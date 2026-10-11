@@ -1,9 +1,9 @@
 # Colorado Climbing Route Leaderboards - Top Routes
-_Generated 2026-10-11 08:15:52 MDT_
+_Generated 2026-10-11 09:58:11 MDT_
 
 **[Top 100 Users by Score](#top-100-users-by-score)**
 
-**Selected routes:** 23
+**Selected routes:** 25
 
 **Scoring uses top 25 climbers per route; route pages display top 25.**
 
@@ -33,15 +33,17 @@ _Generated 2026-10-11 08:15:52 MDT_
 | 21 | [The Bastille Crack](#the-bastille-crack) |
 | 22 | [Darkness 'til Dawn](#darkness-til-dawn) |
 | 23 | [Ruper](#ruper) |
+| 24 | [Gambit](#gambit) |
+| 25 | [D7](#d7) |
 
 **Grades Summary:**
 | Bucket | Routes |
 | --- | --- |
 | 5.12* | 0 |
-| 5.11* | 5 |
+| 5.11* | 6 |
 | 5.10* | 9 |
 | 5.9* | 2 |
-| 5.8* | 2 |
+| 5.8* | 3 |
 | 5.7* | 2 |
 | 5.6* | 1 |
 | 5.5* | 0 |
@@ -52,7 +54,7 @@ _Generated 2026-10-11 08:15:52 MDT_
 | 5.0* | 1 |
 | 4th* | 0 |
 
-**Top Areas:** 3 routes All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower One, 2 routes All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower Two, 2 routes All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Lumpe to…, 2 routes All Locations > Colorado > S Platte > Cathedral Spire… > Cynical Pinnacle, 2 routes All Locations > Colorado > Boulder > Eldorado Canyon SP > Bastille > Bastille - N Face
+**Top Areas:** 3 routes All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower One, 2 routes All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Tower Two, 2 routes All Locations > Colorado > Boulder > Eldorado Canyon SP > Redgarden Wall > Redgarden - Lumpe to…, 2 routes All Locations > Colorado > Boulder > Eldorado Canyon SP > Bastille > Bastille - N Face, 2 routes All Locations > Colorado > Alpine Rock > RMNP - Rock > Long's Peak > Diamond
 
 > Source: joined_route_tick_cleaned.csv with embedded leaderboard columns.
 
@@ -1712,20 +1714,164 @@ Dec | █                            4.5%
 
 ---
 
+## Gambit
+**Area:** All Locations > Colorado > Boulder > Eldorado Canyon SP > Shirt Tail Peak
+[Open route profile](./routes/eldo/gambit.md)
+
+### Summary
+| Metric | Value |
+| --- | --- |
+| Classic Rank | 24 |
+| Grade | 5.8 YDS |
+| Stars (avg) | 3.6 |
+| Votes | 848.0 |
+| Unique Climbers | 1783.0 |
+| Lifetime Ticks | 2732.0 |
+| Avg Ticks / Climber | 1.53 |
+
+### Seasonality
+
+- Seasonality Profile: (placeholder)
+- Highest-use months in order: **August 11.9%**, **October 11.6%**, **September 11.4%**, **June 10.7%**
+
+- ❄️ **Winter (Dec–Feb)**: 10.9% **low season**
+- 🌸 **Spring (Mar–May)**: 26.1%
+- ☀️ **Summer (Jun–Aug)**: 32.8% **peak season**
+- 🍂 **Fall (Sep–Nov)**: 30.3%
+
+### Seasonality Usage by Month
+```
+Jan | █                            3.9%
+Feb | █                            2.8%
+Mar | ██                           7.0%
+Apr | ██                           9.5%
+May | ██                           9.6%
+Jun | ███                         10.7%
+Jul | ███                         10.1%
+Aug | ███                         11.9%
+Sep | ███                         11.4%
+Oct | ███                         11.6%
+Nov | ██                           7.3%
+Dec | █                            4.1%
+```
+
+### Top 25 Climbers
+| Rank | Climber | Ticks |
+| --- | --- | --- |
+| 1 | Danny Gilbert | 19 |
+| 2 | Jack Neus | 17 |
+| 3 | Gregger Man | 12 |
+| 4 | Bill Kinter | 11 |
+| 5 | Samuel Andree | 10 |
+| 6 | Justin Compton | 9 |
+| 7 | Scott Guile | 9 |
+| 8 | Alex Vidal | 8 |
+| 9 | Chris Johnson | 8 |
+| 10 | David Ponak | 8 |
+| 11 | Michael Butts | 8 |
+| 12 | Robert Buswold | 8 |
+| 13 | Sarah Meiser | 8 |
+| 14 | Steve M | 8 |
+| 15 | Dana Pearson | 7 |
+| 16 | Patrick Coller | 7 |
+| 17 | Samuel Puckett | 7 |
+| 18 | CanDillo | 6 |
+| 19 | Colin Leahy | 6 |
+| 20 | Danielle Sarli | 6 |
+| 21 | Kevin Karn | 6 |
+| 22 | LIV Veraldi | 6 |
+| 23 | Mark Hammond | 6 |
+| 24 | Nate Haebig-Kerber | 6 |
+| 25 | Ralph Swansen | 6 |
+
+---
+
+## D7
+**Area:** All Locations > Colorado > Alpine Rock > RMNP - Rock > Long's Peak > Diamond
+[Open route profile](./routes/rmnp/d7.md)
+
+### Summary
+| Metric | Value |
+| --- | --- |
+| Classic Rank | 25 |
+| Grade | 5.11c YDS |
+| Stars (avg) | 3.9 |
+| Votes | 145.0 |
+| Unique Climbers | 239.0 |
+| Lifetime Ticks | 334.0 |
+| Avg Ticks / Climber | 1.40 |
+
+### Seasonality
+
+- Seasonality Profile: (placeholder)
+- Highest-use months in order: **August 41.3%**, **July 32.0%**, **September 14.7%**, **June 5.7%**
+
+- ❄️ **Winter (Dec–Feb)**: 3.0% **off season**
+- 🌸 **Spring (Mar–May)**: 2.1% **off season**
+- ☀️ **Summer (Jun–Aug)**: 79.0% **peak season**
+- 🍂 **Fall (Sep–Nov)**: 15.9%
+
+### Seasonality Usage by Month
+```
+Jan |                              0.6%
+Feb |                              0.6%
+Mar |                              1.2%
+Apr |                              0.0%
+May |                              0.9%
+Jun | █                            5.7%
+Jul | ████████                    32.0%
+Aug | ███████████                 41.3%
+Sep | ████                        14.7%
+Oct |                              0.6%
+Nov |                              0.6%
+Dec |                              1.8%
+```
+
+### Top 25 Climbers
+| Rank | Climber | Ticks |
+| --- | --- | --- |
+| 1 | Armin hammer | 4 |
+| 2 | Guy H. | 4 |
+| 3 | Kishen Mangat | 4 |
+| 4 | Bug Boy | 3 |
+| 5 | ChossCrimper TopRopePrincess | 3 |
+| 6 | Colin Simon | 3 |
+| 7 | Dusty | 3 |
+| 8 | Zach Alles | 3 |
+| 9 | claytown | 3 |
+| 10 | Aaron Ramras | 2 |
+| 11 | Andrew McLean | 2 |
+| 12 | Andrew Reed | 2 |
+| 13 | Bill Karam | 2 |
+| 14 | CanDillo | 2 |
+| 15 | Casserly Casserly | 2 |
+| 16 | Charles Vernon | 2 |
+| 17 | D Bauman | 2 |
+| 18 | Daniel Dunn | 2 |
+| 19 | G B | 2 |
+| 20 | Gregory S Davis | 2 |
+| 21 | Haley Young | 2 |
+| 22 | J Popplewell | 2 |
+| 23 | Japhy Dhungana | 2 |
+| 24 | John Gassel | 2 |
+| 25 | Jonah Weil | 2 |
+
+---
+
 ## Top 100 Users by Score
 | Rank | Username | Score | RankScore | GradePts | Total Ticks |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Stefan Griebel | 6920.8 | 87 | 6833.8 | 1449 |
-| 2 | Jack Neus | 3013.2 | 7 | 3006.2 | 562 |
+| 2 | Jack Neus | 3064.8 | 16 | 3048.8 | 579 |
 | 3 | John Alcorn | 2803.0 | 68 | 2735.0 | 460 |
-| 4 | Danny Gilbert | 2662.5 | 65 | 2597.5 | 527 |
+| 4 | Danny Gilbert | 2720.0 | 75 | 2645.0 | 546 |
 | 5 | choss pirate | 1774.5 | 12 | 1762.5 | 219 |
-| 6 | ChossCrimper TopRopePrincess | 1590.0 | 10 | 1580.0 | 191 |
+| 6 | ChossCrimper TopRopePrincess | 1626.0 | 16 | 1610.0 | 194 |
 | 7 | WadeM | 1570.0 | 20 | 1550.0 | 164 |
-| 8 | Kishen Mangat | 1427.0 | 12 | 1415.0 | 146 |
+| 8 | Kishen Mangat | 1475.0 | 20 | 1455.0 | 150 |
 | 9 | Eddie Taylor | 1101.0 | -9 | 1110.0 | 123 |
-| 10 | Michael Butts | 1068.2 | 42 | 1026.2 | 251 |
-| 11 | Samuel Andree | 1019.2 | 13 | 1006.2 | 322 |
+| 10 | Michael Butts | 1088.2 | 42 | 1046.2 | 259 |
+| 11 | Samuel Andree | 1050.2 | 19 | 1031.2 | 332 |
 | 12 | Kate pinktapegloves | 942.0 | 2 | 940.0 | 94 |
 | 13 | Harvest Mondello | 804.5 | 2 | 802.5 | 253 |
 | 14 | Max Manson | 801.5 | -21 | 822.5 | 110 |
@@ -1740,29 +1886,29 @@ Dec | █                            4.5%
 | 23 | Becca Droz | 590.0 | 0 | 590.0 | 59 |
 | 24 | Jake Albright | 577.5 | 15 | 562.5 | 337 |
 | 25 | brenta | 520.0 | 20 | 500.0 | 400 |
-| 26 | DWF 3 | 459.5 | 17 | 442.5 | 56 |
-| 27 | Mark Griffin | 432.8 | -6 | 438.8 | 198 |
-| 28 | Guy H. | 421.0 | -19 | 440.0 | 63 |
-| 29 | Bill Kinter | 413.5 | -24 | 437.5 | 147 |
-| 30 | Haley Young | 408.0 | -7 | 415.0 | 83 |
-| 31 | Justin Compton | 404.2 | -7 | 411.2 | 242 |
+| 26 | Guy H. | 470.0 | -10 | 480.0 | 67 |
+| 27 | DWF 3 | 459.5 | 17 | 442.5 | 56 |
+| 28 | Bill Kinter | 448.0 | -17 | 465.0 | 158 |
+| 29 | Mark Griffin | 432.8 | -6 | 438.8 | 198 |
+| 30 | Justin Compton | 431.8 | -2 | 433.8 | 251 |
+| 31 | Haley Young | 418.0 | -17 | 435.0 | 85 |
 | 32 | Jason Antin | 387.8 | -6 | 393.8 | 141 |
 | 33 | AdamShep | 385.0 | -20 | 405.0 | 50 |
 | 34 | Sputnick | 351.0 | 1 | 350.0 | 35 |
-| 35 | Mike Robinson | 339.0 | 4 | 335.0 | 49 |
-| 36 | Gregger Man | 311.5 | 14 | 297.5 | 69 |
+| 35 | Gregger Man | 349.5 | 22 | 327.5 | 81 |
+| 36 | Mike Robinson | 339.0 | 4 | 335.0 | 49 |
 | 37 | Hailey Moore | 302.0 | 7 | 295.0 | 56 |
-| 38 | Mark Hammond | 297.0 | -43 | 340.0 | 46 |
+| 38 | Mark Hammond | 300.0 | -55 | 355.0 | 52 |
 | 39 | Athena | 295.0 | -15 | 310.0 | 48 |
 | 40 | Abel Richards | 283.5 | -19 | 302.5 | 147 |
 | 41 | P. W. | 281.2 | -15 | 296.2 | 153 |
-| 42 | Samuel Puckett | 261.0 | 1 | 260.0 | 62 |
+| 42 | Samuel Puckett | 272.5 | -5 | 277.5 | 69 |
 | 43 | Nick Esker | 247.0 | 12 | 235.0 | 188 |
 | 44 | David Kennedy | 229.5 | 7 | 222.5 | 178 |
 | 45 | James Klaers | 226.5 | 4 | 222.5 | 55 |
-| 46 | Brian Carver | 221.0 | -29 | 250.0 | 42 |
-| 47 | tooTALLtim | 220.5 | 3 | 217.5 | 52 |
-| 48 | J Popplewell | 214.0 | 29 | 185.0 | 28 |
+| 46 | J Popplewell | 223.0 | 18 | 205.0 | 30 |
+| 47 | Brian Carver | 221.0 | -29 | 250.0 | 42 |
+| 48 | tooTALLtim | 220.5 | 3 | 217.5 | 52 |
 | 49 | Benjamn P | 213.0 | 8 | 205.0 | 56 |
 | 50 | G P | 202.8 | -1 | 203.8 | 86 |
 | 51 | Anonymous | 196.0 | 16 | 180.0 | 72 |
@@ -1771,22 +1917,22 @@ Dec | █                            4.5%
 | 54 | Adam Peternell | 180.0 | -10 | 190.0 | 19 |
 | 55 | Mark Roth | 175.5 | 3 | 172.5 | 138 |
 | 56 | JagerMeister | 163.0 | -7 | 170.0 | 17 |
-| 57 | Luke D | 152.5 | -10 | 162.5 | 74 |
-| 58 | rob bauer | 149.5 | 2 | 147.5 | 44 |
-| 59 | Jeffrey Mascaro | 149.0 | -6 | 155.0 | 24 |
-| 60 | Isaac Porter | 147.0 | 2 | 145.0 | 116 |
-| 61 | Tony Luchetta | 146.0 | -4 | 150.0 | 60 |
-| 62 | Daniel Dunn | 144.5 | -3 | 147.5 | 30 |
-| 63 | Nate Haebig-Kerber | 134.0 | -11 | 145.0 | 35 |
-| 64 | Max Rumer | 131.0 | -9 | 140.0 | 14 |
-| 65 | James Poindexter | 128.8 | 0 | 128.8 | 103 |
-| 66 | Brandon Proffitt | 126.5 | 9 | 117.5 | 47 |
-| 67 | dylan grabowski | 120.5 | -2 | 122.5 | 49 |
-| 68 | Rich Kelly | 120.0 | -15 | 135.0 | 16 |
-| 69 | Japhy Dhungana | 117.0 | 7 | 110.0 | 28 |
-| 70 | Daniel Shanks | 113.0 | 8 | 105.0 | 21 |
-| 71 | Michael Underwood | 112.0 | -28 | 140.0 | 56 |
-| 72 | claytown | 110.0 | -10 | 120.0 | 12 |
+| 57 | Daniel Dunn | 157.5 | -10 | 167.5 | 32 |
+| 58 | Luke D | 152.5 | -10 | 162.5 | 74 |
+| 59 | rob bauer | 149.5 | 2 | 147.5 | 44 |
+| 60 | Jeffrey Mascaro | 149.0 | -6 | 155.0 | 24 |
+| 61 | Isaac Porter | 147.0 | 2 | 145.0 | 116 |
+| 62 | Tony Luchetta | 146.0 | -4 | 150.0 | 60 |
+| 63 | claytown | 142.0 | -8 | 150.0 | 15 |
+| 64 | Nate Haebig-Kerber | 136.0 | -24 | 160.0 | 41 |
+| 65 | Max Rumer | 131.0 | -9 | 140.0 | 14 |
+| 66 | James Poindexter | 128.8 | 0 | 128.8 | 103 |
+| 67 | Brandon Proffitt | 126.5 | 9 | 117.5 | 47 |
+| 68 | Japhy Dhungana | 125.0 | -5 | 130.0 | 30 |
+| 69 | dylan grabowski | 120.5 | -2 | 122.5 | 49 |
+| 70 | Rich Kelly | 120.0 | -15 | 135.0 | 16 |
+| 71 | Daniel Shanks | 113.0 | 8 | 105.0 | 21 |
+| 72 | Michael Underwood | 112.0 | -28 | 140.0 | 56 |
 | 73 | Mitch Friedeman | 109.0 | -1 | 110.0 | 11 |
 | 74 | Ryan Enright | 109.0 | -1 | 110.0 | 11 |
 | 75 | Jan Rous | 105.0 | -5 | 110.0 | 15 |
@@ -1797,40 +1943,40 @@ Dec | █                            4.5%
 | 80 | joshua larkin | 98.2 | -3 | 101.2 | 81 |
 | 81 | Brian Anderson | 97.0 | -3 | 100.0 | 11 |
 | 82 | Nicholas Patterson | 96.0 | 6 | 90.0 | 9 |
-| 83 | New Leader | 94.0 | 4 | 90.0 | 9 |
-| 84 | Will Myers | 93.0 | -12 | 105.0 | 21 |
-| 85 | Michael Spiesbach | 89.8 | -4 | 93.8 | 75 |
-| 86 | max seigal | 88.0 | -12 | 100.0 | 15 |
-| 87 | Gnarls von Powderborne | 88.0 | 8 | 80.0 | 32 |
-| 88 | Javier Goldstein | 86.5 | -31 | 117.5 | 37 |
-| 89 | Anna Dolan | 85.2 | -6 | 91.2 | 73 |
-| 90 | Redacted Redactberg | 84.0 | 4 | 80.0 | 8 |
-| 91 | Rob Baumgartner | 82.0 | -33 | 115.0 | 18 |
-| 92 | Shadrock | 80.5 | -7 | 87.5 | 70 |
-| 93 | Caleb Hackett | 79.0 | -6 | 85.0 | 34 |
-| 94 | Aaron Lucas | 77.2 | -39 | 116.2 | 36 |
-| 95 | Dustin V | 77.0 | -13 | 90.0 | 9 |
-| 96 | Jon Oulton | 75.0 | -5 | 80.0 | 16 |
-| 97 | Kevin Karn | 74.8 | -9 | 83.8 | 67 |
-| 98 | Christian Shields | 74.5 | 7 | 67.5 | 27 |
-| 99 | Dylan Oliver | 73.0 | -7 | 80.0 | 32 |
-| 100 | Josh Rawson | 73.0 | 3 | 70.0 | 7 |
+| 83 | Armin hammer | 94.0 | 4 | 90.0 | 9 |
+| 84 | New Leader | 94.0 | 4 | 90.0 | 9 |
+| 85 | Will Myers | 93.0 | -12 | 105.0 | 21 |
+| 86 | Michael Spiesbach | 89.8 | -4 | 93.8 | 75 |
+| 87 | max seigal | 88.0 | -12 | 100.0 | 15 |
+| 88 | Gnarls von Powderborne | 88.0 | 8 | 80.0 | 32 |
+| 89 | Javier Goldstein | 86.5 | -31 | 117.5 | 37 |
+| 90 | Anna Dolan | 85.2 | -6 | 91.2 | 73 |
+| 91 | Redacted Redactberg | 84.0 | 4 | 80.0 | 8 |
+| 92 | Charles Vernon | 83.0 | 8 | 75.0 | 13 |
+| 93 | Rob Baumgartner | 82.0 | -33 | 115.0 | 18 |
+| 94 | Shadrock | 80.5 | -7 | 87.5 | 70 |
+| 95 | Kevin Karn | 79.8 | -19 | 98.8 | 73 |
+| 96 | Steve M | 79.0 | -26 | 105.0 | 25 |
+| 97 | Caleb Hackett | 79.0 | -6 | 85.0 | 34 |
+| 98 | Patrick Coller | 77.5 | -15 | 92.5 | 22 |
+| 99 | Aaron Lucas | 77.2 | -39 | 116.2 | 36 |
+| 100 | Dustin V | 77.0 | -13 | 90.0 | 9 |
 
 <details><summary>Show #1 finishes and Total Ranks (Top 100)</summary>
 
 | Rank | Username | #1 | Total Ranks |
 | --- | --- | --- | --- |
 | 1 | Stefan Griebel | 5 | 12 |
-| 2 | Jack Neus | 0 | 12 |
+| 2 | Jack Neus | 0 | 13 |
 | 3 | John Alcorn | 1 | 13 |
-| 4 | Danny Gilbert | 3 | 12 |
+| 4 | Danny Gilbert | 4 | 13 |
 | 5 | choss pirate | 0 | 8 |
-| 6 | ChossCrimper TopRopePrincess | 0 | 3 |
+| 6 | ChossCrimper TopRopePrincess | 0 | 4 |
 | 7 | WadeM | 0 | 6 |
-| 8 | Kishen Mangat | 0 | 2 |
+| 8 | Kishen Mangat | 0 | 3 |
 | 9 | Eddie Taylor | 0 | 2 |
-| 10 | Michael Butts | 1 | 12 |
-| 11 | Samuel Andree | 0 | 10 |
+| 10 | Michael Butts | 1 | 13 |
+| 11 | Samuel Andree | 0 | 11 |
 | 12 | Kate pinktapegloves | 0 | 1 |
 | 13 | Harvest Mondello | 0 | 6 |
 | 14 | Max Manson | 0 | 5 |
@@ -1845,29 +1991,29 @@ Dec | █                            4.5%
 | 23 | Becca Droz | 0 | 1 |
 | 24 | Jake Albright | 0 | 2 |
 | 25 | brenta | 2 | 2 |
-| 26 | DWF 3 | 2 | 4 |
-| 27 | Mark Griffin | 0 | 7 |
-| 28 | Guy H. | 0 | 9 |
-| 29 | Bill Kinter | 0 | 8 |
-| 30 | Haley Young | 1 | 4 |
-| 31 | Justin Compton | 0 | 5 |
+| 26 | Guy H. | 0 | 10 |
+| 27 | DWF 3 | 2 | 4 |
+| 28 | Bill Kinter | 0 | 9 |
+| 29 | Mark Griffin | 0 | 7 |
+| 30 | Justin Compton | 0 | 6 |
+| 31 | Haley Young | 1 | 5 |
 | 32 | Jason Antin | 0 | 8 |
 | 33 | AdamShep | 0 | 6 |
 | 34 | Sputnick | 0 | 2 |
-| 35 | Mike Robinson | 0 | 4 |
-| 36 | Gregger Man | 0 | 7 |
+| 35 | Gregger Man | 0 | 8 |
+| 36 | Mike Robinson | 0 | 4 |
 | 37 | Hailey Moore | 0 | 4 |
-| 38 | Mark Hammond | 0 | 7 |
+| 38 | Mark Hammond | 0 | 8 |
 | 39 | Athena | 0 | 8 |
 | 40 | Abel Richards | 0 | 3 |
 | 41 | P. W. | 0 | 3 |
-| 42 | Samuel Puckett | 0 | 6 |
+| 42 | Samuel Puckett | 0 | 7 |
 | 43 | Nick Esker | 0 | 2 |
 | 44 | David Kennedy | 0 | 1 |
 | 45 | James Klaers | 0 | 3 |
-| 46 | Brian Carver | 0 | 6 |
-| 47 | tooTALLtim | 1 | 8 |
-| 48 | J Popplewell | 2 | 3 |
+| 46 | J Popplewell | 2 | 4 |
+| 47 | Brian Carver | 0 | 6 |
+| 48 | tooTALLtim | 1 | 8 |
 | 49 | Benjamn P | 1 | 3 |
 | 50 | G P | 0 | 5 |
 | 51 | Anonymous | 1 | 2 |
@@ -1876,22 +2022,22 @@ Dec | █                            4.5%
 | 54 | Adam Peternell | 0 | 2 |
 | 55 | Mark Roth | 0 | 2 |
 | 56 | JagerMeister | 0 | 1 |
-| 57 | Luke D | 0 | 2 |
-| 58 | rob bauer | 1 | 2 |
-| 59 | Jeffrey Mascaro | 0 | 3 |
-| 60 | Isaac Porter | 0 | 1 |
-| 61 | Tony Luchetta | 0 | 2 |
-| 62 | Daniel Dunn | 0 | 4 |
-| 63 | Nate Haebig-Kerber | 0 | 2 |
-| 64 | Max Rumer | 0 | 1 |
-| 65 | James Poindexter | 0 | 1 |
-| 66 | Brandon Proffitt | 0 | 1 |
-| 67 | dylan grabowski | 0 | 1 |
-| 68 | Rich Kelly | 0 | 3 |
-| 69 | Japhy Dhungana | 0 | 4 |
-| 70 | Daniel Shanks | 0 | 1 |
-| 71 | Michael Underwood | 0 | 3 |
-| 72 | claytown | 0 | 2 |
+| 57 | Daniel Dunn | 0 | 5 |
+| 58 | Luke D | 0 | 2 |
+| 59 | rob bauer | 1 | 2 |
+| 60 | Jeffrey Mascaro | 0 | 3 |
+| 61 | Isaac Porter | 0 | 1 |
+| 62 | Tony Luchetta | 0 | 2 |
+| 63 | claytown | 0 | 3 |
+| 64 | Nate Haebig-Kerber | 0 | 3 |
+| 65 | Max Rumer | 0 | 1 |
+| 66 | James Poindexter | 0 | 1 |
+| 67 | Brandon Proffitt | 0 | 1 |
+| 68 | Japhy Dhungana | 0 | 5 |
+| 69 | dylan grabowski | 0 | 1 |
+| 70 | Rich Kelly | 0 | 3 |
+| 71 | Daniel Shanks | 0 | 1 |
+| 72 | Michael Underwood | 0 | 3 |
 | 73 | Mitch Friedeman | 0 | 2 |
 | 74 | Ryan Enright | 0 | 2 |
 | 75 | Jan Rous | 0 | 2 |
@@ -1902,24 +2048,24 @@ Dec | █                            4.5%
 | 80 | joshua larkin | 0 | 1 |
 | 81 | Brian Anderson | 0 | 2 |
 | 82 | Nicholas Patterson | 0 | 1 |
-| 83 | New Leader | 0 | 1 |
-| 84 | Will Myers | 0 | 2 |
-| 85 | Michael Spiesbach | 0 | 1 |
-| 86 | max seigal | 0 | 3 |
-| 87 | Gnarls von Powderborne | 0 | 1 |
-| 88 | Javier Goldstein | 0 | 3 |
-| 89 | Anna Dolan | 0 | 1 |
-| 90 | Redacted Redactberg | 0 | 1 |
-| 91 | Rob Baumgartner | 0 | 3 |
-| 92 | Shadrock | 0 | 1 |
-| 93 | Caleb Hackett | 0 | 1 |
-| 94 | Aaron Lucas | 0 | 4 |
-| 95 | Dustin V | 0 | 2 |
-| 96 | Jon Oulton | 0 | 1 |
-| 97 | Kevin Karn | 0 | 1 |
-| 98 | Christian Shields | 0 | 1 |
-| 99 | Dylan Oliver | 0 | 1 |
-| 100 | Josh Rawson | 0 | 1 |
+| 83 | Armin hammer | 1 | 2 |
+| 84 | New Leader | 0 | 1 |
+| 85 | Will Myers | 0 | 2 |
+| 86 | Michael Spiesbach | 0 | 1 |
+| 87 | max seigal | 0 | 3 |
+| 88 | Gnarls von Powderborne | 0 | 1 |
+| 89 | Javier Goldstein | 0 | 3 |
+| 90 | Anna Dolan | 0 | 1 |
+| 91 | Redacted Redactberg | 0 | 1 |
+| 92 | Charles Vernon | 0 | 3 |
+| 93 | Rob Baumgartner | 0 | 3 |
+| 94 | Shadrock | 0 | 1 |
+| 95 | Kevin Karn | 0 | 2 |
+| 96 | Steve M | 0 | 3 |
+| 97 | Caleb Hackett | 0 | 1 |
+| 98 | Patrick Coller | 0 | 3 |
+| 99 | Aaron Lucas | 0 | 4 |
+| 100 | Dustin V | 0 | 2 |
 
 </details>
 

@@ -1,5 +1,5 @@
 # Colorado Climbing Route Leaderboards - Full CSV (Ranked by Classic Score)
-_Generated 2026-10-11 08:15:58 MDT_
+_Generated 2026-10-11 09:58:17 MDT_
 
 **User scoring uses Top 25 climbers per route; route pages display Top 10.**
 
