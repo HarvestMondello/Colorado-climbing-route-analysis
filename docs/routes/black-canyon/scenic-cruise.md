@@ -1,0 +1,150 @@
+
+
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/scenic-cruise.png" alt="The Scenic Cruise on  North Chasm View Wall in Black Canyon of Gunnison" width="1200"/>
+
+# Route Profile: *The Scenic Cruise* on  North Chasm View Wall in Black Canyon of Gunnison
+
+<br>
+
+## Index
+
+- [Overview](#overview)
+- [Details](#details)
+- [Metrics](#metrics)
+- [Seasonality](#seasonality)
+- [FKTs](#fkts)
+- [Leaderboards](#leaderboards)
+- [References](#references)
+
+<br>
+
+## Overview  
+- **Area:** Black Canyon of Gunnison
+- **Formation:** North Chasm View Wall
+- **Grade:** YDS 5.10D, 13 pitches, V
+- **Length:** ~1,800'
+- **Style:** Trad, multi pitch
+- **First Ascent:** Ed Webster & Joe Kaelin, 1979
+- **Rock**: Gneiss
+
+<br>
+
+## Details
+### Route Characteristics  
+n/a
+
+### Approach & Descent 
+n/a
+
+### Historical Context  
+n/a
+
+[↑ Back to Index](#index)
+<!-- AUTO:METRICS:START -->
+## Metrics
+
+| Metric              | Value     |
+|:--------------------|:----------|
+| Classic Rank         | 12        |
+| Location             | N Chasm View Wall |
+| Grade                | 5.10d YDS |
+| Pitches              | 13        |
+| FA Info              | Ed Webster & Joe Kaelin, 1979  see description for full |
+| Stars (avg)          | 3.9       |
+| Votes                | 303.0     |
+| Unique Climbers      | 483.0     |
+| Lifetime Ticks       | 599.0     |
+| Avg Ticks / Climber  | 1.24      |
+<!-- AUTO:METRICS:END -->
+[↑ Back to Index](#index)
+
+
+
+<br>
+
+## Seasonality
+### Seasonal Profile & Sun Aspect  
+- **Seasonality:** Spring and Fall, primarily May and October. Summer is too hot and winter has a long approach.
+- **Sun Exposure:** 
+
+<!-- AUTO:SEASONALITY:START -->
+### Seasonality Data
+
+#### Meteorological Seasons
+- ❄️ **Winter (Dec–Feb)**: 2.2% **off season**
+- 🌸 **Spring (Mar–May)**: 39.7%
+- ☀️ **Summer (Jun–Aug)**: 12.4%
+- 🍂 **Fall (Sep–Nov)**: 45.7% **high season**
+
+### Seasonality Usage by Month
+```
+Jan | █                              0.4%
+Feb | █                              0.2%
+Mar | █                              1.4%
+Apr | ███                           11.6%
+May | ████████                      26.7%
+Jun | ███                           10.2%
+Jul | █                              0.6%
+Aug | █                              1.6%
+Sep | █████                         17.2%
+Oct | ███████                       24.8%
+Nov | █                              3.8%
+Dec | █                              1.6%
+```
+<!-- AUTO:SEASONALITY:END -->
+[↑ Back to Index](#index)
+
+<br>
+
+## FKTs 
+
+### Fastest Known Time (FKT): trailhead to trailhead 
+
+| Time    | Date       | Climbers                          | Notes              | Verification       |
+|---------|------------|-----------------------------------|--------------------|--------------------|
+| n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
+
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
+
+[↑ Back to Index](#index)
+
+<br>
+
+<!-- AUTO:TOP_CLIMBERS:START -->
+## Leaderboards
+
+| Rank | Climber | Ticks |
+|-----:|:--------|------:|
+| 1 | Andrew W | 9 |
+| 2 | Charles Vernon | 4 |
+| 3 | Chris Beh | 3 |
+| 4 | Elliott Bernhagen | 3 |
+| 5 | Nico Leis | 3 |
+| 6 | e Dixon | 3 |
+| 7 | jselwyn | 3 |
+| 8 | michalm | 3 |
+| 9 | tooTALLtim | 3 |
+| 10 | Alex Styp | 2 |
+| 11 | Alex Zucca | 2 |
+| 12 | Andrew Reed | 2 |
+| 13 | Athena | 2 |
+| 14 | Brenton Kreiger | 2 |
+| 15 | Colin Simon | 2 |
+| 16 | Ethan Sharkowicz | 2 |
+| 17 | F r i t z | 2 |
+| 18 | Guy H. | 2 |
+| 19 | HappyThursday | 2 |
+| 20 | J. Thompson | 2 |
+| 21 | Japhy Dhungana | 2 |
+| 22 | Jason Brown | 2 |
+| 23 | Jason Halladay | 2 |
+| 24 | Jonathan White | 2 |
+| 25 | Kevin Heinrich | 2 |
+<!-- AUTO:TOP_CLIMBERS:END -->
+[Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
+
+[↑ Back to Index](#index)
+
+## References  
+- The Black: A Comprehensive Climbing Guide to Black Canyon of the Gunnison National Park by Vic Zeilman, 2016  
+- [Mountain Project Entry](https://www.mountainproject.com/route/105756778/the-scenic-cruise/)
