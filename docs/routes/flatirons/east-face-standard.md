@@ -58,9 +58,9 @@ The Third Flatiron has a long tradition of speed climbs. It is often included in
 | FA Info              | Floyd and Earl Millard, 1906 |
 | Stars (avg)          | 3.7       |
 | Votes                | 1274.0    |
-| Unique Climbers      | 2594.0    |
-| Lifetime Ticks       | 5174.0    |
-| Avg Ticks / Climber  | 1.99      |
+| Unique Climbers      | 2640.0    |
+| Lifetime Ticks       | 5297.0    |
+| Avg Ticks / Climber  | 2.01      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
 
@@ -78,25 +78,25 @@ The Third Flatiron has a long tradition of speed climbs. It is often included in
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 11.4%
+- ❄️ **Winter (Dec–Feb)**: 11.1%
 - 🌸 **Spring (Mar–May)**: 1.9% **off season**
-- ☀️ **Summer (Jun–Aug)**: 34.2%
-- 🍂 **Fall (Sep–Nov)**: 52.4% **high season**
+- ☀️ **Summer (Jun–Aug)**: 33.6%
+- 🍂 **Fall (Sep–Nov)**: 53.4% **high season**
 
 ### Seasonality Usage by Month
 ```
-Jan | ██                             5.3%
+Jan | █                              5.2%
 Feb | █                              0.3%
 Mar | █                              0.5%
-Apr | █                              0.9%
-May | █                              0.6%
+Apr | █                              0.8%
+May | █                              0.5%
 Jun | █                              0.9%
-Jul | █                              4.2%
-Aug | ████████                      29.2%
-Sep | ██████                        21.9%
+Jul | █                              4.1%
+Aug | ████████                      28.7%
+Sep | ███████                       23.0%
 Oct | █████                         18.9%
-Nov | ███                           11.7%
-Dec | ██                             5.8%
+Nov | ███                           11.4%
+Dec | ██                             5.6%
 ```
 <!-- AUTO:SEASONALITY:END -->
 [↑ Back to Index](#index)
@@ -160,29 +160,29 @@ All FKTs, unless otherwise stated, start at the trailhead “Abridged” map pos
 |-----:|:--------|------:|
 | 1 | brenta | 172 |
 | 2 | Stefan Griebel | 147 |
-| 3 | Mark Roth | 63 |
+| 3 | Mark Roth | 64 |
 | 4 | Brad Schildt | 39 |
 | 5 | Nick Esker | 38 |
-| 6 | Jason Antin | 34 |
-| 7 | Samuel Andree | 32 |
-| 8 | Dan Howell | 27 |
-| 9 | G P | 27 |
-| 10 | Jack Neus | 27 |
-| 11 | Eric Klammer | 26 |
-| 12 | Harvest Mondello | 24 |
-| 13 | Bill Kinter | 23 |
-| 14 | Chris Gummer | 23 |
-| 15 | Michael Butts | 22 |
-| 16 | Mighty Mango | 21 |
+| 6 | Jason Antin | 35 |
+| 7 | Samuel Andree | 33 |
+| 8 | Harvest Mondello | 29 |
+| 9 | Jack Neus | 28 |
+| 10 | Dan Howell | 27 |
+| 11 | G P | 27 |
+| 12 | Eric Klammer | 26 |
+| 13 | Chris Gummer | 24 |
+| 14 | Michael Butts | 23 |
+| 15 | Bill Kinter | 22 |
+| 16 | Mighty Mango | 20 |
 | 17 | P. W. | 20 |
 | 18 | Tony B | 20 |
 | 19 | Eric K | 19 |
 | 20 | Brian Moore | 18 |
 | 21 | Luke D | 18 |
 | 22 | Mark Griffin | 18 |
-| 23 | Aaron Lucas | 17 |
-| 24 | Chris Plesko | 17 |
-| 25 | Matthew Sharpe | 17 |
+| 23 | Quin K | 18 |
+| 24 | Aaron Lucas | 17 |
+| 25 | Chris Plesko | 17 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 [Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
 

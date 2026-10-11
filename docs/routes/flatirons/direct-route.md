@@ -57,8 +57,8 @@ n/a
 | FA Info              | Pat Ament and Larry Dalke, c. 1960 |
 | Stars (avg)          | 3.6       |
 | Votes                | 1431.0    |
-| Unique Climbers      | 2969.0    |
-| Lifetime Ticks       | 7237.0    |
+| Unique Climbers      | 2984.0    |
+| Lifetime Ticks       | 7277.0    |
 | Avg Ticks / Climber  | 2.44      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
@@ -75,9 +75,9 @@ n/a
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 6.9% **low season**
-- 🌸 **Spring (Mar–May)**: 28.3%
-- ☀️ **Summer (Jun–Aug)**: 39.4% **high season**
-- 🍂 **Fall (Sep–Nov)**: 25.3%
+- 🌸 **Spring (Mar–May)**: 28.1%
+- ☀️ **Summer (Jun–Aug)**: 39.2% **high season**
+- 🍂 **Fall (Sep–Nov)**: 25.8%
 
 ### Seasonality Usage by Month
 ```
@@ -86,12 +86,12 @@ Feb | █                              2.1%
 Mar | ██                             6.3%
 Apr | ███                            9.9%
 May | ███                           12.0%
-Jun | ████                          14.8%
-Jul | ████                          13.2%
+Jun | ████                          14.7%
+Jul | ████                          13.0%
 Aug | ███                           11.5%
-Sep | ███                           10.1%
+Sep | ███                           10.5%
 Oct | ███                            9.8%
-Nov | ██                             5.5%
+Nov | ██                             5.4%
 Dec | █                              3.2%
 ```
 <!-- AUTO:SEASONALITY:END -->
@@ -192,27 +192,27 @@ All FKTs start at the trailhead “Abridged” map post, located at the junction
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | Stefan Griebel | 593 |
-| 2 | Eric K | 263 |
-| 3 | Samuel Andree | 173 |
-| 4 | Chris Gummer | 121 |
-| 5 | Jake Albright | 112 |
+| 1 | Stefan Griebel | 591 |
+| 2 | Eric K | 267 |
+| 3 | Samuel Andree | 178 |
+| 4 | Chris Gummer | 120 |
+| 5 | Jake Albright | 113 |
 | 6 | Ryan Marsters | 109 |
 | 7 | P. W. | 84 |
-| 8 | John Alcorn | 73 |
-| 9 | Abel Richards | 71 |
-| 10 | Jack Neus | 71 |
-| 11 | Luke D | 57 |
+| 8 | Jack Neus | 73 |
+| 9 | John Alcorn | 73 |
+| 10 | Abel Richards | 71 |
+| 11 | Luke D | 56 |
 | 12 | Jason Antin | 49 |
 | 13 | dylan grabowski | 49 |
-| 14 | Bill Kinter | 45 |
-| 15 | ChossCrimper TopRopePrincess | 43 |
+| 14 | Bill Kinter | 46 |
+| 15 | ChossCrimper TopRopePrincess | 44 |
 | 16 | Tony Luchetta | 36 |
 | 17 | Caleb Hackett | 34 |
 | 18 | Dylan Oliver | 32 |
 | 19 | rob bauer | 29 |
 | 20 | Bob Johnson | 28 |
-| 21 | Joey Prusa | 27 |
+| 21 | Joey Prusa | 26 |
 | 22 | Michael Butts | 25 |
 | 23 | Tony B | 25 |
 | 24 | Thomas Dietert | 24 |
@@ -228,5 +228,3 @@ All FKTs start at the trailhead “Abridged” map post, located at the junction
 - [FKT History Notebooks: First-Third Flatirons linkup](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/1st-and-3rd-linkup.png)
 - *Climbing Boulder's Flatirons*, Second Edition by Jason Haas, 2017
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748268/direct-route)
-
-

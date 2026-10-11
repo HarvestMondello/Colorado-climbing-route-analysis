@@ -56,8 +56,8 @@ n/a
 | FA Info              | unknown   |
 | Stars (avg)          | 3.5       |
 | Votes                | 300.0     |
-| Unique Climbers      | 631.0     |
-| Lifetime Ticks       | 927.0     |
+| Unique Climbers      | 634.0     |
+| Lifetime Ticks       | 932.0     |
 | Avg Ticks / Climber  | 1.47      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
@@ -76,23 +76,23 @@ n/a
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 5.5% **low season**
-- 🌸 **Spring (Mar–May)**: 30.8%
-- ☀️ **Summer (Jun–Aug)**: 38.2% **high season**
-- 🍂 **Fall (Sep–Nov)**: 25.5%
+- 🌸 **Spring (Mar–May)**: 30.6%
+- ☀️ **Summer (Jun–Aug)**: 38.0% **high season**
+- 🍂 **Fall (Sep–Nov)**: 25.9%
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              1.8%
 Feb | █                              1.9%
-Mar | ██                             5.7%
-Apr | ███                            9.1%
-May | █████                         16.0%
-Jun | ████                          15.1%
-Jul | ████                          13.5%
-Aug | ███                            9.6%
-Sep | ███                            9.2%
-Oct | ███                           10.1%
-Nov | ██                             6.2%
+Mar | ██                             5.6%
+Apr | ███                            9.0%
+May | █████                         15.9%
+Jun | ████                          15.0%
+Jul | ████                          13.4%
+Aug | ███                            9.5%
+Sep | ███                            9.3%
+Oct | ███                           10.5%
+Nov | ██                             6.1%
 Dec | █                              1.9%
 ```
 <!-- AUTO:SEASONALITY:END -->

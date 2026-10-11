@@ -55,9 +55,9 @@ n/a
 | FA Info              | unknown   |
 | Stars (avg)          | 3.0       |
 | Votes                | 232.0     |
-| Unique Climbers      | 572.0     |
-| Lifetime Ticks       | 1057.0    |
-| Avg Ticks / Climber  | 1.85      |
+| Unique Climbers      | 580.0     |
+| Lifetime Ticks       | 1078.0    |
+| Avg Ticks / Climber  | 1.86      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
 
@@ -74,25 +74,25 @@ n/a
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 9.1% **low season**
-- 🌸 **Spring (Mar–May)**: 29.1%
-- ☀️ **Summer (Jun–Aug)**: 27.8%
-- 🍂 **Fall (Sep–Nov)**: 34.0% **high season**
+- ❄️ **Winter (Dec–Feb)**: 8.9% **low season**
+- 🌸 **Spring (Mar–May)**: 28.4%
+- ☀️ **Summer (Jun–Aug)**: 27.2%
+- 🍂 **Fall (Sep–Nov)**: 35.5% **high season**
 
 ### Seasonality Usage by Month
 ```
-Jan | █                              1.8%
+Jan | █                              1.7%
 Feb | █                              2.7%
-Mar | ██                             5.5%
-Apr | ███                           10.4%
-May | ████                          13.2%
-Jun | ███                           12.2%
-Jul | ███                            8.9%
-Aug | ██                             6.7%
-Sep | █████                         16.3%
-Oct | ███                           11.1%
-Nov | ██                             6.7%
-Dec | █                              4.6%
+Mar | ██                             5.4%
+Apr | ███                           10.2%
+May | ████                          12.8%
+Jun | ███                           12.0%
+Jul | ██                             8.7%
+Aug | ██                             6.5%
+Sep | █████                         17.6%
+Oct | ███                           11.3%
+Nov | ██                             6.5%
+Dec | █                              4.5%
 ```
 <!-- AUTO:SEASONALITY:END -->
 [↑ Back to Index](#index)
@@ -118,10 +118,10 @@ Dec | █                              4.6%
 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
-| 1 | Stefan Griebel | 19 |
+| 1 | Stefan Griebel | 21 |
 | 2 | Harvest Mondello | 18 |
-| 3 | Isaac Porter | 17 |
-| 4 | Doug Simpson | 15 |
+| 3 | Doug Simpson | 17 |
+| 4 | Isaac Porter | 17 |
 | 5 | Jake Albright | 15 |
 | 6 | Ralph Swansen | 15 |
 | 7 | Joe Castellano | 14 |
@@ -138,11 +138,11 @@ Dec | █                              4.6%
 | 18 | Mighty Mango | 8 |
 | 19 | Chris Gummer | 7 |
 | 20 | Bill Kinter | 6 |
-| 21 | Charles Vernon | 6 |
-| 22 | Eric K | 6 |
-| 23 | John Alcorn | 6 |
-| 24 | Josh Horne | 6 |
-| 25 | Andy Ban | 5 |
+| 21 | Eric K | 6 |
+| 22 | John Alcorn | 6 |
+| 23 | Josh Horne | 6 |
+| 24 | Matt Beckwith | 6 |
+| 25 | Shay Subramanian | 6 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 [Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
 

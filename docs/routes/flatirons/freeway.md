@@ -62,9 +62,9 @@ n/a
 | FA Info              | unknown   |
 | Stars (avg)          | 3.4       |
 | Votes                | 1478.0    |
-| Unique Climbers      | 4315.0    |
-| Lifetime Ticks       | 13334.0   |
-| Avg Ticks / Climber  | 3.09      |
+| Unique Climbers      | 4348.0    |
+| Lifetime Ticks       | 13505.0   |
+| Avg Ticks / Climber  | 3.11      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
 
@@ -82,22 +82,22 @@ n/a
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 8.8% **low season**
-- 🌸 **Spring (Mar–May)**: 27.3%
-- ☀️ **Summer (Jun–Aug)**: 37.3% **high season**
-- 🍂 **Fall (Sep–Nov)**: 26.6%
+- 🌸 **Spring (Mar–May)**: 27.0%
+- ☀️ **Summer (Jun–Aug)**: 36.9% **high season**
+- 🍂 **Fall (Sep–Nov)**: 27.3%
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              2.4%
 Feb | █                              2.7%
 Mar | ██                             6.2%
-Apr | ███                            9.4%
-May | ███                           11.7%
-Jun | ████                          12.5%
-Jul | ███                           12.0%
-Aug | ████                          12.7%
-Sep | ███                           11.0%
-Oct | ███                            9.9%
+Apr | ███                            9.3%
+May | ███                           11.6%
+Jun | ████                          12.4%
+Jul | ███                           11.8%
+Aug | ████                          12.6%
+Sep | ███                           11.5%
+Oct | ███                           10.2%
 Nov | ██                             5.7%
 Dec | █                              3.7%
 ```
@@ -166,29 +166,29 @@ The route-only FKT is also somewhat contrived, as it finishes at the top of the 
 | Rank | Climber | Ticks |
 |-----:|:--------|------:|
 | 1 | brenta | 228 |
-| 2 | Jake Albright | 226 |
-| 3 | Justin Compton | 194 |
-| 4 | David Kennedy | 180 |
+| 2 | Jake Albright | 224 |
+| 3 | Justin Compton | 195 |
+| 4 | David Kennedy | 178 |
 | 5 | Nick Esker | 150 |
-| 6 | Stefan Griebel | 143 |
-| 7 | Chris Gummer | 139 |
-| 8 | Jack Neus | 138 |
+| 6 | Stefan Griebel | 144 |
+| 7 | Jack Neus | 141 |
+| 8 | Chris Gummer | 139 |
 | 9 | Isaac Porter | 116 |
 | 10 | Mark Griffin | 107 |
-| 11 | James Poindexter | 101 |
-| 12 | Chris Bamat | 82 |
-| 13 | joshua larkin | 81 |
-| 14 | Harvest Mondello | 78 |
-| 15 | Mark Roth | 74 |
-| 16 | Anna Dolan | 73 |
-| 17 | Michael Spiesbach | 72 |
+| 11 | James Poindexter | 103 |
+| 12 | Chris Bamat | 83 |
+| 13 | Harvest Mondello | 81 |
+| 14 | joshua larkin | 81 |
+| 15 | Michael Spiesbach | 75 |
+| 16 | Mark Roth | 74 |
+| 17 | Anna Dolan | 73 |
 | 18 | Shadrock | 70 |
-| 19 | Abel Richards | 67 |
-| 20 | Kevin Karn | 66 |
-| 21 | Bill West | 65 |
-| 22 | Damon Ehrett | 61 |
-| 23 | Paul Hoerster | 53 |
-| 24 | P. W. | 50 |
+| 19 | Abel Richards | 68 |
+| 20 | Kevin Karn | 67 |
+| 21 | Damon Ehrett | 65 |
+| 22 | Bill West | 64 |
+| 23 | Paul Hoerster | 54 |
+| 24 | P. W. | 49 |
 | 25 | Michael Underwood | 48 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 [Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
