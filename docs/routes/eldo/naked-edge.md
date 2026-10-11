@@ -162,7 +162,7 @@ Dec | █                              3.4%
 ### All Women’s Naked Edge FKT  
 - **37:08 B2B** | 2025-03-28 | Kate Kelleghan & Laura Pineau (France)  
 - Verification: **37:11** [GPS Verification](https://www.strava.com/activities/14015319817)  
-- **First all-women FKT:** 37:21 B2B | 2021-09 | Kate Kelleghan & Becca Droz
+- **First all-women FKT:** 37:40 B2B | 2021-09-26 | Kate Kelleghan & Becca Droz
 
 ### All known sub 25 and Sub 30 minutes bridge to bridge climbing teams:
 | Time    | Date       | Climbers                          | Notes              | Verification       | Verification 2     |
