@@ -1,5 +1,5 @@
 
-<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/.png" alt="" width="1200"/>
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/country-club-crack.png" alt="Country Club Crack on Castle Rock in Boulder Canyon" width="1200"/>
 
 # Route Profile: *Country Club Crack* on Castle Rock in Boulder Canyon
 
@@ -31,7 +31,7 @@
 
 ## Details
 ### Route Characteristics  
-Varied crack climbing.
+Varied crack climbing. Both a test piece for the grade and a good introduction to aid climbing.
 
 ### Approach & Descent 
 Approach: Roadside
