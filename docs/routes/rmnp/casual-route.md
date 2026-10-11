@@ -63,8 +63,8 @@
 | FA Info              | Duncan Ferguson, Chris Reveley, 1977 |
 | Stars (avg)          | 3.8       |
 | Votes                | 733.0     |
-| Unique Climbers      | 1236.0    |
-| Lifetime Ticks       | 1665.0    |
+| Unique Climbers      | 1239.0    |
+| Lifetime Ticks       | 1670.0    |
 | Avg Ticks / Climber  | 1.35      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
@@ -85,8 +85,8 @@
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 2.0% **off season**
 - 🌸 **Spring (Mar–May)**: 1.6% **off season**
-- ☀️ **Summer (Jun–Aug)**: 75.5% **high season**
-- 🍂 **Fall (Sep–Nov)**: 20.8%
+- ☀️ **Summer (Jun–Aug)**: 75.2% **high season**
+- 🍂 **Fall (Sep–Nov)**: 21.1%
 
 ### Seasonality Usage by Month
 ```
@@ -96,9 +96,9 @@ Mar | █                              0.3%
 Apr | █                              0.5%
 May | █                              0.8%
 Jun | ██                             5.6%
-Jul | ████████                      28.1%
-Aug | ████████████                  41.8%
-Sep | █████                         18.6%
+Jul | ████████                      27.9%
+Aug | ████████████                  41.7%
+Sep | █████                         18.9%
 Oct | █                              1.4%
 Nov | █                              0.8%
 Dec | █                              1.1%
@@ -224,12 +224,12 @@ This is a wild linkup of some of the best climbs in the area.
 | 17 | A.Eaton | 4 |
 | 18 | Danny Gilbert | 4 |
 | 19 | David Appelhans | 4 |
-| 20 | Evan King | 4 |
-| 21 | Guy H. | 4 |
-| 22 | Jeremy K | 4 |
-| 23 | Matt Combs | 4 |
-| 24 | Ross Andrea | 4 |
-| 25 | Tristan Bradford | 4 |
+| 20 | Guy H. | 4 |
+| 21 | Jeremy K | 4 |
+| 22 | Matt Combs | 4 |
+| 23 | Ross Andrea | 4 |
+| 24 | Tristan Bradford | 4 |
+| 25 | Aaron Glasenapp | 3 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 [Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
 

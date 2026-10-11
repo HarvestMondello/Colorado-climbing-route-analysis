@@ -53,9 +53,9 @@ n/a
 | FA Info              | Clint Brooks, Charlie Ehlert, Dave Fedson, James Walker, and Phil Ritterbush, 1958 |
 | Stars (avg)          | 3.5       |
 | Votes                | 190.0     |
-| Unique Climbers      | 403.0     |
-| Lifetime Ticks       | 513.0     |
-| Avg Ticks / Climber  | 1.27      |
+| Unique Climbers      | 406.0     |
+| Lifetime Ticks       | 519.0     |
+| Avg Ticks / Climber  | 1.28      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
 
@@ -74,8 +74,8 @@ n/a
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 1.3% **off season**
 - 🌸 **Spring (Mar–May)**: 1.1% **off season**
-- ☀️ **Summer (Jun–Aug)**: 71.6% **high season**
-- 🍂 **Fall (Sep–Nov)**: 26.0%
+- ☀️ **Summer (Jun–Aug)**: 71.3% **high season**
+- 🍂 **Fall (Sep–Nov)**: 26.3%
 
 ### Seasonality Usage by Month
 ```
@@ -84,11 +84,11 @@ Feb | █                              0.2%
 Mar | █                              0.4%
 Apr | █                              0.4%
 May | █                              0.2%
-Jun | ███                           11.5%
-Jul | █████████                     32.2%
-Aug | ████████                      28.0%
-Sep | ███████                       23.8%
-Oct | █                              2.2%
+Jun | ███                           11.3%
+Jul | █████████                     32.4%
+Aug | ████████                      27.6%
+Sep | ███████                       23.7%
+Oct | █                              2.6%
 Nov |                                0.0%
 Dec | █                              0.4%
 ```

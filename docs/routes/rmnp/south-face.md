@@ -25,6 +25,7 @@
 - **Length:** ~700'  
 - **Style:** Trad, multipitch  
 - **First Ascent:**  William Buckingham and Art Davidson, 1961 
+- **Rock**: Gneiss
 
 <br>
 
@@ -52,8 +53,8 @@ n/a
 | FA Info              | unknown   |
 | Stars (avg)          | 3.7       |
 | Votes                | 820.0     |
-| Unique Climbers      | 1608.0    |
-| Lifetime Ticks       | 2072.0    |
+| Unique Climbers      | 1632.0    |
+| Lifetime Ticks       | 2102.0    |
 | Avg Ticks / Climber  | 1.29      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
@@ -72,9 +73,9 @@ n/a
 
 #### Meteorological Seasons
 - ❄️ **Winter (Dec–Feb)**: 1.3% **off season**
-- 🌸 **Spring (Mar–May)**: 3.5%
-- ☀️ **Summer (Jun–Aug)**: 75.1% **high season**
-- 🍂 **Fall (Sep–Nov)**: 20.2%
+- 🌸 **Spring (Mar–May)**: 3.4%
+- ☀️ **Summer (Jun–Aug)**: 74.3% **high season**
+- 🍂 **Fall (Sep–Nov)**: 21.0%
 
 ### Seasonality Usage by Month
 ```
@@ -83,11 +84,11 @@ Feb | █                              0.2%
 Mar | █                              0.5%
 Apr | █                              0.6%
 May | █                              2.4%
-Jun | ██████                        20.0%
-Jul | ████████                      29.3%
-Aug | ███████                       25.7%
-Sep | █████                         18.0%
-Oct | █                              2.0%
+Jun | ██████                        19.8%
+Jul | ████████                      29.1%
+Aug | ███████                       25.5%
+Sep | █████                         18.5%
+Oct | █                              2.3%
 Nov | █                              0.2%
 Dec | █                              0.5%
 ```
@@ -123,23 +124,23 @@ Dec | █                              0.5%
 | 6 | Bill Kinter | 5 |
 | 7 | Jason Antin | 5 |
 | 8 | Marcos M | 5 |
-| 9 | Aidan Hobart | 4 |
-| 10 | Bug Boy | 4 |
-| 11 | Craig Woodward | 4 |
-| 12 | Devon Colegrove | 4 |
-| 13 | Joe Castellano | 4 |
-| 14 | Nick Fury | 4 |
-| 15 | Pierce J | 4 |
-| 16 | Ryan Dresser | 4 |
-| 17 | Samuel Puckett | 4 |
-| 18 | Steven Moss | 4 |
-| 19 | brent b | 4 |
-| 20 | A.Eaton | 3 |
-| 21 | Andrew Hoskins | 3 |
-| 22 | Climbnh | 3 |
-| 23 | DWF 3 | 3 |
-| 24 | Daniel S | 3 |
-| 25 | David Stillman | 3 |
+| 9 | Samuel Puckett | 5 |
+| 10 | Aidan Hobart | 4 |
+| 11 | Bug Boy | 4 |
+| 12 | Craig Woodward | 4 |
+| 13 | Devon Colegrove | 4 |
+| 14 | Joe Castellano | 4 |
+| 15 | Nick Fury | 4 |
+| 16 | Pierce J | 4 |
+| 17 | Ryan Dresser | 4 |
+| 18 | brent b | 4 |
+| 19 | A.Eaton | 3 |
+| 20 | Andrew Hoskins | 3 |
+| 21 | Climbnh | 3 |
+| 22 | DWF 3 | 3 |
+| 23 | Daniel S | 3 |
+| 24 | David Stillman | 3 |
+| 25 | Hal Fotinos | 3 |
 <!-- AUTO:TOP_CLIMBERS:END -->
 [Colorado Leaderboards Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/leaderboards.md)
 

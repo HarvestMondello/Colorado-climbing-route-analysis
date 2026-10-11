@@ -57,7 +57,7 @@ n/a
 | Stars (avg)          | 3.6       |
 | Votes                | 228.0     |
 | Unique Climbers      | 422.0     |
-| Lifetime Ticks       | 578.0     |
+| Lifetime Ticks       | 579.0     |
 | Avg Ticks / Climber  | 1.37      |
 <!-- AUTO:METRICS:END -->
 [↑ Back to Index](#index)
@@ -75,25 +75,25 @@ n/a
 ### Seasonality Data
 
 #### Meteorological Seasons
-- ❄️ **Winter (Dec–Feb)**: 5.4% **low season**
-- 🌸 **Spring (Mar–May)**: 8.0%
-- ☀️ **Summer (Jun–Aug)**: 72.0% **high season**
-- 🍂 **Fall (Sep–Nov)**: 14.6%
+- ❄️ **Winter (Dec–Feb)**: 5.6% **low season**
+- 🌸 **Spring (Mar–May)**: 7.9%
+- ☀️ **Summer (Jun–Aug)**: 71.7% **high season**
+- 🍂 **Fall (Sep–Nov)**: 14.8%
 
 ### Seasonality Usage by Month
 ```
 Jan | █                              1.9%
 Feb | █                              0.9%
-Mar | █                              2.2%
-Apr | █                              2.2%
-May | █                              3.7%
+Mar | █                              2.1%
+Apr | █                              2.1%
+May | █                              3.6%
 Jun | █████                         16.1%
-Jul | █████████                     31.4%
-Aug | ███████                       24.5%
-Sep | ███                            9.5%
-Oct | █                              3.7%
+Jul | █████████                     31.3%
+Aug | ███████                       24.4%
+Sep | ███                            9.4%
+Oct | █                              3.9%
 Nov | █                              1.5%
-Dec | █                              2.6%
+Dec | █                              2.8%
 ```
 <!-- AUTO:SEASONALITY:END -->
 [↑ Back to Index](#index)
