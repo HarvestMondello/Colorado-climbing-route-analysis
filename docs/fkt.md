@@ -1,6 +1,7 @@
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/naked-edge.png" alt="The Naked Edge on the Redgarde Wall: Tower Two in Eldorado Canyon" width="1200"/>
+
 # Speed Climbing in Colorado: Fastest Known Time (FKT)
-
-
+The photo above is of Redgarden Tower Two and the Naked Edge route, the most competative FKT route in the State of Colorado. 
 <br>
 
 ## Index
@@ -311,7 +312,7 @@ OSMP Routes:
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|--------------------|
 The "Naked Spur" | n/a   | n/a  | n/a      |  The Naked Edge & The Yellow Spur| SoBo Creek footbridge (B2B) | |
 Redgarden Triple  | n/a   | n/a  | n/a      |  Redgarden Tower 1, Tower 2 and Green Spur Buttress| SoBo Creek footbridge (B2B) | |
-Eldo Quad | n/a   | n/a  | n/a      |  The West Ridge, Redgarden Wall, Wind Ridge, The Bastille | SoBo Creek footbridge (B2B) | |
+Eldo Quad | n/a   | n/a  | n/a      |  The West Ridge, Redgarden Wall, Wind Tower, The Bastille | SoBo Creek footbridge (B2B) | |
 Eldo 15 Towers Tour   | n/a   | n/a  | n/a      |  The 15 Major Eldo Formations | SoBo Creek footbridge (B2B) | |
 
 
