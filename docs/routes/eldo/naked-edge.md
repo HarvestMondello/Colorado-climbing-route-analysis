@@ -162,9 +162,12 @@ Dec | █                              3.4%
 ### All Women’s Naked Edge FKT  
 - **37:08 B2B** | 2025-03-28 | Kate Kelleghan & Laura Pineau (France)  
 - Verification: **37:11** [GPS Verification](https://www.strava.com/activities/14015319817)  
-- **First all-women FKT:** 37:40 B2B | 2021-09-26 | Kate Kelleghan & Becca Droz
+- **First all-women FKT:** 37:21 B2B | 2021-09 | Kate Kelleghan & Becca Droz
 
 ### All known sub 25 and Sub 30 minutes bridge to bridge climbing teams:
+- 10 rope teams
+- 13 individuals sub 30 including 10 sub 25
+
 | Time    | Date       | Climbers                          | Notes              | Verification       | Verification 2     |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 22:44   | 2022-10-22 | Stefan Griebel, Joe Kennedy       | Current FKT        | [GPS Verification](https://www.strava.com/activities/8004442835#3019063963637264876)|                    |
@@ -184,7 +187,7 @@ Dec | █                              3.4%
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 54:29   | 2024-11-01 | Stefan Griebel, Jack Neus       | Double Naked Edge        | [GPS Verification](https://www.strava.com/activities/12799156686)|    [GPS Verification](https://www.strava.com/activities/12799275089)              |
 | 2:51:41   | 2026-01-14 | Stefan Griebel, Jack Neus        | Quad Naked Edge        | [GPS Verification](https://www.strava.com/activities/17051369134)|    [GPS Verification](https://www.strava.com/activities/17051658142)  
-
+| 1:29:xx   | 2020-06-12| Max Manson        | rope solo B2B       | [Instragram](https://www.instagram.com/p/CBW1jurhaN3/?cplk=ZDRwN3FwMWh5aDUz)| |    
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
 
 [↑ Back to Index](#index)

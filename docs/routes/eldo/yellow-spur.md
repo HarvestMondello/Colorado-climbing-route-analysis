@@ -169,11 +169,19 @@ https://www.strava.com/activities/6217015397
 
 | Time    | Date       | Climbers                          | Notes              | Verification       |   Verification 2   |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
-| 10:10  | 2026-07-23 | Michael Reese, Jack Gugel         | Current route only FKT  | [GPS Verification](https://www.strava.com/activities/19434761338)|                    |
-| 10:48  | 2021-03-03 | Jack Neus, Joe Kennedy         |   | [GPS Verification](https://www.strava.com/activities/6769287759)  |                    |
+| 28:04  | 2026-07-23 | Michael Reese, Jack Gugel         | Current FKT  | [GPS Verification](https://www.strava.com/activities/19434761338)|                    |                   |
+| 10:48  | 2021-03-03 | Jack Neus, Joe Kennedy         |   | [GPS Verification](https://www.strava.com/activities/6769287759)  |  [GPS Verification2](https://www.strava.com/activities/6769357740)                 |
 | 12:40  | 1998-06-xx | Mic "Sick" Fairchild         |   | Speed Climbing! How to Climb Faster and Better, by Hans Florine and Bill Wright  |                    |
 
+### Yellow Spur: All known sub 30 min and sub 45 min climbers (best know PR only per team)
+- 6 known climbers to date have gone sub 45 include 4 that have gone sub 30. There's very likely others under the raidar. 
 
+| Time    | Date       | Climbers                          | Notes              | Verification       |   Verification 2   |
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+| 28:04  | 2026-07-23 | Michael Reese, Jack Gugel         | Current FKT  | [GPS Verification](https://www.strava.com/activities/19434761338)|                    |               |
+| 29:35  | 2021-03-03 | Jack Neus, Joe Kennedy         |   | [GPS Verification](https://www.strava.com/activities/6769287759)  |[GPS Verification2](https://www.strava.com/activities/6769357740) 
+| 36:05  | 2020-08-08 | Bill Wright, Danny Gilbert     |             |    [GPS Verification](https://www.strava.com/activities/3882758948)                  |[GPS Verification 2](https://www.strava.com/activities/3882911091) |                    | |                    |
+| xx | xx | xx        | xx  | [GPS Verification]()|  
 
 
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
