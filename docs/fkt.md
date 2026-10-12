@@ -279,11 +279,13 @@ Eldo routes are by tradition bridge to bridge (B2B), starting and ending at the 
 [The Yellow Spur](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/yellow-spur.md)    | 28:04   | 2026-07-23 | Michael Reese, Jack Gugel       |  Redgarden Wall: Tower One | SoBo Creek footbridge (B2B) |[The Yellow Spur](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/yellow-spur.md)| #7
 [Ruper](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/ruper.md)    |  32:11  | 2010-11-23  | Scott Bennett  |  Redgarden Wall: Upper & Lower Ramp | SoBo Creek footbridge (B2B) | [Ruper](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/ruper.md) |#28
 The Bastille Routes:
-[Bastille Crack](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/bastille-crack.md)   | *see route   | *  | *      |  The Bastille: North Face | SoBo Creek footbridge (B2B) | [Bastille Crack](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/bastille-crack.md) |#24
+[Bastille Crack](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/bastille-crack.md)   | *pending verification   | *  | *      |  The Bastille: North Face | SoBo Creek footbridge (B2B) | [Bastille Crack](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/bastille-crack.md) |#24
 The West Ridge Routes:
 [Handcracker Direct](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/handcracker-direct.md)    | 31:45   | 2026-07-29  | Danny Gilbert, Anton Krupicka  |  The West Ridge: Mail Ridge Tower | West SoBo Creek footbridge to West SoBo Creek footbridge (B2B) |[Handcracker Direct](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/handcracker-direct.md) | #11
 Other Eldorado Canyon Routes: 
+Wind Tower (any summit route) | 7:57   | 2021-08-17  | Max Manson |  Wind Tower via Boulder Direct (4:54 bridge to summit) | West SoBo Creek footbridge to West SoBo Creek footbridge (B2B) |[Verification](https://www.strava.com/activities/5810387293) |
 OSMP Routes:
+na
 <br />
 
 ### Eldorado Canyon: no known FKTs
