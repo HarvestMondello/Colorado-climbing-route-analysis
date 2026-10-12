@@ -148,7 +148,6 @@ Dec | █                              3.6%
 
 ### FKT History (B2B): The Yellow Spur (bridge to bridge)
 
-https://www.strava.com/activities/6217015397
 
 | Time    | Date       | Climbers                          | Notes              | Verification       |   Verification 2   |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
@@ -223,7 +222,7 @@ https://www.strava.com/activities/6217015397
 <!-- AUTO:TOP_CLIMBERS:END -->
 
   ## Note on Climbers not in the dataset or with partial data entries:  
-  - **Bill Wright:** Estimated ~200+ ascents (partial record shows 92 in dataset). He is quoted as saying he has less ascents than Danny Gilbert. Many of these climbs were with Danny Gilbert and Bill pioneered going fast on the Spur.   
+  - **Bill Wright:** Estimated 200+ ascents (partial record shows 92 in dataset). He is quoted as saying he has less ascents than Danny Gilbert. Many of these climbs were with Danny Gilbert and Bill pioneered going fast on the Spur.   
   - **Michael Reese** has 123 ascents as of 9/2/2026, none logged publicly.
   - **Anton Krupicka:** Estimated ~100 ascents, primarily with Danny Gilbert, none logged publicly.  
   - **Bill Wright** is also known for climbing the route **10 times in a single day** on his birthday.  
