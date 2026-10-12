@@ -60,7 +60,7 @@ The climb features a mix of technical roof and corner climbing, delicate face se
 - **Video:** [Speed on the Spur: Racing for the FTK (beta spoiler alert!)](https://www.youtube.com/watch?v=WDn1XcV5hJI&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX)  
   - Featuring Bill Wright & Danny Gilbert. Filmed by Max Manson.  
 - **Video:** [First person view climb (Bill Wright)](https://www.youtube.com/watch?v=kk001Z8Sg9o&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX)  
-  - Wright has 100–200+ ascents.  
+  - Wright has ~200+ ascents.  
 - **Video:** [First person view climb (Danny Gilbert)](https://www.youtube.com/watch?v=sjsig6fEoqQ&list=PLdYfjeJrovHhrMzAA3YUGYAswMBKV19ZX)  
   - Gilbert has 250+ ascents.  
 
@@ -223,7 +223,7 @@ https://www.strava.com/activities/6217015397
 <!-- AUTO:TOP_CLIMBERS:END -->
 
   ## Note on Climbers not in the dataset or with partial data entries:  
-  - **Bill Wright:** Estimated 200+ ascents (partial record shows 92 in dataset). He is quoted as saying he has less ascents than Danny Gilbert. Many of these climbs were with Danny Gilbert and Bill pioneered going fast on the Spur.   
+  - **Bill Wright:** Estimated ~200+ ascents (partial record shows 92 in dataset). He is quoted as saying he has less ascents than Danny Gilbert. Many of these climbs were with Danny Gilbert and Bill pioneered going fast on the Spur.   
   - **Michael Reese** has 123 ascents as of 9/2/2026, none logged publicly.
   - **Anton Krupicka:** Estimated ~100 ascents, primarily with Danny Gilbert, none logged publicly.  
   - **Bill Wright** is also known for climbing the route **10 times in a single day** on his birthday.  
