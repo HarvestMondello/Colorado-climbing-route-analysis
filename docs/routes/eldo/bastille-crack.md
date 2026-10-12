@@ -109,7 +109,7 @@ Dec | █                              1.7%
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | n/a   | n/a | n/a     | n/a        | [GPS Verification]() |
 
-- Will Moss may have a new FKT? Awaiting verification.
+- Will Moss may have a new FKT? Awaiting verification. Splits: 4:45 base to summit cable 7:59 ground to ground (not B2B), at this time I have no date, no gpx and no verification.
 <br>
 <br>
 <br>
@@ -123,9 +123,9 @@ Route only FKT:
 | 5:02   | 2011-05-11  | Scott Bennett     | current route route only FKT (Yosemite style)    | [Self reported to MountainProject](https://www.mountainproject.com/forum/topic/107132210/bastille-crack-speed) |
 | 5:33   | 1998-07-xx  | Mic Fairchild     | prior route route only FKT (Yosemite style)    | [Self reported to MountainProject](https://www.mountainproject.com/forum/topic/107132210/bastille-crack-speed) |
 
-- Mic has also downclimbed the Bastille Crack in  10 minutes, 42 seconds. 
+- Mic has also downclimbed the Bastille Crack in 10 minutes, 42 seconds. 
 
-- Will Moss may have a new FKT? Awaiting verification.
+- Will Moss may have a new FKT? Awaiting verification. Splits: 4:45 base to summit cable 7:59 ground to ground (not B2B), at this time I have no date, no gpx and no verification.
 
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
 
