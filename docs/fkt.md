@@ -3,6 +3,12 @@
 # Speed Climbing in Colorado: Fastest Known Time (FKT)
 The photo above is of the Naked Edge on Redgarden Wall - Tower Two in Eldorado Canyon. This is the most competative FKT route in the State of Colorado. The route was also one of the hardest free routes in the world in the 70's. 
 
+## Special Thanks to collaborators of this Project
+The FKT portion of this project wouldn't be possible with (in no particular order):
+- Bill Wright and his website
+- Stefan Griebel and his FKT Notebooks
+- Danny Gilbert and his blog
+
 <br>
 
 ## Index
@@ -14,6 +20,7 @@ Introduction:
 - [Colorado FKTs Overview](#colorado-fkts-overview)
 
 FKT Areas:
+- [Colorado Top 10 FKTs and Top 10 Climbers](#colorado-top-10-fkts-and-top-10-climbers)
 - [Alpine FKTs](#alpine-fkts)
 - [Eldo FKTs](#eldo-fkts)
 - [Flatirons FKTs](#flatirons-fkts)
@@ -213,6 +220,45 @@ South Platte..
 [↑ Back to Index](#index)
 
 
+
+
+## Colorado Top 10 FKTs and Top 10 Climbers
+Top 10 Most Coveted Colorado FKTs. Ranked based on four factors: historical significance, competition among elite speed climbers, prestige of the route and how established the record is.
+
+- **Top 10 Routes**:  Eldorado Canyon, RMNP and Flatirons dominate the list with two to three routes each area. 
+
+1. **The Naked Edge** on Redgarden Wall: Tower Two in Eldorado Canyon
+2. **The Casual Route** on the Diamond of Long's Peak, RMNP
+3. **The Yellow Spur** on Redgarden Wall: Tower One in Eldorado Canyon 
+4. **Longs Triathlon** from Boulder to the Diamond of Long's Peak, RMNP
+5. **DEF** on the First Flatiron in the Flatirons
+6. **East Face** on the Third Flatiron in the Flatirons
+7. **Flatirons Trifecta** on Flatirons One, Two and Three
+8. **South Face** of Petit Grepon in RMNP
+9. **Roach Top Ten Classics in a Day** in the Flatirons
+10. **Ruper** on Redgarden Wall in Eldorado Canyon
+
+
+
+- **Which Climbers Dominate the Top 10 Routes:** **Griebel** and **Reese** dominate the unsupported top 10 FKTs 
+1. Stefan Griebel has 4 of the 10 FKTs: Naked Edge, Long's Triathlon, East Face of Third, South Face of Petit (Also First and Third Linkup)
+2. Michael Reese: has 2 of the 10 FKTs: Yellow Spur with Jack Gugel and Flatiron Trifecta. Reese also holds the route only FKT on First, Second and Third Flatirons.
+
+Contenders:
+- Kyle Richardson has one DEF. (Also supported Third Flatiron and Quinfecta)
+- Joe Kennedy: The Naked Edge with Griebel
+- John Alcorn the Casual Route, solo
+- Jack Gugel: The Yellow Spur with Reese
+- Anton Krupicka: Longs Triathlong with Griebel
+- Caleb Hardaway: Roach TTCIA
+- Scott Bennet: Ruper
+
+
+
+
+[↑ Back to Index](#index)
+
+
 <br />
 
 ## Alpine FKTs
@@ -339,6 +385,8 @@ Flatirons routes are listed North to South from various trailheads
 
 
 ### First Three Flatirons from Chautauqua Ranger Cottage*
+See [Chautauqua TH Linkups](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-linkups.md)
+
 
 First, Second and Third Flatiron start at Chautauqua TH near the Ranger Cottage by the TH sign.  Routes are listed North to South. Unsupported unless otherwise noted. These are the most popular Flatirons with the First being the most prestigious. 
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead Round Trip | Verification |
@@ -346,7 +394,6 @@ First, Second and Third Flatiron start at Chautauqua TH near the Ranger Cottage 
 |[DEF on the First Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)    | 30:19   | 2019-10-15 | Kyle Richardson       |  First Flatiron  | Chautauqua  TH| [DEF on First Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md) 
 [Freezeway Second Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/freeway.md)    | 32:14   | 2024-07-05 |  Soren Kodak      |  Second Flatiron (any East face summit route) | Chautauqua TH  | [Second Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/freeway.md) 
 [East Face on Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)    | 36:14   | 2008-10-01 | Stefan Griebel       |  Third Flatiron | Chautauqua TH| [East Face on Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)   
-[East Face (supported, fixed rappel) on Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)    | 30:26   | 2019-10-09 | Kyler Richardson      |  Third Flatiron | Chautauqua TH| [East Face (supported) on Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)  
 
 <br />
 
@@ -373,23 +420,25 @@ East Face Center of Front Porch   | 20:59   | 2004-10-07 |  Jon Sargant     |  F
 
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification| Verification2 |
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|--------------------|
-[East Face North Side of Seal Rock](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md)   | 41:26   | 2007-10-20 |  Dave Mackey     |  Seal Rock |Bear Canyon TH|[East Face North Side of Seal Rock(TdF 2007)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md) | #98
+[East Face North Side of Seal Rock](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md)   | 41:26   | 2007-10-20 |  Dave Mackey     |  Seal Rock |Bear Canyon TH|[East Face North Side of Seal Rock(TdF 2007)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-north-sideseal-rock.md) | |#98
 Diagonal   | 29:59   | 2020-10-21 |  Michael Reese       |  The Slab |Shanahan TH|[Verification](https://www.strava.com/activities/4226557500/) |[Slab FKT History](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/the-slab-fkt-hist.png) |
-North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden |South Mesa TH | |#112
+North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  The Maiden |South Mesa TH | ||#112
 
 <br />
 
 ### Flatirons linkups:
+- For linkups from Chautauqua TH see: [Chautauqua TH Linkups](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-linkups.md)
 
 | Route    | Time      | Date                         | Climbers              | Formation      | Trailhead | Verification| | 
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|--------------------| 
-First and Third Flatirons | 48:33    | 2010-08-13| Stefan Griebel  |  First & Third Flatiron (linkup)| Chautauqua TH | [Route course](https://www.strava.com/segments/5266733) | 
-Flatirons Trifecta | 01:02:25    | 2021-10-25| Michael Reese |  First, Second & Third Flatiron (linkup)| Chautauqua TH|[Verification](https://www.strava.com/activities/6166869935)
-Flatirons Quinfecta   | 01:42:08   | 2021-09-01 |  Kyle Richardson       |  Flatirons 1,2,3,4,5 (linkup)| Chautauqua TH| [Verifiation](https://www.strava.com/activities/5887894393/)  
+[First and Third Flatirons](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-fkts.md) | 48:33    | 2010-08-13| Stefan Griebel  |  First & Third Flatiron (linkup)| Chautauqua TH | [Route course](https://www.strava.com/segments/5266733) | 
+[Flatirons Trifecta](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-fkts.md) | 01:02:25    | 2021-10-25| Michael Reese |  First, Second & Third Flatiron (linkup)| Chautauqua TH|[Verification](https://www.strava.com/activities/6166869935)
+[Flatirons Quinfecta](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-fkts.md)   | 01:42:08   | 2021-09-01 |  Kyle Richardson       |  Flatirons 1,2,3,4,5 (linkup)| Chautauqua TH| [Verifiation](https://www.strava.com/activities/5887894393/)  
+[Roach TTCIAD ](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-fkts.md)  | 05:01:43| 2025-09-26 |  Caleb Hardaway       |  Gerry Roach Top Ten Classics (Flatirons) In A Day  |Chautauqua TH|[Verification](https://www.strava.com/activities/15945117574) |
+[33 Spring Classics](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-fkts.md)    | 13:16:59| 2023-05-17 |  Joe Kennedy, Jack Neus       |  big Flatirons linkup  |Chautauqua TH|[Verfication](https://www.strava.com/activities/9090791867) |[Verfication 2](https://www.strava.com/activities/9090900359)  | 
+Linkups from other TH's:
 Hollyberry Hill (RegRA5thFist)(supported) | 49:08| 2019-09-12 |  Kyle Richerdson      |  Regency, Royal Arch, Fifth Flatirion, The Fist (linkup) supported (fixed ropes)  |Hollyberry LN TH| [Verification (TdF 2019)](https://www.strava.com/activities/2703712873/) | | 
 Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden  |South Mesa TH| [Route course ](https://www.strava.com/activities/151846558)
-TTCIAD    | 05:01:43| 2025-09-26 |  Caleb Hardaway       |  Roach Classic 10 Flatirons: Top 10 Classics In A Day  |South Mesa TH|[Verification](https://www.strava.com/activities/151846558) |
-33 Spring Classics    | 13:16:59| 2023-05-17 |  Joe Kennedy, Jack Neus       |  big Flatirons linkup  |Chautauqua TH|[Verfication](https://www.strava.com/activities/9090791867) |[Verfication 2](https://www.strava.com/activities/9090900359)  | 
 
 
 [↑ Back to Index](#index)
