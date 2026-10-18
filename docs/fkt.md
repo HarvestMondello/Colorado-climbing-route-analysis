@@ -225,7 +225,7 @@ South Platte..
 ## Colorado Top 10 FKTs and Top 10 Climbers
 Top 10 Most Coveted Colorado FKTs. Ranked based on four factors: historical significance, competition among elite speed climbers, prestige of the route and how established the record is.
 
-- **Top 10 Routes**:  Eldorado Canyon, RMNP and Flatirons dominate the list with two to three routes each area. 
+- **Top 10 Routes**:  Flatirons (four: 2 routes and 2 linkups), Eldorado Canyon (3 routes) and RMNP (3 routes) dominate the list
 
 1. **The Naked Edge** on Redgarden Wall: Tower Two in Eldorado Canyon
 2. **The Casual Route** on the Diamond of Long's Peak, RMNP
