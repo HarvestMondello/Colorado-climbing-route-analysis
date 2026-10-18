@@ -146,6 +146,7 @@ All FKTs, unless otherwise stated, start at the trailhead “Abridged” map pos
 | 5:59   | 2010-08-03 | Stefan Griebel      | route ascent to summit (Yosemite Style)      | [FKT History Notebooks: Third Flatiron](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/3rd.jpg) |  
 |   |  |      |        |
 
+Related linkups: [Chautauqua TH Linkups](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-linkups.md)
 
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
 

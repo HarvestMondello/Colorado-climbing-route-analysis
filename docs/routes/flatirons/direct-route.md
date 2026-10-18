@@ -37,7 +37,7 @@
 - Protection is generally good, with some PG-13 runouts; some bolts.
  
 ### Approach & Descent 
-- The approach is a steep hike starting by the trash can near a sign next to the Chautaqua Ranger Station.
+- The approach is a steep hike starting by the trash can near a sign next to the Chautauqua Ranger Station.
 - The SW Face (4th class) is standard walk-off. There is also a rapel option. This rappel option is consider supported for FKTs.
 n/a
 
@@ -103,7 +103,7 @@ Dec | █                              3.2%
 All FKTs start at the trailhead “Abridged” map post, located at the junction of Bluebell Road and the Chautauqua Trail across from the Ranger Cottage, or anywhere between that sign and the Ranger Station water pump. Refered to The Ranger Cottage bellow. 
 
 ### Current Record: First Flatiron - DEF (Direct East Face) aka Direct Route (self supported, no rappel, round trip)
-- **30:19** Chautaqua Ranger Cottage | 2019-10-15 | **Kyle Richardson**    
+- **30:19** Chautauqua Ranger Cottage | 2019-10-15 | **Kyle Richardson**    
 - [GPS Verification](https://www.strava.com/activities/2792210665/overview)  
 
 ### Fastest Known Time (FKT):  (self supported, no rappel, round trip)
@@ -111,11 +111,10 @@ All FKTs start at the trailhead “Abridged” map post, located at the junction
 | Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | 30:19   | 2019-10-15 | Kyle Richardson     | Current FKT, Chautaqua round trip   | [GPS Verification](https://www.strava.com/activities/2792210665/)   |
-| 32:18   | 2015-10-15 | Mattias Messner     | Chautaqua round trip   |  |
-| 33:05   | 2010-09-29 | Stefan Griebel     | Chautaqua round trip   | [Splits](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/first-flatiron-splits.png)   |
-| 33:19   | 2004-09-16 | Dave Mackey     | Chautaqua round trip   | [Splits](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/first-flatiron-splits.png)   |
-| 35:04   | 2003-10-08 | Buzz Burrel     | Chautaqua round trip   | [Splits](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/first-flatiron-splits.png)   |
-
+| 32:18   | 2015-10-15 | Mattias Messner     | Chautauqua round trip   |  [GPS Verification](https://www.strava.com/activities/413297938/)   | TdF 2015, Stage 5
+| 33:05   | 2010-09-29 | Stefan Griebel     | Chautauqua round trip   | [Splits](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/first-flatiron-splits.png)   |
+| 33:19   | 2004-09-16 | Dave Mackey     | Chautauqua round trip   | [Splits](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/first-flatiron-splits.png)   |
+| 35:04   | 2003-10-08 | Buzz Burrel     | Chautauqua round trip   | [Splits](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/first-flatiron-splits.png)   |
 
 <br>
 
@@ -124,7 +123,7 @@ All FKTs start at the trailhead “Abridged” map post, located at the junction
 - **7:51** | 2026-09-03 | **Michael Reese**
 - [GPS Verification](https://www.strava.com/activities/20028317044/)
 
-| Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)             | Verification       |
+| Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | 7:51   | 2026-09-03 | Michael Reese     | Current FKT  | [GPS Verification](https://www.strava.com/activities/20028317044/)   |
 | 8:07   | 2026-08-30 | Michael Reese     |   | [GPS Verification](https://www.strava.com/activities/19970507004)   |
@@ -135,43 +134,10 @@ All FKTs start at the trailhead “Abridged” map post, located at the junction
 
 <br>
 
-### Gregory TH to TH
+Related linkups: [Chautauqua TH Linkups](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-linkups.md)
 
+[Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
 
-<br>
-
-### Related FKTs:
-
-**First and Third Flations** (linkup): East faces of Firstand Third Flatirons (self supported, no rap, round trip)
-- **48:33** Chautaqua Ranger Cottage| 2010-08-13 | **Stefan Griebel** 
-- [FKT History Notebooks: First-Third Flatirons linkup](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/1st-and-3rd-linkup.png)
-
-### First and Third Flatiron (unsupported)
-| Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)             | Verification       |
-|---------|------------|-----------------------------------|--------------------|--------------------|
-| 48:33   | 2010-10-02 | Stefan Griebel     | Current Unsupported FKT  | [FKT History Notebooks: First-Third Flatirons linkup](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/1st-and-3rd-linkup.png)   |
-| 51:26   | 2008-09-04 | Stefan Griebel     |  | [FKT History Notebooks: First-Third Flatirons linkup](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/1st-and-3rd-linkup.png)   |
-| 53:09   | 2003-10-01 | Buzz Burrel     |  | [FKT History Notebooks: First-Third Flatirons linkup](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/1st-and-3rd-linkup.png)   |
-| 58:12   | 2003-08-05 | Bill Briggs     |  | [FKT History Notebooks: First-Third Flatirons linkup](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/1st-and-3rd-linkup.png)   |
-
-
-### First and Third Flatiron (supported with fixed rapels on Third)
-| Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)             | Verification       |Verification 2       |
-| 47:43   | 2008-10-29 | Stefan Griebel     | Current Unsupported FKT  |  TdF 2008 |[FKT History Notebooks: First-Third Flatirons linkup](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/1st-and-3rd-linkup.png)   |
-| 48:20   | 2007-xx-xx | Dave Mackey     | Current Unsupported FKT  |   |[FKT History Notebooks: First-Third Flatirons linkup](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/1st-and-3rd-linkup.png)   |
-
-
-<br>
-
-**Flatirons Trifecta**: East faces of First, Second and Third Flatirons (unsupported, no rap, round trip)
-- **01:02:25** Chautaqua Ranger Cottage| 2021-10-25 | **Michael Reese** 
-- [GPS Verification](https://www.strava.com/activities/6166869935 )
-
-<br>
-
-**Flatirons Quinfecta**: East  faces of First, Second, Third, Fourth and Fifth Flatiron (unsupported, no rap, round trip)
-- **01:42:08** Chautaqua Ranger Cottage | 2021-09-01 | **Kyle Richardson**  
-- [GPS Verification](https://www.strava.com/activities/5887894393/)
 
 <br>
 

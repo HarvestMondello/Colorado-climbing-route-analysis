@@ -133,7 +133,7 @@ Free isn't a summit route, so below are a variety of fkts:
 | Time (min:sec)     | Date (yyyy-mm-dd)         | Climber(s)                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | 24:15   | 2026-06-26| David Kennedy      |   round trip, no summit    |  [GPS Verification](https://www.strava.com/activities/19078602395)  |
-| 25:55   | 2021-12-2| Michael Reese      |   round trip, no summit    |  [GPS Verification](https://www.strava.com/activities/6415576896)  |
+| 25:55   | 2021-12-02| Michael Reese      |   round trip, no summit    |  [GPS Verification](https://www.strava.com/activities/6415576896)  |
 | 26:28   | 2020-07-01| Joe Mitchem    |   round trip, no summit    |  [GPS Verification](https://www.strava.com/activities/3698558678)  |
 | 27:41   | 2016-07-07| Cordis Hall    |   round trip, no summit    |  [GPS Verification](https://www.strava.com/activities/602253292)  |
 | 33:18   | 2014-08-31| Hason Smith     |   round trip, no summit    |  [GPS Verification](https://www.strava.com/activities/19078602395)  |
@@ -144,7 +144,7 @@ Free isn't a summit route, so below are a variety of fkts:
 
 ### Fastest Known Time (FKT): Freeway via the Bulge Left Start to the top of the face (route ascent only to top of route, note that the route ends at the lower tree, this fkt is to the top of the face (no summit))
 
-There is no consensus on whether Freeway refers to the entire East Face or a specific line on it (such as the Bulge Start or the Arete or the Gulleys). Previous FKTs have been hotly contested, particularly over whether routes following the left arete or the gullies to the right qualify. This project includes only the fastest time, which is both the fastest known time and follows the Bulge Start from the lowest point on the East face, using any line after that to the top of the East face.
+There is no consensus on if Freeway refers to the entire East Face or a specific line on it (such as the Bulge Start or the Arete or the Gulleys). Previous FKTs have been hotly contested, particularly over whether routes following the left arete or the gullies to the right qualify. This project includes only the fastest time, which is both the fastest known time and follows the Bulge Start from the lowest point on the East face, using any line after that to the top of the East face - we are not endorsing that start, this is the fastest time of any Freeway variation.
 
 The route-only FKT is also somewhat contrived, as it finishes at the top of the face rather than at the lower tree where climbers typically end the route. Additionally, this is not a summit route which is why nobody finishes at the false summit.
 
@@ -153,6 +153,8 @@ The route-only FKT is also somewhat contrived, as it finishes at the top of the 
 | 5:26    | 2026-09-09| Michael Reese     |   bulge (left start) route only (Yosemite Style) to top of face  |  [GPS Verification](https://www.strava.com/activities/20110931338)  |
 
 <br>
+
+Related linkups: [Chautauqua TH Linkups](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-linkups.md)
 
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
 
