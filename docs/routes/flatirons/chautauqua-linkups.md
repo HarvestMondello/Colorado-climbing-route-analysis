@@ -56,7 +56,7 @@
 | Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)             | Formation      | Trailhead | Verification| | | 
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|--------------------|
 | 56:16   | 2017-09-20| Cordis Hall      |    Chautauqua  TH, supported: fixed rappels on Third   |  [GPS Verification](https://www.strava.com/activities/1193919160/)  | [TdF 2017, Stage 2](https://billwright510climbing.blogspot.com/2017/09/) |
-| 57:39   | 2015-09-16| Matthias Messner      |   Chautauqua TH, supported: fixed rappels on Third  [GPS Verification](https://www.strava.com/activities/394126124/) |  TdF 2015, Stage 1 |  |
+| 57:39   | 2015-09-16| Matthias Messner      |   Chautauqua TH, supported: fixed rappels on Third    | [GPS Verification](https://www.strava.com/activities/394126124/) |  TdF 2015, Stage 1 |  |
 
 
 
@@ -70,21 +70,20 @@
 - **01:42:08** | Chautauqua Ranger Cottage, round trip | **2021-09-01** | **Kyle Richardson**  
 - [GPS Verification](https://www.strava.com/activities/5887894393/)
 
-| Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)             | Formation      | Trailhead | Verification| || 
+| Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)             | Formation      | Trailhead | Verification| | | 
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|--------------------|
-|
-1:42:08  | 2021-09-01| Kyle Richardson      |   Chautauqua TH, un-supported, ascending | [GPS Verification](https://www.strava.com/activities/5887894393) |  |  || 
-1:46:22   | 2016-10-26| Matthias Messner      |   Chautauqua TH, un-supported, ascending  | [GPS Verification](https://www.strava.com/activities/756964063) |  |  |
-1:51:45   | 2016-09-30| Anton Krupicka     |   Chautauqua TH, un-supported, ascending  | [GPS Verification](https://www.strava.com/activities/730154750) |  |  |
-2:04:59   | 2016-08-13| Cordis Hall     |   Chautauqua TH, un-supported, ascending   |[GPS Verification](https://www.strava.com/activities/674478091/) |  |  |
+| 1:42:08  | 2021-09-01| Kyle Richardson      |   Chautauqua TH, un-supported, ascending | [GPS Verification](https://www.strava.com/activities/5887894393) |  |  || 
+| 1:46:22   | 2016-10-26| Matthias Messner      |   Chautauqua TH, un-supported, ascending  | [GPS Verification](https://www.strava.com/activities/756964063) |  |  |
+| 1:51:45   | 2016-09-30| Anton Krupicka     |   Chautauqua TH, un-supported, ascending  | [GPS Verification](https://www.strava.com/activities/730154750) |  |  |
+| 2:04:59   | 2016-08-13| Cordis Hall     |   Chautauqua TH, un-supported, ascending   |[GPS Verification](https://www.strava.com/activities/674478091/) |  |  |
 
 
 - **Flatirons Quinfecta**: Descending Second and Fifth Flatirons, ascending First and Third
 | Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)             | Formation      | Trailhead | Verification| || 
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|--------------------|
 |
-1:48:58   | 2016-09-16| Anton Krupicka        |   Chautauqua TH, un-supported, descending 2nd and 5th  |[GPS Verification](https://www.strava.com/activities/714356082) |  |  |
-2:01:48   | 2003-10-21| Buzz Burrell      |   Chautauqua TH, un-supported, descending 2nd and 5th  | |
+| 1:48:58   | 2016-09-16| Anton Krupicka        |   Chautauqua TH, un-supported, descending 2nd and 5th  |[GPS Verification](https://www.strava.com/activities/714356082) |  |  |
+| 2:01:48   | 2003-10-21| Buzz Burrell      |   Chautauqua TH, un-supported, descending 2nd and 5th  | |
 
 
 
