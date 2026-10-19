@@ -158,10 +158,10 @@ Dec | █                              3.6%
 | 36:05  | 2020-08-08 | Bill Wright, Danny Gilbert     |             |    [GPS Verification](https://www.strava.com/activities/3882758948)                  |[GPS Verification 2](https://www.strava.com/activities/3882911091) |                    | |                    |
 | 41:02  | 2020-08-05 | Bill Wright, Danny Gilbert     |              |  [GPS Verification](https://www.strava.com/activities/3868179425)      |               |
 | 42:48  | 2018-07-18 | Bill Wright, Danny Gilbert      |   | [GPS Verification](https://www.strava.com/activities/1710744004)                  |[GPS Verification 2](https://www.strava.com/activities/1710756525) |       
-| 46:55  | 2018-07-13 | Jon Oulton, Nodin DeSaillan    |              | |                    |
+| 46:55  | 2018-07-13 | Jon Oulton, Nodin DeSaillan    |              | [Danny Gilbert article](https://www.14ers.com/php14ers/tripreport.php?trip=210355)    |                    |
 | 47:47  | 2018-07-12 | Bill Wright, Danny Gilbert     |              |  [GPS Verification](https://www.strava.com/activities/3868179425)                    |
-| 57:02  | 2018-07-11 | Jon Oulton, Nodin DeSaillan    |              | |                    |
-| 58:10  | Early 2000s| Josh Wharton, Kevin Cochran   | First logged | Speed Climbing! How to Climb Faster and Better, by Hans Florine and Bill Wright  |        
+| 57:02  | 2018-07-11 | Jon Oulton, Nodin DeSaillan    |              |              [Danny Gilbert article](https://www.14ers.com/php14ers/tripreport.php?trip=210355)    |              |                    |
+| 58:10  | Early 2000s| Josh Wharton, Kevin Cochran   | First logged | Speed Climbing! How to Climb Faster and Better, by Hans Florine and Bill Wright  |  [Danny Gilbert article](https://www.14ers.com/php14ers/tripreport.php?trip=210355)    |              |                    
 
 
 ### Route only FKT: The Yellow Spur (route only)
