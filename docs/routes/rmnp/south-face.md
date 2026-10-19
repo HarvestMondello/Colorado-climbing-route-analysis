@@ -101,9 +101,10 @@ Dec | █                              0.5%
 
 ### Fastest Known Time (FKT): trailhead to trailhead 
 
-| Time    | Date       | Climbers                          | Notes              | Verification       |
+| Time (hour:min:sec)   | Date (year-month-date)      | Climbers                          | Notes              | Verification       |
 |---------|------------|-----------------------------------|--------------------|--------------------|
 | 02:39:27   | 2012-06-26 | Stefan Griebel      | Current FKT        | [GPS Verification](https://www.strava.com/activities/13156158) |
+| 03:22:xx   | 2002-06-16 | Josh Swartz     | Prior FKT        | [Trip Report](https://www.summitpost.org/petit-grepon-south-face-free-solo/168586) |
 
 [Colorado FKTs Page](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/fkt.md)
 
