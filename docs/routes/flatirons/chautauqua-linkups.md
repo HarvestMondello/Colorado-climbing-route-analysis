@@ -79,9 +79,9 @@
 
 
 - **Flatirons Quinfecta**: Descending Second and Fifth Flatirons, ascending First and Third
-| Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)             | Formation      | Trailhead | Verification| || 
+
+| Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)             | Formation      | Trailhead | Verification| | | 
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|--------------------|
-|
 | 1:48:58   | 2016-09-16| Anton Krupicka        |   Chautauqua TH, un-supported, descending 2nd and 5th  |[GPS Verification](https://www.strava.com/activities/714356082) |  |  |
 | 2:01:48   | 2003-10-21| Buzz Burrell      |   Chautauqua TH, un-supported, descending 2nd and 5th  | |
 
