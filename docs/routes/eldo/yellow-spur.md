@@ -160,8 +160,8 @@ Dec | █                              3.6%
 | 42:48  | 2018-07-18 | Bill Wright, Danny Gilbert      |   | [GPS Verification](https://www.strava.com/activities/1710744004)                  |[GPS Verification 2](https://www.strava.com/activities/1710756525) |       
 | 46:55  | 2018-07-13 | Jon Oulton, Nodin DeSaillan    |              | [Danny Gilbert article](https://www.14ers.com/php14ers/tripreport.php?trip=210355)    |                    |
 | 47:47  | 2018-07-12 | Bill Wright, Danny Gilbert     |              |  [GPS Verification](https://www.strava.com/activities/3868179425)                    |
-| 57:02  | 2018-07-11 | Jon Oulton, Nodin DeSaillan    |              |              [Danny Gilbert article](https://www.14ers.com/php14ers/tripreport.php?trip=210355)    |              |                    |
-| 58:10  | Early 2000s| Josh Wharton, Kevin Cochran   | First logged | Speed Climbing! How to Climb Faster and Better, by Hans Florine and Bill Wright  |  [Danny Gilbert article](https://www.14ers.com/php14ers/tripreport.php?trip=210355)    |              |                    
+| 57:02  | 2018-07-11 | Jon Oulton, Nodin DeSaillan    |              |              [Danny Gilbert article](https://www.14ers.com/php14ers/tripreport.php?trip=21035)    |              |                    |
+| 58:10  | Early 2000s| Josh Wharton, Kevin Cochran   | First logged | Speed Climbing! How to Climb Faster and Better, by Hans Florine and Bill Wright  |  [Danny Gilbert article](https://www.14ers.com/php14ers/tripreport.php?trip=21035)    |              |                    
 
 
 ### Route only FKT: The Yellow Spur (route only)
@@ -236,5 +236,6 @@ Dec | █                              3.6%
 
 ## References  
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
-- FKT history confirmed in collaboration with Danny Gilbert 
+- [Danny Gilbert 14ers write-up](https://www.14ers.com/php14ers/tripreport.php?trip=21035): Shows the history of the route to that date (5/22/2021).
+- Speed Climbing! How to Climb Faster and Better, by Hans Florine and Bill Wright, 2004
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748657/the-yellow-spur)
