@@ -114,18 +114,27 @@
 
 
 ### TTCIA (Gerry Roach Top Ten Classics In a Day): **Caleb Hardaway** **5 hour, 01 min, 43 sec** **Unsupported FKT** **2025-09-26**
+- Danny Gilbert write-up shows all TTCIA to November 2019 ( [TTCIA History by Danny Gilbert](https://www.14ers.com/php14ers/tripreport.php?trip=16668))
 
 | Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)                        | Climbers              | Formation      | Trailhead | Verification| Verification2| 
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|--------------------| 
-TTCIAD   | 05:01:43| 2025-09-26 |  Caleb Hardaway       |  Gerry Roach Top Ten Classics (Flatirons) In A Day  |Chautauqua TH|[Verification](https://www.strava.com/activities/15945117574) |
-TTCIAD    | 05:01:43| 2023-09-22 |  Joe Kennedy       |  Gerry Roach Top Ten Classics (Flatirons) In A Day  |Chautauqua TH|[Verification with splits and report](https://www.strava.com/activities/9899803294/) |
-TTCIAD    | 06:28:906| 2017-11-03 |  Darren Smith       |  Gerry Roach Top Ten Classics (Flatirons) In A Day  |Chautauqua TH|[Verification](https://www.strava.com/activities/1259868692) |[Trip Report with Splits](https://docs.google.com/document/d/1l9wZ2NPOkRaqrYCDwIFxmJ5o9cM9CUiuxXuvRQO9Eug/edit?tab=t.0) |
-TTCIAD    | 06:31:xx| 2001-10-13 |  Bill Briggs       |  Gerry Roach Top Ten Classics (Flatirons) In A Day  |Chautauqua TH|[Splits](https://fastestknowntime.com/fkt/bill-briggs-flatirons-linkups-boulder-co-2001-10-13) |
+05:01:43| 2025-09-26 |  Caleb Hardaway       |  Gerry Roach Top Ten Classics (Flatirons) In A Day  |Chautauqua TH|[Verification](https://www.strava.com/activities/15945117574) |
+05:01:43| 2023-09-22 |  Joe Kennedy       |  Gerry Roach Top Ten Classics (Flatirons) In A Day  |Chautauqua TH|[Verification with splits and report](https://www.strava.com/activities/9899803294/) |
+06:28:906| 2017-11-03 |  Darren Smith       |  Gerry Roach Top Ten Classics (Flatirons) In A Day  |Chautauqua TH|[Verification](https://www.strava.com/activities/1259868692) |[Trip Report with Splits](https://docs.google.com/document/d/1l9wZ2NPOkRaqrYCDwIFxmJ5o9cM9CUiuxXuvRQO9Eug/edit?tab=t.0) |
+06:31:xx| 2001-10-13 |  Bill Briggs       |  Gerry Roach Top Ten Classics (Flatirons) In A Day  |Chautauqua TH|[Splits](https://fastestknowntime.com/fkt/bill-briggs-flatirons-linkups-boulder-co-2001-10-13) | [TTCIA History by Danny Gilbert](https://www.14ers.com/php14ers/tripreport.php?trip=16668)
+10:26:33| 1999-xx-xx |  Bill Wright, Tom Karpeichik       |  Gerry Roach Top Ten Classics (Flatirons) In A Day  |Chautauqua TH | [TTCIA History by Danny Gilbert](https://www.14ers.com/php14ers/tripreport.php?trip=16668)
 
 
 <br />
 
 ### 33 Spring Classics:
-| Time (min:sec)    | Date (yyyy-mm-dd)         | Climber(s)                        | Climbers              | Formation      | Trailhead | Verification| Verification2| 
+| Time (hour:min:sec)    | Date (yyyy-mm-dd)         | Climber(s)                        | Climbers              | Formation      | Trailhead | Verification| Verification2| 
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|--------------------| 
-[33 Spring Classics](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-fkts.md)    | 13:16:59| 2023-05-17 |  Joe Kennedy, Jack Neus       |  big Flatirons linkup  |Chautauqua TH|[Verfication](https://www.strava.com/activities/9090791867) |[Verfication 2](https://www.strava.com/activities/9090900359)  | 
+13:16:59| 2023-05-17 |  Joe Kennedy, Jack Neus       |  big Flatirons linkup  |Chautauqua TH|[Verfication](https://www.strava.com/activities/9090791867) |[Verfication 2](https://www.strava.com/activities/9090900359)  | 
+
+
+### 53 Roach Classics:
+| Time (day:hour:min:sec)    | Date (yyyy-mm-dd)         | Climber(s)                        | Climbers              | Formation      | Trailhead | Verification| Verification2| 
+|---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|--------------------|
+ 2:2:26:10|  2020-08-31 to 9-2 |  Peter Bakwin, self supported      |  big Flatirons linkup  |Chautauqua TH|[Verfication](https://fastestknowntime.com/fkt/peter-bakwin-flatirons-linkups-boulder-co-2020-09-02/)  | 
+ 2:23:47:xx|   2013-08-30 to 9-2 |  Bill Wright, first to complete the linkup, supported      |  big Flatirons linkup  |Chautauqua TH|[Verification](https://fastestknowntime.com/fkt/bill-wright-flatirons-linkups-boulder-co-2013-09-02)  | [Trip Report](https://billwright510climbing.blogspot.com/2013/09/ultra-scrambling-53-flatirons-classics.html)  | 
