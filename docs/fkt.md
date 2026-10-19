@@ -194,7 +194,7 @@ Other competative objectives include **Ruper** on Redgarden Wall and **Bastille 
 
 FKTs often combine scrambling, running, route finding, and fast descents. Routes are trailhead to trailhead with a specific starting point for the first three Flatirons. The First Flatiron is the area's most prominent and sought-after FKT followed by the Third. 
 
-The most competative Flatiron FKT's are **DEF** on the First Flatiron** and **East Face** of the Third Flatiron. 
+The most competative Flatiron FKT's are **DEF** on the **First Flatiron** and **East Face** of the **Third Flatiron**. 
 
 Other competative objectives are linkups of formations such as the **First and Third**, **Trifecta** (the most competative of the three) and **Quinfecta**, this last being the most prestigious of the three. 
 
@@ -296,6 +296,10 @@ Long's Grand Slam| 4:04:07  | 2026-09-29 | Joe Kennedy     |  Long's and nearby 
 A Walk in the Park| 6:25:30  | 2023-07-27 | Joe Kennedy     |  Long's and nearby peaks |Long's East TH   |[GPS Verification](https://www.strava.com/activities/9532583783/) ||
 Glacier Gorge Traverse| 6:17:18  | 2012-09-01 | Anton Krupicka       |  Long's and 8 nearby peaks |Glacier Gorge TH ||
 LA Freeway| 13:20:48  | 2024-09-31 | Anton Krupicka |  RMNP & Indian Peaks |Long's East TH to 4th of July TH  |[GPS Verification](https://www.strava.com/activities/12293733797) ||
+The Diamond Five Route Linkup| 23:xx:xx  | 2004-07-xx | Tommy Caldwell, Topher Donahue     |  The Diamond Linkup |Long's Peak|[Article](https://publications.americanalpineclub.org/articles/12200417801) ||
+Continental Divide Ultimate Linkup (CDUL) (pronounced Cuddle)(supported)| 36:25:xx  | 2020-07-17 to 18 | Tommy Caldwell, Alex Honnold    | RMNP 17 Peak Linkup|Long East TH to Bear Lake TH, supported|[Article](https://gripped.com/news/honnold-and-caldwell-link-big-routes-in-40-km-36-5-hour-push/) ||
+
+
 
 
 [↑ Back to Index](#index)
@@ -434,6 +438,7 @@ North Face of the Maiden    | 60:57   | 2011-10-15 |  Stefan Griebel       |  Th
 [Flatirons Quinfecta](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-fkts.md)   | 01:42:08   | 2021-09-01 |  Kyle Richardson       |  Flatirons 1,2,3,4,5 (linkup)| Chautauqua TH| [Verifiation](https://www.strava.com/activities/5887894393/)  
 [Roach TTCIAD ](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-fkts.md)  | 05:01:43| 2025-09-26 |  Caleb Hardaway       |  Gerry Roach Top Ten Classics (Flatirons) In A Day  |Chautauqua TH|[Verification](https://www.strava.com/activities/15945117574) |
 [33 Spring Classics](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-fkts.md)    | 13:16:59| 2023-05-17 |  Joe Kennedy, Jack Neus       |  big Flatirons linkup  |Chautauqua TH|[Verfication](https://www.strava.com/activities/9090791867) |[Verfication 2](https://www.strava.com/activities/9090900359)  | 
+[53 Roach Classics](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-fkts.md)| |  2:2:26:10|  2020-08-31 to 9-2 |  Peter Bakwin, self supported      |  big Flatirons linkup  |Chautauqua TH|[Verfication](https://fastestknowntime.com/fkt/peter-bakwin-flatirons-linkups-boulder-co-2020-09-02/)  | 
 Linkups from other TH's:
 Hollyberry Hill (RegRA5thFist)(supported) | 49:08| 2019-09-12 |  Kyle Richerdson      |  Regency, Royal Arch, Fifth Flatirion, The Fist (linkup) supported (fixed ropes)  |Hollyberry LN TH| [Verification (TdF 2019)](https://www.strava.com/activities/2703712873/) | | 
 Fatiron-Maiden    | 01:17:12| 2011-08-24 |  Stefan Griebel       |  The Fatiron, The Maiden  |South Mesa TH| [Route course ](https://www.strava.com/activities/151846558)
