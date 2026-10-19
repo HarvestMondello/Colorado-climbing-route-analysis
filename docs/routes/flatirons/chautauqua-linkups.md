@@ -1,3 +1,7 @@
+
+<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/1-2-3.png" alt="First, Second and Third Flatiron" width="1200"/>
+
+
 # Routes from Chautauqua TH by the Ranger Hut
 
 ## Flatirons One, Two, Three:
