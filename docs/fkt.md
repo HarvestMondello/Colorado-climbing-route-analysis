@@ -196,7 +196,7 @@ FKTs often combine scrambling, running, route finding, and fast descents. Routes
 
 The most competative Flatiron FKT's are **DEF** on the First Flatiron** and **East Face** of the Third Flatiron. 
 
-Other competative objectives are linkups of formations such as the **First and Third**, **Trifecta** and **Quinfecta**, this last being the most prestigious of the three. 
+Other competative objectives are linkups of formations such as the **First and Third**, **Trifecta** (the most competative of the three) and **Quinfecta**, this last being the most prestigious of the three. 
 
 [↓ Flatirons FKTs](#flatirons-fkts)
 
@@ -225,7 +225,7 @@ South Platte..
 ## Colorado Top 10 FKTs and Top 10 Climbers
 Top 10 Most Coveted Colorado FKTs. Ranked based on four factors: historical significance, competition among elite speed climbers, prestige of the route and how established the record is.
 
-- **Top 10 Routes**:  Flatirons (four: 2 routes and 2 linkups), Eldorado Canyon (3 routes) and RMNP (3 routes) dominate the list
+### **Top 10 Colorado Routes**:  Flatirons (four: 2 routes and 2 linkups), Eldorado Canyon (3 routes) and RMNP (3 routes) dominate the list
 
 1. **The Naked Edge** on Redgarden Wall: Tower Two in Eldorado Canyon
 2. **The Casual Route** on the Diamond of Long's Peak, RMNP
@@ -234,18 +234,16 @@ Top 10 Most Coveted Colorado FKTs. Ranked based on four factors: historical sign
 5. **DEF** on the First Flatiron in the Flatirons
 6. **East Face** on the Third Flatiron in the Flatirons
 7. **Flatirons Trifecta** on Flatirons One, Two and Three
-8. **South Face** of Petit Grepon in RMNP
-9. **Roach Top Ten Classics in a Day** in the Flatirons
+8. **Roach Top Ten Classics in a Day** in the Flatirons
+9. **South Face** of Petit Grepon in RMNP
 10. **Ruper** on Redgarden Wall in Eldorado Canyon
 
-
-
-- **Which Climbers Dominate the Top 10 Routes:** **Griebel** and **Reese** dominate the unsupported top 10 FKTs 
+### **Which Climbers Dominate the Top 10 Routes:** **Griebel** and **Reese** dominate the unsupported top 10 FKTs 
 1. Stefan Griebel has 4 of the 10 FKTs: Naked Edge, Long's Triathlon, East Face of Third, South Face of Petit (Also First and Third Linkup)
 2. Michael Reese: has 2 of the 10 FKTs: Yellow Spur with Jack Gugel and Flatiron Trifecta. Reese also holds the route only FKT on First, Second and Third Flatirons.
 
 Contenders:
-- Kyle Richardson has one DEF. (Also supported Third Flatiron and Quinfecta)
+- Kyle Richardson has one DEF. (Also supported Third Flatiron and Quinfecta (unsupported))
 - Joe Kennedy: The Naked Edge with Griebel
 - John Alcorn the Casual Route, solo
 - Jack Gugel: The Yellow Spur with Reese
