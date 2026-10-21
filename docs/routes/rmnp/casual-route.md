@@ -124,13 +124,12 @@ Dec | █                              1.1%
 - [GPS Verification](https://www.strava.com/activities/12306779867)  
 
 ### FKT History: Casual Route
-| Time    | Date       | Climber(s)                         | Notes              | Verification       |
-|---------|------------|-----------------------------------|--------------------|--------------------|
-| 03:09:50  | 2024-09-02 | John Alcorn         | Current FKT  | [GPS Verification](https://www.strava.com/activities/12306779867)|  
-| 03:26:12  | 2021-08-30 | Maury Birdwell        | Prior FKT   | [GPS Verification](https://www.strava.com/activities/)|   
-| 03:53:59  | 2020-08-04 | Stefan Griebel, Wade Morris          |   | [GPS Verification](https://www.strava.com/activities/3864748866/)|    
-| 03:59:00  | 2000-08-01 | Dean Potter         |   | [Article](https://gripped.com/news/a-dean-potter-free-solo-speed-record-was-beat-by-roped-climbers/)| 
-| 05:45:00  | 1991-xx-xx | Roger Briggs         |   |[Article](https://gripped.com/news/a-dean-potter-free-solo-speed-record-was-beat-by-roped-climbers/)| 
+| Time    | Date       | Climber(s)                         | Notes              | Verification       |Verification 2| 
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
+| 03:09:50  | 2024-09-02 | John Alcorn         | Current FKT, solo  | [GPS Verification](https://www.strava.com/activities/12306779867)|  
+| 03:26:12  | 2021-08-30 | Maury Birdwell        | Prior FKT, solo   | [GPS Verification](https://www.strava.com/activities/)|   
+| 03:53:59  | 2020-08-04 | Stefan Griebel, Wade Morris          | roped team | [GPS Verification](https://www.strava.com/activities/3864748866/)|   [Climbing Magazine article](https://www.climbing.com/news/wade-morris-and-stefan-griebel-break-car-to-car-speed-record-for-the-diamond/)
+| 03:59:00  | 2000-08-01 | Dean Potter         |  solo | [Climbing Magazine article](https://www.climbing.com/news/wade-morris-and-stefan-griebel-break-car-to-car-speed-record-for-the-diamond/)
 
 
 <br>
@@ -157,8 +156,8 @@ Dec | █                              1.1%
 | Time    | Date       | Climbers                          | Notes              | Verification       |Verification 2      |
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 09:06:44 | 2016-08-16 | Stefan Griebel, Anton Krupicka         | Current FKT  |[GPS Verification](https://www.strava.com/activities/678597205) |  [GPS Verification](https://www.strava.com/activities/678646953)   |
-| 09:50:03 | 2012-08-27 | Stefan Griebel, Jason Wells        |   |[GPS Verification](https://www.strava.com/activities/19973950) |  
-| 10:30:00 | 1990-08-10 | Neal Beidleman, Kevin Cooney         |   | |    |
+| 09:50:03 | 2012-08-27 | Stefan Griebel, Jason Wells        |  Supported: Car at TH |[GPS Verification](https://www.strava.com/activities/19973950) |  
+| 10:30:00 | 1990-08-10 | Neal Beidleman, Kevin Cooney         |  Unknown style: unsupported or supported  | |    |
 
 
 <br>
@@ -236,5 +235,7 @@ This is a wild linkup of some of the best climbs in the area.
 [↑ Back to Index](#index)
 
 ## References  
-- *Rocky Mountain National Park* by Richard Rossiter, 2015   
+- *Rocky Mountain National Park* by Richard Rossiter, 2015  
+- [Climbing Magazine article](https://www.climbing.com/news/wade-morris-and-stefan-griebel-break-car-to-car-speed-record-for-the-diamond/)
+
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748496/casual-route)
