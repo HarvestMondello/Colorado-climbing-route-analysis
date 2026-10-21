@@ -237,5 +237,5 @@ Dec | █                              3.6%
 ## References  
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
 - [Danny Gilbert 14ers write-up](https://www.14ers.com/php14ers/tripreport.php?trip=21035): Shows the history of the route to that date (5/22/2021).
-- Speed Climbing! How to Climb Faster and Better, by Hans Florine and Bill Wright, 2004
+- Speed Climbing! How to Climb Faster and Better, by Hans Florine and Bill Wright, Second Edition, 2005
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748657/the-yellow-spur)
