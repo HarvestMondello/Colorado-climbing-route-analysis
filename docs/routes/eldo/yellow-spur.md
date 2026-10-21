@@ -161,7 +161,7 @@ Dec | █                              3.6%
 | 46:55  | 2018-07-13 | Jon Oulton, Nodin DeSaillan    |              | [Danny Gilbert article](https://www.14ers.com/php14ers/tripreport.php?trip=210355)    |                    |
 | 47:47  | 2018-07-12 | Bill Wright, Danny Gilbert     |              |  [GPS Verification](https://www.strava.com/activities/3868179425)                    |
 | 57:02  | 2018-07-11 | Jon Oulton, Nodin DeSaillan    |              |              [Danny Gilbert article](https://www.14ers.com/php14ers/tripreport.php?trip=21035)    |              |                    |
-| 58:10  | Early 2000s| Josh Wharton, Kevin Cochran   | First logged | Speed Climbing! How to Climb Faster and Better, by Hans Florine and Bill Wright  |  [Danny Gilbert article](https://www.14ers.com/php14ers/tripreport.php?trip=21035)    |              |                    
+| 58:10  | Early 2000s| Josh Wharton, Kevin Cochran   | First logged | Speed Climbing! by Florine & Wright, 2nd Ed |  [Danny Gilbert article](https://www.14ers.com/php14ers/tripreport.php?trip=21035)    |              |                    
 
 
 ### Route only FKT: The Yellow Spur (route only)
@@ -170,7 +170,7 @@ Dec | █                              3.6%
 |---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 28:04  | 2026-07-23 | Michael Reese, Jack Gugel         | Current FKT  | [GPS Verification](https://www.strava.com/activities/19434761338)|                    |                   |
 | 10:48  | 2021-03-03 | Jack Neus, Joe Kennedy         |   | [GPS Verification](https://www.strava.com/activities/6769287759)  |  [GPS Verification2](https://www.strava.com/activities/6769357740)                 |
-| 12:40  | 1998-06-xx | Mic "Sick" Fairchild         |   | Speed Climbing! How to Climb Faster and Better, by Hans Florine and Bill Wright  |                    |
+| 12:40  | 1998-06-xx | Mic "Sick" Fairchild, solo         |   | Speed Climbing! by Florine & Wright, 2nd Ed  |                    |
 
 ### Yellow Spur: All known sub 30 min and sub 45 min climbers (best know PR only per team)
 - 6 known climbers to date have gone sub 45 include 4 that have gone sub 30. There's very likely others under the raidar. 
