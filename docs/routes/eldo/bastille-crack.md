@@ -118,12 +118,12 @@ Route only FKT:
 
 ### Fastest Known Time (FKT): The Bastille Crack: route only bottom to top
 
-| Time    | Date       | Climbers                          | Notes              | Verification       |
-|---------|------------|-----------------------------------|--------------------|--------------------|
+| Time    | Date       | Climbers                          | Notes              | Verification       | Verification2
+|---------|------------|-----------------------------------|--------------------|--------------------|--------------------|
 | 5:02   | 2011-05-11  | Scott Bennett     | current route route only FKT (Yosemite style)    | [Self reported to MountainProject](https://www.mountainproject.com/forum/topic/107132210/bastille-crack-speed) |
-| 5:33   | 1998-07-xx  | Mic Fairchild     | prior route route only FKT (Yosemite style)    | [Self reported to MountainProject](https://www.mountainproject.com/forum/topic/107132210/bastille-crack-speed) |
+| 5:33   | 1998-07-xx  | Mic Fairchild     | prior route route only FKT (Yosemite style)    | [Self reported to MountainProject](https://www.mountainproject.com/forum/topic/107132210/bastille-crack-speed) |Speed Climbing! by Florine & Wright, 2nd Ed
 
-- Mic has also downclimbed the Bastille Crack in 10 minutes, 42 seconds. 
+- Mic has also downclimbed the Bastille Crack in 10 minutes, 42 seconds. |
 
 - Will Moss may have a new FKT? Awaiting verification. Splits: 4:45 base to summit cable 7:59 ground to ground (not B2B), at this time I have no date, no gpx and no verification.
 
@@ -172,4 +172,5 @@ Route only FKT:
 
 ## References  
 - *Eldorado Canyon* by Steve Levin, 4th Edition, 2024  
+- Speed Climbing! How to Climb Faster and Better, by Hans Florine and Bill Wright, Second Edition, 2005
 - [Mountain Project Entry](https://www.mountainproject.com/route/105748490/the-bastille-crack)
