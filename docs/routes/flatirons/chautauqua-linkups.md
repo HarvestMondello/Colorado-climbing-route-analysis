@@ -1,7 +1,3 @@
-
-<img src="https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/assets/1-2-3.png" alt="First, Second and Third Flatiron" width="1200"/>
-
-
 # Routes from Chautauqua TH by the Ranger Hut
 
 ## Flatirons One, Two, Three:
@@ -145,5 +141,6 @@
 ### 53 Roach Classics:
 | Time (day:hour:min:sec)    | Date (yyyy-mm-dd)         | Climber(s)                                    | Formation      | Trailhead | Verification| Verification2||  
 |---------|------------|-----------------------------------| --------------------|--------------------|--------------------|--------------------|--------------------|
+ 27:32:34|  2026-10-17|  Ari Grode, Mike Palmer      |  big Flatirons linkup  |Chautauqua TH|[Verfication](https://www.strava.com/activities/20647621181)  | [Verfication](https://www.strava.com/activities/20641067642)  | 
  2:2:26:10|  2020-08-31 to 9-2 |  Peter Bakwin, self supported      |  big Flatirons linkup  |Chautauqua TH|[Verfication](https://fastestknowntime.com/fkt/peter-bakwin-flatirons-linkups-boulder-co-2020-09-02/)  | 
  2:23:47:xx|   2013-08-30 to 9-2 |  Bill Wright, first to complete the linkup, supported      |  big Flatirons linkup  |Chautauqua TH|[Verification](https://fastestknowntime.com/fkt/bill-wright-flatirons-linkups-boulder-co-2013-09-02)  | [Trip Report](https://billwright510climbing.blogspot.com/2013/09/ultra-scrambling-53-flatirons-classics.html)  | 
