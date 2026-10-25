@@ -139,6 +139,7 @@ Dec | █                              3.4%
 ### Current Record  
 - **22:44 B2B** | 2022-10-22 | Stefan Griebel & Joe Kennedy   
 - [GPS Verification](https://www.strava.com/activities/8004442835#3019063963637264876)  
+- [The Ground Up Podcast: The Need for Speed with Joe Kennedy](https://www.thegrounduppodcast.com/ground-up-17-the-need-for-speed-with-joe-kennedy/)
 
 ### FKT History (B2B unless noted)
 
