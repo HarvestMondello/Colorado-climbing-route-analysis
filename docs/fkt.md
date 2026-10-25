@@ -194,9 +194,9 @@ Other competative objectives include **Ruper** on Redgarden Wall and **Bastille 
 
 FKTs often combine scrambling, running, route finding, and fast descents. Routes are trailhead to trailhead with a specific starting point for the first three Flatirons. The First Flatiron is the area's most prominent and sought-after FKT followed by the Third. 
 
-The most competative Flatiron FKT's are **DEF** on the **First Flatiron** and **East Face** of the **Third Flatiron**. 
+The most competative Flatiron FKT's are **[DEF](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)** on the **First Flatiron** and **[East Face](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)** of the **Third Flatiron**. 
 
-Other competative objectives are linkups of formations such as the **First and Third**, **Trifecta** (the most competative of the three) and **Quinfecta**, this last being the most prestigious of the three. 
+Other competative objectives are linkups of formations such as the **[First and Third linkup](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-linkups.md)**, **[Flatirons Trifecta](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-linkups.md)** (the most competative of the three) and **[Flatirons Quinfecta](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-linkups.md)**.
 
 [↓ Flatirons FKTs](#flatirons-fkts)
 
@@ -227,16 +227,16 @@ Top 10 Most Coveted Colorado FKTs. Ranked based on four factors: historical sign
 
 ### **Top 10 Colorado Routes**:  Flatirons (four: 2 routes and 2 linkups), Eldorado Canyon (3 routes) and RMNP (3 routes) dominate the list
 
-1. **The Naked Edge** on Redgarden Wall: Tower Two in Eldorado Canyon
-2. **The Casual Route** on the Diamond of Long's Peak, RMNP
-3. **The Yellow Spur** on Redgarden Wall: Tower One in Eldorado Canyon 
-4. **Longs Triathlon** from Boulder to the Diamond of Long's Peak, RMNP
-5. **DEF** on the First Flatiron in the Flatirons
-6. **East Face** on the Third Flatiron in the Flatirons
-7. **Flatirons Trifecta** on Flatirons One, Two and Three
-8. **Roach Top Ten Classics in a Day** in the Flatirons
-9. **South Face** of Petit Grepon in RMNP
-10. **Ruper** on Redgarden Wall in Eldorado Canyon
+1. **The [Naked Edge](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/naked-edge.md)** on Redgarden Wall: Tower Two in Eldorado Canyon
+2. **The [Casual Route](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)** on the Diamond of Long's Peak, RMNP
+3. **The [Yellow Spur](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/yellow-spur.md)** on Redgarden Wall: Tower One in Eldorado Canyon 
+4. **The [Longs Triathlon](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/casual-route.md)** from Boulder to the Diamond of Long's Peak, RMNP
+5. **[DEF](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/direct-route.md)** on the First Flatiron in the Flatirons
+6. **[East Face](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/east-face-standard.md)** on the Third Flatiron in the Flatirons
+7. **[Flatirons Trifecta](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-linkups.md)** on Flatirons One, Two and Three
+8. **[Roach Top Ten Classics in a Day(TTCIAD)](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/chautauqua-linkups.md)** in the Flatirons
+9. **[South Face](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/rmnp/south-face.md)** of Petit Grepon in RMNP
+10. **[Ruper](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/eldo/ruper.md)** on Redgarden Wall in Eldorado Canyon
 
 ### **Which Climbers Dominate the Top 10 Routes:** **Griebel** and **Reese** dominate the unsupported top 10 FKTs 
 1. Stefan Griebel has 4 of the 10 FKTs: Naked Edge, Long's Triathlon, East Face of Third, South Face of Petit (Also First and Third Linkup)
