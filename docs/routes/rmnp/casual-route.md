@@ -121,7 +121,8 @@ Dec | █                              1.1%
 
 ### Current Record: Casual Route Trailhead to Trailhead (Unsupported) 
 - **03:09:50** | 2024-09-02 | John Alcorn   
-- [GPS Verification](https://www.strava.com/activities/12306779867)  
+- [GPS Verification](https://www.strava.com/activities/12306779867) 
+- [The Ground Up Podcast: The Diamond FKT with John Alcorn](https://www.thegrounduppodcast.com/e-22/)
 
 ### FKT History: Casual Route
 | Time    | Date       | Climber(s)                         | Notes              | Verification       |Verification 2| 
