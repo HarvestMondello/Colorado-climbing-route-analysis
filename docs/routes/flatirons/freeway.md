@@ -135,6 +135,9 @@ Free isn't a summit route, so below are a variety of fkts:
 | 28:58          | 2026-11-20        | Michael Reese | via Freeway to Dodge Block Tunnel to Freezeway | [GPS Verification](https://www.strava.com/activities/21063603895)                                                                                  |
 | 32:14          | 2024-07-05        | Soren Kodak   | via Freeway to Freezeway                       | [GPS Verification](https://github.com/HarvestMondello/Colorado-climbing-route-analysis/blob/main/docs/routes/flatirons/sk-2nd%20-flatiron-fkt.gpx) |
 | 33:14          | 2023-10-19        | Abel Richards | via Freeway to Freezeway                       | [GPS Verification](https://www.strava.com/activities/10070018936)                                                                                  |
+| 34:09          | 2017-10-25        | Danny Gilbert | via n/a to Freezeway                           | [GPS Verification](https://www.strava.com/activities/1246694706)                                                                                   |
+
+                                                                               |
 
 <br>
 
