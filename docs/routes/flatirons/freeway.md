@@ -137,8 +137,6 @@ Free isn't a summit route, so below are a variety of fkts:
 | 33:14          | 2023-10-19        | Abel Richards | via Freeway to Freezeway                       | [GPS Verification](https://www.strava.com/activities/10070018936)                                                                                  |
 | 34:09          | 2017-10-25        | Danny Gilbert | via n/a to Freezeway                           | [GPS Verification](https://www.strava.com/activities/1246694706)                                                                                   |
 
-                                                                               |
-
 <br>
 
 ## Freeway FKTs:
@@ -156,9 +154,9 @@ Free isn't a summit route, so below are a variety of fkts:
 | 25:55          | 2021-12-02        | Michael Reese  | round trip, no summit | [GPS Verification](https://www.strava.com/activities/6415576896)  |
 | 26:28          | 2020-07-01        | Joe Mitchem    | round trip, no summit | [GPS Verification](https://www.strava.com/activities/3698558678)  |
 | 27:41          | 2016-07-07        | Cordis Hall    | round trip, no summit | [GPS Verification](https://www.strava.com/activities/602253292)   |
-| 33:18          | 2014-08-31        | Hason Smith    | round trip, no summit | [GPS Verification](https://www.strava.com/activities/19078602395) |
-| 33:00          | 2013-11-xx        | Stefan Griebel | round trip, no summit | [GPS Verification](https://www.strava.com/activities/19078602395) |
-| 32:55          | 2013-11-xx        | Dave Mackey    | round trip, no summit | [GPS Verification](https://www.strava.com/activities/19078602395) |
+| 33:18          | 2014-08-31        | Hason Smith    | round trip, no summit |                                                                   |
+| 33:00          | 2013-11-xx        | Stefan Griebel | round trip, no summit |                                                                   |
+| 32:55          | 2013-11-xx        | Dave Mackey    | round trip, no summit |                                                                   |
 
 <br>
 
